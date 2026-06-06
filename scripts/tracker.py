@@ -37,6 +37,8 @@ OUR_PRS = [
      "title": "Validation + Tests + Body Limit"},
     {"repo": "xevrion-v2/agent-playground", "pr": 1017, "bounty": 250, "issue": "7/8/10/11/13",
      "title": "Error Handler + Routes + Tests"},
+    {"repo": "xevrion-v2/agent-playground", "pr": 1021, "bounty": 400, "issue": "1-5/14/15/17",
+     "title": "JSDoc + Types + Env + Prisma + PI + Sequences"},
 ]
 
 HEADERS = {
