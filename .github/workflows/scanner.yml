@@ -1,0 +1,34 @@
+name: Scan Bounties
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'scripts/scanner.py'
+      - '.github/workflows/scanner.yml'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install requests
+      - run: python scripts/scanner.py
+        env: {GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
+      - run: python scripts/matcher.py
+      - run: python scripts/tracker.py
+        env: {GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
+      - run: |
+          git config user.name "BountyHunter Bot"
+          git config user.email "bot@bountyhunter.dev"
+          git add data/
+          if git diff --staged --quiet; then echo "No changes"; else
+            git commit -m "Auto-scan: $(date -u +%Y-%m-%dT%H:%M)"
+            git push
+          fi
