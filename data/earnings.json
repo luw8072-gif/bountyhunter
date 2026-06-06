@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-06T23:02:28.074483+00:00",
+  "updated": "2026-06-06T23:47:21.785508+00:00",
   "wallet": {
     "address": "0x43552E59Be74AE4e0856ECC9aF600cF74b3F5e21",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-06-06T23:02:22.989937+00:00",
+    "checked_at": "2026-06-06T23:47:14.677831+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
     "total_prs": 6,
-    "open_prs": 6,
+    "open_prs": 2,
     "merged_prs": 0,
     "closed_not_merged": 0,
     "total_claimed_usd": 2702,
@@ -28,9 +28,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "blocked",
+      "mergeable": "unstable",
       "reviews": 8,
-      "checked_at": "2026-06-06T23:02:23.436591+00:00"
+      "checked_at": "2026-06-06T23:47:15.550251+00:00"
     },
     {
       "repo": "ClankerNation/OpenAgents",
@@ -44,7 +44,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-06T23:02:24.303568+00:00"
+      "checked_at": "2026-06-06T23:47:17.028759+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -52,13 +52,8 @@
       "bounty": 2,
       "issue": 2,
       "title": "JSON Output Mode",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "clean",
-      "reviews": 0,
-      "checked_at": "2026-06-06T23:02:25.126231+00:00"
+      "state": "error",
+      "error": "HTTP 403"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -66,13 +61,8 @@
       "bounty": 0,
       "issue": "258/246/245",
       "title": "Bounty Filters + Lookup",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "unstable",
-      "reviews": 6,
-      "checked_at": "2026-06-06T23:02:25.917911+00:00"
+      "state": "error",
+      "error": "HTTP 403"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -80,13 +70,8 @@
       "bounty": 150,
       "issue": "6/9/12",
       "title": "Validation + Tests + Body Limit",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "clean",
-      "reviews": 0,
-      "checked_at": "2026-06-06T23:02:26.772989+00:00"
+      "state": "error",
+      "error": "HTTP 403"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -94,13 +79,8 @@
       "bounty": 250,
       "issue": "7/8/10/11/13",
       "title": "Error Handler + Routes + Tests",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "clean",
-      "reviews": 0,
-      "checked_at": "2026-06-06T23:02:27.573308+00:00"
+      "state": "error",
+      "error": "HTTP 403"
     }
   ],
   "history": [
