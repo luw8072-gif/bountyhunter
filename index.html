@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="refresh" content="120">
+<title>🎯 BountyHunter — 全自动赏金猎人系统</title>
+<style>
+:root{--bg:#0a0e14;--card:#12171e;--border:#1e2836;--text:#c9d1d9;--accent:#58a6ff;--gold:#d4a72c;--green:#2ea043;--red:#f85149;--purple:#bc8cff}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+header{background:var(--card);border-bottom:1px solid var(--border);padding:1.5rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+h1{font-size:1.5rem;background:linear-gradient(135deg,var(--accent),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.status-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:0.5rem;animation:pulse 2s infinite}
+.status-dot.live{background:var(--green)}
+.status-dot.stale{background:var(--gold)}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;padding:1.5rem;max-width:1400px;margin:0 auto}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1.2rem;text-align:center}
+.stat-card .value{font-size:2rem;font-weight:bold}
+.stat-card .label{color:#8b949e;font-size:0.85rem;margin-top:0.3rem}
+.value.green{color:var(--green)}.value.gold{color:var(--gold)}.value.red{color:var(--red)}.value.accent{color:var(--accent)}
+.main-grid{display:grid;grid-template-columns:2fr 1fr;gap:1.5rem;padding:0 1.5rem 1.5rem;max-width:1400px;margin:0 auto}
+@media(max-width:900px){.main-grid{grid-template-columns:1fr}}
+.panel{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden}
+.panel-header{background:rgba(255,255,255,0.03);padding:0.8rem 1.2rem;border-bottom:1px solid var(--border);font-weight:600;display:flex;align-items:center;gap:0.5rem}
+.panel-body{padding:1rem;max-height:500px;overflow-y:auto}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;padding:0.5rem;border-bottom:2px solid var(--border);color:#8b949e;font-size:0.75rem;text-transform:uppercase;position:sticky;top:0;background:var(--card)}
+td{padding:0.5rem;border-bottom:1px solid var(--border);font-size:0.8rem}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.tier-S{color:var(--gold)}.tier-A{color:var(--accent)}.tier-B{color:#8b949e}
+.pr-open{color:var(--accent)}.pr-merged{color:var(--green)}.pr-closed{color:var(--red)}
+.tag{display:inline-block;padding:0.1rem 0.4rem;border-radius:20px;font-size:0.65rem;margin:0.1rem}
+.tag-easy{background:rgba(46,160,67,0.2);color:var(--green)}
+.tag-bounty{background:rgba(212,167,44,0.2);color:var(--gold)}
+.wallet-row{display:flex;align-items:center;gap:0.5rem;background:rgba(255,255,255,0.03);padding:0.5rem 1rem;border-radius:8px;font-family:monospace;font-size:0.75rem}
+.progress-bar{height:6px;background:var(--border);border-radius:3px;overflow:hidden;margin-top:0.3rem}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--green));border-radius:3px;transition:width 0.5s}
+.empty-state{text-align:center;padding:3rem;color:#484f58}
+.log-line{font-family:monospace;font-size:0.75rem;color:#8b949e;padding:0.2rem 0;border-bottom:1px solid rgba(255,255,255,0.02)}
+.log-line .event{color:var(--green)}
+footer{text-align:center;padding:1.5rem;color:#484f58;font-size:0.75rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<header>
+<div>
+<h1>🎯 BountyHunter</h1>
+<div style="font-size:0.8rem;color:#8b949e;margin-top:0.3rem">
+<span class="status-dot live"></span>扫描中 · 每15分钟自动更新
+</div>
+</div>
+<div style="text-align:right">
+<div class="wallet-row" style="margin-bottom:0.5rem">
+<span style="color:#8b949e">💳</span>
+<code style="flex:1">0x43552...F5e21</code>
+<button onclick="navigator.clipboard.writeText('0x43552E59Be74AE4e0856ECC9aF600cF74b3F5e21')" style="background:var(--border);color:var(--text);border:none;padding:0.2rem 0.5rem;border-radius:4px;cursor:pointer;font-size:0.7rem">📋</button>
+</div>
+<div style="font-size:0.7rem;color:#8b949e">实时扫描 · 自动匹配 · 一键收益</div>
+</div>
+</header>
+
+<div class="grid" id="stats"></div>
+
+<div class="main-grid">
+<div>
+<div class="panel">
+<div class="panel-header">📊 我们的 PR 状态</div>
+<div class="panel-body">
+<table>
+<thead><tr><th>PR</th><th>仓库</th><th>赏金</th><th>状态</th><th>进度</th></tr></thead>
+<tbody id="pr-table"></tbody>
+</table>
+</div>
+</div>
+
+<div class="panel" style="margin-top:1.5rem">
+<div class="panel-header">🔥 最佳匹配赏金</div>
+<div class="panel-body">
+<table>
+<thead><tr><th>等级</th><th>金额</th><th>标题</th><th>语言</th><th>分数</th></tr></thead>
+<tbody id="match-table"></tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div>
+<div class="panel">
+<div class="panel-header">💰 盈利摘要</div>
+<div class="panel-body">
+<div id="earnings-summary"></div>
+<div id="wallet-info" style="margin-top:1rem"></div>
+</div>
+</div>
+
+<div class="panel" style="margin-top:1.5rem">
+<div class="panel-header">📜 活动日志</div>
+<div class="panel-body" id="activity-log" style="max-height:300px"></div>
+</div>
+
+<div class="panel" style="margin-top:1.5rem">
+<div class="panel-header">📈 扫描趋势</div>
+<div class="panel-body" id="trend-chart" style="text-align:center;padding:2rem;color:#484f58"></div>
+</div>
+</div>
+</div>
+
+<footer>
+BountyHunter v1.0 · 全自动赏金猎人系统 · Built by Claude Agent ·
+<span id="last-update"></span>
+</footer>
+
+<script>
+(async function(){
+  let meta={}, earnings={}, matches=[], bounties=[];
+
+  try{meta=await (await fetch('data/meta.json')).json()}catch(e){}
+  try{earnings=await (await fetch('data/earnings.json')).json()}catch(e){}
+  try{matches=await (await fetch('data/matches.json')).json()}catch(e){}
+  try{bounties=await (await fetch('data/bounties.json')).json()}catch(e){}
+
+  // Stats
+  var s=earnings.summary||{};
+  var totalClaimed=s.total_claimed_usd||0;
+  var totalEarned=s.total_earned_usd||0;
+  var openCount=s.open_prs||0;
+  var mergedCount=s.merged_prs||0;
+  var progress=totalClaimed?Math.round(totalEarned/totalClaimed*100):0;
+
+  document.getElementById('stats').innerHTML=
+    '<div class="stat-card"><div class="value gold">$'+totalClaimed.toLocaleString()+'</div><div class="label">已申领赏金</div></div>'+
+    '<div class="stat-card"><div class="value green">$'+totalEarned.toLocaleString()+'</div><div class="label">已到账</div><div class="progress-bar"><div class="progress-fill" style="width:'+progress+'%"></div></div></div>'+
+    '<div class="stat-card"><div class="value accent">'+(meta.total||'?')+'</div><div class="label">活跃赏金</div></div>'+
+    '<div class="stat-card"><div class="value green">$'+(meta.total_value_usd||0).toLocaleString()+'</div><div class="label">市场总价值</div></div>'+
+    '<div class="stat-card"><div class="value accent">'+openCount+'</div><div class="label">开放 PR</div></div>'+
+    '<div class="stat-card"><div class="value green">'+mergedCount+'</div><div class="label">已合并 PR</div></div>';
+
+  // PR table
+  var prs=earnings.prs||[];
+  var prHtml='';
+  prs.forEach(function(p){
+    var statusClass=p.merged?'pr-merged':(p.state==='open'?'pr-open':(p.state==='closed'?'pr-closed':''));
+    var statusText=p.merged?'✅ 已合并':(p.state==='open'?'🔄 审查中':(p.state==='closed'?'❌ 已关闭':p.state));
+    var progress=p.merged?100:(p.state==='closed'?0:(p.reviews>0?40:20));
+    prHtml+='<tr><td><a href="https://github.com/'+p.repo+'/pull/'+p.pr+'">#'+p.pr+'</a></td>';
+    prHtml+='<td style="font-size:0.7rem;color:#8b949e">'+p.repo.split('/')[0]+'/...'+p.repo.split('/')[1].slice(0,10)+'</td>';
+    prHtml+='<td style="color:var(--gold)">$'+p.bounty.toLocaleString()+'</td>';
+    prHtml+='<td class="'+statusClass+'">'+statusText+'</td>';
+    prHtml+='<td><div class="progress-bar"><div class="progress-fill" style="width:'+progress+'%"></div></div></td></tr>';
+  });
+  document.getElementById('pr-table').innerHTML=prHtml||'<tr><td colspan="5" class="empty-state">暂无 PR</td></tr>';
+
+  // Matches
+  var matchHtml='';
+  (matches||[]).slice(0,15).forEach(function(m){
+    matchHtml+='<tr><td class="tier-'+m.tier+'"><b>'+m.tier+'</b></td>';
+    matchHtml+='<td style="color:var(--gold)">$'+(m.amount_usd||'?')+'</td>';
+    matchHtml+='<td><a href="'+m.url+'">'+m.title.slice(0,50)+'</a></td>';
+    matchHtml+='<td>'+m.language+'</td><td>'+m._score+'</td></tr>';
+  });
+  document.getElementById('match-table').innerHTML=matchHtml||'<tr><td colspan="5" class="empty-state">运行匹配器以生成推荐</td></tr>';
+
+  // Earnings summary
+  var es='';
+  es+='<div style="font-size:1.5rem;font-weight:bold;color:var(--green)">$'+totalEarned.toLocaleString()+' <span style="font-size:0.8rem;color:#8b949e">已到账</span></div>';
+  es+='<div style="margin-top:0.5rem;color:#8b949e">📊 '+prs.length+' 个 PR · '+openCount+' 个审查中 · '+mergedCount+' 个已合并</div>';
+  es+='<div style="color:#8b949e">💸 '+totalEarned+' 已赚 / '+totalClaimed+' 已申领 ('+progress+'%)</div>';
+  document.getElementById('earnings-summary').innerHTML=es;
+
+  // Wallet
+  var w=earnings.wallet||{};
+  var wi='<div class="wallet-row"><span>ETH:</span><b>'+Number(w.eth_balance||0).toFixed(6)+'</b></div>';
+  if(w.transactions&&w.transactions.length){
+    wi+='<div style="margin-top:0.5rem;font-size:0.7rem;color:#8b949e">最近 '+w.transactions.length+' 笔交易</div>';
+  }
+  document.getElementById('wallet-info').innerHTML=wi;
+
+  // Activity log
+  var logHtml='';
+  var history=(earnings.history||[]).slice(-20).reverse();
+  history.forEach(function(h){
+    logHtml+='<div class="log-line"><span style="color:#484f58">'+h.date+'</span> <span class="event">'+h.event+'</span></div>';
+  });
+  document.getElementById('activity-log').innerHTML=logHtml||'<div class="empty-state">等待首次扫描...</div>';
+
+  // Trend
+  try{
+    var hist=await(await fetch('data/history.json')).json();
+    var keys=Object.keys(hist).sort();
+    if(keys.length){
+      var chart='';
+      keys.slice(-14).forEach(function(k){
+        var d=hist[k];
+        chart+='<div style="display:flex;align-items:center;gap:0.5rem;margin:0.3rem 0;font-size:0.75rem">';
+        chart+='<span style="width:70px;color:#8b949e">'+k.slice(5)+'</span>';
+        var barW=Math.min(100,Math.round(d.count/3));
+        chart+='<div style="flex:1;background:var(--border);border-radius:3px;height:18px"><div style="height:100%;width:'+barW+'%;background:linear-gradient(90deg,var(--accent),var(--purple));border-radius:3px"></div></div>';
+        chart+='<span style="width:40px;text-align:right">'+d.count+'</span>';
+        chart+='<span style="width:70px;text-align:right;color:var(--gold)">$'+(d.value||0).toLocaleString()+'</span>';
+        chart+='</div>';
+      });
+      document.getElementById('trend-chart').innerHTML=chart;
+    }
+  }catch(e){}
+
+  document.getElementById('last-update').textContent='更新于：'+(meta.updated||new Date().toISOString());
+})();
+</script>
+</body>
+</html>

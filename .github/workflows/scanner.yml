@@ -1,0 +1,54 @@
+name: 🔍 Scan Bounties
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # Every 15 minutes
+  workflow_dispatch:           # Manual trigger
+  push:
+    branches: [main, master]
+    paths:
+      - 'scripts/scanner.py'
+      - '.github/workflows/scanner.yml'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Scan bounties
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/scanner.py
+
+      - name: Match best bounties
+        run: python scripts/matcher.py
+
+      - name: Track earnings
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ETHERSCAN_API_KEY: ${{ secrets.ETHERSCAN_API_KEY }}
+        run: python scripts/tracker.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "BountyHunter Bot"
+          git config user.email "bot@bountyhunter.dev"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "📊 Auto-update: $(date -u +%Y-%m-%dT%H:%M) — $(cat data/meta.json | python3 -c 'import json,sys;d=json.load(sys.stdin);print(d.get(\"total\",\"?\"))') bounties, \$$(cat data/meta.json | python3 -c 'import json,sys;d=json.load(sys.stdin);print(f\"{d.get(\"total_value_usd\",0):,.0f}\")')"
+            git push
+          fi
