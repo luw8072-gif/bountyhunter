@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta name="description" content="BountyHunter — 24/7 automated GitHub bounty scanner. Tracks 300+ bounties, auto-matches your skills, monitors earnings. Free open-source tool.">
-<meta name="keywords" content="GitHub bounty, bounty scanner, open source earnings, developer income, automated bounty hunter, 2026">
-<meta property="og:title" content="BountyHunter — 24/7 Automated GitHub Bounty Scanner">
-<meta property="og:description" content="Scan, match, and track GitHub bounties automatically. 4,000+ in bounties tracked. Free dashboard.">
-<meta property="og:url" content="https://luw8072-gif.github.io/bountyhunter/">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="https://luw8072-gif.github.io/bountyhunter/">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebApplication","name":"BountyHunter","url":"https://luw8072-gif.github.io/bountyhunter/","description":"24/7 automated GitHub bounty scanner, matcher, and earnings tracker.","applicationCategory":"DeveloperApplication","operatingSystem":"All"}
-</script>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta http-equiv="refresh" content="120">
 <title>🎯 BountyHunter — 全自动赏金猎人系统</title>
@@ -121,15 +110,7 @@ footer{text-align:center;padding:1.5rem;color:#484f58;font-size:0.75rem;border-t
 <footer>
 BountyHunter v1.0 · 全自动赏金猎人系统 · Built by Claude Agent ·
 <span id="last-update"></span>
-<div style="text-align:center;padding:1rem;margin-top:1rem;font-size:0.8rem;color:#8b949e;border-top:1px solid var(--border)">
-<b>Our Tools:</b> 
-<a href="https://luw8072-gif.github.io/devtoolkit-pro/" style="color:var(--accent)">DevToolkit</a> ·
-<a href="https://luw8072-gif.github.io/promptlib/" style="color:var(--accent)">PromptLib</a> ·
-<a href="https://luw8072-gif.github.io/screenshotr/" style="color:var(--accent)">Screenshotr</a> ·
-<a href="https://luw8072-gif.github.io/sslchecker/" style="color:var(--accent)">SSL Checker</a> ·
-<a href="https://luw8072-gif.github.io/bountyguide/" style="color:var(--accent)">BountyGuide</a> ·
-<a href="https://luw8072-gif.github.io/bountyhunter/blog/how-to-make-money-github-bounties.html" style="color:var(--accent)">Blog</a>
-</div></footer>
+</footer>
 
 <script>
 (async function(){
