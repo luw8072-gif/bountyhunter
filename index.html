@@ -126,6 +126,12 @@ async function submitEmail(e) {
   el.value = '';
   try { await fetch('https://api.allorigins.win/raw?url=https://luw8072-gif.github.io/bountyhunter/data/subscribers.json',{method:'POST',body:JSON.stringify({email:email,timestamp:new Date().toISOString()})}); } catch(ex) {}
 }
-</script></footer>
+</script><div style="text-align:center;padding:1.5rem;margin:2rem 0;background:rgba(212,167,44,0.06);border:1px solid var(--gold);border-radius:12px">
+<h3 style="color:var(--gold)">Support This Project</h3>
+<p style="color:#8b949e;font-size:0.9rem">BountyHunter is free and open source. Help us keep scanning 24/7.</p>
+<div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem">
+<a href="https://opencollective.com/bountyhunter" style="background:var(--green);color:#fff;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600">Open Collective</a>
+<span style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:10px 16px;border-radius:8px;font-family:monospace;font-size:0.8rem">Crypto: 0x7648...6143</span>
+</div></div></footer>
 </body>
 </html>
