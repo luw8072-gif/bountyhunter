@@ -20,25 +20,23 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 EARNINGS_FILE = DATA_DIR / "earnings.json"
 
-WALLET = "0x43552E59Be74AE4e0856ECC9aF600cF74b3F5e21"
+WALLET = "0x76485924c7CA4EFcC03e622441fF3ab633c86143"
 ETHERSCAN_API_KEY = os.environ.get("ETHERSCAN_API_KEY", "")
 
 # Known PRs we've submitted
 OUR_PRS = [
     {"repo": "moorcheh-ai/memanto", "pr": 672, "bounty": 100, "issue": 639,
      "title": "Memanto vs Letta Benchmark"},
-    {"repo": "ClankerNation/OpenAgents", "pr": 5276, "bounty": 2200, "issue": 200,
-     "title": "Multi-tier Rate Limiter"},
-    {"repo": "promptpolish-ai/git-context", "pr": 31, "bounty": 2, "issue": 2,
-     "title": "JSON Output Mode"},
-    {"repo": "ritik4ever/stellar-bounty-board", "pr": 637, "bounty": 0, "issue": "258/246/245",
-     "title": "Bounty Filters + Lookup"},
     {"repo": "xevrion-v2/agent-playground", "pr": 1015, "bounty": 150, "issue": "6/9/12",
      "title": "Validation + Tests + Body Limit"},
     {"repo": "xevrion-v2/agent-playground", "pr": 1017, "bounty": 250, "issue": "7/8/10/11/13",
      "title": "Error Handler + Routes + Tests"},
     {"repo": "xevrion-v2/agent-playground", "pr": 1021, "bounty": 400, "issue": "1-5/14/15/17",
      "title": "JSDoc + Types + Env + Prisma + PI + Sequences"},
+    {"repo": "ritik4ever/stellar-bounty-board", "pr": 637, "bounty": 0, "issue": "258/246/245",
+     "title": "Bounty Filters + Lookup"},
+    {"repo": "promptpolish-ai/git-context", "pr": 31, "bounty": 2, "issue": 2,
+     "title": "JSON Output Mode"},
 ]
 
 HEADERS = {
