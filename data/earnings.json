@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-07T01:37:06.096926+00:00",
+  "updated": "2026-06-07T06:16:10.280861+00:00",
   "wallet": {
     "address": "0x43552E59Be74AE4e0856ECC9aF600cF74b3F5e21",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-06-07T01:37:00.364988+00:00",
+    "checked_at": "2026-06-07T06:16:04.078384+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
     "total_prs": 7,
-    "open_prs": 7,
+    "open_prs": 6,
     "merged_prs": 0,
-    "closed_not_merged": 0,
+    "closed_not_merged": 1,
     "total_claimed_usd": 3102,
     "total_earned_usd": 0,
     "pending_usd": 3102
@@ -30,7 +30,7 @@
       "closed_at": null,
       "mergeable": "blocked",
       "reviews": 8,
-      "checked_at": "2026-06-07T01:37:00.794543+00:00"
+      "checked_at": "2026-06-07T06:16:04.633764+00:00"
     },
     {
       "repo": "ClankerNation/OpenAgents",
@@ -38,13 +38,13 @@
       "bounty": 2200,
       "issue": 200,
       "title": "Multi-tier Rate Limiter",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "merged_at": null,
-      "closed_at": null,
+      "closed_at": "2026-06-07T03:58:37Z",
       "mergeable": "clean",
-      "reviews": 0,
-      "checked_at": "2026-06-07T01:37:01.602909+00:00"
+      "reviews": 1,
+      "checked_at": "2026-06-07T06:16:05.499463+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -58,7 +58,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-07T01:37:02.468342+00:00"
+      "checked_at": "2026-06-07T06:16:06.358342+00:00"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -72,7 +72,7 @@
       "closed_at": null,
       "mergeable": "unstable",
       "reviews": 6,
-      "checked_at": "2026-06-07T01:37:03.244453+00:00"
+      "checked_at": "2026-06-07T06:16:07.234039+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -86,7 +86,7 @@
       "closed_at": null,
       "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-07T01:37:03.995712+00:00"
+      "checked_at": "2026-06-07T06:16:08.062919+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -100,7 +100,7 @@
       "closed_at": null,
       "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-07T01:37:04.799708+00:00"
+      "checked_at": "2026-06-07T06:16:08.980999+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -112,9 +112,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "dirty",
+      "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-07T01:37:05.595697+00:00"
+      "checked_at": "2026-06-07T06:16:09.780055+00:00"
     }
   ],
   "history": [
