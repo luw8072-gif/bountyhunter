@@ -16,7 +16,7 @@
     "comments": 37,
     "created_at": "2026-05-22T20:12:15Z",
     "updated_at": "2026-06-16T19:00:08Z",
-    "scanned_at": "2026-06-16T22:01:03.281904+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805614+00:00",
     "status": "new"
   },
   {
@@ -40,7 +40,7 @@
     "comments": 382,
     "created_at": "2026-05-17T15:04:05Z",
     "updated_at": "2026-06-16T21:03:19Z",
-    "scanned_at": "2026-06-16T22:01:15.297675+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210150+00:00",
     "status": "new"
   },
   {
@@ -64,7 +64,7 @@
     "comments": 166,
     "created_at": "2026-05-17T05:55:52Z",
     "updated_at": "2026-06-16T17:08:56Z",
-    "scanned_at": "2026-06-16T22:01:15.297846+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210323+00:00",
     "status": "new"
   },
   {
@@ -90,11 +90,11 @@
     "comments": 1138,
     "created_at": "2026-05-27T06:32:39Z",
     "updated_at": "2026-06-16T17:49:54Z",
-    "scanned_at": "2026-06-16T22:01:15.297599+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210078+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000032",
     "title": "[Bounty $5000] [SFPU] Optimize `atanh`, `asinh`, and `acosh` with Numerically Stable `log1p`-Based Implementations (WH B0/BH)",
     "url": "https://github.com/tenstorrent/tt-metal/issues/46862",
     "repo": "tenstorrent/tt-metal",
@@ -110,7 +110,7 @@
     "comments": 6,
     "created_at": "2026-06-12T15:41:34Z",
     "updated_at": "2026-06-16T13:32:09Z",
-    "scanned_at": "2026-06-16T21:59:51.231966+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335361+00:00",
     "status": "new"
   },
   {
@@ -134,7 +134,7 @@
     "comments": 84,
     "created_at": "2026-05-17T05:53:20Z",
     "updated_at": "2026-06-08T14:48:40Z",
-    "scanned_at": "2026-06-16T22:01:15.297975+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210446+00:00",
     "status": "new"
   },
   {
@@ -157,7 +157,7 @@
     "comments": 222,
     "created_at": "2026-05-17T15:01:49Z",
     "updated_at": "2026-06-16T17:08:49Z",
-    "scanned_at": "2026-06-16T22:01:15.297707+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210182+00:00",
     "status": "new"
   },
   {
@@ -181,7 +181,7 @@
     "comments": 109,
     "created_at": "2026-05-16T16:50:35Z",
     "updated_at": "2026-06-12T08:53:31Z",
-    "scanned_at": "2026-06-16T22:01:15.298081+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210532+00:00",
     "status": "new"
   },
   {
@@ -199,11 +199,11 @@
     "comments": 8,
     "created_at": "2026-05-12T10:35:25Z",
     "updated_at": "2026-05-29T11:46:25Z",
-    "scanned_at": "2026-06-16T22:01:03.282042+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805750+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000083",
     "title": "Calculate the exact value of PI",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -225,11 +225,11 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-16T14:38:47Z",
-    "scanned_at": "2026-06-16T21:59:51.235492+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338725+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000084",
     "title": "Calculate the exact value of PI #2872",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2883",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -251,11 +251,11 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-16T05:50:24Z",
-    "scanned_at": "2026-06-16T21:59:51.235515+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338748+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000010",
     "title": "[$50 - $100 BOUNTY] [urgent] Fix Build Diagnostics not generating on Windows.",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/67",
     "repo": "lobster-trap/TentOfTrials",
@@ -263,19 +263,20 @@
     "labels": [
       "help wanted",
       "good first issue",
-      "bounty"
+      "bounty",
+      "python"
     ],
-    "language": "unknown",
+    "language": "python",
     "amount_usd": 100,
     "state": "open",
     "comments": 1,
     "created_at": "2026-06-16T20:23:13Z",
-    "updated_at": "2026-06-16T21:33:07Z",
-    "scanned_at": "2026-06-16T21:59:51.229983+00:00",
+    "updated_at": "2026-06-16T22:49:37Z",
+    "scanned_at": "2026-06-16T23:25:36.333483+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000061",
     "title": "[BOUNTY $100] 🐜 The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge",
     "url": "https://github.com/moorcheh-ai/memanto/issues/639",
     "repo": "moorcheh-ai/memanto",
@@ -289,11 +290,11 @@
     "comments": 39,
     "created_at": "2026-06-05T13:58:36Z",
     "updated_at": "2026-06-16T18:08:11Z",
-    "scanned_at": "2026-06-16T21:59:51.234846+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338128+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000065",
     "title": "Calculate the exact value of PI",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/17",
     "repo": "xevrion-v2/agent-playground",
@@ -311,7 +312,7 @@
     "comments": 44,
     "created_at": "2026-06-03T05:56:26Z",
     "updated_at": "2026-06-16T10:28:04Z",
-    "scanned_at": "2026-06-16T21:59:51.234971+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338247+00:00",
     "status": "new"
   },
   {
@@ -329,29 +330,53 @@
     "comments": 10,
     "created_at": "2025-04-03T18:35:54Z",
     "updated_at": "2026-05-12T02:16:11Z",
-    "scanned_at": "2026-06-16T22:01:15.299443+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000003",
+    "title": "[$50 BOUNTY] [Python] Comprehensive API test suite with fixtures and mocks",
+    "url": "https://github.com/lobster-trap/zeroeye/issues/4",
+    "repo": "lobster-trap/zeroeye",
+    "number": 4,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "python"
+    ],
+    "language": "python",
+    "amount_usd": 50,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-16T22:50:36Z",
+    "updated_at": "2026-06-16T23:22:12Z",
+    "scanned_at": "2026-06-16T23:25:36.332975+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000014",
     "title": "[$50 BOUNTY] [C] Route logger writes through logger macros",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/42",
     "repo": "lobster-trap/TentOfTrials",
     "number": 42,
     "labels": [
-      "bounty"
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "c"
     ],
     "language": "unknown",
     "amount_usd": 50,
     "state": "open",
     "comments": 2,
     "created_at": "2026-06-16T14:32:38Z",
-    "updated_at": "2026-06-16T16:51:03Z",
-    "scanned_at": "2026-06-16T21:59:51.230075+00:00",
+    "updated_at": "2026-06-16T22:49:34Z",
+    "scanned_at": "2026-06-16T23:25:36.333554+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000064",
     "title": "Bug Bounty Program — How to Participate",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/33",
     "repo": "xevrion-v2/agent-playground",
@@ -367,11 +392,11 @@
     "comments": 10,
     "created_at": "2026-06-03T06:30:50Z",
     "updated_at": "2026-06-16T17:01:49Z",
-    "scanned_at": "2026-06-16T21:59:51.234934+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338211+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000066",
     "title": "Improve PI calculation accuracy",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/14",
     "repo": "xevrion-v2/agent-playground",
@@ -387,11 +412,11 @@
     "comments": 24,
     "created_at": "2026-06-03T05:50:54Z",
     "updated_at": "2026-06-16T17:02:00Z",
-    "scanned_at": "2026-06-16T21:59:51.234992+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338267+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000067",
     "title": "Implement infinite sequence iterator",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/15",
     "repo": "xevrion-v2/agent-playground",
@@ -407,11 +432,11 @@
     "comments": 30,
     "created_at": "2026-06-03T05:50:54Z",
     "updated_at": "2026-06-16T17:02:07Z",
-    "scanned_at": "2026-06-16T21:59:51.235012+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338289+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000068",
     "title": "Write unit tests for leaderboard updates",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/11",
     "repo": "xevrion-v2/agent-playground",
@@ -427,11 +452,11 @@
     "comments": 28,
     "created_at": "2026-06-03T05:50:53Z",
     "updated_at": "2026-06-16T17:02:32Z",
-    "scanned_at": "2026-06-16T21:59:51.235030+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338310+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000069",
     "title": "Write unit tests for UI Button stub",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/13",
     "repo": "xevrion-v2/agent-playground",
@@ -447,11 +472,11 @@
     "comments": 35,
     "created_at": "2026-06-03T05:50:53Z",
     "updated_at": "2026-06-16T17:02:24Z",
-    "scanned_at": "2026-06-16T21:59:51.235064+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338327+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000070",
     "title": "Write unit tests for user routes",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/12",
     "repo": "xevrion-v2/agent-playground",
@@ -467,11 +492,11 @@
     "comments": 34,
     "created_at": "2026-06-03T05:50:53Z",
     "updated_at": "2026-06-16T17:02:16Z",
-    "scanned_at": "2026-06-16T21:59:51.235087+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338345+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000071",
     "title": "Add request body size limit",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/9",
     "repo": "xevrion-v2/agent-playground",
@@ -487,11 +512,11 @@
     "comments": 44,
     "created_at": "2026-06-03T05:50:52Z",
     "updated_at": "2026-06-16T17:02:47Z",
-    "scanned_at": "2026-06-16T21:59:51.235106+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338363+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000072",
     "title": "Improve API route TODO coverage",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/10",
     "repo": "xevrion-v2/agent-playground",
@@ -507,11 +532,11 @@
     "comments": 30,
     "created_at": "2026-06-03T05:50:52Z",
     "updated_at": "2026-06-16T17:02:39Z",
-    "scanned_at": "2026-06-16T21:59:51.235125+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338381+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000073",
     "title": "Add input validation to user routes",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/6",
     "repo": "xevrion-v2/agent-playground",
@@ -527,11 +552,11 @@
     "comments": 27,
     "created_at": "2026-06-03T05:50:51Z",
     "updated_at": "2026-06-16T17:03:10Z",
-    "scanned_at": "2026-06-16T21:59:51.235145+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338399+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000074",
     "title": "Add API error handling helper",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/7",
     "repo": "xevrion-v2/agent-playground",
@@ -547,11 +572,11 @@
     "comments": 31,
     "created_at": "2026-06-03T05:50:51Z",
     "updated_at": "2026-06-16T17:02:55Z",
-    "scanned_at": "2026-06-16T21:59:51.235164+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338417+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000075",
     "title": "Normalize health check response shape",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/8",
     "repo": "xevrion-v2/agent-playground",
@@ -567,11 +592,11 @@
     "comments": 38,
     "created_at": "2026-06-03T05:50:51Z",
     "updated_at": "2026-06-16T17:03:02Z",
-    "scanned_at": "2026-06-16T21:59:51.235183+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338434+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000076",
     "title": "Document environment variables",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/4",
     "repo": "xevrion-v2/agent-playground",
@@ -587,11 +612,11 @@
     "comments": 41,
     "created_at": "2026-06-03T05:50:50Z",
     "updated_at": "2026-06-16T17:03:33Z",
-    "scanned_at": "2026-06-16T21:59:51.235201+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338452+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000077",
     "title": "Improve Prisma schema comments",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/5",
     "repo": "xevrion-v2/agent-playground",
@@ -607,11 +632,11 @@
     "comments": 30,
     "created_at": "2026-06-03T05:50:50Z",
     "updated_at": "2026-06-16T17:03:25Z",
-    "scanned_at": "2026-06-16T21:59:51.235227+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338473+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000078",
     "title": "Add type annotations to shared Button props",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/3",
     "repo": "xevrion-v2/agent-playground",
@@ -627,11 +652,11 @@
     "comments": 32,
     "created_at": "2026-06-03T05:50:50Z",
     "updated_at": "2026-06-16T17:03:17Z",
-    "scanned_at": "2026-06-16T21:59:51.235247+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338493+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000079",
     "title": "Add JSDoc to userService",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
     "repo": "xevrion-v2/agent-playground",
@@ -649,11 +674,11 @@
     "comments": 52,
     "created_at": "2026-06-03T05:50:49Z",
     "updated_at": "2026-06-16T17:03:55Z",
-    "scanned_at": "2026-06-16T21:59:51.235268+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338512+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000080",
     "title": "Fix typo in README",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
     "repo": "xevrion-v2/agent-playground",
@@ -671,7 +696,7 @@
     "comments": 67,
     "created_at": "2026-06-03T05:50:49Z",
     "updated_at": "2026-06-16T17:03:40Z",
-    "scanned_at": "2026-06-16T21:59:51.235290+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338531+00:00",
     "status": "new"
   },
   {
@@ -689,7 +714,50 @@
     "comments": 6,
     "created_at": "2026-05-20T11:30:53Z",
     "updated_at": "2026-05-28T17:59:49Z",
-    "scanned_at": "2026-06-16T22:01:09.225032+00:00",
+    "scanned_at": "2026-06-16T23:26:54.893960+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000001",
+    "title": "[$35 BOUNTY] [Python] Add module-level docstrings to all top-level Python files",
+    "url": "https://github.com/lobster-trap/TentOfTrials/issues/72",
+    "repo": "lobster-trap/TentOfTrials",
+    "number": 72,
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "python"
+    ],
+    "language": "python",
+    "amount_usd": 35,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-16T23:01:45Z",
+    "updated_at": "2026-06-16T23:15:24Z",
+    "scanned_at": "2026-06-16T23:25:36.332900+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[$25 BOUNTY] [Markdown] Add CI status badge and project shields to README",
+    "url": "https://github.com/lobster-trap/zeroeye/issues/5",
+    "repo": "lobster-trap/zeroeye",
+    "number": 5,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "markdown"
+    ],
+    "language": "unknown",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-06-16T22:57:39Z",
+    "updated_at": "2026-06-16T22:57:39Z",
+    "scanned_at": "2026-06-16T23:25:36.332957+00:00",
     "status": "new"
   },
   {
@@ -707,25 +775,28 @@
     "comments": 51,
     "created_at": "2026-03-16T18:15:15Z",
     "updated_at": "2026-06-12T15:38:09Z",
-    "scanned_at": "2026-06-16T22:01:03.286197+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809739+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000015",
     "title": "[$20 BOUNTY] [Python] Add complete type hints without Any",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/41",
     "repo": "lobster-trap/TentOfTrials",
     "number": 41,
     "labels": [
-      "bounty"
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "python"
     ],
-    "language": "unknown",
+    "language": "python",
     "amount_usd": 20,
     "state": "open",
     "comments": 1,
     "created_at": "2026-06-16T14:27:30Z",
-    "updated_at": "2026-06-16T15:24:47Z",
-    "scanned_at": "2026-06-16T21:59:51.230084+00:00",
+    "updated_at": "2026-06-16T22:49:33Z",
+    "scanned_at": "2026-06-16T23:25:36.333563+00:00",
     "status": "new"
   },
   {
@@ -747,25 +818,28 @@
     "comments": 46,
     "created_at": "2026-04-09T14:57:05Z",
     "updated_at": "2026-06-13T09:00:44Z",
-    "scanned_at": "2026-06-16T22:01:03.283448+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000016",
     "title": "[$16 BOUNTY] [Rust] Deprecate legacy public functions",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/40",
     "repo": "lobster-trap/TentOfTrials",
     "number": 40,
     "labels": [
-      "bounty"
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "rust"
     ],
-    "language": "unknown",
+    "language": "rust",
     "amount_usd": 16,
     "state": "open",
     "comments": 2,
     "created_at": "2026-06-16T14:15:39Z",
-    "updated_at": "2026-06-16T15:14:34Z",
-    "scanned_at": "2026-06-16T21:59:51.230091+00:00",
+    "updated_at": "2026-06-16T22:49:32Z",
+    "scanned_at": "2026-06-16T23:25:36.333570+00:00",
     "status": "new"
   },
   {
@@ -783,11 +857,11 @@
     "comments": 39,
     "created_at": "2026-03-16T18:15:08Z",
     "updated_at": "2026-06-12T15:38:15Z",
-    "scanned_at": "2026-06-16T22:01:03.286242+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809791+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000004",
     "title": "[$10 BOUNTY] Verify build diagnostics are created",
     "url": "https://github.com/lobster-trap/zeroeye/issues/1",
     "repo": "lobster-trap/zeroeye",
@@ -802,7 +876,7 @@
     "comments": 1,
     "created_at": "2026-06-16T21:13:04Z",
     "updated_at": "2026-06-16T21:50:00Z",
-    "scanned_at": "2026-06-16T21:59:51.229296+00:00",
+    "scanned_at": "2026-06-16T23:25:36.332985+00:00",
     "status": "new"
   },
   {
@@ -820,43 +894,50 @@
     "comments": 7,
     "created_at": "2024-12-03T15:00:00Z",
     "updated_at": "2026-06-15T06:06:05Z",
-    "scanned_at": "2026-06-16T22:01:15.299662+00:00",
+    "scanned_at": "2026-06-16T23:27:01.212174+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000012",
     "title": "[$6 BOUNTY] [All] Enforce uppercase LEGACY comments",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/61",
     "repo": "lobster-trap/TentOfTrials",
     "number": 61,
     "labels": [
-      "bounty"
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "python"
     ],
-    "language": "unknown",
+    "language": "python",
     "amount_usd": 6,
     "state": "open",
     "comments": 2,
     "created_at": "2026-06-16T16:59:49Z",
-    "updated_at": "2026-06-16T17:57:30Z",
-    "scanned_at": "2026-06-16T21:59:51.230035+00:00",
+    "updated_at": "2026-06-16T22:49:36Z",
+    "scanned_at": "2026-06-16T23:25:36.333536+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000013",
     "title": "[$5 BOUNTY] [All] Generate TODO audit report",
     "url": "https://github.com/lobster-trap/TentOfTrials/issues/49",
     "repo": "lobster-trap/TentOfTrials",
     "number": 49,
     "labels": [
-      "bounty"
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "python",
+      "shell"
     ],
-    "language": "unknown",
+    "language": "python",
     "amount_usd": 5,
     "state": "open",
     "comments": 1,
     "created_at": "2026-06-16T15:11:12Z",
-    "updated_at": "2026-06-16T15:37:00Z",
-    "scanned_at": "2026-06-16T21:59:51.230064+00:00",
+    "updated_at": "2026-06-16T22:49:35Z",
+    "scanned_at": "2026-06-16T23:25:36.333546+00:00",
     "status": "new"
   },
   {
@@ -875,11 +956,11 @@
     "comments": 26,
     "created_at": "2026-03-21T00:27:35Z",
     "updated_at": "2026-06-05T18:03:47Z",
-    "scanned_at": "2026-06-16T22:01:03.285944+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000052",
     "title": "[Bounty $3k] Support for Compiler Explorer",
     "url": "https://github.com/tenstorrent/tt-metal/issues/46364",
     "repo": "tenstorrent/tt-metal",
@@ -896,11 +977,11 @@
     "comments": 4,
     "created_at": "2026-06-08T16:53:11Z",
     "updated_at": "2026-06-15T21:34:24Z",
-    "scanned_at": "2026-06-16T21:59:51.233605+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336954+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000063",
     "title": "Add --json output mode (Bounty: $2 crypto)",
     "url": "https://github.com/promptpolish-ai/git-context/issues/2",
     "repo": "promptpolish-ai/git-context",
@@ -914,7 +995,7 @@
     "comments": 15,
     "created_at": "2026-06-04T01:59:04Z",
     "updated_at": "2026-06-15T16:41:09Z",
-    "scanned_at": "2026-06-16T21:59:51.234892+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338169+00:00",
     "status": "new"
   },
   {
@@ -935,11 +1016,11 @@
     "comments": 108,
     "created_at": "2026-04-09T03:25:19Z",
     "updated_at": "2026-06-15T08:07:48Z",
-    "scanned_at": "2026-06-16T22:01:03.283504+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000005",
     "title": "[Bounty: 35 RTC] Fix or improve the 8GB finetune pipeline",
     "url": "https://github.com/Scottcjn/vintage-voice/issues/181",
     "repo": "Scottcjn/vintage-voice",
@@ -954,11 +1035,11 @@
     "comments": 1,
     "created_at": "2026-06-16T20:51:59Z",
     "updated_at": "2026-06-16T21:53:13Z",
-    "scanned_at": "2026-06-16T21:59:51.229727+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333266+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000006",
     "title": "[Bounty: 75 RTC] 'Clone your heritage voice in an hour' demo + writeup",
     "url": "https://github.com/Scottcjn/vintage-voice/issues/180",
     "repo": "Scottcjn/vintage-voice",
@@ -970,14 +1051,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-06-16T20:51:56Z",
-    "updated_at": "2026-06-16T20:51:56Z",
-    "scanned_at": "2026-06-16T21:59:51.229795+00:00",
+    "updated_at": "2026-06-16T22:03:31Z",
+    "scanned_at": "2026-06-16T23:25:36.333312+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000007",
     "title": "[Bounty: 100 RTC] Port inference to new/vintage hardware (PPC/POWER/ARM)",
     "url": "https://github.com/Scottcjn/vintage-voice/issues/179",
     "repo": "Scottcjn/vintage-voice",
@@ -992,11 +1073,11 @@
     "comments": 0,
     "created_at": "2026-06-16T20:51:53Z",
     "updated_at": "2026-06-16T20:51:53Z",
-    "scanned_at": "2026-06-16T21:59:51.229852+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333369+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000008",
     "title": "[Bounty: 15 RTC/PR] Contribute regional pronunciation lexicon entries",
     "url": "https://github.com/Scottcjn/vintage-voice/issues/178",
     "repo": "Scottcjn/vintage-voice",
@@ -1008,14 +1089,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-06-16T20:51:51Z",
-    "updated_at": "2026-06-16T20:51:51Z",
-    "scanned_at": "2026-06-16T21:59:51.229904+00:00",
+    "updated_at": "2026-06-16T22:54:22Z",
+    "scanned_at": "2026-06-16T23:25:36.333416+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000009",
     "title": "[Bounty: 150 RTC] Add a new accent/language voice profile",
     "url": "https://github.com/Scottcjn/vintage-voice/issues/177",
     "repo": "Scottcjn/vintage-voice",
@@ -1030,11 +1111,11 @@
     "comments": 0,
     "created_at": "2026-06-16T20:51:49Z",
     "updated_at": "2026-06-16T20:51:49Z",
-    "scanned_at": "2026-06-16T21:59:51.229961+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000011",
     "title": "[Bounty] Портирование / Реализация системы base_turf для турфов шаттлов",
     "url": "https://github.com/TauCetiStation/TauCetiClassic/issues/14916",
     "repo": "TauCetiStation/TauCetiClassic",
@@ -1049,11 +1130,11 @@
     "comments": 5,
     "created_at": "2026-06-16T18:00:33Z",
     "updated_at": "2026-06-16T19:14:35Z",
-    "scanned_at": "2026-06-16T21:59:51.230026+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333526+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000017",
     "title": "🎯 Fix: Prepared Statement Cache Returns Stale/Incorrect Query Results After Transaction Rollback",
     "url": "https://github.com/thaohuynh14zc/GORM/issues/1",
     "repo": "thaohuynh14zc/GORM",
@@ -1069,11 +1150,11 @@
     "comments": 4,
     "created_at": "2026-06-16T14:02:39Z",
     "updated_at": "2026-06-16T16:33:57Z",
-    "scanned_at": "2026-06-16T21:59:51.230307+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333756+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000018",
     "title": "🎯 Fix: Preserve original request path via X-Forwarded-Uri during session refresh in reverse proxy mode",
     "url": "https://github.com/thaohuynh14zc/spf13-cobra/issues/5",
     "repo": "thaohuynh14zc/spf13-cobra",
@@ -1089,11 +1170,11 @@
     "comments": 2,
     "created_at": "2026-06-16T13:59:03Z",
     "updated_at": "2026-06-16T13:59:08Z",
-    "scanned_at": "2026-06-16T21:59:51.230523+00:00",
+    "scanned_at": "2026-06-16T23:25:36.333959+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000019",
     "title": "🎯 Fix: Environment Variable Values Ignored for Slice Flags When Multiple Sources Are Present",
     "url": "https://github.com/thaohuynh14zc/urfave-cli/issues/1",
     "repo": "thaohuynh14zc/urfave-cli",
@@ -1109,11 +1190,11 @@
     "comments": 4,
     "created_at": "2026-06-16T13:06:02Z",
     "updated_at": "2026-06-16T13:54:15Z",
-    "scanned_at": "2026-06-16T21:59:51.230784+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334191+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000020",
     "title": "Epic: Bounty Configure wizard (organizer host-a-bounty flow)",
     "url": "https://github.com/boundlessfi/boundless/issues/603",
     "repo": "boundlessfi/boundless",
@@ -1131,11 +1212,11 @@
     "comments": 9,
     "created_at": "2026-06-15T08:22:59Z",
     "updated_at": "2026-06-16T09:26:56Z",
-    "scanned_at": "2026-06-16T21:59:51.230952+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334337+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000021",
     "title": "FE: Sidebar nav entry + codegen + end-to-end verification",
     "url": "https://github.com/boundlessfi/boundless/issues/602",
     "repo": "boundlessfi/boundless",
@@ -1153,11 +1234,11 @@
     "comments": 10,
     "created_at": "2026-06-15T08:20:35Z",
     "updated_at": "2026-06-16T12:13:20Z",
-    "scanned_at": "2026-06-16T21:59:51.231017+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334402+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000022",
     "title": "FE: use-bounty-publish (escrow publish via shared runner)",
     "url": "https://github.com/boundlessfi/boundless/issues/601",
     "repo": "boundlessfi/boundless",
@@ -1176,11 +1257,11 @@
     "comments": 7,
     "created_at": "2026-06-15T08:20:33Z",
     "updated_at": "2026-06-15T12:28:10Z",
-    "scanned_at": "2026-06-16T21:59:51.231095+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334467+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000023",
     "title": "FE: Scope + Reward + Review tabs and Zod schemas",
     "url": "https://github.com/boundlessfi/boundless/issues/600",
     "repo": "boundlessfi/boundless",
@@ -1199,11 +1280,11 @@
     "comments": 7,
     "created_at": "2026-06-15T08:20:30Z",
     "updated_at": "2026-06-15T12:28:09Z",
-    "scanned_at": "2026-06-16T21:59:51.231149+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334524+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000024",
     "title": "FE: ModeTab (two-axis picker) + SubmissionModelTab (mode-conditional fields)",
     "url": "https://github.com/boundlessfi/boundless/issues/599",
     "repo": "boundlessfi/boundless",
@@ -1222,11 +1303,11 @@
     "comments": 8,
     "created_at": "2026-06-15T08:20:28Z",
     "updated_at": "2026-06-16T10:36:40Z",
-    "scanned_at": "2026-06-16T21:59:51.231239+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334615+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000025",
     "title": "FE: Bounty wizard shell + step/draft machinery",
     "url": "https://github.com/boundlessfi/boundless/issues/598",
     "repo": "boundlessfi/boundless",
@@ -1245,11 +1326,11 @@
     "comments": 7,
     "created_at": "2026-06-15T08:20:25Z",
     "updated_at": "2026-06-16T08:17:38Z",
-    "scanned_at": "2026-06-16T21:59:51.231295+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334677+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000026",
     "title": "FE: Bounty routes + organization bounty list page",
     "url": "https://github.com/boundlessfi/boundless/issues/597",
     "repo": "boundlessfi/boundless",
@@ -1264,14 +1345,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 9,
+    "comments": 8,
     "created_at": "2026-06-15T08:20:22Z",
-    "updated_at": "2026-06-16T08:17:16Z",
-    "scanned_at": "2026-06-16T21:59:51.231339+00:00",
+    "updated_at": "2026-06-16T23:11:27Z",
+    "scanned_at": "2026-06-16T23:25:36.334724+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000027",
     "title": "FE: features/bounties data layer (types, keys, draft + escrow clients/hooks)",
     "url": "https://github.com/boundlessfi/boundless/issues/596",
     "repo": "boundlessfi/boundless",
@@ -1288,11 +1369,11 @@
     "comments": 7,
     "created_at": "2026-06-15T08:20:19Z",
     "updated_at": "2026-06-16T13:59:34Z",
-    "scanned_at": "2026-06-16T21:59:51.231416+00:00",
+    "scanned_at": "2026-06-16T23:25:36.334806+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000028",
     "title": "🎯 Fix Stale Upstream Nodes in Kubernetes EndpointSlice Discovery Provider",
     "url": "https://github.com/alulaalmi/Apache-APISIX/issues/1",
     "repo": "alulaalmi/Apache-APISIX",
@@ -1308,11 +1389,11 @@
     "comments": 3,
     "created_at": "2026-06-15T02:55:32Z",
     "updated_at": "2026-06-15T16:26:41Z",
-    "scanned_at": "2026-06-16T21:59:51.231631+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335040+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000029",
     "title": "[BOUNTY: 50-200 RTC] YouTube video about RustChain + BoTTube (real channel, 100+ subs)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/14089",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1326,11 +1407,11 @@
     "comments": 2,
     "created_at": "2026-06-14T18:57:22Z",
     "updated_at": "2026-06-16T11:19:38Z",
-    "scanned_at": "2026-06-16T21:59:51.231713+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335122+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000030",
     "title": "[radar] SN open bounty 2026-06-13T09:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/90",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1346,11 +1427,11 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-16T05:32:03Z",
-    "scanned_at": "2026-06-16T21:59:51.231736+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335141+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000031",
     "title": "🎯 Fix Stale Authorization Decisions in CachedEnforcer After Policy Updates",
     "url": "https://github.com/victorjones6awpg/Casbin/issues/1",
     "repo": "victorjones6awpg/Casbin",
@@ -1366,11 +1447,11 @@
     "comments": 6,
     "created_at": "2026-06-12T17:33:53Z",
     "updated_at": "2026-06-15T16:26:12Z",
-    "scanned_at": "2026-06-16T21:59:51.231941+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335336+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000033",
     "title": "[benchmarks] Retrieval benchmark suite — recall@K vs Pinecone, Weaviate, pgvector",
     "url": "https://github.com/Dipraise1/Engram/issues/24",
     "repo": "Dipraise1/Engram",
@@ -1386,11 +1467,11 @@
     "comments": 4,
     "created_at": "2026-06-12T12:35:07Z",
     "updated_at": "2026-06-14T07:19:55Z",
-    "scanned_at": "2026-06-16T21:59:51.232006+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335398+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000034",
     "title": "[docs] OpenAPI spec for miner HTTP endpoints",
     "url": "https://github.com/Dipraise1/Engram/issues/23",
     "repo": "Dipraise1/Engram",
@@ -1407,11 +1488,11 @@
     "comments": 8,
     "created_at": "2026-06-12T12:35:05Z",
     "updated_at": "2026-06-14T16:35:48Z",
-    "scanned_at": "2026-06-16T21:59:51.232036+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335429+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000035",
     "title": "[sdk] TypeScript SDK — @engram/client mirroring the Python SDK",
     "url": "https://github.com/Dipraise1/Engram/issues/22",
     "repo": "Dipraise1/Engram",
@@ -1427,11 +1508,11 @@
     "comments": 9,
     "created_at": "2026-06-12T12:35:03Z",
     "updated_at": "2026-06-15T13:23:15Z",
-    "scanned_at": "2026-06-16T21:59:51.232132+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335469+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000036",
     "title": "🎯 Fix Ctx.IP() returning incorrect/empty IP when X-Forwarded-For contains empty or malformed entries",
     "url": "https://github.com/davontepowlowsk1i/gofiber-fiber/issues/1",
     "repo": "davontepowlowsk1i/gofiber-fiber",
@@ -1447,11 +1528,11 @@
     "comments": 9,
     "created_at": "2026-06-10T17:35:46Z",
     "updated_at": "2026-06-16T07:39:07Z",
-    "scanned_at": "2026-06-16T21:59:51.232329+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335641+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000037",
     "title": "🎯 Fix Consumer Stalling After Topic Ownership Transfer (Broker Unload/Failover)",
     "url": "https://github.com/davontepowlowsk1i/Apache-Pulsar/issues/1",
     "repo": "davontepowlowsk1i/Apache-Pulsar",
@@ -1467,11 +1548,11 @@
     "comments": 4,
     "created_at": "2026-06-10T17:27:45Z",
     "updated_at": "2026-06-16T04:38:47Z",
-    "scanned_at": "2026-06-16T21:59:51.232537+00:00",
+    "scanned_at": "2026-06-16T23:25:36.335831+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000038",
     "title": "🎯 Prevent Stale Follower Reads During Range Lease Transfers",
     "url": "https://github.com/davontepowlowsk1i/CockroachDB/issues/1",
     "repo": "davontepowlowsk1i/CockroachDB",
@@ -1487,11 +1568,11 @@
     "comments": 6,
     "created_at": "2026-06-10T17:11:22Z",
     "updated_at": "2026-06-16T06:41:01Z",
-    "scanned_at": "2026-06-16T21:59:51.232774+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336088+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000039",
     "title": "🎯 [Bug]: Snapshot Application Blocks Read Requests (ReadIndex/Lease Read) During Region Leader Transfer",
     "url": "https://github.com/rodrickparker11/TiKV/issues/1",
     "repo": "rodrickparker11/TiKV",
@@ -1507,11 +1588,11 @@
     "comments": 6,
     "created_at": "2026-06-10T15:07:15Z",
     "updated_at": "2026-06-16T05:15:42Z",
-    "scanned_at": "2026-06-16T21:59:51.232981+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336280+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000040",
     "title": "[radar] SN open bounty 2026-06-10T12:34",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/79",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1527,11 +1608,11 @@
     "comments": 7,
     "created_at": "2026-06-10T12:34:04Z",
     "updated_at": "2026-06-12T14:28:16Z",
-    "scanned_at": "2026-06-16T21:59:51.233004+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336298+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000041",
     "title": "[radar] SN open bounty 2026-06-10T10:19",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/76",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1547,11 +1628,11 @@
     "comments": 1,
     "created_at": "2026-06-10T10:19:06Z",
     "updated_at": "2026-06-12T14:33:05Z",
-    "scanned_at": "2026-06-16T21:59:51.233021+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336315+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000042",
     "title": "[radar] SN open bounty 2026-06-10T08:59",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/74",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1567,11 +1648,11 @@
     "comments": 3,
     "created_at": "2026-06-10T08:59:06Z",
     "updated_at": "2026-06-12T14:36:32Z",
-    "scanned_at": "2026-06-16T21:59:51.233038+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336332+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000043",
     "title": "🎯 Fix Double Counting in Distributed Queries During Replica Recovery",
     "url": "https://github.com/juanitahagenes/ClickHouse/issues/1",
     "repo": "juanitahagenes/ClickHouse",
@@ -1587,11 +1668,11 @@
     "comments": 4,
     "created_at": "2026-06-10T06:16:14Z",
     "updated_at": "2026-06-10T06:20:52Z",
-    "scanned_at": "2026-06-16T21:59:51.233270+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336536+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000044",
     "title": "[radar] SN open bounty 2026-06-10T04:41",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/72",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1607,11 +1688,11 @@
     "comments": 2,
     "created_at": "2026-06-10T04:41:16Z",
     "updated_at": "2026-06-12T14:29:44Z",
-    "scanned_at": "2026-06-16T21:59:51.233287+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336555+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000045",
     "title": "[radar] SN open bounty 2026-06-09T23:36",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/69",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1627,11 +1708,11 @@
     "comments": 3,
     "created_at": "2026-06-09T23:36:18Z",
     "updated_at": "2026-06-12T14:38:22Z",
-    "scanned_at": "2026-06-16T21:59:51.233304+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336570+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000046",
     "title": "[radar] SN open bounty 2026-06-09T21:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/64",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1647,11 +1728,11 @@
     "comments": 3,
     "created_at": "2026-06-09T21:56:40Z",
     "updated_at": "2026-06-12T14:39:22Z",
-    "scanned_at": "2026-06-16T21:59:51.233323+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336665+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000047",
     "title": "[radar] SN open bounty 2026-06-09T19:26",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/61",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1667,11 +1748,11 @@
     "comments": 3,
     "created_at": "2026-06-09T19:26:18Z",
     "updated_at": "2026-06-09T22:08:35Z",
-    "scanned_at": "2026-06-16T21:59:51.233339+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336687+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000048",
     "title": "[radar] SN open bounty 2026-06-09T16:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/57",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1687,11 +1768,11 @@
     "comments": 3,
     "created_at": "2026-06-09T16:11:22Z",
     "updated_at": "2026-06-09T18:15:17Z",
-    "scanned_at": "2026-06-16T21:59:51.233355+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336703+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000049",
     "title": "[BOUNTY: 3 RTC, repeats] Agent-to-Agent On-Chain Transaction Test — spend 1, get 3 (3-day window)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13519",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1705,11 +1786,11 @@
     "comments": 21,
     "created_at": "2026-06-09T03:08:16Z",
     "updated_at": "2026-06-15T10:12:29Z",
-    "scanned_at": "2026-06-16T21:59:51.233476+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336817+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000050",
     "title": "[BOUNTY] feverdream: terminal client to spend RTC and commission a video",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13477",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1727,11 +1808,11 @@
     "comments": 8,
     "created_at": "2026-06-08T16:58:45Z",
     "updated_at": "2026-06-15T08:07:53Z",
-    "scanned_at": "2026-06-16T21:59:51.233529+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336868+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000051",
     "title": "[BOUNTY] feverdream: Blender GPU animation lane (orbit mp4 on the 5070)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13475",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1749,11 +1830,11 @@
     "comments": 7,
     "created_at": "2026-06-08T16:58:42Z",
     "updated_at": "2026-06-14T18:07:09Z",
-    "scanned_at": "2026-06-16T21:59:51.233592+00:00",
+    "scanned_at": "2026-06-16T23:25:36.336940+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000053",
     "title": "💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm",
     "url": "https://github.com/digitaldesignerjazz/atrium-forum/issues/4",
     "repo": "digitaldesignerjazz/atrium-forum",
@@ -1770,11 +1851,11 @@
     "comments": 2,
     "created_at": "2026-06-07T13:40:55Z",
     "updated_at": "2026-06-07T14:38:29Z",
-    "scanned_at": "2026-06-16T21:59:51.233653+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337003+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000054",
     "title": "[DOCS] Complete La Tanda Testnet Validator Guide (Systemd + State Sync + Validator Setup)",
     "url": "https://github.com/INDIGOAZUL/la-tanda-web/issues/373",
     "repo": "INDIGOAZUL/la-tanda-web",
@@ -1789,11 +1870,11 @@
     "comments": 7,
     "created_at": "2026-06-07T02:40:13Z",
     "updated_at": "2026-06-12T19:37:14Z",
-    "scanned_at": "2026-06-16T21:59:51.233804+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337147+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000055",
     "title": "[radar] SN open bounty 2026-06-06T08:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/49",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1809,11 +1890,11 @@
     "comments": 30,
     "created_at": "2026-06-06T08:44:53Z",
     "updated_at": "2026-06-09T14:15:46Z",
-    "scanned_at": "2026-06-16T21:59:51.233822+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337166+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000056",
     "title": "🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets",
     "url": "https://github.com/maitebloger111/Apache-Arrow/issues/1",
     "repo": "maitebloger111/Apache-Arrow",
@@ -1829,11 +1910,11 @@
     "comments": 7,
     "created_at": "2026-06-06T06:58:39Z",
     "updated_at": "2026-06-07T14:45:07Z",
-    "scanned_at": "2026-06-16T21:59:51.234084+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337402+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000057",
     "title": "🎯 Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads",
     "url": "https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1",
     "repo": "jeromyritchie52/Apache-ZooKeeper",
@@ -1849,11 +1930,11 @@
     "comments": 5,
     "created_at": "2026-06-06T05:23:27Z",
     "updated_at": "2026-06-07T15:00:06Z",
-    "scanned_at": "2026-06-16T21:59:51.234308+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337613+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000058",
     "title": "🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations",
     "url": "https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1",
     "repo": "aozorayama45/Apache-DolphinScheduler",
@@ -1869,11 +1950,11 @@
     "comments": 9,
     "created_at": "2026-06-05T17:10:48Z",
     "updated_at": "2026-06-16T04:39:48Z",
-    "scanned_at": "2026-06-16T21:59:51.234532+00:00",
+    "scanned_at": "2026-06-16T23:25:36.337825+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000059",
     "title": "🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load",
     "url": "https://github.com/aozorayama45/Traefik/issues/3",
     "repo": "aozorayama45/Traefik",
@@ -1889,11 +1970,11 @@
     "comments": 4,
     "created_at": "2026-06-05T17:04:58Z",
     "updated_at": "2026-06-16T06:56:37Z",
-    "scanned_at": "2026-06-16T21:59:51.234767+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338056+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000060",
     "title": "L2: Implement Solana chain module",
     "url": "https://github.com/kcolbchain/arka/issues/22",
     "repo": "kcolbchain/arka",
@@ -1909,11 +1990,11 @@
     "comments": 6,
     "created_at": "2026-06-05T14:17:17Z",
     "updated_at": "2026-06-10T12:30:42Z",
-    "scanned_at": "2026-06-16T21:59:51.234805+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338088+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000062",
     "title": "Tracking: AIGEN mission mis_334ad09eccaa (300 AIGEN)",
     "url": "https://github.com/jhosepm352-design/oabp-langchain-tool/issues/1",
     "repo": "jhosepm352-design/oabp-langchain-tool",
@@ -1928,11 +2009,11 @@
     "comments": 2,
     "created_at": "2026-06-04T16:16:43Z",
     "updated_at": "2026-06-06T22:10:58Z",
-    "scanned_at": "2026-06-16T21:59:51.234879+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338161+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000081",
     "title": "📞 Bounty board — build the dial-up island (humans + agents)",
     "url": "https://github.com/Scottcjn/rustchain-dialup/issues/1",
     "repo": "Scottcjn/rustchain-dialup",
@@ -1946,11 +2027,11 @@
     "comments": 12,
     "created_at": "2026-06-02T15:16:36Z",
     "updated_at": "2026-06-09T06:01:28Z",
-    "scanned_at": "2026-06-16T21:59:51.235411+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338643+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000082",
     "title": "[$10k bounty] Ford F-150 2026 (TRON) support",
     "url": "https://github.com/commaai/opendbc/issues/3426",
     "repo": "commaai/opendbc",
@@ -1966,11 +2047,11 @@
     "comments": 1,
     "created_at": "2026-05-31T22:10:24Z",
     "updated_at": "2026-06-07T03:49:51Z",
-    "scanned_at": "2026-06-16T21:59:51.235450+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338681+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000085",
     "title": "Job validation should reject inverted budget ranges",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2853",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1992,11 +2073,11 @@
     "comments": 26,
     "created_at": "2026-05-31T12:44:37Z",
     "updated_at": "2026-06-16T17:04:04Z",
-    "scanned_at": "2026-06-16T21:59:51.235545+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338780+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000086",
     "title": "Freelancer profile route should resolve mock profiles by username",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2018,11 +2099,11 @@
     "comments": 19,
     "created_at": "2026-05-31T12:40:49Z",
     "updated_at": "2026-06-16T17:04:12Z",
-    "scanned_at": "2026-06-16T21:59:51.235586+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338821+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000087",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2044,11 +2125,11 @@
     "comments": 8,
     "created_at": "2026-05-31T11:26:06Z",
     "updated_at": "2026-06-16T17:04:19Z",
-    "scanned_at": "2026-06-16T21:59:51.235628+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338862+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000088",
     "title": "Search endpoint has no input validation or length limit on query",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2833",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2070,11 +2151,11 @@
     "comments": 12,
     "created_at": "2026-05-31T11:25:28Z",
     "updated_at": "2026-06-16T17:04:33Z",
-    "scanned_at": "2026-06-16T21:59:51.235677+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338919+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000089",
     "title": "fix: prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2832",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2096,11 +2177,11 @@
     "comments": 7,
     "created_at": "2026-05-31T11:25:07Z",
     "updated_at": "2026-06-16T17:04:40Z",
-    "scanned_at": "2026-06-16T21:59:51.235711+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338953+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000090",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2827",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2122,11 +2203,11 @@
     "comments": 5,
     "created_at": "2026-05-31T11:13:54Z",
     "updated_at": "2026-06-16T17:04:47Z",
-    "scanned_at": "2026-06-16T21:59:51.235754+00:00",
+    "scanned_at": "2026-06-16T23:25:36.338992+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000220",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2822",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2148,11 +2229,11 @@
     "comments": 9,
     "created_at": "2026-05-31T10:23:41Z",
     "updated_at": "2026-06-16T17:04:55Z",
-    "scanned_at": "2026-06-16T21:59:51.235810+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208399+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000221",
     "title": "Job detail route should resolve mock jobs by id (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2790",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2174,11 +2255,11 @@
     "comments": 8,
     "created_at": "2026-05-31T10:18:10Z",
     "updated_at": "2026-06-16T17:05:03Z",
-    "scanned_at": "2026-06-16T21:59:51.235858+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208468+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000222",
     "title": "@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2787",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2200,7 +2281,7 @@
     "comments": 6,
     "created_at": "2026-05-31T10:12:38Z",
     "updated_at": "2026-06-16T17:05:10Z",
-    "scanned_at": "2026-06-16T21:59:51.235905+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208515+00:00",
     "status": "new"
   },
   {
@@ -2226,7 +2307,7 @@
     "comments": 12,
     "created_at": "2026-05-31T09:56:23Z",
     "updated_at": "2026-06-16T17:05:18Z",
-    "scanned_at": "2026-06-16T22:01:15.295895+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208550+00:00",
     "status": "new"
   },
   {
@@ -2252,7 +2333,7 @@
     "comments": 11,
     "created_at": "2026-05-31T09:47:11Z",
     "updated_at": "2026-06-16T17:05:26Z",
-    "scanned_at": "2026-06-16T22:01:15.295954+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208588+00:00",
     "status": "new"
   },
   {
@@ -2278,7 +2359,7 @@
     "comments": 9,
     "created_at": "2026-05-31T09:37:08Z",
     "updated_at": "2026-06-16T17:05:34Z",
-    "scanned_at": "2026-06-16T22:01:15.295996+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208625+00:00",
     "status": "new"
   },
   {
@@ -2304,7 +2385,7 @@
     "comments": 11,
     "created_at": "2026-05-31T09:33:32Z",
     "updated_at": "2026-06-16T17:05:42Z",
-    "scanned_at": "2026-06-16T22:01:15.296035+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208660+00:00",
     "status": "new"
   },
   {
@@ -2330,7 +2411,7 @@
     "comments": 10,
     "created_at": "2026-05-31T09:30:54Z",
     "updated_at": "2026-06-16T17:05:49Z",
-    "scanned_at": "2026-06-16T22:01:15.296098+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208699+00:00",
     "status": "new"
   },
   {
@@ -2356,7 +2437,7 @@
     "comments": 10,
     "created_at": "2026-05-31T09:30:10Z",
     "updated_at": "2026-06-16T17:05:57Z",
-    "scanned_at": "2026-06-16T22:01:15.296139+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208734+00:00",
     "status": "new"
   },
   {
@@ -2382,7 +2463,7 @@
     "comments": 6,
     "created_at": "2026-05-31T09:27:30Z",
     "updated_at": "2026-06-16T17:06:04Z",
-    "scanned_at": "2026-06-16T22:01:15.296182+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208770+00:00",
     "status": "new"
   },
   {
@@ -2408,7 +2489,7 @@
     "comments": 7,
     "created_at": "2026-05-31T09:22:16Z",
     "updated_at": "2026-06-16T17:06:12Z",
-    "scanned_at": "2026-06-16T22:01:15.296238+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208820+00:00",
     "status": "new"
   },
   {
@@ -2434,7 +2515,7 @@
     "comments": 6,
     "created_at": "2026-05-31T09:21:16Z",
     "updated_at": "2026-06-16T17:06:19Z",
-    "scanned_at": "2026-06-16T22:01:15.296282+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208858+00:00",
     "status": "new"
   },
   {
@@ -2454,7 +2535,7 @@
     "comments": 0,
     "created_at": "2026-05-30T08:38:56Z",
     "updated_at": "2026-06-04T05:57:45Z",
-    "scanned_at": "2026-06-16T22:01:15.296301+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208875+00:00",
     "status": "new"
   },
   {
@@ -2479,7 +2560,7 @@
     "comments": 10,
     "created_at": "2026-05-30T05:32:04Z",
     "updated_at": "2026-06-16T17:06:27Z",
-    "scanned_at": "2026-06-16T22:01:15.296360+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208931+00:00",
     "status": "new"
   },
   {
@@ -2504,7 +2585,7 @@
     "comments": 4,
     "created_at": "2026-05-30T05:03:04Z",
     "updated_at": "2026-06-16T17:06:35Z",
-    "scanned_at": "2026-06-16T22:01:15.296428+00:00",
+    "scanned_at": "2026-06-16T23:27:01.208992+00:00",
     "status": "new"
   },
   {
@@ -2529,7 +2610,7 @@
     "comments": 2,
     "created_at": "2026-05-30T04:33:24Z",
     "updated_at": "2026-06-16T17:06:42Z",
-    "scanned_at": "2026-06-16T22:01:15.296494+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209050+00:00",
     "status": "new"
   },
   {
@@ -2554,7 +2635,7 @@
     "comments": 3,
     "created_at": "2026-05-30T04:11:29Z",
     "updated_at": "2026-06-16T17:06:50Z",
-    "scanned_at": "2026-06-16T22:01:15.296541+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209094+00:00",
     "status": "new"
   },
   {
@@ -2579,7 +2660,7 @@
     "comments": 4,
     "created_at": "2026-05-30T03:57:53Z",
     "updated_at": "2026-06-16T17:07:03Z",
-    "scanned_at": "2026-06-16T22:01:15.296589+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209138+00:00",
     "status": "new"
   },
   {
@@ -2604,7 +2685,7 @@
     "comments": 1,
     "created_at": "2026-05-30T03:45:28Z",
     "updated_at": "2026-06-16T17:07:11Z",
-    "scanned_at": "2026-06-16T22:01:15.296634+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209179+00:00",
     "status": "new"
   },
   {
@@ -2629,7 +2710,7 @@
     "comments": 4,
     "created_at": "2026-05-30T03:15:09Z",
     "updated_at": "2026-06-16T17:07:19Z",
-    "scanned_at": "2026-06-16T22:01:15.296685+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209225+00:00",
     "status": "new"
   },
   {
@@ -2654,7 +2735,7 @@
     "comments": 2,
     "created_at": "2026-05-30T03:15:04Z",
     "updated_at": "2026-06-16T17:07:27Z",
-    "scanned_at": "2026-06-16T22:01:15.296731+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209267+00:00",
     "status": "new"
   },
   {
@@ -2679,7 +2760,7 @@
     "comments": 2,
     "created_at": "2026-05-30T03:14:59Z",
     "updated_at": "2026-06-16T17:07:35Z",
-    "scanned_at": "2026-06-16T22:01:15.296793+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209323+00:00",
     "status": "new"
   },
   {
@@ -2704,7 +2785,7 @@
     "comments": 11,
     "created_at": "2026-05-30T03:14:54Z",
     "updated_at": "2026-06-16T17:07:42Z",
-    "scanned_at": "2026-06-16T22:01:15.296842+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209370+00:00",
     "status": "new"
   },
   {
@@ -2729,7 +2810,7 @@
     "comments": 4,
     "created_at": "2026-05-30T03:14:49Z",
     "updated_at": "2026-06-16T17:07:50Z",
-    "scanned_at": "2026-06-16T22:01:15.296894+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209418+00:00",
     "status": "new"
   },
   {
@@ -2754,7 +2835,7 @@
     "comments": 2,
     "created_at": "2026-05-30T03:14:45Z",
     "updated_at": "2026-06-16T17:07:58Z",
-    "scanned_at": "2026-06-16T22:01:15.296937+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209462+00:00",
     "status": "new"
   },
   {
@@ -2779,7 +2860,7 @@
     "comments": 2,
     "created_at": "2026-05-30T03:14:41Z",
     "updated_at": "2026-06-16T17:08:05Z",
-    "scanned_at": "2026-06-16T22:01:15.296980+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209507+00:00",
     "status": "new"
   },
   {
@@ -2804,7 +2885,7 @@
     "comments": 6,
     "created_at": "2026-05-30T03:14:36Z",
     "updated_at": "2026-06-16T17:08:18Z",
-    "scanned_at": "2026-06-16T22:01:15.297030+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209559+00:00",
     "status": "new"
   },
   {
@@ -2829,7 +2910,7 @@
     "comments": 3,
     "created_at": "2026-05-30T03:10:27Z",
     "updated_at": "2026-05-31T13:44:42Z",
-    "scanned_at": "2026-06-16T22:01:15.297103+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209614+00:00",
     "status": "new"
   },
   {
@@ -2854,7 +2935,7 @@
     "comments": 3,
     "created_at": "2026-05-30T02:55:48Z",
     "updated_at": "2026-06-04T00:43:04Z",
-    "scanned_at": "2026-06-16T22:01:15.297147+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209654+00:00",
     "status": "new"
   },
   {
@@ -2879,7 +2960,7 @@
     "comments": 3,
     "created_at": "2026-05-30T02:32:12Z",
     "updated_at": "2026-05-31T13:43:47Z",
-    "scanned_at": "2026-06-16T22:01:15.297237+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209736+00:00",
     "status": "new"
   },
   {
@@ -2904,7 +2985,7 @@
     "comments": 3,
     "created_at": "2026-05-30T02:26:10Z",
     "updated_at": "2026-05-31T13:43:46Z",
-    "scanned_at": "2026-06-16T22:01:15.297286+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209783+00:00",
     "status": "new"
   },
   {
@@ -2929,7 +3010,7 @@
     "comments": 3,
     "created_at": "2026-05-30T02:15:52Z",
     "updated_at": "2026-06-02T22:19:33Z",
-    "scanned_at": "2026-06-16T22:01:15.297325+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209819+00:00",
     "status": "new"
   },
   {
@@ -2954,7 +3035,7 @@
     "comments": 6,
     "created_at": "2026-05-30T01:59:14Z",
     "updated_at": "2026-06-16T17:08:25Z",
-    "scanned_at": "2026-06-16T22:01:15.297384+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209872+00:00",
     "status": "new"
   },
   {
@@ -2979,7 +3060,7 @@
     "comments": 3,
     "created_at": "2026-05-30T01:25:17Z",
     "updated_at": "2026-06-08T05:59:45Z",
-    "scanned_at": "2026-06-16T22:01:15.297434+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209928+00:00",
     "status": "new"
   },
   {
@@ -3004,7 +3085,7 @@
     "comments": 3,
     "created_at": "2026-05-30T01:24:51Z",
     "updated_at": "2026-06-11T19:13:40Z",
-    "scanned_at": "2026-06-16T22:01:15.297467+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209958+00:00",
     "status": "new"
   },
   {
@@ -3029,7 +3110,7 @@
     "comments": 2,
     "created_at": "2026-05-30T01:01:31Z",
     "updated_at": "2026-06-16T05:48:23Z",
-    "scanned_at": "2026-06-16T22:01:15.297491+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209977+00:00",
     "status": "new"
   },
   {
@@ -3054,7 +3135,7 @@
     "comments": 3,
     "created_at": "2026-05-30T00:51:09Z",
     "updated_at": "2026-06-06T07:57:35Z",
-    "scanned_at": "2026-06-16T22:01:15.297514+00:00",
+    "scanned_at": "2026-06-16T23:27:01.209998+00:00",
     "status": "new"
   },
   {
@@ -3079,7 +3160,7 @@
     "comments": 3,
     "created_at": "2026-05-29T23:57:13Z",
     "updated_at": "2026-05-31T07:11:24Z",
-    "scanned_at": "2026-06-16T22:01:15.297533+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210017+00:00",
     "status": "new"
   },
   {
@@ -3104,7 +3185,7 @@
     "comments": 4,
     "created_at": "2026-05-29T05:45:38Z",
     "updated_at": "2026-06-08T14:48:48Z",
-    "scanned_at": "2026-06-16T22:01:15.297556+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210037+00:00",
     "status": "new"
   },
   {
@@ -3122,7 +3203,7 @@
     "comments": 3,
     "created_at": "2026-05-22T15:44:46Z",
     "updated_at": "2026-06-12T15:38:03Z",
-    "scanned_at": "2026-06-16T22:01:03.281960+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805674+00:00",
     "status": "new"
   },
   {
@@ -3140,7 +3221,7 @@
     "comments": 12,
     "created_at": "2026-05-22T15:44:41Z",
     "updated_at": "2026-06-12T15:38:10Z",
-    "scanned_at": "2026-06-16T22:01:03.282016+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805725+00:00",
     "status": "new"
   },
   {
@@ -3160,7 +3241,7 @@
     "comments": 11,
     "created_at": "2026-05-17T17:48:32Z",
     "updated_at": "2026-05-20T06:31:29Z",
-    "scanned_at": "2026-06-16T22:01:15.297647+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210124+00:00",
     "status": "new"
   },
   {
@@ -3187,7 +3268,7 @@
     "comments": 6,
     "created_at": "2026-05-14T10:53:31Z",
     "updated_at": "2026-05-15T04:12:23Z",
-    "scanned_at": "2026-06-16T22:01:09.225129+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894025+00:00",
     "status": "new"
   },
   {
@@ -3214,7 +3295,7 @@
     "comments": 7,
     "created_at": "2026-05-14T10:53:27Z",
     "updated_at": "2026-05-15T04:12:25Z",
-    "scanned_at": "2026-06-16T22:01:09.225206+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894078+00:00",
     "status": "new"
   },
   {
@@ -3239,7 +3320,7 @@
     "comments": 3,
     "created_at": "2026-05-14T10:06:18Z",
     "updated_at": "2026-05-15T04:12:27Z",
-    "scanned_at": "2026-06-16T22:01:09.225327+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894155+00:00",
     "status": "new"
   },
   {
@@ -3265,7 +3346,7 @@
     "comments": 6,
     "created_at": "2026-05-14T04:48:41Z",
     "updated_at": "2026-05-15T04:12:27Z",
-    "scanned_at": "2026-06-16T22:01:09.225398+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894202+00:00",
     "status": "new"
   },
   {
@@ -3290,7 +3371,7 @@
     "comments": 6,
     "created_at": "2026-05-14T04:48:39Z",
     "updated_at": "2026-05-15T04:12:28Z",
-    "scanned_at": "2026-06-16T22:01:09.225482+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894256+00:00",
     "status": "new"
   },
   {
@@ -3315,7 +3396,7 @@
     "comments": 2,
     "created_at": "2026-05-14T04:28:43Z",
     "updated_at": "2026-05-15T04:12:28Z",
-    "scanned_at": "2026-06-16T22:01:09.225550+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894301+00:00",
     "status": "new"
   },
   {
@@ -3340,7 +3421,7 @@
     "comments": 3,
     "created_at": "2026-05-14T04:28:39Z",
     "updated_at": "2026-05-15T04:12:29Z",
-    "scanned_at": "2026-06-16T22:01:09.225624+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894353+00:00",
     "status": "new"
   },
   {
@@ -3366,7 +3447,7 @@
     "comments": 2,
     "created_at": "2026-05-14T04:20:40Z",
     "updated_at": "2026-05-15T04:12:31Z",
-    "scanned_at": "2026-06-16T22:01:09.225703+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894396+00:00",
     "status": "new"
   },
   {
@@ -3391,7 +3472,7 @@
     "comments": 1,
     "created_at": "2026-05-14T04:06:31Z",
     "updated_at": "2026-05-15T04:12:33Z",
-    "scanned_at": "2026-06-16T22:01:09.225846+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894460+00:00",
     "status": "new"
   },
   {
@@ -3415,7 +3496,7 @@
     "comments": 1,
     "created_at": "2026-05-14T04:06:25Z",
     "updated_at": "2026-05-15T04:12:35Z",
-    "scanned_at": "2026-06-16T22:01:09.225967+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894528+00:00",
     "status": "new"
   },
   {
@@ -3441,7 +3522,7 @@
     "comments": 5,
     "created_at": "2026-05-14T04:06:23Z",
     "updated_at": "2026-05-15T04:12:36Z",
-    "scanned_at": "2026-06-16T22:01:09.226116+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894611+00:00",
     "status": "new"
   },
   {
@@ -3466,7 +3547,7 @@
     "comments": 9,
     "created_at": "2026-05-13T21:14:33Z",
     "updated_at": "2026-05-15T04:12:37Z",
-    "scanned_at": "2026-06-16T22:01:09.226194+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894670+00:00",
     "status": "new"
   },
   {
@@ -3491,7 +3572,7 @@
     "comments": 5,
     "created_at": "2026-05-13T21:12:57Z",
     "updated_at": "2026-05-15T04:12:38Z",
-    "scanned_at": "2026-06-16T22:01:09.226257+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894719+00:00",
     "status": "new"
   },
   {
@@ -3510,7 +3591,7 @@
     "comments": 5,
     "created_at": "2026-05-12T10:23:35Z",
     "updated_at": "2026-05-28T17:59:54Z",
-    "scanned_at": "2026-06-16T22:01:03.282164+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805842+00:00",
     "status": "new"
   },
   {
@@ -3529,7 +3610,7 @@
     "comments": 6,
     "created_at": "2026-05-12T10:14:40Z",
     "updated_at": "2026-05-28T17:59:56Z",
-    "scanned_at": "2026-06-16T22:01:03.282233+00:00",
+    "scanned_at": "2026-06-16T23:26:48.805931+00:00",
     "status": "new"
   },
   {
@@ -3548,7 +3629,7 @@
     "comments": 5,
     "created_at": "2026-05-12T09:59:38Z",
     "updated_at": "2026-05-28T17:59:50Z",
-    "scanned_at": "2026-06-16T22:01:03.282320+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806024+00:00",
     "status": "new"
   },
   {
@@ -3567,7 +3648,7 @@
     "comments": 8,
     "created_at": "2026-05-12T09:42:29Z",
     "updated_at": "2026-05-20T22:16:33Z",
-    "scanned_at": "2026-06-16T22:01:03.282398+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806106+00:00",
     "status": "new"
   },
   {
@@ -3586,7 +3667,7 @@
     "comments": 5,
     "created_at": "2026-05-12T07:48:20Z",
     "updated_at": "2026-05-14T16:34:50Z",
-    "scanned_at": "2026-06-16T22:01:03.282487+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806199+00:00",
     "status": "new"
   },
   {
@@ -3605,7 +3686,7 @@
     "comments": 5,
     "created_at": "2026-05-12T07:03:27Z",
     "updated_at": "2026-06-01T17:40:41Z",
-    "scanned_at": "2026-06-16T22:01:03.282547+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806264+00:00",
     "status": "new"
   },
   {
@@ -3624,7 +3705,7 @@
     "comments": 6,
     "created_at": "2026-05-12T07:00:05Z",
     "updated_at": "2026-05-14T23:30:52Z",
-    "scanned_at": "2026-06-16T22:01:03.282677+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806406+00:00",
     "status": "new"
   },
   {
@@ -3645,7 +3726,7 @@
     "comments": 12,
     "created_at": "2026-05-08T07:55:06Z",
     "updated_at": "2026-06-02T15:13:56Z",
-    "scanned_at": "2026-06-16T22:01:09.226282+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894739+00:00",
     "status": "new"
   },
   {
@@ -3665,7 +3746,7 @@
     "comments": 15,
     "created_at": "2026-05-06T05:10:15Z",
     "updated_at": "2026-05-30T08:13:48Z",
-    "scanned_at": "2026-06-16T22:01:09.226297+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894753+00:00",
     "status": "new"
   },
   {
@@ -3685,7 +3766,7 @@
     "comments": 5,
     "created_at": "2026-05-03T14:16:37Z",
     "updated_at": "2026-05-11T17:50:28Z",
-    "scanned_at": "2026-06-16T22:01:15.298101+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210550+00:00",
     "status": "new"
   },
   {
@@ -3704,7 +3785,7 @@
     "comments": 10,
     "created_at": "2026-04-30T19:18:06Z",
     "updated_at": "2026-05-25T10:29:47Z",
-    "scanned_at": "2026-06-16T22:01:09.226410+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894842+00:00",
     "status": "new"
   },
   {
@@ -3722,7 +3803,7 @@
     "comments": 19,
     "created_at": "2026-04-28T17:11:29Z",
     "updated_at": "2026-05-30T07:53:48Z",
-    "scanned_at": "2026-06-16T22:01:09.226501+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894923+00:00",
     "status": "new"
   },
   {
@@ -3747,7 +3828,7 @@
     "comments": 9,
     "created_at": "2026-04-26T18:45:56Z",
     "updated_at": "2026-05-30T07:48:03Z",
-    "scanned_at": "2026-06-16T22:01:09.226579+00:00",
+    "scanned_at": "2026-06-16T23:26:54.894992+00:00",
     "status": "new"
   },
   {
@@ -3772,7 +3853,7 @@
     "comments": 10,
     "created_at": "2026-04-26T18:45:53Z",
     "updated_at": "2026-05-30T03:33:23Z",
-    "scanned_at": "2026-06-16T22:01:09.226659+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895058+00:00",
     "status": "new"
   },
   {
@@ -3796,7 +3877,7 @@
     "comments": 6,
     "created_at": "2026-04-26T18:45:49Z",
     "updated_at": "2026-05-18T05:11:16Z",
-    "scanned_at": "2026-06-16T22:01:09.226736+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895125+00:00",
     "status": "new"
   },
   {
@@ -3819,7 +3900,7 @@
     "comments": 4,
     "created_at": "2026-04-23T17:19:04Z",
     "updated_at": "2026-05-18T05:11:17Z",
-    "scanned_at": "2026-06-16T22:01:09.226785+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895168+00:00",
     "status": "new"
   },
   {
@@ -3842,7 +3923,7 @@
     "comments": 6,
     "created_at": "2026-04-23T17:18:56Z",
     "updated_at": "2026-05-21T13:42:58Z",
-    "scanned_at": "2026-06-16T22:01:09.226833+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895210+00:00",
     "status": "new"
   },
   {
@@ -3865,7 +3946,7 @@
     "comments": 5,
     "created_at": "2026-04-23T17:16:28Z",
     "updated_at": "2026-05-18T05:11:20Z",
-    "scanned_at": "2026-06-16T22:01:09.226887+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895258+00:00",
     "status": "new"
   },
   {
@@ -3887,7 +3968,7 @@
     "comments": 20,
     "created_at": "2026-04-23T15:38:10Z",
     "updated_at": "2026-05-25T19:04:18Z",
-    "scanned_at": "2026-06-16T22:01:09.226994+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895360+00:00",
     "status": "new"
   },
   {
@@ -3906,7 +3987,7 @@
     "comments": 21,
     "created_at": "2026-04-23T09:34:42Z",
     "updated_at": "2026-05-25T02:10:19Z",
-    "scanned_at": "2026-06-16T22:01:09.227118+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895465+00:00",
     "status": "new"
   },
   {
@@ -3927,7 +4008,7 @@
     "comments": 98,
     "created_at": "2026-04-22T16:23:31Z",
     "updated_at": "2026-06-15T04:33:10Z",
-    "scanned_at": "2026-06-16T22:01:03.282918+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806599+00:00",
     "status": "new"
   },
   {
@@ -3948,7 +4029,7 @@
     "comments": 22,
     "created_at": "2026-04-22T03:28:15Z",
     "updated_at": "2026-05-10T20:21:55Z",
-    "scanned_at": "2026-06-16T22:01:03.283135+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806787+00:00",
     "status": "new"
   },
   {
@@ -3970,7 +4051,7 @@
     "comments": 5,
     "created_at": "2026-04-16T16:15:12Z",
     "updated_at": "2026-05-18T05:02:37Z",
-    "scanned_at": "2026-06-16T22:01:03.283169+00:00",
+    "scanned_at": "2026-06-16T23:26:48.806823+00:00",
     "status": "new"
   },
   {
@@ -3988,7 +4069,7 @@
     "comments": 21,
     "created_at": "2026-04-13T13:17:55Z",
     "updated_at": "2026-06-05T21:09:50Z",
-    "scanned_at": "2026-06-16T22:01:09.227128+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895475+00:00",
     "status": "new"
   },
   {
@@ -4006,7 +4087,7 @@
     "comments": 14,
     "created_at": "2026-04-13T09:03:37Z",
     "updated_at": "2026-06-15T08:42:18Z",
-    "scanned_at": "2026-06-16T22:01:09.227138+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895485+00:00",
     "status": "new"
   },
   {
@@ -4026,7 +4107,7 @@
     "comments": 5,
     "created_at": "2026-04-12T18:25:39Z",
     "updated_at": "2026-05-05T23:14:18Z",
-    "scanned_at": "2026-06-16T22:01:03.283391+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807057+00:00",
     "status": "new"
   },
   {
@@ -4048,7 +4129,7 @@
     "comments": 55,
     "created_at": "2026-04-10T17:30:21Z",
     "updated_at": "2026-06-15T10:12:32Z",
-    "scanned_at": "2026-06-16T22:01:03.283414+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807080+00:00",
     "status": "new"
   },
   {
@@ -4071,7 +4152,7 @@
     "comments": 46,
     "created_at": "2026-04-09T03:26:26Z",
     "updated_at": "2026-06-07T14:54:12Z",
-    "scanned_at": "2026-06-16T22:01:03.283471+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807129+00:00",
     "status": "new"
   },
   {
@@ -4093,7 +4174,7 @@
     "comments": 49,
     "created_at": "2026-04-09T03:25:42Z",
     "updated_at": "2026-06-15T10:14:17Z",
-    "scanned_at": "2026-06-16T22:01:03.283493+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807151+00:00",
     "status": "new"
   },
   {
@@ -4111,7 +4192,7 @@
     "comments": 11,
     "created_at": "2026-04-08T17:03:52Z",
     "updated_at": "2026-06-13T05:03:24Z",
-    "scanned_at": "2026-06-16T22:01:03.283557+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807215+00:00",
     "status": "new"
   },
   {
@@ -4129,7 +4210,7 @@
     "comments": 7,
     "created_at": "2026-04-08T17:02:11Z",
     "updated_at": "2026-06-02T20:11:27Z",
-    "scanned_at": "2026-06-16T22:01:03.283606+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807262+00:00",
     "status": "new"
   },
   {
@@ -4148,7 +4229,7 @@
     "comments": 5,
     "created_at": "2026-04-08T17:02:09Z",
     "updated_at": "2026-04-12T03:45:39Z",
-    "scanned_at": "2026-06-16T22:01:03.283666+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807321+00:00",
     "status": "new"
   },
   {
@@ -4166,7 +4247,7 @@
     "comments": 14,
     "created_at": "2026-04-08T17:02:08Z",
     "updated_at": "2026-06-13T04:02:05Z",
-    "scanned_at": "2026-06-16T22:01:03.283722+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807376+00:00",
     "status": "new"
   },
   {
@@ -4185,7 +4266,7 @@
     "comments": 11,
     "created_at": "2026-04-08T17:02:06Z",
     "updated_at": "2026-06-15T09:02:22Z",
-    "scanned_at": "2026-06-16T22:01:03.283773+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807427+00:00",
     "status": "new"
   },
   {
@@ -4203,7 +4284,7 @@
     "comments": 11,
     "created_at": "2026-04-08T11:25:33Z",
     "updated_at": "2026-05-18T05:17:39Z",
-    "scanned_at": "2026-06-16T22:01:15.298137+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210589+00:00",
     "status": "new"
   },
   {
@@ -4221,7 +4302,7 @@
     "comments": 8,
     "created_at": "2026-04-08T11:25:32Z",
     "updated_at": "2026-05-18T05:17:40Z",
-    "scanned_at": "2026-06-16T22:01:15.298171+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210629+00:00",
     "status": "new"
   },
   {
@@ -4239,7 +4320,7 @@
     "comments": 9,
     "created_at": "2026-04-07T15:21:18Z",
     "updated_at": "2026-06-15T08:56:14Z",
-    "scanned_at": "2026-06-16T22:01:15.298189+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210649+00:00",
     "status": "new"
   },
   {
@@ -4259,7 +4340,7 @@
     "comments": 27,
     "created_at": "2026-04-06T17:14:04Z",
     "updated_at": "2026-06-15T09:00:25Z",
-    "scanned_at": "2026-06-16T22:01:03.283816+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807470+00:00",
     "status": "new"
   },
   {
@@ -4280,7 +4361,7 @@
     "comments": 5,
     "created_at": "2026-04-04T07:13:11Z",
     "updated_at": "2026-05-25T06:56:26Z",
-    "scanned_at": "2026-06-16T22:01:09.227170+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895520+00:00",
     "status": "new"
   },
   {
@@ -4300,7 +4381,7 @@
     "comments": 8,
     "created_at": "2026-04-04T07:13:10Z",
     "updated_at": "2026-05-18T05:18:03Z",
-    "scanned_at": "2026-06-16T22:01:09.227201+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895553+00:00",
     "status": "new"
   },
   {
@@ -4321,7 +4402,7 @@
     "comments": 9,
     "created_at": "2026-04-04T07:13:09Z",
     "updated_at": "2026-06-10T01:19:09Z",
-    "scanned_at": "2026-06-16T22:01:09.227230+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895583+00:00",
     "status": "new"
   },
   {
@@ -4342,7 +4423,7 @@
     "comments": 7,
     "created_at": "2026-04-04T07:13:07Z",
     "updated_at": "2026-05-18T05:18:32Z",
-    "scanned_at": "2026-06-16T22:01:09.227260+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895615+00:00",
     "status": "new"
   },
   {
@@ -4362,7 +4443,7 @@
     "comments": 8,
     "created_at": "2026-04-04T07:13:06Z",
     "updated_at": "2026-06-15T08:39:15Z",
-    "scanned_at": "2026-06-16T22:01:09.227287+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895646+00:00",
     "status": "new"
   },
   {
@@ -4383,7 +4464,7 @@
     "comments": 4,
     "created_at": "2026-04-04T07:13:04Z",
     "updated_at": "2026-05-18T05:18:41Z",
-    "scanned_at": "2026-06-16T22:01:09.227316+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895678+00:00",
     "status": "new"
   },
   {
@@ -4404,7 +4485,7 @@
     "comments": 7,
     "created_at": "2026-04-04T07:13:03Z",
     "updated_at": "2026-05-18T05:18:40Z",
-    "scanned_at": "2026-06-16T22:01:09.227345+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895709+00:00",
     "status": "new"
   },
   {
@@ -4425,7 +4506,7 @@
     "comments": 3,
     "created_at": "2026-04-04T07:13:01Z",
     "updated_at": "2026-05-18T05:18:46Z",
-    "scanned_at": "2026-06-16T22:01:09.227375+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895741+00:00",
     "status": "new"
   },
   {
@@ -4447,7 +4528,7 @@
     "comments": 3,
     "created_at": "2026-04-04T07:13:00Z",
     "updated_at": "2026-05-18T05:18:42Z",
-    "scanned_at": "2026-06-16T22:01:09.227404+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895772+00:00",
     "status": "new"
   },
   {
@@ -4469,7 +4550,7 @@
     "comments": 4,
     "created_at": "2026-04-04T07:12:59Z",
     "updated_at": "2026-05-18T05:18:42Z",
-    "scanned_at": "2026-06-16T22:01:09.227435+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895802+00:00",
     "status": "new"
   },
   {
@@ -4489,7 +4570,7 @@
     "comments": 7,
     "created_at": "2026-04-04T07:12:53Z",
     "updated_at": "2026-05-18T05:18:32Z",
-    "scanned_at": "2026-06-16T22:01:09.227465+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895833+00:00",
     "status": "new"
   },
   {
@@ -4509,7 +4590,7 @@
     "comments": 3,
     "created_at": "2026-04-04T07:12:52Z",
     "updated_at": "2026-05-18T05:18:29Z",
-    "scanned_at": "2026-06-16T22:01:09.227494+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895863+00:00",
     "status": "new"
   },
   {
@@ -4529,7 +4610,7 @@
     "comments": 4,
     "created_at": "2026-04-04T07:12:50Z",
     "updated_at": "2026-05-18T05:19:22Z",
-    "scanned_at": "2026-06-16T22:01:09.227523+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895893+00:00",
     "status": "new"
   },
   {
@@ -4549,7 +4630,7 @@
     "comments": 8,
     "created_at": "2026-04-04T07:12:49Z",
     "updated_at": "2026-05-18T05:19:21Z",
-    "scanned_at": "2026-06-16T22:01:09.227550+00:00",
+    "scanned_at": "2026-06-16T23:26:54.895973+00:00",
     "status": "new"
   },
   {
@@ -4569,7 +4650,7 @@
     "comments": 7,
     "created_at": "2026-04-04T07:12:47Z",
     "updated_at": "2026-05-18T05:19:20Z",
-    "scanned_at": "2026-06-16T22:01:09.227580+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896005+00:00",
     "status": "new"
   },
   {
@@ -4590,7 +4671,7 @@
     "comments": 5,
     "created_at": "2026-04-04T07:12:46Z",
     "updated_at": "2026-05-18T05:19:19Z",
-    "scanned_at": "2026-06-16T22:01:09.227609+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896037+00:00",
     "status": "new"
   },
   {
@@ -4610,7 +4691,7 @@
     "comments": 9,
     "created_at": "2026-04-04T07:12:45Z",
     "updated_at": "2026-05-18T05:19:18Z",
-    "scanned_at": "2026-06-16T22:01:09.227637+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896067+00:00",
     "status": "new"
   },
   {
@@ -4630,7 +4711,7 @@
     "comments": 12,
     "created_at": "2026-04-04T07:12:43Z",
     "updated_at": "2026-05-18T05:19:17Z",
-    "scanned_at": "2026-06-16T22:01:09.227666+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896099+00:00",
     "status": "new"
   },
   {
@@ -4650,7 +4731,7 @@
     "comments": 6,
     "created_at": "2026-04-04T07:12:42Z",
     "updated_at": "2026-05-18T05:19:16Z",
-    "scanned_at": "2026-06-16T22:01:09.227694+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896129+00:00",
     "status": "new"
   },
   {
@@ -4670,7 +4751,7 @@
     "comments": 6,
     "created_at": "2026-04-04T07:12:41Z",
     "updated_at": "2026-05-21T08:07:18Z",
-    "scanned_at": "2026-06-16T22:01:09.227721+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896156+00:00",
     "status": "new"
   },
   {
@@ -4690,7 +4771,7 @@
     "comments": 7,
     "created_at": "2026-04-04T07:12:39Z",
     "updated_at": "2026-05-18T05:19:13Z",
-    "scanned_at": "2026-06-16T22:01:09.227750+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896186+00:00",
     "status": "new"
   },
   {
@@ -4710,7 +4791,7 @@
     "comments": 8,
     "created_at": "2026-04-04T07:12:38Z",
     "updated_at": "2026-05-18T05:19:12Z",
-    "scanned_at": "2026-06-16T22:01:09.227779+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896216+00:00",
     "status": "new"
   },
   {
@@ -4730,7 +4811,7 @@
     "comments": 3,
     "created_at": "2026-04-04T07:12:37Z",
     "updated_at": "2026-04-20T05:38:31Z",
-    "scanned_at": "2026-06-16T22:01:09.227805+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896244+00:00",
     "status": "new"
   },
   {
@@ -4750,7 +4831,7 @@
     "comments": 5,
     "created_at": "2026-04-04T07:12:35Z",
     "updated_at": "2026-05-06T23:27:58Z",
-    "scanned_at": "2026-06-16T22:01:09.227833+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896274+00:00",
     "status": "new"
   },
   {
@@ -4770,7 +4851,7 @@
     "comments": 5,
     "created_at": "2026-04-04T07:12:34Z",
     "updated_at": "2026-04-19T07:47:05Z",
-    "scanned_at": "2026-06-16T22:01:09.227863+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896305+00:00",
     "status": "new"
   },
   {
@@ -4790,7 +4871,7 @@
     "comments": 13,
     "created_at": "2026-04-04T07:12:33Z",
     "updated_at": "2026-05-12T09:06:36Z",
-    "scanned_at": "2026-06-16T22:01:09.227891+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896334+00:00",
     "status": "new"
   },
   {
@@ -4810,68 +4891,7 @@
     "comments": 3,
     "created_at": "2026-04-04T07:12:31Z",
     "updated_at": "2026-04-08T21:54:14Z",
-    "scanned_at": "2026-06-16T22:01:09.227920+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000220",
-    "title": "🏭 Bounty T2: Add Bounty Comments/Discussion Thread",
-    "url": "https://github.com/SolFoundry/solfoundry/issues/838",
-    "repo": "SolFoundry/solfoundry",
-    "number": 838,
-    "labels": [
-      "bounty",
-      "tier-2",
-      "frontend",
-      "backend"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-04-04T07:12:30Z",
-    "updated_at": "2026-05-15T18:31:02Z",
-    "scanned_at": "2026-06-16T22:01:09.227948+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000221",
-    "title": "🏭 Bounty T2: Bounty Detail Page with LLM Review Results",
-    "url": "https://github.com/SolFoundry/solfoundry/issues/837",
-    "repo": "SolFoundry/solfoundry",
-    "number": 837,
-    "labels": [
-      "bounty",
-      "tier-2",
-      "frontend"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-04-04T07:12:29Z",
-    "updated_at": "2026-05-12T06:39:41Z",
-    "scanned_at": "2026-06-16T22:01:09.227979+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000222",
-    "title": "🏭 Bounty T2: Build Contributor Profile Stats Dashboard",
-    "url": "https://github.com/SolFoundry/solfoundry/issues/836",
-    "repo": "SolFoundry/solfoundry",
-    "number": 836,
-    "labels": [
-      "bounty",
-      "tier-2",
-      "frontend"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-04-04T07:12:27Z",
-    "updated_at": "2026-05-15T18:31:04Z",
-    "scanned_at": "2026-06-16T22:01:09.228010+00:00",
+    "scanned_at": "2026-06-16T23:26:54.896365+00:00",
     "status": "new"
   },
   {
@@ -4891,7 +4911,7 @@
     "comments": 167,
     "created_at": "2026-04-04T03:03:17Z",
     "updated_at": "2026-06-12T15:37:52Z",
-    "scanned_at": "2026-06-16T22:01:03.283989+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807633+00:00",
     "status": "new"
   },
   {
@@ -4912,7 +4932,7 @@
     "comments": 23,
     "created_at": "2026-04-02T15:45:11Z",
     "updated_at": "2026-06-07T14:48:34Z",
-    "scanned_at": "2026-06-16T22:01:03.284063+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807691+00:00",
     "status": "new"
   },
   {
@@ -4933,7 +4953,7 @@
     "comments": 13,
     "created_at": "2026-04-02T15:45:01Z",
     "updated_at": "2026-06-12T15:39:41Z",
-    "scanned_at": "2026-06-16T22:01:03.284121+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807746+00:00",
     "status": "new"
   },
   {
@@ -4954,7 +4974,7 @@
     "comments": 43,
     "created_at": "2026-04-02T15:44:53Z",
     "updated_at": "2026-06-12T15:39:08Z",
-    "scanned_at": "2026-06-16T22:01:03.284178+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807800+00:00",
     "status": "new"
   },
   {
@@ -4975,7 +4995,7 @@
     "comments": 216,
     "created_at": "2026-04-02T15:44:45Z",
     "updated_at": "2026-06-08T19:56:32Z",
-    "scanned_at": "2026-06-16T22:01:03.284214+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807837+00:00",
     "status": "new"
   },
   {
@@ -4996,7 +5016,7 @@
     "comments": 17,
     "created_at": "2026-04-02T15:44:27Z",
     "updated_at": "2026-06-08T17:13:55Z",
-    "scanned_at": "2026-06-16T22:01:03.284270+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807891+00:00",
     "status": "new"
   },
   {
@@ -5017,7 +5037,7 @@
     "comments": 314,
     "created_at": "2026-04-02T15:44:17Z",
     "updated_at": "2026-06-08T19:56:39Z",
-    "scanned_at": "2026-06-16T22:01:03.284307+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807935+00:00",
     "status": "new"
   },
   {
@@ -5038,7 +5058,7 @@
     "comments": 302,
     "created_at": "2026-04-02T15:44:11Z",
     "updated_at": "2026-06-11T00:07:03Z",
-    "scanned_at": "2026-06-16T22:01:03.284370+00:00",
+    "scanned_at": "2026-06-16T23:26:48.807995+00:00",
     "status": "new"
   },
   {
@@ -5059,7 +5079,7 @@
     "comments": 20,
     "created_at": "2026-04-02T15:42:28Z",
     "updated_at": "2026-06-12T15:39:11Z",
-    "scanned_at": "2026-06-16T22:01:03.284482+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808101+00:00",
     "status": "new"
   },
   {
@@ -5080,7 +5100,7 @@
     "comments": 231,
     "created_at": "2026-04-02T15:42:09Z",
     "updated_at": "2026-06-15T07:09:27Z",
-    "scanned_at": "2026-06-16T22:01:03.284588+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808202+00:00",
     "status": "new"
   },
   {
@@ -5101,7 +5121,7 @@
     "comments": 57,
     "created_at": "2026-04-02T15:41:51Z",
     "updated_at": "2026-06-13T08:09:26Z",
-    "scanned_at": "2026-06-16T22:01:03.284709+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808316+00:00",
     "status": "new"
   },
   {
@@ -5121,7 +5141,7 @@
     "comments": 1304,
     "created_at": "2026-04-02T15:41:31Z",
     "updated_at": "2026-06-16T21:05:33Z",
-    "scanned_at": "2026-06-16T22:01:03.284839+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808437+00:00",
     "status": "new"
   },
   {
@@ -5141,7 +5161,7 @@
     "comments": 209,
     "created_at": "2026-04-02T15:41:22Z",
     "updated_at": "2026-06-15T22:22:03Z",
-    "scanned_at": "2026-06-16T22:01:03.284956+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808547+00:00",
     "status": "new"
   },
   {
@@ -5159,7 +5179,7 @@
     "comments": 7,
     "created_at": "2026-04-01T15:57:28Z",
     "updated_at": "2026-05-13T06:56:26Z",
-    "scanned_at": "2026-06-16T22:01:15.298272+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210728+00:00",
     "status": "new"
   },
   {
@@ -5179,7 +5199,7 @@
     "comments": 17,
     "created_at": "2026-03-29T17:34:15Z",
     "updated_at": "2026-05-18T12:38:22Z",
-    "scanned_at": "2026-06-16T22:01:15.298302+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210761+00:00",
     "status": "new"
   },
   {
@@ -5200,7 +5220,7 @@
     "comments": 16,
     "created_at": "2026-03-29T17:31:57Z",
     "updated_at": "2026-05-18T14:32:05Z",
-    "scanned_at": "2026-06-16T22:01:15.298347+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210809+00:00",
     "status": "new"
   },
   {
@@ -5218,7 +5238,7 @@
     "comments": 172,
     "created_at": "2026-03-26T13:54:35Z",
     "updated_at": "2026-05-03T22:45:42Z",
-    "scanned_at": "2026-06-16T22:01:03.285078+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808646+00:00",
     "status": "new"
   },
   {
@@ -5238,7 +5258,7 @@
     "comments": 106,
     "created_at": "2026-03-25T16:04:23Z",
     "updated_at": "2026-06-12T15:38:39Z",
-    "scanned_at": "2026-06-16T22:01:03.285319+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808869+00:00",
     "status": "new"
   },
   {
@@ -5259,7 +5279,7 @@
     "comments": 30,
     "created_at": "2026-03-22T03:03:27Z",
     "updated_at": "2026-05-25T16:37:23Z",
-    "scanned_at": "2026-06-16T22:01:03.285368+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808943+00:00",
     "status": "new"
   },
   {
@@ -5280,7 +5300,7 @@
     "comments": 50,
     "created_at": "2026-03-22T03:03:27Z",
     "updated_at": "2026-05-27T16:36:39Z",
-    "scanned_at": "2026-06-16T22:01:03.285416+00:00",
+    "scanned_at": "2026-06-16T23:26:48.808993+00:00",
     "status": "new"
   },
   {
@@ -5301,7 +5321,7 @@
     "comments": 24,
     "created_at": "2026-03-22T03:03:25Z",
     "updated_at": "2026-06-15T10:14:24Z",
-    "scanned_at": "2026-06-16T22:01:03.285460+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809036+00:00",
     "status": "new"
   },
   {
@@ -5322,7 +5342,7 @@
     "comments": 20,
     "created_at": "2026-03-22T03:03:25Z",
     "updated_at": "2026-05-18T05:29:22Z",
-    "scanned_at": "2026-06-16T22:01:03.285517+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809092+00:00",
     "status": "new"
   },
   {
@@ -5343,7 +5363,7 @@
     "comments": 14,
     "created_at": "2026-03-22T03:03:24Z",
     "updated_at": "2026-05-18T05:29:24Z",
-    "scanned_at": "2026-06-16T22:01:03.285577+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809149+00:00",
     "status": "new"
   },
   {
@@ -5364,7 +5384,7 @@
     "comments": 37,
     "created_at": "2026-03-22T03:03:23Z",
     "updated_at": "2026-05-18T05:29:25Z",
-    "scanned_at": "2026-06-16T22:01:03.285651+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809221+00:00",
     "status": "new"
   },
   {
@@ -5385,7 +5405,7 @@
     "comments": 50,
     "created_at": "2026-03-21T18:44:13Z",
     "updated_at": "2026-06-12T15:40:19Z",
-    "scanned_at": "2026-06-16T22:01:03.285718+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809284+00:00",
     "status": "new"
   },
   {
@@ -5405,7 +5425,7 @@
     "comments": 7,
     "created_at": "2026-03-21T18:10:23Z",
     "updated_at": "2026-05-06T03:47:33Z",
-    "scanned_at": "2026-06-16T22:01:03.285764+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809329+00:00",
     "status": "new"
   },
   {
@@ -5426,7 +5446,7 @@
     "comments": 47,
     "created_at": "2026-03-21T17:18:18Z",
     "updated_at": "2026-06-12T15:40:44Z",
-    "scanned_at": "2026-06-16T22:01:03.285826+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809388+00:00",
     "status": "new"
   },
   {
@@ -5446,7 +5466,7 @@
     "comments": 25,
     "created_at": "2026-03-21T16:38:15Z",
     "updated_at": "2026-05-25T16:38:31Z",
-    "scanned_at": "2026-06-16T22:01:03.285864+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809426+00:00",
     "status": "new"
   },
   {
@@ -5466,7 +5486,7 @@
     "comments": 20,
     "created_at": "2026-03-21T16:38:15Z",
     "updated_at": "2026-06-14T21:57:10Z",
-    "scanned_at": "2026-06-16T22:01:03.285897+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809459+00:00",
     "status": "new"
   },
   {
@@ -5486,7 +5506,7 @@
     "comments": 27,
     "created_at": "2026-03-21T16:38:14Z",
     "updated_at": "2026-05-27T23:34:11Z",
-    "scanned_at": "2026-06-16T22:01:03.285932+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809495+00:00",
     "status": "new"
   },
   {
@@ -5506,7 +5526,7 @@
     "comments": 130,
     "created_at": "2026-03-20T15:32:02Z",
     "updated_at": "2026-06-15T19:19:53Z",
-    "scanned_at": "2026-06-16T22:01:03.285988+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809549+00:00",
     "status": "new"
   },
   {
@@ -5527,7 +5547,7 @@
     "comments": 106,
     "created_at": "2026-03-20T15:31:57Z",
     "updated_at": "2026-05-27T16:11:18Z",
-    "scanned_at": "2026-06-16T22:01:03.286030+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809589+00:00",
     "status": "new"
   },
   {
@@ -5546,7 +5566,7 @@
     "comments": 18,
     "created_at": "2026-03-19T14:14:52Z",
     "updated_at": "2026-05-07T16:14:10Z",
-    "scanned_at": "2026-06-16T22:01:03.286090+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809636+00:00",
     "status": "new"
   },
   {
@@ -5564,7 +5584,7 @@
     "comments": 336,
     "created_at": "2026-03-17T02:05:49Z",
     "updated_at": "2026-06-16T19:18:23Z",
-    "scanned_at": "2026-06-16T22:01:03.286123+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809668+00:00",
     "status": "new"
   },
   {
@@ -5582,7 +5602,7 @@
     "comments": 36,
     "created_at": "2026-03-17T02:05:44Z",
     "updated_at": "2026-06-02T11:26:08Z",
-    "scanned_at": "2026-06-16T22:01:03.286150+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809695+00:00",
     "status": "new"
   },
   {
@@ -5602,7 +5622,7 @@
     "comments": 72,
     "created_at": "2026-03-16T17:06:16Z",
     "updated_at": "2026-06-12T15:39:32Z",
-    "scanned_at": "2026-06-16T22:01:03.286284+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809864+00:00",
     "status": "new"
   },
   {
@@ -5624,7 +5644,7 @@
     "comments": 46,
     "created_at": "2026-03-16T17:06:12Z",
     "updated_at": "2026-06-13T04:54:03Z",
-    "scanned_at": "2026-06-16T22:01:03.286331+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809927+00:00",
     "status": "new"
   },
   {
@@ -5644,7 +5664,7 @@
     "comments": 51,
     "created_at": "2026-03-16T17:06:10Z",
     "updated_at": "2026-05-18T05:35:51Z",
-    "scanned_at": "2026-06-16T22:01:03.286372+00:00",
+    "scanned_at": "2026-06-16T23:26:48.809966+00:00",
     "status": "new"
   },
   {
@@ -5665,7 +5685,7 @@
     "comments": 52,
     "created_at": "2026-03-16T17:06:07Z",
     "updated_at": "2026-05-27T16:38:55Z",
-    "scanned_at": "2026-06-16T22:01:03.286427+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810018+00:00",
     "status": "new"
   },
   {
@@ -5685,7 +5705,7 @@
     "comments": 44,
     "created_at": "2026-03-16T01:24:09Z",
     "updated_at": "2026-05-23T21:18:26Z",
-    "scanned_at": "2026-06-16T22:01:03.286474+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810062+00:00",
     "status": "new"
   },
   {
@@ -5706,7 +5726,7 @@
     "comments": 892,
     "created_at": "2026-03-15T01:59:45Z",
     "updated_at": "2026-06-16T04:55:23Z",
-    "scanned_at": "2026-06-16T22:01:03.286661+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810235+00:00",
     "status": "new"
   },
   {
@@ -5726,7 +5746,7 @@
     "comments": 25,
     "created_at": "2026-03-14T23:42:59Z",
     "updated_at": "2026-05-18T05:36:03Z",
-    "scanned_at": "2026-06-16T22:01:03.286730+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810298+00:00",
     "status": "new"
   },
   {
@@ -5746,7 +5766,7 @@
     "comments": 25,
     "created_at": "2026-03-14T23:42:58Z",
     "updated_at": "2026-05-18T05:36:30Z",
-    "scanned_at": "2026-06-16T22:01:03.286784+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810351+00:00",
     "status": "new"
   },
   {
@@ -5766,7 +5786,7 @@
     "comments": 57,
     "created_at": "2026-03-14T23:42:56Z",
     "updated_at": "2026-06-12T15:38:05Z",
-    "scanned_at": "2026-06-16T22:01:03.286863+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810424+00:00",
     "status": "new"
   },
   {
@@ -5786,7 +5806,7 @@
     "comments": 30,
     "created_at": "2026-03-14T23:42:56Z",
     "updated_at": "2026-06-01T09:24:33Z",
-    "scanned_at": "2026-06-16T22:01:03.286933+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810490+00:00",
     "status": "new"
   },
   {
@@ -5804,7 +5824,7 @@
     "comments": 25,
     "created_at": "2026-03-12T20:53:22Z",
     "updated_at": "2026-05-18T05:36:34Z",
-    "scanned_at": "2026-06-16T22:01:03.286990+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810543+00:00",
     "status": "new"
   },
   {
@@ -5823,7 +5843,7 @@
     "comments": 21,
     "created_at": "2026-03-12T20:53:10Z",
     "updated_at": "2026-05-18T05:36:35Z",
-    "scanned_at": "2026-06-16T22:01:03.287038+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810588+00:00",
     "status": "new"
   },
   {
@@ -5844,7 +5864,7 @@
     "comments": 96,
     "created_at": "2026-03-10T23:50:21Z",
     "updated_at": "2026-06-13T07:07:48Z",
-    "scanned_at": "2026-06-16T22:01:03.287070+00:00",
+    "scanned_at": "2026-06-16T23:26:48.810607+00:00",
     "status": "new"
   },
   {
@@ -5869,7 +5889,7 @@
     "comments": 7,
     "created_at": "2025-12-11T09:48:35Z",
     "updated_at": "2026-03-03T09:59:58Z",
-    "scanned_at": "2026-06-16T22:01:15.298403+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210864+00:00",
     "status": "new"
   },
   {
@@ -5896,7 +5916,7 @@
     "comments": 1,
     "created_at": "2025-12-09T09:10:11Z",
     "updated_at": "2026-02-26T08:39:13Z",
-    "scanned_at": "2026-06-16T22:01:15.298498+00:00",
+    "scanned_at": "2026-06-16T23:27:01.210989+00:00",
     "status": "new"
   },
   {
@@ -5920,7 +5940,7 @@
     "comments": 3,
     "created_at": "2025-12-08T09:36:17Z",
     "updated_at": "2026-05-13T06:22:39Z",
-    "scanned_at": "2026-06-16T22:01:15.298535+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211028+00:00",
     "status": "new"
   },
   {
@@ -5938,7 +5958,7 @@
     "comments": 4,
     "created_at": "2025-12-01T12:57:13Z",
     "updated_at": "2026-05-20T10:04:05Z",
-    "scanned_at": "2026-06-16T22:01:15.298595+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211085+00:00",
     "status": "new"
   },
   {
@@ -5959,7 +5979,7 @@
     "comments": 4,
     "created_at": "2025-10-30T10:31:34Z",
     "updated_at": "2026-06-03T06:04:38Z",
-    "scanned_at": "2026-06-16T22:01:15.298633+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211128+00:00",
     "status": "new"
   },
   {
@@ -5983,7 +6003,7 @@
     "comments": 4,
     "created_at": "2025-10-26T09:47:19Z",
     "updated_at": "2026-03-03T10:00:35Z",
-    "scanned_at": "2026-06-16T22:01:15.298680+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211179+00:00",
     "status": "new"
   },
   {
@@ -6007,7 +6027,7 @@
     "comments": 3,
     "created_at": "2025-10-12T18:27:11Z",
     "updated_at": "2026-06-15T05:55:19Z",
-    "scanned_at": "2026-06-16T22:01:15.298720+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211217+00:00",
     "status": "new"
   },
   {
@@ -6026,7 +6046,7 @@
     "comments": 3,
     "created_at": "2025-10-09T12:49:47Z",
     "updated_at": "2026-02-25T04:59:27Z",
-    "scanned_at": "2026-06-16T22:01:15.298855+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211366+00:00",
     "status": "new"
   },
   {
@@ -6052,7 +6072,7 @@
     "comments": 3,
     "created_at": "2025-10-02T01:37:54Z",
     "updated_at": "2026-05-24T09:47:31Z",
-    "scanned_at": "2026-06-16T22:01:15.298916+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211420+00:00",
     "status": "new"
   },
   {
@@ -6078,7 +6098,7 @@
     "comments": 2,
     "created_at": "2025-10-02T00:48:25Z",
     "updated_at": "2026-05-05T17:21:45Z",
-    "scanned_at": "2026-06-16T22:01:15.298990+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211489+00:00",
     "status": "new"
   },
   {
@@ -6104,7 +6124,7 @@
     "comments": 2,
     "created_at": "2025-10-01T22:52:56Z",
     "updated_at": "2026-05-24T03:43:51Z",
-    "scanned_at": "2026-06-16T22:01:15.299109+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211579+00:00",
     "status": "new"
   },
   {
@@ -6129,7 +6149,7 @@
     "comments": 2,
     "created_at": "2025-10-01T21:03:20Z",
     "updated_at": "2026-02-25T04:34:38Z",
-    "scanned_at": "2026-06-16T22:01:15.299163+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211624+00:00",
     "status": "new"
   },
   {
@@ -6154,7 +6174,7 @@
     "comments": 1,
     "created_at": "2025-10-01T20:07:04Z",
     "updated_at": "2026-05-10T00:38:21Z",
-    "scanned_at": "2026-06-16T22:01:15.299216+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211669+00:00",
     "status": "new"
   },
   {
@@ -6174,7 +6194,7 @@
     "comments": 2,
     "created_at": "2025-10-01T16:18:40Z",
     "updated_at": "2026-02-25T04:34:43Z",
-    "scanned_at": "2026-06-16T22:01:15.299324+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211767+00:00",
     "status": "new"
   },
   {
@@ -6199,7 +6219,7 @@
     "comments": 1,
     "created_at": "2025-10-01T16:18:30Z",
     "updated_at": "2026-05-13T01:55:48Z",
-    "scanned_at": "2026-06-16T22:01:15.299435+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211866+00:00",
     "status": "new"
   },
   {
@@ -6218,7 +6238,7 @@
     "comments": 2,
     "created_at": "2025-02-04T18:06:06Z",
     "updated_at": "2026-02-25T22:48:44Z",
-    "scanned_at": "2026-06-16T22:01:15.299469+00:00",
+    "scanned_at": "2026-06-16T23:27:01.211901+00:00",
     "status": "new"
   },
   {
@@ -6237,7 +6257,7 @@
     "comments": 5,
     "created_at": "2023-11-28T13:42:02Z",
     "updated_at": "2026-02-25T04:35:00Z",
-    "scanned_at": "2026-06-16T22:01:15.299747+00:00",
+    "scanned_at": "2026-06-16T23:27:01.212261+00:00",
     "status": "new"
   }
 ]

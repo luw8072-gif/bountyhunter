@@ -1,14 +1,16 @@
 {
-  "updated": "2026-06-16T22:01:19.780534+00:00",
+  "updated": "2026-06-16T23:27:05.751442+00:00",
   "total": 291,
-  "with_amount": 46,
-  "total_value_usd": 8939,
+  "with_amount": 49,
+  "total_value_usd": 9049,
   "by_language": {
-    "unknown": 291
+    "unknown": 284,
+    "python": 6,
+    "rust": 1
   },
   "by_label": {
     "bounty": 285,
-    "good first issue": 92,
-    "help wanted": 62
+    "good first issue": 100,
+    "help wanted": 70
   }
 }
