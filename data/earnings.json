@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-17T12:02:48.172876+00:00",
+  "updated": "2026-06-17T16:11:44.455109+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-06-17T12:02:39.223449+00:00",
+    "checked_at": "2026-06-17T16:11:36.214950+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
     "total_prs": 6,
-    "open_prs": 4,
+    "open_prs": 6,
     "merged_prs": 0,
     "closed_not_merged": 0,
     "total_claimed_usd": 902,
@@ -30,7 +30,7 @@
       "closed_at": null,
       "mergeable": "blocked",
       "reviews": 8,
-      "checked_at": "2026-06-17T12:02:39.997254+00:00"
+      "checked_at": "2026-06-17T16:11:37.188239+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -44,7 +44,7 @@
       "closed_at": null,
       "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-17T12:02:40.999586+00:00"
+      "checked_at": "2026-06-17T16:11:38.271081+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -58,7 +58,7 @@
       "closed_at": null,
       "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-17T12:02:42.037601+00:00"
+      "checked_at": "2026-06-17T16:11:39.354281+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -66,8 +66,13 @@
       "bounty": 400,
       "issue": "1-5/14/15/17",
       "title": "JSDoc + Types + Env + Prisma + PI + Sequences",
-      "state": "error",
-      "error": "HTTP 502"
+      "state": "open",
+      "merged": false,
+      "merged_at": null,
+      "closed_at": null,
+      "mergeable": "unknown",
+      "reviews": 0,
+      "checked_at": "2026-06-17T16:11:41.412922+00:00"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -81,7 +86,7 @@
       "closed_at": null,
       "mergeable": "unstable",
       "reviews": 6,
-      "checked_at": "2026-06-17T12:02:47.039868+00:00"
+      "checked_at": "2026-06-17T16:11:42.643358+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -89,8 +94,13 @@
       "bounty": 2,
       "issue": 2,
       "title": "JSON Output Mode",
-      "state": "error",
-      "error": "HTTP 502"
+      "state": "open",
+      "merged": false,
+      "merged_at": null,
+      "closed_at": null,
+      "mergeable": "clean",
+      "reviews": 0,
+      "checked_at": "2026-06-17T16:11:43.954035+00:00"
     }
   ],
   "history": [
