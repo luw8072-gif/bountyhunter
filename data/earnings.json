@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-20T10:45:59.181723+00:00",
+  "updated": "2026-06-20T12:25:20.632755+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-06-20T10:45:52.873956+00:00",
+    "checked_at": "2026-06-20T12:25:14.374512+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
@@ -30,7 +30,7 @@
       "closed_at": null,
       "mergeable": "blocked",
       "reviews": 8,
-      "checked_at": "2026-06-20T10:45:53.648441+00:00"
+      "checked_at": "2026-06-20T12:25:15.171020+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -42,9 +42,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "unknown",
+      "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-20T10:45:54.648184+00:00"
+      "checked_at": "2026-06-20T12:25:16.179502+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -56,9 +56,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "unknown",
+      "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-20T10:45:55.634779+00:00"
+      "checked_at": "2026-06-20T12:25:17.186470+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -70,9 +70,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "unknown",
+      "mergeable": "dirty",
       "reviews": 0,
-      "checked_at": "2026-06-20T10:45:56.629442+00:00"
+      "checked_at": "2026-06-20T12:25:18.186725+00:00"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -86,7 +86,7 @@
       "closed_at": null,
       "mergeable": "unstable",
       "reviews": 6,
-      "checked_at": "2026-06-20T10:45:57.659949+00:00"
+      "checked_at": "2026-06-20T12:25:19.200625+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -100,7 +100,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-20T10:45:58.680570+00:00"
+      "checked_at": "2026-06-20T12:25:20.131691+00:00"
     }
   ],
   "history": [
