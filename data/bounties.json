@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000076",
+    "id": "BH-000094",
     "title": "Calculate the exact value of PI",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -21,11 +21,11 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-19T16:27:12Z",
-    "scanned_at": "2026-06-25T18:10:16.811049+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104663+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000095",
     "title": "Calculate the exact value of PI #2872",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2883",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -46,11 +46,11 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-19T16:27:37Z",
-    "scanned_at": "2026-06-25T18:10:16.811075+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104686+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000013",
     "title": "[BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge",
     "url": "https://github.com/moorcheh-ai/memanto/issues/770",
     "repo": "moorcheh-ai/memanto",
@@ -61,14 +61,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 23,
+    "comments": 26,
     "created_at": "2026-06-24T14:09:09Z",
-    "updated_at": "2026-06-25T18:06:46Z",
-    "scanned_at": "2026-06-25T18:09:03.787634+00:00",
+    "updated_at": "2026-06-25T18:19:51Z",
+    "scanned_at": "2026-06-25T20:28:10.698474+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000026",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -85,11 +85,32 @@
     "comments": 8,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-06-24T09:46:15Z",
-    "scanned_at": "2026-06-25T18:09:03.788229+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000072",
+    "title": "[$45 BOUNTY] [TypeScript] Add guarded API token refresh handling",
+    "url": "https://github.com/9904099/zeroeye/issues/2",
+    "repo": "9904099/zeroeye",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:typescript"
+    ],
+    "language": "typescript",
+    "amount_usd": 45,
+    "state": "open",
+    "comments": 9,
+    "created_at": "2026-06-20T14:54:14Z",
+    "updated_at": "2026-06-23T20:55:54Z",
+    "scanned_at": "2026-06-25T20:28:10.700442+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000066",
     "title": "[$40 BOUNTY] [Python] Validate Terraform import resource names",
     "url": "https://github.com/123a-bcd/zeroeye/issues/1",
     "repo": "123a-bcd/zeroeye",
@@ -106,11 +127,11 @@
     "comments": 7,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-06-25T01:27:25Z",
-    "scanned_at": "2026-06-25T18:09:07.782229+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700400+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000067",
     "title": "[$40 BOUNTY] [TypeScript] Harden API response error handling",
     "url": "https://github.com/2lll5/TentOfTrials/issues/1",
     "repo": "2lll5/TentOfTrials",
@@ -127,11 +148,11 @@
     "comments": 8,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-06-23T20:53:51Z",
-    "scanned_at": "2026-06-25T18:09:07.782240+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700407+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000070",
     "title": "[$40 BOUNTY] [Python] Add benchmark rate-limit bypass flag",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/1",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -148,11 +169,32 @@
     "comments": 6,
     "created_at": "2026-06-20T14:55:13Z",
     "updated_at": "2026-06-23T20:51:55Z",
-    "scanned_at": "2026-06-25T18:09:07.782266+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700428+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000073",
+    "title": "[$40 BOUNTY] [Python] Add sanitized parse-error reports for log aggregation",
+    "url": "https://github.com/9904099/zeroeye/issues/1",
+    "repo": "9904099/zeroeye",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:python"
+    ],
+    "language": "python",
+    "amount_usd": 40,
+    "state": "open",
+    "comments": 8,
+    "created_at": "2026-06-20T14:53:13Z",
+    "updated_at": "2026-06-25T00:53:10Z",
+    "scanned_at": "2026-06-25T20:28:10.700448+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000064",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -169,11 +211,11 @@
     "comments": 10,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-23T20:48:47Z",
-    "scanned_at": "2026-06-25T18:09:03.789527+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700381+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000069",
     "title": "[$35 BOUNTY] [Python] Add retry/backoff and circuit breaker to health_check HTTP probes",
     "url": "https://github.com/thanhle74/kickama/issues/15",
     "repo": "thanhle74/kickama",
@@ -190,11 +232,32 @@
     "comments": 8,
     "created_at": "2026-06-20T15:17:17Z",
     "updated_at": "2026-06-22T23:36:14Z",
-    "scanned_at": "2026-06-25T18:09:07.782257+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700421+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000076",
+    "title": "[$30 BOUNTY] [TypeScript] Add diagnostic metadata compare mode",
+    "url": "https://github.com/9904099/hammer-and-nail-bounty/issues/1",
+    "repo": "9904099/hammer-and-nail-bounty",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:typescript"
+    ],
+    "language": "typescript",
+    "amount_usd": 30,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-06-20T14:47:29Z",
+    "updated_at": "2026-06-22T08:04:29Z",
+    "scanned_at": "2026-06-25T20:28:10.700471+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000068",
     "title": "[$25 BOUNTY] [Rust] Add support for compressed serialization in protocol serializer",
     "url": "https://github.com/0106hyh/kickama-manifest-wizard/issues/1",
     "repo": "0106hyh/kickama-manifest-wizard",
@@ -211,11 +274,137 @@
     "comments": 5,
     "created_at": "2026-06-20T15:18:44Z",
     "updated_at": "2026-06-23T20:47:41Z",
-    "scanned_at": "2026-06-25T18:09:07.782250+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700414+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000074",
+    "title": "[$25 BOUNTY] [Go] Implement gzip response compression in gateway middleware",
+    "url": "https://github.com/0106hyh/hammer-and-nail/issues/1",
+    "repo": "0106hyh/hammer-and-nail",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:go"
+    ],
+    "language": "go",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-06-20T14:47:58Z",
+    "updated_at": "2026-06-20T15:29:36Z",
+    "scanned_at": "2026-06-25T20:28:10.700457+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000077",
+    "title": "[$25 BOUNTY] [Go] Add market readiness operations docs and tests",
+    "url": "https://github.com/jaxassistant55/TentOfTrials/issues/75",
+    "repo": "jaxassistant55/TentOfTrials",
+    "number": 75,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:go"
+    ],
+    "language": "go",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 8,
+    "created_at": "2026-06-20T13:23:21Z",
+    "updated_at": "2026-06-21T23:30:35Z",
+    "scanned_at": "2026-06-25T20:28:10.700479+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000078",
+    "title": "[$25 BOUNTY] [Perl] Add log watchdog exit-code tests",
+    "url": "https://github.com/jaxassistant55/TentOfTrials/issues/74",
+    "repo": "jaxassistant55/TentOfTrials",
+    "number": 74,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:perl"
+    ],
+    "language": "perl",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 6,
+    "created_at": "2026-06-20T13:23:19Z",
+    "updated_at": "2026-06-21T20:18:36Z",
+    "scanned_at": "2026-06-25T20:28:10.700486+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000079",
+    "title": "[$25 BOUNTY] [TypeScript] Add reconnect metrics for frontend sockets",
+    "url": "https://github.com/jaxassistant55/TentOfTrials/issues/73",
+    "repo": "jaxassistant55/TentOfTrials",
+    "number": 73,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:typescript"
+    ],
+    "language": "typescript",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 6,
+    "created_at": "2026-06-20T13:23:17Z",
+    "updated_at": "2026-06-21T23:30:33Z",
+    "scanned_at": "2026-06-25T20:28:10.700495+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000080",
+    "title": "[$25 BOUNTY] [Rust] Add graceful shutdown config docs and parser tests",
+    "url": "https://github.com/jaxassistant55/TentOfTrials/issues/72",
+    "repo": "jaxassistant55/TentOfTrials",
+    "number": 72,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:rust"
+    ],
+    "language": "rust",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-06-20T13:23:16Z",
+    "updated_at": "2026-06-22T00:30:16Z",
+    "scanned_at": "2026-06-25T20:28:10.700502+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000081",
+    "title": "[$25 BOUNTY] [Python] Add build diagnostic retention report",
+    "url": "https://github.com/jaxassistant55/TentOfTrials/issues/71",
+    "repo": "jaxassistant55/TentOfTrials",
+    "number": 71,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:python"
+    ],
+    "language": "python",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-06-20T13:23:14Z",
+    "updated_at": "2026-06-21T20:18:42Z",
+    "scanned_at": "2026-06-25T20:28:10.700508+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000028",
     "title": "Frantic bounty #18: Publish live docs for an underdocumented OSS library",
     "url": "https://github.com/auscaster/frantic-board/issues/144",
     "repo": "auscaster/frantic-board",
@@ -231,11 +420,11 @@
     "comments": 6,
     "created_at": "2026-06-23T04:16:55Z",
     "updated_at": "2026-06-23T20:39:18Z",
-    "scanned_at": "2026-06-25T18:09:03.788264+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699051+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000063",
     "title": "[$20 BOUNTY] [Go] Make analytics Collector Start idempotent",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/2",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -252,11 +441,11 @@
     "comments": 8,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-23T20:46:27Z",
-    "scanned_at": "2026-06-25T18:09:03.789518+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700370+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000065",
     "title": "[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -273,11 +462,11 @@
     "comments": 7,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-23T20:45:34Z",
-    "scanned_at": "2026-06-25T18:09:07.782199+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700388+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000071",
     "title": "[$20 BOUNTY] [Ruby] Add tests for market stream reconnect backoff",
     "url": "https://github.com/9904099/zeroeye/issues/3",
     "repo": "9904099/zeroeye",
@@ -294,11 +483,11 @@
     "comments": 5,
     "created_at": "2026-06-20T14:54:16Z",
     "updated_at": "2026-06-23T20:42:12Z",
-    "scanned_at": "2026-06-25T18:09:07.782275+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700435+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000029",
     "title": "Frantic bounty #20: runx skill: verifiable web research",
     "url": "https://github.com/auscaster/frantic-board/issues/143",
     "repo": "auscaster/frantic-board",
@@ -314,11 +503,32 @@
     "comments": 7,
     "created_at": "2026-06-23T04:16:18Z",
     "updated_at": "2026-06-24T00:55:43Z",
-    "scanned_at": "2026-06-25T18:09:03.788275+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699061+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000075",
+    "title": "[$15 BOUNTY] [Rust] Log selected backend log format at startup",
+    "url": "https://github.com/9904099/hammer-and-nail-bounty/issues/2",
+    "repo": "9904099/hammer-and-nail-bounty",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:rust"
+    ],
+    "language": "rust",
+    "amount_usd": 15,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-06-20T14:47:32Z",
+    "updated_at": "2026-06-22T06:56:14Z",
+    "scanned_at": "2026-06-25T20:28:10.700464+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000030",
     "title": "Frantic bounty #17: runx skill: dependency CVE audit",
     "url": "https://github.com/auscaster/frantic-board/issues/141",
     "repo": "auscaster/frantic-board",
@@ -334,11 +544,11 @@
     "comments": 6,
     "created_at": "2026-06-23T04:16:05Z",
     "updated_at": "2026-06-23T20:36:52Z",
-    "scanned_at": "2026-06-25T18:09:03.788284+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699071+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000011",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -355,11 +565,11 @@
     "comments": 3,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-06-25T15:24:09Z",
-    "scanned_at": "2026-06-25T18:09:03.787071+00:00",
+    "scanned_at": "2026-06-25T20:28:10.697880+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000014",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -373,14 +583,14 @@
     "language": "python",
     "amount_usd": 10,
     "state": "open",
-    "comments": 9,
+    "comments": 13,
     "created_at": "2026-06-24T13:56:33Z",
-    "updated_at": "2026-06-25T17:39:56Z",
-    "scanned_at": "2026-06-25T18:09:03.787648+00:00",
+    "updated_at": "2026-06-25T20:06:53Z",
+    "scanned_at": "2026-06-25T20:28:10.698489+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000027",
     "title": "Frantic bounty #19: runx skill: structured extraction",
     "url": "https://github.com/auscaster/frantic-board/issues/146",
     "repo": "auscaster/frantic-board",
@@ -396,11 +606,11 @@
     "comments": 6,
     "created_at": "2026-06-23T04:17:03Z",
     "updated_at": "2026-06-23T20:35:19Z",
-    "scanned_at": "2026-06-25T18:09:03.788253+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699041+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000032",
     "title": "[$10 BOUNTY] [Python] Add configurable timeout and rate limiting to health_check probes",
     "url": "https://github.com/foxyManTou/kickama-foxy-trials/issues/1",
     "repo": "foxyManTou/kickama-foxy-trials",
@@ -411,14 +621,204 @@
     "language": "unknown",
     "amount_usd": 10,
     "state": "open",
-    "comments": 14,
+    "comments": 15,
     "created_at": "2026-06-22T23:36:30Z",
-    "updated_at": "2026-06-25T14:00:49Z",
-    "scanned_at": "2026-06-25T18:09:03.788403+00:00",
+    "updated_at": "2026-06-25T19:01:38Z",
+    "scanned_at": "2026-06-25T20:28:10.699182+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[0.25 SOL bounty] Build a release readiness workflow with changelog, manifest, and install smoke report",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/19",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 19,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:ci",
+      "area:quality"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 43,
+    "created_at": "2026-06-25T18:24:10Z",
+    "updated_at": "2026-06-25T20:26:32Z",
+    "scanned_at": "2026-06-25T20:28:10.697309+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[0.25 SOL bounty] Add a README discovery optimizer for generated profile repositories",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/18",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 18,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:cli",
+      "area:quality"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-25T18:24:09Z",
+    "updated_at": "2026-06-25T20:18:25Z",
+    "scanned_at": "2026-06-25T20:28:10.697398+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[0.25 SOL bounty] Add catalog submission generators for profile directories and resource lists",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/17",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 17,
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:cli"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-25T18:24:08Z",
+    "updated_at": "2026-06-25T18:42:12Z",
+    "scanned_at": "2026-06-25T20:28:10.697466+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "[0.25 SOL bounty] Create a demo kit that records terminal demos without leaking secrets",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/16",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 16,
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:demo"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-25T18:24:06Z",
+    "updated_at": "2026-06-25T18:51:18Z",
+    "scanned_at": "2026-06-25T20:28:10.697539+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000005",
+    "title": "[0.25 SOL bounty] Ship a reusable GitHub Action for profile distribution validation",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/15",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 15,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:ci",
+      "area:quality"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-25T18:24:05Z",
+    "updated_at": "2026-06-25T18:48:23Z",
+    "scanned_at": "2026-06-25T20:28:10.697602+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "[0.25 SOL bounty] Add a profile quality scorecard with JSON and Markdown output",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/14",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 14,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:ci",
+      "area:quality"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 4,
+    "created_at": "2026-06-25T18:24:03Z",
+    "updated_at": "2026-06-25T19:06:51Z",
+    "scanned_at": "2026-06-25T20:28:10.697671+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[0.25 SOL bounty] Add an interactive profile design wizard that writes profile.params.yaml",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/13",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 13,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:cli"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-06-25T18:24:02Z",
+    "updated_at": "2026-06-25T18:58:25Z",
+    "scanned_at": "2026-06-25T20:28:10.697736+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "[0.25 SOL bounty] Build a searchable examples gallery for generated Hermes profiles",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template/issues/12",
+    "repo": "codegraphtheory/hermes-profile-template",
+    "number": 12,
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty",
+      "bounty:0.25 SOL",
+      "area:discovery",
+      "area:examples"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-06-25T18:24:01Z",
+    "updated_at": "2026-06-25T19:10:36Z",
+    "scanned_at": "2026-06-25T20:28:10.697808+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
     "title": "[radar] SN open bounty 2026-06-25T09:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/100",
     "repo": "relayhop/sn-monetization-runtime",
@@ -434,11 +834,11 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-06-25T18:09:03.786987+00:00",
+    "scanned_at": "2026-06-25T20:28:10.697825+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000010",
     "title": "[Bounty: 4 Golden Eggs] Implement golden egg factory inside goose",
     "url": "https://github.com/dwebagents/AgentPipe/issues/107",
     "repo": "dwebagents/AgentPipe",
@@ -450,14 +850,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 24,
+    "comments": 31,
     "created_at": "2026-06-25T08:56:28Z",
-    "updated_at": "2026-06-25T18:08:32Z",
-    "scanned_at": "2026-06-25T18:09:03.787050+00:00",
+    "updated_at": "2026-06-25T18:23:32Z",
+    "scanned_at": "2026-06-25T20:28:10.697862+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000012",
     "title": "[Bounty: 0.42BTC] Build the security control plane",
     "url": "https://github.com/dwebagents/AgentPipe/issues/104",
     "repo": "dwebagents/AgentPipe",
@@ -473,11 +873,11 @@
     "comments": 2,
     "created_at": "2026-06-24T22:27:04Z",
     "updated_at": "2026-06-25T16:18:34Z",
-    "scanned_at": "2026-06-25T18:09:03.787615+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698457+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000015",
     "title": "Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)",
     "url": "https://github.com/boundlessfi/boundless/issues/638",
     "repo": "boundlessfi/boundless",
@@ -495,11 +895,11 @@
     "comments": 6,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-06-25T10:02:18Z",
-    "scanned_at": "2026-06-25T18:09:03.787748+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698580+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000016",
     "title": "FE: Nav + codegen + end-to-end verification",
     "url": "https://github.com/boundlessfi/boundless/issues/637",
     "repo": "boundlessfi/boundless",
@@ -517,11 +917,11 @@
     "comments": 5,
     "created_at": "2026-06-24T10:54:16Z",
     "updated_at": "2026-06-25T10:02:18Z",
-    "scanned_at": "2026-06-25T18:09:03.787797+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698626+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000017",
     "title": "FE: Dispute resolution UI",
     "url": "https://github.com/boundlessfi/boundless/issues/636",
     "repo": "boundlessfi/boundless",
@@ -539,11 +939,11 @@
     "comments": 5,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-25T10:02:17Z",
-    "scanned_at": "2026-06-25T18:09:03.787835+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698661+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000018",
     "title": "FE: Wrap (results/winners page + announcement + archive)",
     "url": "https://github.com/boundlessfi/boundless/issues/635",
     "repo": "boundlessfi/boundless",
@@ -562,11 +962,11 @@
     "comments": 4,
     "created_at": "2026-06-24T10:54:11Z",
     "updated_at": "2026-06-25T10:02:16Z",
-    "scanned_at": "2026-06-25T18:09:03.787876+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698698+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000019",
     "title": "FE: Cancel / refund flow",
     "url": "https://github.com/boundlessfi/boundless/issues/634",
     "repo": "boundlessfi/boundless",
@@ -585,11 +985,11 @@
     "comments": 3,
     "created_at": "2026-06-24T10:54:08Z",
     "updated_at": "2026-06-25T10:02:16Z",
-    "scanned_at": "2026-06-25T18:09:03.787920+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698739+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000020",
     "title": "FE: Winner selection + Payout (select-winners signing flow)",
     "url": "https://github.com/boundlessfi/boundless/issues/633",
     "repo": "boundlessfi/boundless",
@@ -608,11 +1008,11 @@
     "comments": 4,
     "created_at": "2026-06-24T10:54:05Z",
     "updated_at": "2026-06-25T10:02:15Z",
-    "scanned_at": "2026-06-25T18:09:03.787989+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698803+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000021",
     "title": "FE: Submissions review (view submitted work for winner selection)",
     "url": "https://github.com/boundlessfi/boundless/issues/632",
     "repo": "boundlessfi/boundless",
@@ -630,11 +1030,11 @@
     "comments": 3,
     "created_at": "2026-06-24T10:54:03Z",
     "updated_at": "2026-06-25T10:02:15Z",
-    "scanned_at": "2026-06-25T18:09:03.788033+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698843+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000022",
     "title": "FE: Applications review + shortlist/select/decline (Decide)",
     "url": "https://github.com/boundlessfi/boundless/issues/631",
     "repo": "boundlessfi/boundless",
@@ -652,11 +1052,11 @@
     "comments": 2,
     "created_at": "2026-06-24T10:54:01Z",
     "updated_at": "2026-06-25T10:02:14Z",
-    "scanned_at": "2026-06-25T18:09:03.788082+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698890+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000023",
     "title": "FE: Bounty management dashboard shell + overview",
     "url": "https://github.com/boundlessfi/boundless/issues/630",
     "repo": "boundlessfi/boundless",
@@ -675,11 +1075,11 @@
     "comments": 4,
     "created_at": "2026-06-24T10:53:58Z",
     "updated_at": "2026-06-25T10:02:13Z",
-    "scanned_at": "2026-06-25T18:09:03.788137+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698940+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000024",
     "title": "[radar] SN open bounty 2026-06-24T09:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/99",
     "repo": "relayhop/sn-monetization-runtime",
@@ -695,11 +1095,11 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-06-25T18:09:03.788157+00:00",
+    "scanned_at": "2026-06-25T20:28:10.698961+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000025",
     "title": "[13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital signal processing library",
     "url": "https://github.com/dwebagents/AgentPipe/issues/95",
     "repo": "dwebagents/AgentPipe",
@@ -716,11 +1116,11 @@
     "comments": 3,
     "created_at": "2026-06-24T04:32:37Z",
     "updated_at": "2026-06-25T10:12:51Z",
-    "scanned_at": "2026-06-25T18:09:03.788219+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699017+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000031",
     "title": "[bounty] Develop the partner-perspective seed into something concrete",
     "url": "https://github.com/Eaprime1/custos/issues/130",
     "repo": "Eaprime1/custos",
@@ -735,11 +1135,11 @@
     "comments": 3,
     "created_at": "2026-06-23T01:37:23Z",
     "updated_at": "2026-06-24T02:16:21Z",
-    "scanned_at": "2026-06-25T18:09:03.788392+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699173+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000033",
     "title": "[BOUNTY] [level:intermediate] Refactor outdated packages in package.json to stable version updates",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2972",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -759,11 +1159,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:07:32Z",
     "updated_at": "2026-06-25T12:21:07Z",
-    "scanned_at": "2026-06-25T18:09:03.788443+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699223+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000034",
     "title": "[BOUNTY] [level:critical] Implement strict CORS configurations and session token revocations",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2971",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -782,11 +1182,11 @@
     "comments": 5,
     "created_at": "2026-06-21T13:07:29Z",
     "updated_at": "2026-06-25T12:21:09Z",
-    "scanned_at": "2026-06-25T18:09:03.788479+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699275+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000035",
     "title": "[BOUNTY] [level:advanced] Build a lightweight dashboard server metrics panel utilizing WebSockets",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2970",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -805,11 +1205,11 @@
     "comments": 5,
     "created_at": "2026-06-21T13:07:26Z",
     "updated_at": "2026-06-25T12:21:10Z",
-    "scanned_at": "2026-06-25T18:09:03.788519+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699314+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000036",
     "title": "[BOUNTY] [level:intermediate] Fix redundant API calls inside page initializers",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2969",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -828,11 +1228,11 @@
     "comments": 5,
     "created_at": "2026-06-21T13:07:23Z",
     "updated_at": "2026-06-25T12:21:11Z",
-    "scanned_at": "2026-06-25T18:09:03.788554+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699350+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000037",
     "title": "[BOUNTY] [level:intermediate] Standardize environment variable loading with validation schemas",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2968",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -851,11 +1251,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:07:21Z",
     "updated_at": "2026-06-25T12:21:13Z",
-    "scanned_at": "2026-06-25T18:09:03.788593+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699388+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000038",
     "title": "[BOUNTY] [level:advanced] Build clean multi-stage production Dockerfiles for both frontend and backend",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2967",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -874,11 +1274,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:07:18Z",
     "updated_at": "2026-06-25T12:21:14Z",
-    "scanned_at": "2026-06-25T18:09:03.788628+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699425+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000039",
     "title": "[BOUNTY] [level:intermediate] Create Docker compose environment for running app with local database",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2966",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -897,11 +1297,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:07:15Z",
     "updated_at": "2026-06-25T12:21:15Z",
-    "scanned_at": "2026-06-25T18:09:03.788663+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699462+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000040",
     "title": "[BOUNTY] [level:advanced] Set up GitHub Actions CI workflow to run linter and backend/frontend test suites",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2965",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -920,11 +1320,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:07:12Z",
     "updated_at": "2026-06-25T12:21:17Z",
-    "scanned_at": "2026-06-25T18:09:03.788697+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699501+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000041",
     "title": "[BOUNTY] [level:intermediate] Document all database tables and relationship schema in README.md",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2964",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -942,11 +1342,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:07:08Z",
     "updated_at": "2026-06-25T12:21:18Z",
-    "scanned_at": "2026-06-25T18:09:03.788731+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699539+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000042",
     "title": "[BOUNTY] [level:intermediate] Improve contributing guidelines CONTRIBUTING.md with step-by-step local setup",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2963",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -965,11 +1365,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:07:04Z",
     "updated_at": "2026-06-25T12:21:20Z",
-    "scanned_at": "2026-06-25T18:09:03.788766+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699576+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000043",
     "title": "[BOUNTY] [level:intermediate] Fix rendering lag in large lists by implementing FlatList memoization",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2962",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -988,11 +1388,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:07:01Z",
     "updated_at": "2026-06-25T12:21:21Z",
-    "scanned_at": "2026-06-25T18:09:03.788801+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699615+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000044",
     "title": "[BOUNTY] [level:advanced] Optimize image compression before uploading attachments to Supabase storage",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2961",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1011,11 +1411,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:06:56Z",
     "updated_at": "2026-06-25T12:21:23Z",
-    "scanned_at": "2026-06-25T18:09:03.788836+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699654+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000045",
     "title": "[BOUNTY] [level:advanced] Integrate push notifications client-side with Expo Notifications",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2960",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1034,11 +1434,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:06:39Z",
     "updated_at": "2026-06-25T12:21:25Z",
-    "scanned_at": "2026-06-25T18:09:03.788874+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699691+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000046",
     "title": "[BOUNTY] [level:intermediate] test: Add component tests for ticket details screen",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2959",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1057,11 +1457,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:06:36Z",
     "updated_at": "2026-06-25T12:21:26Z",
-    "scanned_at": "2026-06-25T18:09:03.788908+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699728+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000047",
     "title": "[BOUNTY] [level:advanced] Cache offline ticket creation payloads and sync when connection is restored",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2958",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1081,11 +1481,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:06:19Z",
     "updated_at": "2026-06-25T12:21:27Z",
-    "scanned_at": "2026-06-25T18:09:03.788948+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699765+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000048",
     "title": "[BOUNTY] [level:intermediate] Implement pull-to-refresh on tickets list screen",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2957",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1104,11 +1504,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:06:16Z",
     "updated_at": "2026-06-25T12:21:29Z",
-    "scanned_at": "2026-06-25T18:09:03.788982+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699802+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000049",
     "title": "[BOUNTY] [level:intermediate] Store local session configurations securely using Expo SecureStore",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2956",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1128,11 +1528,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:06:03Z",
     "updated_at": "2026-06-25T12:21:30Z",
-    "scanned_at": "2026-06-25T18:09:03.789020+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699839+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000050",
     "title": "[BOUNTY] [level:critical] Sanitize HTML content rendered from ticket logs to prevent XSS vulnerabilities",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2955",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1151,11 +1551,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:05:59Z",
     "updated_at": "2026-06-25T12:21:32Z",
-    "scanned_at": "2026-06-25T18:09:03.789055+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000051",
     "title": "[BOUNTY] [level:advanced] Refactor React context state management to reduce unnecessary re-renders",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2954",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1175,11 +1575,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:05:51Z",
     "updated_at": "2026-06-25T12:21:33Z",
-    "scanned_at": "2026-06-25T18:09:03.789091+00:00",
+    "scanned_at": "2026-06-25T20:28:10.699961+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000052",
     "title": "[BOUNTY] [level:intermediate] test: Add unit tests for custom auth hooks",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2953",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1199,11 +1599,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:05:41Z",
     "updated_at": "2026-06-25T12:21:35Z",
-    "scanned_at": "2026-06-25T18:09:03.789127+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700001+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000053",
     "title": "[BOUNTY] [level:advanced] Create interactive drag-and-drop board for ticket status management",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2952",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1222,11 +1622,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:05:30Z",
     "updated_at": "2026-06-25T12:21:36Z",
-    "scanned_at": "2026-06-25T18:09:03.789162+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700037+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000054",
     "title": "[BOUNTY] [level:intermediate] Implement client-side input validation with descriptive error boundaries",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2951",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1245,11 +1645,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:04:42Z",
     "updated_at": "2026-06-25T12:21:37Z",
-    "scanned_at": "2026-06-25T18:09:03.789198+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000055",
     "title": "[BOUNTY] [level:critical] Implement distributed locking for auto-resolve schedules to prevent race conditions",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2950",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1268,11 +1668,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:04:17Z",
     "updated_at": "2026-06-25T12:21:39Z",
-    "scanned_at": "2026-06-25T18:09:03.789235+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700125+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000056",
     "title": "[BOUNTY] [level:advanced] Optimize sentence embeddings retrieval pipeline using parallel processors",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2949",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1290,11 +1690,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:04:02Z",
     "updated_at": "2026-06-25T12:21:41Z",
-    "scanned_at": "2026-06-25T18:09:03.789270+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000057",
     "title": "[BOUNTY] [level:intermediate] Create API endpoints to export team statistics in CSV format",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2948",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1313,11 +1713,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:03:37Z",
     "updated_at": "2026-06-25T12:21:42Z",
-    "scanned_at": "2026-06-25T18:09:03.789308+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700198+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000058",
     "title": "[BOUNTY] [level:critical] Implement AES-256 GCM encryption for user profiles table sensitive fields",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2947",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1336,11 +1736,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:02:35Z",
     "updated_at": "2026-06-25T12:21:43Z",
-    "scanned_at": "2026-06-25T18:09:03.789378+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700236+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000059",
     "title": "[BOUNTY] [level:advanced] Introduce caching for ticket list queries using Redis",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2946",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1359,11 +1759,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:02:32Z",
     "updated_at": "2026-06-25T12:21:45Z",
-    "scanned_at": "2026-06-25T18:09:03.789415+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700272+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000060",
     "title": "[BOUNTY] [level:intermediate] Standardize error handling and user-friendly JSON payloads in auth middleware",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2945",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1382,11 +1782,11 @@
     "comments": 3,
     "created_at": "2026-06-21T13:02:26Z",
     "updated_at": "2026-06-25T12:21:46Z",
-    "scanned_at": "2026-06-25T18:09:03.789452+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700311+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000061",
     "title": "[BOUNTY] [level:intermediate] Implement detailed log level configurations in FastAPI backend",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2944",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -1406,11 +1806,11 @@
     "comments": 4,
     "created_at": "2026-06-21T13:02:22Z",
     "updated_at": "2026-06-25T12:21:47Z",
-    "scanned_at": "2026-06-25T18:09:03.789493+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700348+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000062",
     "title": "Frantic bounty #49: Give runx some love",
     "url": "https://github.com/auscaster/frantic-board/issues/106",
     "repo": "auscaster/frantic-board",
@@ -1426,11 +1826,11 @@
     "comments": 87,
     "created_at": "2026-06-21T04:58:06Z",
     "updated_at": "2026-06-24T12:37:31Z",
-    "scanned_at": "2026-06-25T18:09:03.789507+00:00",
+    "scanned_at": "2026-06-25T20:28:10.700361+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000082",
     "title": "[radar] SN open bounty 2026-06-20T09:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/96",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1446,11 +1846,11 @@
     "comments": 2,
     "created_at": "2026-06-20T09:33:24Z",
     "updated_at": "2026-06-20T10:05:00Z",
-    "scanned_at": "2026-06-25T18:10:16.810744+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000083",
     "title": "[radar] SN open bounty 2026-06-18T10:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/94",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1466,11 +1866,11 @@
     "comments": 1,
     "created_at": "2026-06-18T10:44:14Z",
     "updated_at": "2026-06-20T00:43:58Z",
-    "scanned_at": "2026-06-25T18:10:16.810796+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104456+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000084",
     "title": "[radar] SN open bounty 2026-06-13T09:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/90",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1486,11 +1886,11 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-19T21:17:11Z",
-    "scanned_at": "2026-06-25T18:10:16.810819+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104475+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000085",
     "title": "[radar] SN open bounty 2026-06-10T12:34",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/79",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1506,11 +1906,11 @@
     "comments": 0,
     "created_at": "2026-06-10T12:34:04Z",
     "updated_at": "2026-06-19T21:17:12Z",
-    "scanned_at": "2026-06-25T18:10:16.810839+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104492+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000086",
     "title": "[radar] SN open bounty 2026-06-10T10:19",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/76",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1526,11 +1926,11 @@
     "comments": 1,
     "created_at": "2026-06-10T10:19:06Z",
     "updated_at": "2026-06-12T14:33:05Z",
-    "scanned_at": "2026-06-25T18:10:16.810859+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000087",
     "title": "[radar] SN open bounty 2026-06-10T08:59",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/74",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1546,11 +1946,11 @@
     "comments": 3,
     "created_at": "2026-06-10T08:59:06Z",
     "updated_at": "2026-06-12T14:36:32Z",
-    "scanned_at": "2026-06-25T18:10:16.810879+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104523+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000088",
     "title": "[radar] SN open bounty 2026-06-10T04:41",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/72",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1566,11 +1966,11 @@
     "comments": 1,
     "created_at": "2026-06-10T04:41:16Z",
     "updated_at": "2026-06-17T10:04:07Z",
-    "scanned_at": "2026-06-25T18:10:16.810897+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104538+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000089",
     "title": "[radar] SN open bounty 2026-06-09T23:36",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/69",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1586,11 +1986,11 @@
     "comments": 3,
     "created_at": "2026-06-09T23:36:18Z",
     "updated_at": "2026-06-12T14:38:22Z",
-    "scanned_at": "2026-06-25T18:10:16.810917+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104554+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000090",
     "title": "[radar] SN open bounty 2026-06-09T21:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/64",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1606,11 +2006,11 @@
     "comments": 3,
     "created_at": "2026-06-09T21:56:40Z",
     "updated_at": "2026-06-12T14:39:22Z",
-    "scanned_at": "2026-06-25T18:10:16.810936+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104569+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000091",
     "title": "[radar] SN open bounty 2026-06-09T19:26",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/61",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1626,11 +2026,11 @@
     "comments": 3,
     "created_at": "2026-06-09T19:26:18Z",
     "updated_at": "2026-06-09T22:08:35Z",
-    "scanned_at": "2026-06-25T18:10:16.810954+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104585+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000092",
     "title": "[radar] SN open bounty 2026-06-09T16:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/57",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1646,11 +2046,11 @@
     "comments": 3,
     "created_at": "2026-06-09T16:11:22Z",
     "updated_at": "2026-06-09T18:15:17Z",
-    "scanned_at": "2026-06-25T18:10:16.810973+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104600+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000093",
     "title": "[radar] SN open bounty 2026-06-06T08:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/49",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1666,11 +2066,11 @@
     "comments": 30,
     "created_at": "2026-06-06T08:44:53Z",
     "updated_at": "2026-06-09T14:15:46Z",
-    "scanned_at": "2026-06-25T18:10:16.810994+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104617+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000096",
     "title": "Job validation should reject inverted budget ranges",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2853",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1690,11 +2090,11 @@
     "comments": 27,
     "created_at": "2026-05-31T12:44:37Z",
     "updated_at": "2026-06-24T03:16:50Z",
-    "scanned_at": "2026-06-25T18:10:16.811107+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104717+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000097",
     "title": "Freelancer profile route should resolve mock profiles by username",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1714,11 +2114,11 @@
     "comments": 20,
     "created_at": "2026-05-31T12:40:49Z",
     "updated_at": "2026-06-19T16:27:40Z",
-    "scanned_at": "2026-06-25T18:10:16.811150+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104755+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000098",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1738,11 +2138,11 @@
     "comments": 9,
     "created_at": "2026-05-31T11:26:06Z",
     "updated_at": "2026-06-19T16:27:41Z",
-    "scanned_at": "2026-06-25T18:10:16.811192+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000099",
     "title": "Search endpoint has no input validation or length limit on query",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2833",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1762,11 +2162,11 @@
     "comments": 13,
     "created_at": "2026-05-31T11:25:28Z",
     "updated_at": "2026-06-19T16:27:43Z",
-    "scanned_at": "2026-06-25T18:10:16.811242+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104835+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000100",
     "title": "fix: prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2832",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1786,11 +2186,11 @@
     "comments": 8,
     "created_at": "2026-05-31T11:25:07Z",
     "updated_at": "2026-06-19T16:27:44Z",
-    "scanned_at": "2026-06-25T18:10:16.811279+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104867+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000101",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2827",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1810,11 +2210,11 @@
     "comments": 6,
     "created_at": "2026-05-31T11:13:54Z",
     "updated_at": "2026-06-19T16:27:46Z",
-    "scanned_at": "2026-06-25T18:10:16.811321+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104904+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000102",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2822",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1834,11 +2234,11 @@
     "comments": 10,
     "created_at": "2026-05-31T10:23:41Z",
     "updated_at": "2026-06-19T16:27:47Z",
-    "scanned_at": "2026-06-25T18:10:16.811399+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104954+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000103",
     "title": "Job detail route should resolve mock jobs by id (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2790",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1858,11 +2258,11 @@
     "comments": 9,
     "created_at": "2026-05-31T10:18:10Z",
     "updated_at": "2026-06-19T16:27:49Z",
-    "scanned_at": "2026-06-25T18:10:16.811451+00:00",
+    "scanned_at": "2026-06-25T20:29:22.104999+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000104",
     "title": "@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2787",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1882,11 +2282,11 @@
     "comments": 7,
     "created_at": "2026-05-31T10:12:38Z",
     "updated_at": "2026-06-19T16:27:50Z",
-    "scanned_at": "2026-06-25T18:10:16.811499+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105042+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000105",
     "title": "@freelanceflow/ui package entrypoint should be directly importable",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2781",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1906,11 +2306,11 @@
     "comments": 13,
     "created_at": "2026-05-31T09:56:23Z",
     "updated_at": "2026-06-19T16:27:51Z",
-    "scanned_at": "2026-06-25T18:10:16.811535+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105074+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000106",
     "title": "@freelanceflow/db package should expose an importable workspace entrypoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2775",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1930,11 +2330,11 @@
     "comments": 12,
     "created_at": "2026-05-31T09:47:11Z",
     "updated_at": "2026-06-19T16:27:53Z",
-    "scanned_at": "2026-06-25T18:10:16.811574+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105123+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000107",
     "title": "Registration should require fullName to match User model",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2770",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1954,11 +2354,11 @@
     "comments": 10,
     "created_at": "2026-05-31T09:37:08Z",
     "updated_at": "2026-06-19T16:27:54Z",
-    "scanned_at": "2026-06-25T18:10:16.811613+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105159+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000108",
     "title": "Registration token subject should match returned user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2768",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -1978,11 +2378,11 @@
     "comments": 12,
     "created_at": "2026-05-31T09:33:32Z",
     "updated_at": "2026-06-19T16:27:55Z",
-    "scanned_at": "2026-06-25T18:10:16.811650+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105192+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000109",
     "title": "Freelancer profile should render matching mock profile and unknown fallback",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2763",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2002,11 +2402,11 @@
     "comments": 11,
     "created_at": "2026-05-31T09:30:54Z",
     "updated_at": "2026-06-19T16:27:57Z",
-    "scanned_at": "2026-06-25T18:10:16.811692+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105230+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000110",
     "title": "Notification creation should preserve server-owned id and read state",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2762",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2026,11 +2426,11 @@
     "comments": 11,
     "created_at": "2026-05-31T09:30:10Z",
     "updated_at": "2026-06-19T16:27:58Z",
-    "scanned_at": "2026-06-25T18:10:16.811731+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105265+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000111",
     "title": "Job detail route should resolve mock jobs by id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2760",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2050,11 +2450,11 @@
     "comments": 7,
     "created_at": "2026-05-31T09:27:30Z",
     "updated_at": "2026-06-19T16:28:00Z",
-    "scanned_at": "2026-06-25T18:10:16.811773+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105301+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000112",
     "title": "Payment API should require authentication",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2757",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2074,11 +2474,11 @@
     "comments": 8,
     "created_at": "2026-05-31T09:22:16Z",
     "updated_at": "2026-06-19T16:28:01Z",
-    "scanned_at": "2026-06-25T18:10:16.811830+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105351+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000113",
     "title": "Job detail page should render matching mock job and unknown fallback",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2755",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2098,11 +2498,11 @@
     "comments": 7,
     "created_at": "2026-05-31T09:21:16Z",
     "updated_at": "2026-06-19T16:28:03Z",
-    "scanned_at": "2026-06-25T18:10:16.811872+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105386+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000114",
     "title": "[radar] SN open bounty 2026-05-30T08:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/45",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2118,11 +2518,11 @@
     "comments": 0,
     "created_at": "2026-05-30T08:38:56Z",
     "updated_at": "2026-06-04T05:57:45Z",
-    "scanned_at": "2026-06-25T18:10:16.811889+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105403+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000115",
     "title": "Bug: Admin role self-assignment via registration endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1823",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2141,11 +2541,11 @@
     "comments": 11,
     "created_at": "2026-05-30T05:32:04Z",
     "updated_at": "2026-06-19T16:28:04Z",
-    "scanned_at": "2026-06-25T18:10:16.811935+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105442+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000116",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1810",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2164,11 +2564,11 @@
     "comments": 5,
     "created_at": "2026-05-30T05:03:04Z",
     "updated_at": "2026-06-19T16:28:06Z",
-    "scanned_at": "2026-06-25T18:10:16.812002+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105498+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000117",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1795",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2187,11 +2587,11 @@
     "comments": 3,
     "created_at": "2026-05-30T04:33:24Z",
     "updated_at": "2026-06-19T16:28:07Z",
-    "scanned_at": "2026-06-25T18:10:16.812066+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105554+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000118",
     "title": "fix: enforce authentication on job creation endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1783",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2210,11 +2610,11 @@
     "comments": 4,
     "created_at": "2026-05-30T04:11:29Z",
     "updated_at": "2026-06-19T16:28:08Z",
-    "scanned_at": "2026-06-25T18:10:16.812105+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105597+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000119",
     "title": "fix: prevent DoS on search endpoint via query length limit and input validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1781",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2233,11 +2633,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:57:53Z",
     "updated_at": "2026-06-19T16:28:10Z",
-    "scanned_at": "2026-06-25T18:10:16.812145+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105638+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000120",
     "title": "Patch PostCSS audit advisory from Next dependency lockfile",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1779",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2256,11 +2656,11 @@
     "comments": 2,
     "created_at": "2026-05-30T03:45:28Z",
     "updated_at": "2026-06-19T16:28:11Z",
-    "scanned_at": "2026-06-25T18:10:16.812183+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105679+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000121",
     "title": "Search endpoint has no input validation or length limit on query",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1777",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2279,11 +2679,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:15:09Z",
     "updated_at": "2026-06-23T09:40:05Z",
-    "scanned_at": "2026-06-25T18:10:16.812226+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105724+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000122",
     "title": "Job creation endpoint lacks authentication — anyone can post jobs",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1776",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2302,11 +2702,11 @@
     "comments": 4,
     "created_at": "2026-05-30T03:15:04Z",
     "updated_at": "2026-06-19T16:28:14Z",
-    "scanned_at": "2026-06-25T18:10:16.812264+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105764+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000123",
     "title": "Refresh token endpoint ignores the provided refresh token",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1775",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2325,11 +2725,11 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:59Z",
     "updated_at": "2026-06-19T16:28:15Z",
-    "scanned_at": "2026-06-25T18:10:16.812317+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105818+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000124",
     "title": "CORS configured with no origin restrictions — allows any domain",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1774",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2348,11 +2748,11 @@
     "comments": 12,
     "created_at": "2026-05-30T03:14:54Z",
     "updated_at": "2026-06-19T16:28:17Z",
-    "scanned_at": "2026-06-25T18:10:16.812371+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105861+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000125",
     "title": "User creation endpoint has no input validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2373,11 +2773,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:14:49Z",
     "updated_at": "2026-06-17T10:02:45Z",
-    "scanned_at": "2026-06-25T18:10:16.812424+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105914+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000126",
     "title": "Payment endpoint lacks authentication — unauthenticated payment creation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1772",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2398,11 +2798,11 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:45Z",
     "updated_at": "2026-06-17T10:07:11Z",
-    "scanned_at": "2026-06-25T18:10:16.812467+00:00",
+    "scanned_at": "2026-06-25T20:29:22.105958+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000127",
     "title": "Upload endpoint lacks authentication — unauthenticated file uploads allowed",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1771",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2423,11 +2823,11 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:41Z",
     "updated_at": "2026-06-17T10:02:41Z",
-    "scanned_at": "2026-06-25T18:10:16.812511+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000128",
     "title": "Admin routes lack role-based access control — any authenticated user can access admin endpoints",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2448,11 +2848,11 @@
     "comments": 7,
     "created_at": "2026-05-30T03:14:36Z",
     "updated_at": "2026-06-23T11:42:07Z",
-    "scanned_at": "2026-06-25T18:10:16.812560+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106052+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000129",
     "title": "Bug: user creation accepts empty payloads and client-controlled ids",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1766",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2473,11 +2873,11 @@
     "comments": 4,
     "created_at": "2026-05-30T03:10:27Z",
     "updated_at": "2026-06-17T10:07:12Z",
-    "scanned_at": "2026-06-25T18:10:16.812612+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106105+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000130",
     "title": "Bug: Missing admin role authorization check on admin metrics endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1764",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2498,11 +2898,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:55:48Z",
     "updated_at": "2026-06-17T10:07:13Z",
-    "scanned_at": "2026-06-25T18:10:16.812649+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106157+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000131",
     "title": "Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1760",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2523,11 +2923,11 @@
     "comments": 2,
     "created_at": "2026-05-30T02:32:12Z",
     "updated_at": "2026-06-17T10:07:14Z",
-    "scanned_at": "2026-06-25T18:10:16.812729+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106238+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000132",
     "title": "Bug: registerUser signs token with a different generated user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1758",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2548,11 +2948,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:26:10Z",
     "updated_at": "2026-06-17T10:07:15Z",
-    "scanned_at": "2026-06-25T18:10:16.812773+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106284+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000133",
     "title": "fix(auth): prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1755",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2573,11 +2973,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:15:52Z",
     "updated_at": "2026-06-17T10:07:17Z",
-    "scanned_at": "2026-06-25T18:10:16.812807+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106321+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000134",
     "title": "Bug: Refresh endpoint mints tokens without validating a refresh token",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1750",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2598,11 +2998,11 @@
     "comments": 7,
     "created_at": "2026-05-30T01:59:14Z",
     "updated_at": "2026-06-17T10:07:18Z",
-    "scanned_at": "2026-06-25T18:10:16.812859+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106375+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000135",
     "title": "Registration token subject can drift from returned user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1743",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2623,11 +3023,11 @@
     "comments": 4,
     "created_at": "2026-05-30T01:25:17Z",
     "updated_at": "2026-06-17T10:07:19Z",
-    "scanned_at": "2026-06-25T18:10:16.812908+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106423+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000136",
     "title": "fix: prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1742",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2648,11 +3048,11 @@
     "comments": 4,
     "created_at": "2026-05-30T01:24:51Z",
     "updated_at": "2026-06-17T10:07:20Z",
-    "scanned_at": "2026-06-25T18:10:16.812940+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106455+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000137",
     "title": "Bug: Proposal creation accepts records missing estimated duration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1739",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2673,11 +3073,11 @@
     "comments": 3,
     "created_at": "2026-05-30T01:01:31Z",
     "updated_at": "2026-06-17T10:07:21Z",
-    "scanned_at": "2026-06-25T18:10:16.812960+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106474+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000138",
     "title": "fix: prevent admin role self-assignment",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1737",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2698,11 +3098,11 @@
     "comments": 4,
     "created_at": "2026-05-30T00:51:09Z",
     "updated_at": "2026-06-17T10:07:22Z",
-    "scanned_at": "2026-06-25T18:10:16.812982+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106495+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000139",
     "title": "Bug: Rate limiter should count malformed JSON before body parsing",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1735",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2723,11 +3123,11 @@
     "comments": 2,
     "created_at": "2026-05-29T23:57:13Z",
     "updated_at": "2026-06-17T10:02:48Z",
-    "scanned_at": "2026-06-25T18:10:16.813002+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106513+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000140",
     "title": "fix: prevent admin role self-assignment",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1426",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -2748,7 +3148,7 @@
     "comments": 5,
     "created_at": "2026-05-29T05:45:38Z",
     "updated_at": "2026-06-17T10:14:07Z",
-    "scanned_at": "2026-06-25T18:10:16.813024+00:00",
+    "scanned_at": "2026-06-25T20:29:22.106533+00:00",
     "status": "new"
   }
 ]
