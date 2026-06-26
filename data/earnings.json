@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-26T12:30:41.131517+00:00",
+  "updated": "2026-06-26T15:12:28.494760+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-06-26T12:30:34.187420+00:00",
+    "checked_at": "2026-06-26T15:12:21.690665+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
@@ -28,9 +28,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "blocked",
+      "mergeable": "unknown",
       "reviews": 8,
-      "checked_at": "2026-06-26T12:30:35.088022+00:00"
+      "checked_at": "2026-06-26T15:12:22.384567+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -42,9 +42,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "clean",
+      "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-26T12:30:36.229978+00:00"
+      "checked_at": "2026-06-26T15:12:23.448804+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -56,9 +56,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "clean",
+      "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-26T12:30:37.328270+00:00"
+      "checked_at": "2026-06-26T15:12:24.664046+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -70,9 +70,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "dirty",
+      "mergeable": "unknown",
       "reviews": 0,
-      "checked_at": "2026-06-26T12:30:38.403015+00:00"
+      "checked_at": "2026-06-26T15:12:25.803562+00:00"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -84,9 +84,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "unknown",
+      "mergeable": "dirty",
       "reviews": 6,
-      "checked_at": "2026-06-26T12:30:39.527633+00:00"
+      "checked_at": "2026-06-26T15:12:26.875957+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -100,7 +100,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-06-26T12:30:40.630233+00:00"
+      "checked_at": "2026-06-26T15:12:27.993972+00:00"
     }
   ],
   "history": [
