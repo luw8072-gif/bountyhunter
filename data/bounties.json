@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000098",
+    "id": "BH-000099",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -16,11 +16,11 @@
     "comments": 29,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-01T08:51:39Z",
-    "scanned_at": "2026-07-01T11:37:57.601544+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871568+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000162",
     "title": "Calculate the exact value of PI",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -41,11 +41,11 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-19T16:27:12Z",
-    "scanned_at": "2026-07-01T11:38:04.079259+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454321+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000163",
     "title": "Calculate the exact value of PI #2872",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2883",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -66,32 +66,11 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-19T16:27:37Z",
-    "scanned_at": "2026-07-01T11:38:04.079280+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454342+00:00",
     "status": "new"
   },
   {
     "id": "BH-000002",
-    "title": "[BUG] Insecure Federation SSO → Cross-Tenant Account Takeover $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/212",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 212,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 106,
-    "created_at": "2026-07-01T00:00:40Z",
-    "updated_at": "2026-07-01T11:31:12Z",
-    "scanned_at": "2026-07-01T11:36:44.541277+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000003",
     "title": "[BUG] DNS Rebinding + WebRTC → Internal Network Reconnaissance $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/211",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -108,11 +87,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:38Z",
     "updated_at": "2026-07-01T09:27:49Z",
-    "scanned_at": "2026-07-01T11:36:44.541293+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777502+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000003",
     "title": "[BUG] JWT None Algorithm + Weak Secret + Kid Injection Triple Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/210",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -129,11 +108,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:37Z",
     "updated_at": "2026-07-01T09:27:51Z",
-    "scanned_at": "2026-07-01T11:36:44.541305+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000004",
     "title": "[BUG] Blind RCE via Server-Side Template Injection in Sandboxed Env $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/209",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -150,32 +129,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:35Z",
     "updated_at": "2026-07-01T09:27:52Z",
-    "scanned_at": "2026-07-01T11:36:44.541315+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777530+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
-    "title": "[BUG] Cross-Site Search (XS-Search) → User Data Enumeration $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/208",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 208,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 6,
-    "created_at": "2026-07-01T00:00:33Z",
-    "updated_at": "2026-07-01T09:27:53Z",
-    "scanned_at": "2026-07-01T11:36:44.541343+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000007",
+    "id": "BH-000005",
     "title": "[BUG] Server-Side Prototype Pollution to RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/205",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -192,11 +150,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:28Z",
     "updated_at": "2026-07-01T09:27:54Z",
-    "scanned_at": "2026-07-01T11:36:44.541354+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777541+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000006",
     "title": "[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/202",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -213,11 +171,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:23Z",
     "updated_at": "2026-07-01T09:27:56Z",
-    "scanned_at": "2026-07-01T11:36:44.541363+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777564+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000007",
     "title": "[BUG] Race Condition in Distributed Transaction → Double Spending $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/200",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -234,32 +192,11 @@
     "comments": 9,
     "created_at": "2026-07-01T00:00:19Z",
     "updated_at": "2026-07-01T11:27:53Z",
-    "scanned_at": "2026-07-01T11:36:44.541372+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777574+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
-    "title": "[BUG] Hash Length Extension Attack on JWT Signature $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/199",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 199,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-07-01T00:00:18Z",
-    "updated_at": "2026-07-01T11:31:01Z",
-    "scanned_at": "2026-07-01T11:36:44.541381+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000011",
+    "id": "BH-000008",
     "title": "[BUG] Prototype Pollution → DOM XSS → Full Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/198",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -276,32 +213,11 @@
     "comments": 6,
     "created_at": "2026-07-01T00:00:16Z",
     "updated_at": "2026-07-01T09:28:33Z",
-    "scanned_at": "2026-07-01T11:36:44.541390+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777584+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
-    "title": "[BUG] Spring4Shell + CVE Chain for Unauthenticated RCE $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/197",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 197,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-07-01T00:00:14Z",
-    "updated_at": "2026-07-01T11:34:31Z",
-    "scanned_at": "2026-07-01T11:36:44.541399+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000013",
+    "id": "BH-000009",
     "title": "[BUG] gRPC Reflection API Abuse → Service Enumeration → Exploitation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/196",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -315,14 +231,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-07-01T00:00:13Z",
-    "updated_at": "2026-07-01T09:52:53Z",
-    "scanned_at": "2026-07-01T11:36:44.541408+00:00",
+    "updated_at": "2026-07-01T11:37:28Z",
+    "scanned_at": "2026-07-01T14:07:22.777594+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000010",
     "title": "[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/195",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -336,14 +252,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-07-01T00:00:11Z",
-    "updated_at": "2026-07-01T09:52:55Z",
-    "scanned_at": "2026-07-01T11:36:44.541417+00:00",
+    "updated_at": "2026-07-01T11:39:32Z",
+    "scanned_at": "2026-07-01T14:07:22.777603+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000011",
     "title": "[BUG] LDAP Injection with Blind Boolean-Based Extraction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/194",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -360,11 +276,11 @@
     "comments": 10,
     "created_at": "2026-07-01T00:00:09Z",
     "updated_at": "2026-07-01T09:56:26Z",
-    "scanned_at": "2026-07-01T11:36:44.541426+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777635+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000012",
     "title": "[BUG] CRDT Conflict Resolution Bypass → Data Corruption $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/193",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -378,14 +294,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 8,
+    "comments": 10,
     "created_at": "2026-07-01T00:00:07Z",
-    "updated_at": "2026-07-01T09:56:24Z",
-    "scanned_at": "2026-07-01T11:36:44.541438+00:00",
+    "updated_at": "2026-07-01T12:00:03Z",
+    "scanned_at": "2026-07-01T14:07:22.777648+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000013",
     "title": "[BOUNTY $100] Add unified IG + Twitter action log API endpoint",
     "url": "https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/155",
     "repo": "David-patrick-chuks/Riona-AI-Agent",
@@ -399,11 +315,11 @@
     "comments": 9,
     "created_at": "2026-06-30T17:13:29Z",
     "updated_at": "2026-07-01T10:14:50Z",
-    "scanned_at": "2026-07-01T11:36:44.541449+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777659+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000014",
     "title": "[BUG] Zero-Click Account Takeover via Email Normalization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/156",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -417,35 +333,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 7,
+    "comments": 9,
     "created_at": "2026-06-30T12:15:00Z",
-    "updated_at": "2026-07-01T09:34:03Z",
-    "scanned_at": "2026-07-01T11:36:44.541458+00:00",
+    "updated_at": "2026-07-01T14:02:13Z",
+    "scanned_at": "2026-07-01T14:07:22.777668+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
-    "title": "[BUG] Serverless Function Event Injection → Privilege Escalation $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/155",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 155,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-06-30T12:14:58Z",
-    "updated_at": "2026-07-01T09:34:04Z",
-    "scanned_at": "2026-07-01T11:36:44.541467+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000020",
+    "id": "BH-000015",
     "title": "[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/154",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -459,14 +354,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:56Z",
-    "updated_at": "2026-07-01T09:34:05Z",
-    "scanned_at": "2026-07-01T11:36:44.541476+00:00",
+    "updated_at": "2026-07-01T14:02:15Z",
+    "scanned_at": "2026-07-01T14:07:22.777678+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000016",
     "title": "[BUG] Reentrancy Attack on DeFi Withdraw Function $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/153",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -480,35 +375,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:54Z",
-    "updated_at": "2026-07-01T09:34:06Z",
-    "scanned_at": "2026-07-01T11:36:44.541485+00:00",
+    "updated_at": "2026-07-01T14:02:16Z",
+    "scanned_at": "2026-07-01T14:07:22.777691+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
-    "title": "[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/152",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 152,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-06-30T12:14:53Z",
-    "updated_at": "2026-07-01T09:34:07Z",
-    "scanned_at": "2026-07-01T11:36:44.541494+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000023",
+    "id": "BH-000017",
     "title": "[BUG] Path Traversal + Log Poisoning → RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/151",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -522,14 +396,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 6,
+    "comments": 8,
     "created_at": "2026-06-30T12:14:51Z",
-    "updated_at": "2026-07-01T09:34:08Z",
-    "scanned_at": "2026-07-01T11:36:44.541503+00:00",
+    "updated_at": "2026-07-01T14:02:18Z",
+    "scanned_at": "2026-07-01T14:07:22.777700+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000018",
     "title": "[BUG] Log4j JNDI Injection in Custom Logging Framework $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/150",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -543,14 +417,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:49Z",
-    "updated_at": "2026-07-01T09:34:10Z",
-    "scanned_at": "2026-07-01T11:36:44.541512+00:00",
+    "updated_at": "2026-07-01T14:02:20Z",
+    "scanned_at": "2026-07-01T14:07:22.777709+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000019",
     "title": "[BUG] Full Chain: XSS → CSRF → Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/149",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -564,14 +438,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:48Z",
-    "updated_at": "2026-07-01T09:34:11Z",
-    "scanned_at": "2026-07-01T11:36:44.541521+00:00",
+    "updated_at": "2026-07-01T14:02:22Z",
+    "scanned_at": "2026-07-01T14:07:22.777718+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000020",
     "title": "[BUG] Docker Container Escape via Mounted Docker Socket $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/148",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -585,14 +459,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:45Z",
-    "updated_at": "2026-07-01T09:34:12Z",
-    "scanned_at": "2026-07-01T11:36:44.541533+00:00",
+    "updated_at": "2026-07-01T14:02:23Z",
+    "scanned_at": "2026-07-01T14:07:22.777728+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000021",
     "title": "[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/147",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -606,14 +480,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:44Z",
-    "updated_at": "2026-07-01T09:34:13Z",
-    "scanned_at": "2026-07-01T11:36:44.541545+00:00",
+    "updated_at": "2026-07-01T14:02:25Z",
+    "scanned_at": "2026-07-01T14:07:22.777737+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000022",
     "title": "[BUG] Web Cache Deception + Session Fixation Combined $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/146",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -627,14 +501,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 7,
+    "comments": 8,
     "created_at": "2026-06-30T12:14:42Z",
-    "updated_at": "2026-07-01T09:56:28Z",
-    "scanned_at": "2026-07-01T11:36:44.541555+00:00",
+    "updated_at": "2026-07-01T14:02:27Z",
+    "scanned_at": "2026-07-01T14:07:22.777746+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000023",
     "title": "[BUG] WebAssembly Memory Corruption → Sandbox Escape $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/145",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -648,14 +522,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:40Z",
-    "updated_at": "2026-07-01T10:21:18Z",
-    "scanned_at": "2026-07-01T11:36:44.541564+00:00",
+    "updated_at": "2026-07-01T14:02:29Z",
+    "scanned_at": "2026-07-01T14:07:22.777755+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000024",
     "title": "[BUG] Second-Order SQL Injection in Stored Procedure Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/144",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -669,14 +543,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 7,
+    "comments": 8,
     "created_at": "2026-06-30T12:14:38Z",
-    "updated_at": "2026-07-01T10:21:52Z",
-    "scanned_at": "2026-07-01T11:36:44.541575+00:00",
+    "updated_at": "2026-07-01T14:02:31Z",
+    "scanned_at": "2026-07-01T14:07:22.777764+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000025",
     "title": "[BUG] RCE through Unsafe YAML Load in Configuration Parser $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/143",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -690,14 +564,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 9,
+    "comments": 10,
     "created_at": "2026-06-30T12:14:37Z",
-    "updated_at": "2026-07-01T09:56:33Z",
-    "scanned_at": "2026-07-01T11:36:44.541584+00:00",
+    "updated_at": "2026-07-01T14:02:33Z",
+    "scanned_at": "2026-07-01T14:07:22.777773+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000026",
     "title": "[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/140",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -711,14 +585,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:32Z",
-    "updated_at": "2026-07-01T09:56:34Z",
-    "scanned_at": "2026-07-01T11:36:44.541593+00:00",
+    "updated_at": "2026-07-01T14:02:35Z",
+    "scanned_at": "2026-07-01T14:07:22.777785+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000027",
     "title": "[BUG] WebSocket Cross-Origin Hijacking + Session Prediction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/138",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -732,14 +606,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:28Z",
-    "updated_at": "2026-07-01T09:55:29Z",
-    "scanned_at": "2026-07-01T11:36:44.541603+00:00",
+    "updated_at": "2026-07-01T14:02:37Z",
+    "scanned_at": "2026-07-01T14:07:22.777796+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000028",
     "title": "[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/137",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -753,14 +627,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "created_at": "2026-06-30T12:14:26Z",
-    "updated_at": "2026-07-01T09:55:27Z",
-    "scanned_at": "2026-07-01T11:36:44.541613+00:00",
+    "updated_at": "2026-07-01T14:02:38Z",
+    "scanned_at": "2026-07-01T14:07:22.777805+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000029",
     "title": "[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/136",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -774,14 +648,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-06-30T12:14:24Z",
-    "updated_at": "2026-07-01T09:54:34Z",
-    "scanned_at": "2026-07-01T11:36:44.541622+00:00",
+    "updated_at": "2026-07-01T14:02:40Z",
+    "scanned_at": "2026-07-01T14:07:22.777815+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000030",
     "title": "[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/135",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -795,35 +669,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:23Z",
-    "updated_at": "2026-07-01T09:54:33Z",
-    "scanned_at": "2026-07-01T11:36:44.541636+00:00",
+    "updated_at": "2026-07-01T14:02:42Z",
+    "scanned_at": "2026-07-01T14:07:22.777825+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
-    "title": "[BUG] Dangling DNS Record → Subdomain Takeover → Cookie Stealing $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/134",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 134,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-06-30T12:14:21Z",
-    "updated_at": "2026-07-01T09:54:31Z",
-    "scanned_at": "2026-07-01T11:36:44.541646+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000038",
+    "id": "BH-000031",
     "title": "[BUG] Timing-Based Blind Data Extraction via Race Window $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/133",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -837,14 +690,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-06-30T12:14:19Z",
-    "updated_at": "2026-07-01T09:54:30Z",
-    "scanned_at": "2026-07-01T11:36:44.541654+00:00",
+    "updated_at": "2026-07-01T14:02:44Z",
+    "scanned_at": "2026-07-01T14:07:22.777838+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000032",
     "title": "[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/132",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -858,14 +711,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:17Z",
-    "updated_at": "2026-07-01T09:54:28Z",
-    "scanned_at": "2026-07-01T11:36:44.541663+00:00",
+    "updated_at": "2026-07-01T14:02:45Z",
+    "scanned_at": "2026-07-01T14:07:22.777849+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000033",
     "title": "[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/131",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -879,14 +732,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-06-30T12:14:15Z",
-    "updated_at": "2026-07-01T09:54:27Z",
-    "scanned_at": "2026-07-01T11:36:44.541672+00:00",
+    "updated_at": "2026-07-01T14:02:47Z",
+    "scanned_at": "2026-07-01T14:07:22.777859+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000034",
     "title": "[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/130",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -900,14 +753,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-30T12:14:14Z",
-    "updated_at": "2026-07-01T09:59:45Z",
-    "scanned_at": "2026-07-01T11:36:44.541680+00:00",
+    "updated_at": "2026-07-01T14:02:49Z",
+    "scanned_at": "2026-07-01T14:07:22.777869+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000035",
     "title": "[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/129",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -921,14 +774,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 1,
+    "comments": 3,
     "created_at": "2026-06-30T12:14:12Z",
-    "updated_at": "2026-07-01T08:58:34Z",
-    "scanned_at": "2026-07-01T11:36:44.541690+00:00",
+    "updated_at": "2026-07-01T14:02:51Z",
+    "scanned_at": "2026-07-01T14:07:22.777878+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000037",
     "title": "[BUG] Authentication Bypass via JKI Injection $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/117",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -945,11 +798,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:38:08Z",
     "updated_at": "2026-07-01T08:59:48Z",
-    "scanned_at": "2026-07-01T11:36:44.541709+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777900+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000040",
     "title": "[BUG] Command Injection in Image Processing $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/111",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -966,11 +819,11 @@
     "comments": 9,
     "created_at": "2026-06-30T11:37:57Z",
     "updated_at": "2026-07-01T09:56:51Z",
-    "scanned_at": "2026-07-01T11:36:44.541768+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777927+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000042",
     "title": "[BUG] SSTI to RCE via Template Engine $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/109",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -987,11 +840,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:54Z",
     "updated_at": "2026-06-30T12:09:03Z",
-    "scanned_at": "2026-07-01T11:36:44.541784+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000044",
     "title": "[BUG] Mass Assignment to Privilege Escalation $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/107",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1008,11 +861,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:51Z",
     "updated_at": "2026-07-01T09:56:53Z",
-    "scanned_at": "2026-07-01T11:36:44.541804+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777966+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000047",
     "title": "[BUG] Full Takeover via Cache Poisoning $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/104",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1029,11 +882,11 @@
     "comments": 7,
     "created_at": "2026-06-30T11:37:46Z",
     "updated_at": "2026-07-01T09:56:57Z",
-    "scanned_at": "2026-07-01T11:36:44.541833+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777998+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000052",
     "title": "[BUG] Server-Side Template Injection (SSTI) v3 $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/99",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1050,11 +903,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:38Z",
     "updated_at": "2026-06-30T12:21:19Z",
-    "scanned_at": "2026-07-01T11:36:44.541916+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778043+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000056",
     "title": "[BUG] Buffer Overflow in Native Module $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/95",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1071,11 +924,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:31Z",
     "updated_at": "2026-07-01T09:00:49Z",
-    "scanned_at": "2026-07-01T11:36:44.541955+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778082+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000061",
     "title": "[BUG] Path Traversal in File Download API $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/88",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1092,11 +945,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:17:10Z",
     "updated_at": "2026-07-01T09:57:03Z",
-    "scanned_at": "2026-07-01T11:36:44.542004+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778135+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000062",
     "title": "[BUG] LDAP Injection in Authentication $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/87",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1113,11 +966,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:17:03Z",
     "updated_at": "2026-07-01T09:57:04Z",
-    "scanned_at": "2026-07-01T11:36:44.542013+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778144+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000063",
     "title": "[BUG] JWT None Algorithm Attack $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/86",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1134,11 +987,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:16:58Z",
     "updated_at": "2026-07-01T09:57:06Z",
-    "scanned_at": "2026-07-01T11:36:44.542021+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778153+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000064",
     "title": "[BUG] Race Condition in File Upload Handler $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/85",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1155,11 +1008,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:16:52Z",
     "updated_at": "2026-07-01T09:57:07Z",
-    "scanned_at": "2026-07-01T11:36:44.542030+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000065",
     "title": "[BUG] Remote Code Execution (RCE) via Unsafe Deserialization $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/84",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1176,11 +1029,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:48Z",
     "updated_at": "2026-07-01T09:57:09Z",
-    "scanned_at": "2026-07-01T11:36:44.542040+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778170+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000076",
     "title": "[BUG] Server-Side Prototype Pollution — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/38",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1196,11 +1049,11 @@
     "comments": 31,
     "created_at": "2026-06-30T04:19:45Z",
     "updated_at": "2026-06-30T12:22:34Z",
-    "scanned_at": "2026-07-01T11:36:44.542145+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778277+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000078",
     "title": "[BUG] SSRF (Blind) — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/36",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1216,11 +1069,11 @@
     "comments": 7,
     "created_at": "2026-06-30T04:19:38Z",
     "updated_at": "2026-07-01T08:41:57Z",
-    "scanned_at": "2026-07-01T11:36:44.542160+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778297+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000081",
     "title": "[BUG] JWT Algorithm Confusion — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/33",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1236,11 +1089,11 @@
     "comments": 32,
     "created_at": "2026-06-30T04:19:27Z",
     "updated_at": "2026-07-01T08:41:40Z",
-    "scanned_at": "2026-07-01T11:37:57.012002+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778323+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000111",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -1257,11 +1110,11 @@
     "comments": 18,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-06-30T00:43:39Z",
-    "scanned_at": "2026-07-01T11:37:57.602068+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872095+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000114",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -1278,11 +1131,11 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-01T11:37:57.602092+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872119+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000038",
     "title": "[BUG] File Upload Bypass via Double Extension $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/116",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1299,11 +1152,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:38:06Z",
     "updated_at": "2026-06-30T11:56:44Z",
-    "scanned_at": "2026-07-01T11:36:44.541718+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777909+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000039",
     "title": "[BUG] Business Logic Flaw in Refund System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/115",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1320,11 +1173,11 @@
     "comments": 10,
     "created_at": "2026-06-30T11:38:04Z",
     "updated_at": "2026-07-01T09:56:41Z",
-    "scanned_at": "2026-07-01T11:36:44.541729+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777918+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000041",
     "title": "[BUG] Hidden API Endpoint Discovery $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/110",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1341,11 +1194,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:37:56Z",
     "updated_at": "2026-06-30T15:46:50Z",
-    "scanned_at": "2026-07-01T11:36:44.541776+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777938+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000043",
     "title": "[BUG] Email Spoofing via Missing SPF/DKIM $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/108",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1362,11 +1215,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:37:52Z",
     "updated_at": "2026-06-30T22:10:12Z",
-    "scanned_at": "2026-07-01T11:36:44.541795+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777956+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000048",
     "title": "[BUG] Blind XSS in Support Ticket System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/103",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1383,11 +1236,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:44Z",
     "updated_at": "2026-07-01T09:51:54Z",
-    "scanned_at": "2026-07-01T11:36:44.541871+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778006+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000050",
     "title": "[BUG] DOM Clobbering Attack $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/101",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1404,11 +1257,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:41Z",
     "updated_at": "2026-07-01T09:51:51Z",
-    "scanned_at": "2026-07-01T11:36:44.541894+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778025+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000051",
     "title": "[BUG] Zip Slip via Archive Upload $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/100",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1425,11 +1278,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:39Z",
     "updated_at": "2026-07-01T09:51:50Z",
-    "scanned_at": "2026-07-01T11:36:44.541903+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778034+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000055",
     "title": "[BUG] Blind NoSQL Injection in Login $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/96",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1446,11 +1299,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:32Z",
     "updated_at": "2026-06-30T11:42:32Z",
-    "scanned_at": "2026-07-01T11:36:44.541944+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778071+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000057",
     "title": "[BUG] Insecure Password Reset Token $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/93",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1467,11 +1320,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:28Z",
     "updated_at": "2026-06-30T12:15:37Z",
-    "scanned_at": "2026-07-01T11:36:44.541963+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778093+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000058",
     "title": "[BUG] Race Condition in Wallet Transfer $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/92",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1488,11 +1341,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:26Z",
     "updated_at": "2026-06-30T12:14:46Z",
-    "scanned_at": "2026-07-01T11:36:44.541971+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000066",
     "title": "[BUG] Open Redirect in OAuth Callback $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/83",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1509,11 +1362,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:16:43Z",
     "updated_at": "2026-07-01T09:57:10Z",
-    "scanned_at": "2026-07-01T11:36:44.542050+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778182+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000067",
     "title": "[BUG] Mass Assignment in User Profile Update $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/82",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1530,11 +1383,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:37Z",
     "updated_at": "2026-06-30T11:22:23Z",
-    "scanned_at": "2026-07-01T11:36:44.542063+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778190+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000068",
     "title": "[BUG] NoSQL Injection in MongoDB Query $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/81",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1551,11 +1404,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:32Z",
     "updated_at": "2026-07-01T08:48:38Z",
-    "scanned_at": "2026-07-01T11:36:44.542072+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778199+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000069",
     "title": "[BUG] Broken Access Control - Horizontal Privilege Escalation $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/80",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1572,11 +1425,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:27Z",
     "updated_at": "2026-06-30T11:22:48Z",
-    "scanned_at": "2026-07-01T11:36:44.542080+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778208+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000070",
     "title": "[BUG] XML External Entity (XXE) Injection $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/79",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1593,11 +1446,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:21Z",
     "updated_at": "2026-06-30T11:23:01Z",
-    "scanned_at": "2026-07-01T11:36:44.542089+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778217+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000075",
     "title": "[BUG] Dependency Confusion — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/39",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1613,11 +1466,11 @@
     "comments": 47,
     "created_at": "2026-06-30T04:19:48Z",
     "updated_at": "2026-06-30T12:23:31Z",
-    "scanned_at": "2026-07-01T11:36:44.542136+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778266+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000080",
     "title": "[BUG] Cache Poisoning — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/34",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1633,11 +1486,71 @@
     "comments": 16,
     "created_at": "2026-06-30T04:19:31Z",
     "updated_at": "2026-06-30T12:21:55Z",
-    "scanned_at": "2026-07-01T11:37:57.011974+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778314+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000082",
+    "title": "[BUG] OAuth Misconfiguration — $25",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/32",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 32,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 33,
+    "created_at": "2026-06-30T04:19:23Z",
+    "updated_at": "2026-07-01T09:10:10Z",
+    "scanned_at": "2026-07-01T14:07:22.778334+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000083",
+    "title": "[BUG] WebSocket Hijacking — $25",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/31",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 31,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 49,
+    "created_at": "2026-06-30T04:19:19Z",
+    "updated_at": "2026-07-01T09:13:50Z",
+    "scanned_at": "2026-07-01T14:07:22.778342+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000084",
+    "title": "[BUG] GraphQL Injection — $25",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/30",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 30,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 25,
+    "state": "open",
+    "comments": 33,
+    "created_at": "2026-06-30T04:19:16Z",
+    "updated_at": "2026-06-30T12:20:46Z",
+    "scanned_at": "2026-07-01T14:07:22.778351+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000113",
     "title": "[$20 BOUNTY] [Go] Make analytics Collector Start idempotent",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/2",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -1654,11 +1567,11 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-07-01T11:37:57.602084+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872111+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000036",
     "title": "[BUG] Insecure File Permissions $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/118",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1676,77 +1589,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:38:09Z",
     "updated_at": "2026-06-30T12:15:34Z",
-    "scanned_at": "2026-07-01T11:36:44.541700+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777891+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
-    "title": "[BUG] Directory Listing Enabled on Uploads $10",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/114",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 114,
-    "labels": [
-      "bug",
-      "bounty",
-      "easy",
-      "security",
-      "practice"
-    ],
-    "language": "unknown",
-    "amount_usd": 10,
-    "state": "open",
-    "comments": 10,
-    "created_at": "2026-06-30T11:38:02Z",
-    "updated_at": "2026-07-01T09:56:44Z",
-    "scanned_at": "2026-07-01T11:36:44.541740+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000048",
-    "title": "[BUG] Weak Session ID Generation $10",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/113",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 113,
-    "labels": [
-      "bug",
-      "bounty",
-      "easy",
-      "security",
-      "practice"
-    ],
-    "language": "unknown",
-    "amount_usd": 10,
-    "state": "open",
-    "comments": 10,
-    "created_at": "2026-06-30T11:38:01Z",
-    "updated_at": "2026-07-01T09:56:47Z",
-    "scanned_at": "2026-07-01T11:36:44.541750+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000049",
-    "title": "[BUG] Host Header Injection for Cache Poisoning $10",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/112",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 112,
-    "labels": [
-      "bug",
-      "bounty",
-      "easy",
-      "security",
-      "practice"
-    ],
-    "language": "unknown",
-    "amount_usd": 10,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-06-30T11:37:59Z",
-    "updated_at": "2026-07-01T09:56:49Z",
-    "scanned_at": "2026-07-01T11:36:44.541759+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000055",
+    "id": "BH-000045",
     "title": "[BUG] Lack of Account Lockout $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/106",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1764,11 +1611,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:49Z",
     "updated_at": "2026-07-01T09:56:55Z",
-    "scanned_at": "2026-07-01T11:36:44.541814+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777976+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000046",
     "title": "[BUG] Unvalidated File Upload Type $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/105",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1786,11 +1633,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:47Z",
     "updated_at": "2026-06-30T12:15:42Z",
-    "scanned_at": "2026-07-01T11:36:44.541825+00:00",
+    "scanned_at": "2026-07-01T14:07:22.777988+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000049",
     "title": "[BUG] Insecure Direct Object Reference in Profile $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/102",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1808,11 +1655,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:43Z",
     "updated_at": "2026-07-01T09:51:53Z",
-    "scanned_at": "2026-07-01T11:36:44.541885+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778016+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000053",
     "title": "[BUG] Session Token in URL $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/98",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1830,11 +1677,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:36Z",
     "updated_at": "2026-06-30T12:15:45Z",
-    "scanned_at": "2026-07-01T11:36:44.541926+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778052+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000054",
     "title": "[BUG] Password in Clipboard via Autocomplete $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/97",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1852,33 +1699,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:34Z",
     "updated_at": "2026-07-01T00:26:58Z",
-    "scanned_at": "2026-07-01T11:36:44.541935+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778062+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
-    "title": "[BUG] Lack of Rate Limiting on Login $10",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/91",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 91,
-    "labels": [
-      "bug",
-      "bounty",
-      "easy",
-      "security",
-      "practice"
-    ],
-    "language": "unknown",
-    "amount_usd": 10,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-06-30T11:37:24Z",
-    "updated_at": "2026-07-01T08:50:21Z",
-    "scanned_at": "2026-07-01T11:36:44.541979+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000070",
+    "id": "BH-000059",
     "title": "[BUG] Autocomplete Enabled on Password Field $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/90",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1896,11 +1721,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:22Z",
     "updated_at": "2026-06-30T12:15:49Z",
-    "scanned_at": "2026-07-01T11:36:44.541988+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778116+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000060",
     "title": "[BUG] Unvalidated File Extension $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/89",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1918,11 +1743,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:21Z",
     "updated_at": "2026-06-30T12:15:50Z",
-    "scanned_at": "2026-07-01T11:36:44.541996+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778125+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000071",
     "title": "[BUG] Insecure Cookie - Missing HttpOnly Flag $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/77",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1940,11 +1765,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:10Z",
     "updated_at": "2026-06-30T20:41:04Z",
-    "scanned_at": "2026-07-01T11:36:44.542098+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778226+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000072",
     "title": "[BUG] Unvalidated Redirect in Login Page $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/76",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1962,11 +1787,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:03Z",
     "updated_at": "2026-06-30T12:15:53Z",
-    "scanned_at": "2026-07-01T11:36:44.542107+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778235+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000073",
     "title": "[BUG] Missing Content Security Policy Header $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/75",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1984,11 +1809,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:15:59Z",
     "updated_at": "2026-07-01T09:09:59Z",
-    "scanned_at": "2026-07-01T11:36:44.542115+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778244+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000074",
     "title": "[BUG] Cross-Site Scripting (XSS) in Search Field $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/74",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2006,11 +1831,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:15:54Z",
     "updated_at": "2026-06-30T12:15:56Z",
-    "scanned_at": "2026-07-01T11:36:44.542124+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778255+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000077",
     "title": "[BUG] CORS Misconfiguration — $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/37",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2027,11 +1852,11 @@
     "comments": 56,
     "created_at": "2026-06-30T04:19:41Z",
     "updated_at": "2026-06-30T20:43:53Z",
-    "scanned_at": "2026-07-01T11:36:44.542153+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778288+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000079",
     "title": "[BUG] Host Header Injection — $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/35",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2048,11 +1873,11 @@
     "comments": 19,
     "created_at": "2026-06-30T04:19:34Z",
     "updated_at": "2026-06-30T12:22:06Z",
-    "scanned_at": "2026-07-01T11:36:44.542169+00:00",
+    "scanned_at": "2026-07-01T14:07:22.778306+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000100",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -2069,11 +1894,11 @@
     "comments": 18,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-06-29T07:52:22Z",
-    "scanned_at": "2026-07-01T11:37:57.601556+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000101",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -2090,11 +1915,11 @@
     "comments": 34,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-01T02:30:24Z",
-    "scanned_at": "2026-07-01T11:37:57.601567+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871590+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000112",
     "title": "[$10 BOUNTY] [Python] Add configurable timeout and rate limiting to health_check probes",
     "url": "https://github.com/foxyManTou/kickama-foxy-trials/issues/1",
     "repo": "foxyManTou/kickama-foxy-trials",
@@ -2108,7 +1933,7 @@
     "comments": 25,
     "created_at": "2026-06-22T23:36:30Z",
     "updated_at": "2026-06-28T19:29:09Z",
-    "scanned_at": "2026-07-01T11:37:57.602076+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872102+00:00",
     "status": "new"
   },
   {
@@ -2125,14 +1950,195 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 6,
+    "comments": 8,
     "created_at": "2026-07-01T09:49:07Z",
-    "updated_at": "2026-07-01T11:20:08Z",
-    "scanned_at": "2026-07-01T11:36:44.541239+00:00",
+    "updated_at": "2026-07-01T14:00:06Z",
+    "scanned_at": "2026-07-01T14:07:22.777463+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000085",
+    "title": "[BOUNTY: 1 air] This is not a problem",
+    "url": "https://github.com/explorerscat/cautious-octo-fishstick/issues/13",
+    "repo": "explorerscat/cautious-octo-fishstick",
+    "number": 13,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "AI Agent friendly"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-06-29T21:33:41Z",
+    "updated_at": "2026-06-30T09:03:56Z",
+    "scanned_at": "2026-07-01T14:07:22.778376+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000086",
+    "title": "[🐛 Bounty] HTTP Request Smuggling — 50 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/28",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 28,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "request-smuggling"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-29T16:39:29Z",
+    "updated_at": "2026-06-29T21:17:04Z",
+    "scanned_at": "2026-07-01T14:07:22.778437+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000087",
+    "title": "[🐛 Bounty] Session Fixation attack — 25 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/27",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 27,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "session-fixation"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-29T16:39:26Z",
+    "updated_at": "2026-06-29T19:54:23Z",
+    "scanned_at": "2026-07-01T14:07:22.778492+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000088",
+    "title": "[🐛 Bounty] LDAP Injection in auth — 25 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/26",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 26,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "ldap-injection"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-29T16:39:16Z",
+    "updated_at": "2026-06-29T22:23:55Z",
+    "scanned_at": "2026-07-01T14:07:22.778538+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000089",
+    "title": "[🐛 Bounty] Insecure Password Reset — 25 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/25",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 25,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "password-reset"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-29T16:39:14Z",
+    "updated_at": "2026-06-29T20:39:12Z",
+    "scanned_at": "2026-07-01T14:07:22.778595+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000090",
+    "title": "[🐛 Bounty] Negative Number Attack in refund — 25 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/24",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 24,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "business-logic"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 16,
+    "created_at": "2026-06-29T16:39:04Z",
+    "updated_at": "2026-06-30T12:20:30Z",
+    "scanned_at": "2026-07-01T14:07:22.778657+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000091",
+    "title": "[🐛 Bounty] Mass Assignment privilege escalation — 25 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/23",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 23,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "mass-assignment"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-06-29T16:39:01Z",
+    "updated_at": "2026-06-29T23:30:36Z",
+    "scanned_at": "2026-07-01T14:08:36.116664+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000092",
+    "title": "[🐛 Bounty] Prototype Pollution in merge — 50 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/22",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 22,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "prototype-pollution"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-06-29T16:38:52Z",
+    "updated_at": "2026-06-30T03:59:26Z",
+    "scanned_at": "2026-07-01T14:08:36.116743+00:00",
     "status": "new"
   },
   {
     "id": "BH-000093",
+    "title": "[🐛 Bounty] Hardcoded Credentials in Payment Gateway — 10 HONEY 🪙",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/21",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 21,
+    "labels": [
+      "honeypot-task",
+      "bounty",
+      "hardcoded-secrets"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-06-29T16:38:49Z",
+    "updated_at": "2026-06-29T23:31:37Z",
+    "scanned_at": "2026-07-01T14:08:36.116796+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000094",
     "title": "[Frontend] Implement member contribution form on the group detail page",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/12",
     "repo": "coopfinance/coopfin-frontend",
@@ -2147,11 +2153,11 @@
     "comments": 9,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-01T03:49:30Z",
-    "scanned_at": "2026-07-01T11:37:57.601265+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871287+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000095",
     "title": "[Frontend] Build individual group detail page at /groups/[id]",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/9",
     "repo": "coopfinance/coopfin-frontend",
@@ -2166,11 +2172,11 @@
     "comments": 3,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-06-30T08:27:52Z",
-    "scanned_at": "2026-07-01T11:37:57.601338+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871360+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000096",
     "title": "[Frontend] Add wallet connect button to header/navbar with address display and disconnect",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/8",
     "repo": "coopfinance/coopfin-frontend",
@@ -2186,11 +2192,11 @@
     "comments": 5,
     "created_at": "2026-06-29T12:07:57Z",
     "updated_at": "2026-06-30T07:28:51Z",
-    "scanned_at": "2026-07-01T11:37:57.601395+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871417+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000097",
     "title": "[Frontend] Implement RecentActivity feed on dashboard",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/2",
     "repo": "coopfinance/coopfin-frontend",
@@ -2206,11 +2212,11 @@
     "comments": 4,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-07-01T02:23:17Z",
-    "scanned_at": "2026-07-01T11:37:57.601447+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000098",
     "title": "[Frontend] Implement TreasuryChart component with Recharts area chart",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/1",
     "repo": "coopfinance/coopfin-frontend",
@@ -2226,11 +2232,11 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-07-01T11:37:57.601511+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871534+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000115",
     "title": "[radar] SN open bounty 2026-06-29T01:58",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/107",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2246,11 +2252,11 @@
     "comments": 1,
     "created_at": "2026-06-29T01:58:34Z",
     "updated_at": "2026-06-29T09:47:11Z",
-    "scanned_at": "2026-07-01T11:38:04.077755+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452845+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000116",
     "title": "[radar] SN open bounty 2026-06-29T00:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/106",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2266,11 +2272,11 @@
     "comments": 1,
     "created_at": "2026-06-29T00:17:26Z",
     "updated_at": "2026-06-29T08:02:48Z",
-    "scanned_at": "2026-07-01T11:38:04.077802+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452883+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000117",
     "title": "[radar] SN open bounty 2026-06-28T23:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/105",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2286,11 +2292,11 @@
     "comments": 1,
     "created_at": "2026-06-28T23:47:52Z",
     "updated_at": "2026-06-29T08:02:51Z",
-    "scanned_at": "2026-07-01T11:38:04.077830+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452905+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000118",
     "title": "[radar] SN open bounty 2026-06-27T08:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/101",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2306,11 +2312,11 @@
     "comments": 1,
     "created_at": "2026-06-27T08:48:02Z",
     "updated_at": "2026-06-28T22:19:07Z",
-    "scanned_at": "2026-07-01T11:38:04.077879+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452932+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000119",
     "title": "[radar] SN open bounty 2026-06-25T09:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/100",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2326,11 +2332,11 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-07-01T11:38:04.077900+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452952+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000102",
     "title": "Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)",
     "url": "https://github.com/boundlessfi/boundless/issues/638",
     "repo": "boundlessfi/boundless",
@@ -2348,11 +2354,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-06-27T08:35:21Z",
-    "scanned_at": "2026-07-01T11:37:57.601666+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871706+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000103",
     "title": "FE: Nav + codegen + end-to-end verification",
     "url": "https://github.com/boundlessfi/boundless/issues/637",
     "repo": "boundlessfi/boundless",
@@ -2370,11 +2376,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:16Z",
     "updated_at": "2026-06-27T08:35:22Z",
-    "scanned_at": "2026-07-01T11:37:57.601713+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871756+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000104",
     "title": "FE: Dispute resolution UI",
     "url": "https://github.com/boundlessfi/boundless/issues/636",
     "repo": "boundlessfi/boundless",
@@ -2392,11 +2398,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-27T08:35:23Z",
-    "scanned_at": "2026-07-01T11:37:57.601749+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871793+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000105",
     "title": "FE: Wrap (results/winners page + announcement + archive)",
     "url": "https://github.com/boundlessfi/boundless/issues/635",
     "repo": "boundlessfi/boundless",
@@ -2415,11 +2421,11 @@
     "comments": 10,
     "created_at": "2026-06-24T10:54:11Z",
     "updated_at": "2026-06-27T08:35:24Z",
-    "scanned_at": "2026-07-01T11:37:57.601788+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871831+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000106",
     "title": "FE: Cancel / refund flow",
     "url": "https://github.com/boundlessfi/boundless/issues/634",
     "repo": "boundlessfi/boundless",
@@ -2438,11 +2444,11 @@
     "comments": 9,
     "created_at": "2026-06-24T10:54:08Z",
     "updated_at": "2026-06-27T08:35:25Z",
-    "scanned_at": "2026-07-01T11:37:57.601830+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871873+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000107",
     "title": "FE: Winner selection + Payout (select-winners signing flow)",
     "url": "https://github.com/boundlessfi/boundless/issues/633",
     "repo": "boundlessfi/boundless",
@@ -2461,11 +2467,11 @@
     "comments": 10,
     "created_at": "2026-06-24T10:54:05Z",
     "updated_at": "2026-06-27T08:35:26Z",
-    "scanned_at": "2026-07-01T11:37:57.601914+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871940+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000108",
     "title": "FE: Submissions review (view submitted work for winner selection)",
     "url": "https://github.com/boundlessfi/boundless/issues/632",
     "repo": "boundlessfi/boundless",
@@ -2483,11 +2489,11 @@
     "comments": 9,
     "created_at": "2026-06-24T10:54:03Z",
     "updated_at": "2026-06-27T08:35:26Z",
-    "scanned_at": "2026-07-01T11:37:57.601958+00:00",
+    "scanned_at": "2026-07-01T14:08:36.871983+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000109",
     "title": "FE: Applications review + shortlist/select/decline (Decide)",
     "url": "https://github.com/boundlessfi/boundless/issues/631",
     "repo": "boundlessfi/boundless",
@@ -2505,11 +2511,11 @@
     "comments": 8,
     "created_at": "2026-06-24T10:54:01Z",
     "updated_at": "2026-06-27T08:35:27Z",
-    "scanned_at": "2026-07-01T11:37:57.602005+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000110",
     "title": "FE: Bounty management dashboard shell + overview",
     "url": "https://github.com/boundlessfi/boundless/issues/630",
     "repo": "boundlessfi/boundless",
@@ -2528,11 +2534,11 @@
     "comments": 10,
     "created_at": "2026-06-24T10:53:58Z",
     "updated_at": "2026-06-27T08:35:28Z",
-    "scanned_at": "2026-07-01T11:37:57.602058+00:00",
+    "scanned_at": "2026-07-01T14:08:36.872084+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000120",
     "title": "[radar] SN open bounty 2026-06-24T09:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/99",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2548,11 +2554,11 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-07-01T11:38:04.077921+00:00",
+    "scanned_at": "2026-07-01T14:08:43.452973+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000121",
     "title": "[BOUNTY] [level:intermediate] Refactor outdated packages in package.json to stable version updates",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2972",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2572,11 +2578,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:32Z",
     "updated_at": "2026-06-27T08:35:34Z",
-    "scanned_at": "2026-07-01T11:38:04.077963+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453017+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000122",
     "title": "[BOUNTY] [level:critical] Implement strict CORS configurations and session token revocations",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2971",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2595,11 +2601,11 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:29Z",
     "updated_at": "2026-06-27T08:35:35Z",
-    "scanned_at": "2026-07-01T11:38:04.078005+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453057+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000123",
     "title": "[BOUNTY] [level:advanced] Build a lightweight dashboard server metrics panel utilizing WebSockets",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2970",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2618,11 +2624,11 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:26Z",
     "updated_at": "2026-06-27T08:35:36Z",
-    "scanned_at": "2026-07-01T11:38:04.078043+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453099+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000124",
     "title": "[BOUNTY] [level:intermediate] Fix redundant API calls inside page initializers",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2969",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2641,11 +2647,11 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:23Z",
     "updated_at": "2026-06-27T08:35:36Z",
-    "scanned_at": "2026-07-01T11:38:04.078079+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453138+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000125",
     "title": "[BOUNTY] [level:intermediate] Standardize environment variable loading with validation schemas",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2968",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2664,11 +2670,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:21Z",
     "updated_at": "2026-06-27T08:35:37Z",
-    "scanned_at": "2026-07-01T11:38:04.078115+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453176+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000126",
     "title": "[BOUNTY] [level:advanced] Build clean multi-stage production Dockerfiles for both frontend and backend",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2967",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2687,11 +2693,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:18Z",
     "updated_at": "2026-06-27T08:35:38Z",
-    "scanned_at": "2026-07-01T11:38:04.078153+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453213+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000127",
     "title": "[BOUNTY] [level:intermediate] Create Docker compose environment for running app with local database",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2966",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2710,11 +2716,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:07:15Z",
     "updated_at": "2026-06-27T08:35:39Z",
-    "scanned_at": "2026-07-01T11:38:04.078191+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453250+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000128",
     "title": "[BOUNTY] [level:advanced] Set up GitHub Actions CI workflow to run linter and backend/frontend test suites",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2965",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2733,11 +2739,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:12Z",
     "updated_at": "2026-06-27T08:35:39Z",
-    "scanned_at": "2026-07-01T11:38:04.078231+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453285+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000129",
     "title": "[BOUNTY] [level:intermediate] Document all database tables and relationship schema in README.md",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2964",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2755,11 +2761,11 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:08Z",
     "updated_at": "2026-06-30T20:38:24Z",
-    "scanned_at": "2026-07-01T11:38:04.078268+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453322+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000130",
     "title": "[BOUNTY] [level:intermediate] Improve contributing guidelines CONTRIBUTING.md with step-by-step local setup",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2963",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2778,11 +2784,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:04Z",
     "updated_at": "2026-06-27T08:35:41Z",
-    "scanned_at": "2026-07-01T11:38:04.078305+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453359+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000131",
     "title": "[BOUNTY] [level:intermediate] Fix rendering lag in large lists by implementing FlatList memoization",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2962",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2801,11 +2807,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:07:01Z",
     "updated_at": "2026-06-27T08:35:42Z",
-    "scanned_at": "2026-07-01T11:38:04.078342+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453396+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000132",
     "title": "[BOUNTY] [level:advanced] Optimize image compression before uploading attachments to Supabase storage",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2961",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2824,11 +2830,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:06:56Z",
     "updated_at": "2026-06-27T08:35:42Z",
-    "scanned_at": "2026-07-01T11:38:04.078378+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453432+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000133",
     "title": "[BOUNTY] [level:advanced] Integrate push notifications client-side with Expo Notifications",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2960",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2847,11 +2853,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:39Z",
     "updated_at": "2026-06-27T08:35:43Z",
-    "scanned_at": "2026-07-01T11:38:04.078414+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453469+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000134",
     "title": "[BOUNTY] [level:intermediate] test: Add component tests for ticket details screen",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2959",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2870,11 +2876,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:36Z",
     "updated_at": "2026-06-27T08:35:44Z",
-    "scanned_at": "2026-07-01T11:38:04.078449+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453505+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000135",
     "title": "[BOUNTY] [level:advanced] Cache offline ticket creation payloads and sync when connection is restored",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2958",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2894,11 +2900,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:19Z",
     "updated_at": "2026-06-27T08:35:45Z",
-    "scanned_at": "2026-07-01T11:38:04.078486+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453542+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000136",
     "title": "[BOUNTY] [level:intermediate] Implement pull-to-refresh on tickets list screen",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2957",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2917,11 +2923,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:16Z",
     "updated_at": "2026-06-27T08:35:45Z",
-    "scanned_at": "2026-07-01T11:38:04.078522+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453577+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000137",
     "title": "[BOUNTY] [level:intermediate] Store local session configurations securely using Expo SecureStore",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2956",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2941,11 +2947,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:03Z",
     "updated_at": "2026-06-27T08:35:46Z",
-    "scanned_at": "2026-07-01T11:38:04.078558+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453631+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000138",
     "title": "[BOUNTY] [level:critical] Sanitize HTML content rendered from ticket logs to prevent XSS vulnerabilities",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2955",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2964,11 +2970,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:59Z",
     "updated_at": "2026-06-27T08:35:47Z",
-    "scanned_at": "2026-07-01T11:38:04.078595+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453669+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000139",
     "title": "[BOUNTY] [level:advanced] Refactor React context state management to reduce unnecessary re-renders",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2954",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -2988,11 +2994,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:51Z",
     "updated_at": "2026-06-27T08:35:48Z",
-    "scanned_at": "2026-07-01T11:38:04.078633+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453706+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000140",
     "title": "[BOUNTY] [level:intermediate] test: Add unit tests for custom auth hooks",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2953",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3012,11 +3018,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:41Z",
     "updated_at": "2026-06-27T08:35:48Z",
-    "scanned_at": "2026-07-01T11:38:04.078669+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453742+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000141",
     "title": "[BOUNTY] [level:advanced] Create interactive drag-and-drop board for ticket status management",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2952",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3035,11 +3041,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:05:30Z",
     "updated_at": "2026-06-27T08:35:49Z",
-    "scanned_at": "2026-07-01T11:38:04.078705+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453777+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000142",
     "title": "[BOUNTY] [level:intermediate] Implement client-side input validation with descriptive error boundaries",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2951",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3058,11 +3064,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:04:42Z",
     "updated_at": "2026-06-27T08:35:50Z",
-    "scanned_at": "2026-07-01T11:38:04.078742+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453814+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000143",
     "title": "[BOUNTY] [level:critical] Implement distributed locking for auto-resolve schedules to prevent race conditions",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2950",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3081,11 +3087,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:04:17Z",
     "updated_at": "2026-06-27T08:35:51Z",
-    "scanned_at": "2026-07-01T11:38:04.078780+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453852+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000144",
     "title": "[BOUNTY] [level:advanced] Optimize sentence embeddings retrieval pipeline using parallel processors",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2949",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3103,11 +3109,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:04:02Z",
     "updated_at": "2026-06-27T08:35:51Z",
-    "scanned_at": "2026-07-01T11:38:04.078816+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453889+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000145",
     "title": "[BOUNTY] [level:intermediate] Create API endpoints to export team statistics in CSV format",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2948",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3126,11 +3132,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:03:37Z",
     "updated_at": "2026-06-27T08:35:52Z",
-    "scanned_at": "2026-07-01T11:38:04.078868+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453926+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000146",
     "title": "[BOUNTY] [level:critical] Implement AES-256 GCM encryption for user profiles table sensitive fields",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2947",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3149,11 +3155,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:02:35Z",
     "updated_at": "2026-06-27T08:35:53Z",
-    "scanned_at": "2026-07-01T11:38:04.078906+00:00",
+    "scanned_at": "2026-07-01T14:08:43.453963+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000147",
     "title": "[BOUNTY] [level:advanced] Introduce caching for ticket list queries using Redis",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2946",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3172,11 +3178,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:02:32Z",
     "updated_at": "2026-06-27T08:35:54Z",
-    "scanned_at": "2026-07-01T11:38:04.078941+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454000+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000148",
     "title": "[BOUNTY] [level:intermediate] Standardize error handling and user-friendly JSON payloads in auth middleware",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2945",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3195,11 +3201,11 @@
     "comments": 9,
     "created_at": "2026-06-21T13:02:26Z",
     "updated_at": "2026-06-27T08:35:55Z",
-    "scanned_at": "2026-07-01T11:38:04.078978+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454038+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000149",
     "title": "[BOUNTY] [level:intermediate] Implement detailed log level configurations in FastAPI backend",
     "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/2944",
     "repo": "ritesh-1918/HELPDESK.AI",
@@ -3219,11 +3225,11 @@
     "comments": 10,
     "created_at": "2026-06-21T13:02:22Z",
     "updated_at": "2026-06-27T08:35:56Z",
-    "scanned_at": "2026-07-01T11:38:04.079016+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454076+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000150",
     "title": "[radar] SN open bounty 2026-06-20T09:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/96",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3239,11 +3245,11 @@
     "comments": 2,
     "created_at": "2026-06-20T09:33:24Z",
     "updated_at": "2026-06-20T10:05:00Z",
-    "scanned_at": "2026-07-01T11:38:04.079034+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454094+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000151",
     "title": "[radar] SN open bounty 2026-06-18T10:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/94",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3259,11 +3265,11 @@
     "comments": 1,
     "created_at": "2026-06-18T10:44:14Z",
     "updated_at": "2026-06-20T00:43:58Z",
-    "scanned_at": "2026-07-01T11:38:04.079052+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454112+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000152",
     "title": "[radar] SN open bounty 2026-06-13T09:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/90",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3279,11 +3285,11 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-19T21:17:11Z",
-    "scanned_at": "2026-07-01T11:38:04.079069+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454129+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000153",
     "title": "[radar] SN open bounty 2026-06-10T12:34",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/79",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3299,11 +3305,11 @@
     "comments": 0,
     "created_at": "2026-06-10T12:34:04Z",
     "updated_at": "2026-06-19T21:17:12Z",
-    "scanned_at": "2026-07-01T11:38:04.079086+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454146+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000154",
     "title": "[radar] SN open bounty 2026-06-10T10:19",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/76",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3319,11 +3325,11 @@
     "comments": 1,
     "created_at": "2026-06-10T10:19:06Z",
     "updated_at": "2026-06-12T14:33:05Z",
-    "scanned_at": "2026-07-01T11:38:04.079102+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000155",
     "title": "[radar] SN open bounty 2026-06-10T08:59",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/74",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3339,11 +3345,11 @@
     "comments": 3,
     "created_at": "2026-06-10T08:59:06Z",
     "updated_at": "2026-06-12T14:36:32Z",
-    "scanned_at": "2026-07-01T11:38:04.079118+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454178+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000156",
     "title": "[radar] SN open bounty 2026-06-10T04:41",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/72",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3359,11 +3365,11 @@
     "comments": 1,
     "created_at": "2026-06-10T04:41:16Z",
     "updated_at": "2026-06-17T10:04:07Z",
-    "scanned_at": "2026-07-01T11:38:04.079133+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454193+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000157",
     "title": "[radar] SN open bounty 2026-06-09T23:36",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/69",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3379,11 +3385,11 @@
     "comments": 3,
     "created_at": "2026-06-09T23:36:18Z",
     "updated_at": "2026-06-12T14:38:22Z",
-    "scanned_at": "2026-07-01T11:38:04.079149+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454209+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000158",
     "title": "[radar] SN open bounty 2026-06-09T21:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/64",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3399,11 +3405,11 @@
     "comments": 3,
     "created_at": "2026-06-09T21:56:40Z",
     "updated_at": "2026-06-12T14:39:22Z",
-    "scanned_at": "2026-07-01T11:38:04.079164+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454225+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000159",
     "title": "[radar] SN open bounty 2026-06-09T19:26",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/61",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3419,11 +3425,11 @@
     "comments": 3,
     "created_at": "2026-06-09T19:26:18Z",
     "updated_at": "2026-06-09T22:08:35Z",
-    "scanned_at": "2026-07-01T11:38:04.079180+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454241+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000160",
     "title": "[radar] SN open bounty 2026-06-09T16:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/57",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3439,11 +3445,11 @@
     "comments": 3,
     "created_at": "2026-06-09T16:11:22Z",
     "updated_at": "2026-06-09T18:15:17Z",
-    "scanned_at": "2026-07-01T11:38:04.079196+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454257+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000161",
     "title": "[radar] SN open bounty 2026-06-06T08:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/49",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3459,11 +3465,11 @@
     "comments": 30,
     "created_at": "2026-06-06T08:44:53Z",
     "updated_at": "2026-06-09T14:15:46Z",
-    "scanned_at": "2026-07-01T11:38:04.079212+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454273+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000164",
     "title": "Job validation should reject inverted budget ranges",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2853",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3483,11 +3489,11 @@
     "comments": 27,
     "created_at": "2026-05-31T12:44:37Z",
     "updated_at": "2026-06-24T03:16:50Z",
-    "scanned_at": "2026-07-01T11:38:04.079310+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454372+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000165",
     "title": "upload endpoint accepts empty file submissions as successful uploads",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2850",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3509,11 +3515,11 @@
     "comments": 14,
     "created_at": "2026-05-31T12:42:16Z",
     "updated_at": "2026-06-05T13:02:43Z",
-    "scanned_at": "2026-07-01T11:38:04.079358+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454418+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000166",
     "title": "Freelancer profile route should resolve mock profiles by username",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3533,11 +3539,11 @@
     "comments": 20,
     "created_at": "2026-05-31T12:40:49Z",
     "updated_at": "2026-06-19T16:27:40Z",
-    "scanned_at": "2026-07-01T11:38:04.079398+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454456+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000167",
     "title": "auth refresh endpoint issues tokens without verifying the requester",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2847",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3559,11 +3565,11 @@
     "comments": 8,
     "created_at": "2026-05-31T12:35:50Z",
     "updated_at": "2026-06-07T11:38:51Z",
-    "scanned_at": "2026-07-01T11:38:04.079447+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454504+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000168",
     "title": "registerUser access token can reference a different user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2845",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3585,11 +3591,11 @@
     "comments": 7,
     "created_at": "2026-05-31T12:31:25Z",
     "updated_at": "2026-06-05T13:02:59Z",
-    "scanned_at": "2026-07-01T11:38:04.079496+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454553+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000169",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3609,11 +3615,11 @@
     "comments": 9,
     "created_at": "2026-05-31T11:26:06Z",
     "updated_at": "2026-06-19T16:27:41Z",
-    "scanned_at": "2026-07-01T11:38:04.079534+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454588+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000170",
     "title": "Search endpoint has no input validation or length limit on query",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2833",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3633,11 +3639,11 @@
     "comments": 13,
     "created_at": "2026-05-31T11:25:28Z",
     "updated_at": "2026-06-19T16:27:43Z",
-    "scanned_at": "2026-07-01T11:38:04.079579+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454648+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000171",
     "title": "fix: prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2832",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3657,11 +3663,11 @@
     "comments": 8,
     "created_at": "2026-05-31T11:25:07Z",
     "updated_at": "2026-07-01T02:46:35Z",
-    "scanned_at": "2026-07-01T11:38:04.079611+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454680+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000172",
     "title": "Reject inverted job budget ranges in job validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2827",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3681,11 +3687,11 @@
     "comments": 6,
     "created_at": "2026-05-31T11:13:54Z",
     "updated_at": "2026-06-19T16:27:46Z",
-    "scanned_at": "2026-07-01T11:38:04.079648+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454714+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000172",
+    "id": "BH-000173",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2822",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3705,11 +3711,11 @@
     "comments": 10,
     "created_at": "2026-05-31T10:23:41Z",
     "updated_at": "2026-06-19T16:27:47Z",
-    "scanned_at": "2026-07-01T11:38:04.079702+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454769+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000174",
     "title": "Job detail route should resolve mock jobs by id (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2790",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3729,11 +3735,11 @@
     "comments": 9,
     "created_at": "2026-05-31T10:18:10Z",
     "updated_at": "2026-06-19T16:27:49Z",
-    "scanned_at": "2026-07-01T11:38:04.079748+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454815+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000175",
     "title": "@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2787",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3753,11 +3759,11 @@
     "comments": 7,
     "created_at": "2026-05-31T10:12:38Z",
     "updated_at": "2026-06-19T16:27:50Z",
-    "scanned_at": "2026-07-01T11:38:04.079791+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454856+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000176",
     "title": "@freelanceflow/ui package entrypoint should be directly importable",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2781",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3777,11 +3783,11 @@
     "comments": 13,
     "created_at": "2026-05-31T09:56:23Z",
     "updated_at": "2026-06-19T16:27:51Z",
-    "scanned_at": "2026-07-01T11:38:04.079823+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454886+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000177",
     "title": "@freelanceflow/db package should expose an importable workspace entrypoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2775",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3801,11 +3807,11 @@
     "comments": 12,
     "created_at": "2026-05-31T09:47:11Z",
     "updated_at": "2026-06-19T16:27:53Z",
-    "scanned_at": "2026-07-01T11:38:04.079872+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454921+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000178",
     "title": "Registration should require fullName to match User model",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2770",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3825,11 +3831,11 @@
     "comments": 10,
     "created_at": "2026-05-31T09:37:08Z",
     "updated_at": "2026-06-19T16:27:54Z",
-    "scanned_at": "2026-07-01T11:38:04.079907+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454956+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000179",
     "title": "Registration token subject should match returned user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2768",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3849,11 +3855,11 @@
     "comments": 12,
     "created_at": "2026-05-31T09:33:32Z",
     "updated_at": "2026-06-19T16:27:55Z",
-    "scanned_at": "2026-07-01T11:38:04.079939+00:00",
+    "scanned_at": "2026-07-01T14:08:43.454989+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000179",
+    "id": "BH-000180",
     "title": "Freelancer profile should render matching mock profile and unknown fallback",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2763",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3873,11 +3879,11 @@
     "comments": 11,
     "created_at": "2026-05-31T09:30:54Z",
     "updated_at": "2026-06-19T16:27:57Z",
-    "scanned_at": "2026-07-01T11:38:04.079977+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455027+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000180",
+    "id": "BH-000181",
     "title": "Notification creation should preserve server-owned id and read state",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2762",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3897,11 +3903,11 @@
     "comments": 11,
     "created_at": "2026-05-31T09:30:10Z",
     "updated_at": "2026-06-19T16:27:58Z",
-    "scanned_at": "2026-07-01T11:38:04.080011+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455062+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000181",
+    "id": "BH-000182",
     "title": "Job detail route should resolve mock jobs by id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2760",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3921,11 +3927,11 @@
     "comments": 7,
     "created_at": "2026-05-31T09:27:30Z",
     "updated_at": "2026-06-19T16:28:00Z",
-    "scanned_at": "2026-07-01T11:38:04.080047+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455099+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000183",
     "title": "Payment API should require authentication",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2757",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3945,11 +3951,11 @@
     "comments": 8,
     "created_at": "2026-05-31T09:22:16Z",
     "updated_at": "2026-06-19T16:28:01Z",
-    "scanned_at": "2026-07-01T11:38:04.080097+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455150+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000184",
     "title": "Job detail page should render matching mock job and unknown fallback",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2755",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -3969,11 +3975,11 @@
     "comments": 7,
     "created_at": "2026-05-31T09:21:16Z",
     "updated_at": "2026-06-19T16:28:03Z",
-    "scanned_at": "2026-07-01T11:38:04.080135+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455186+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000185",
     "title": "[radar] SN open bounty 2026-05-30T08:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/45",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3989,11 +3995,11 @@
     "comments": 0,
     "created_at": "2026-05-30T08:38:56Z",
     "updated_at": "2026-06-04T05:57:45Z",
-    "scanned_at": "2026-07-01T11:38:04.080151+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000186",
     "title": "Bug: Admin role self-assignment via registration endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1823",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4012,11 +4018,11 @@
     "comments": 11,
     "created_at": "2026-05-30T05:32:04Z",
     "updated_at": "2026-06-19T16:28:04Z",
-    "scanned_at": "2026-07-01T11:38:04.080192+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455244+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000187",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1810",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4035,11 +4041,11 @@
     "comments": 5,
     "created_at": "2026-05-30T05:03:04Z",
     "updated_at": "2026-06-19T16:28:06Z",
-    "scanned_at": "2026-07-01T11:38:04.080252+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455302+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000188",
     "title": "Settings page should provide actionable account controls",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1795",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4058,11 +4064,11 @@
     "comments": 3,
     "created_at": "2026-05-30T04:33:24Z",
     "updated_at": "2026-06-19T16:28:07Z",
-    "scanned_at": "2026-07-01T11:38:04.080305+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455361+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000189",
     "title": "fix: enforce authentication on job creation endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1783",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4081,11 +4087,11 @@
     "comments": 6,
     "created_at": "2026-05-30T04:11:29Z",
     "updated_at": "2026-07-01T01:58:35Z",
-    "scanned_at": "2026-07-01T11:38:04.080343+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455399+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000190",
     "title": "fix: prevent DoS on search endpoint via query length limit and input validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1781",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4104,11 +4110,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:57:53Z",
     "updated_at": "2026-06-19T16:28:10Z",
-    "scanned_at": "2026-07-01T11:38:04.080382+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455438+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000190",
+    "id": "BH-000191",
     "title": "Patch PostCSS audit advisory from Next dependency lockfile",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1779",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4127,11 +4133,11 @@
     "comments": 2,
     "created_at": "2026-05-30T03:45:28Z",
     "updated_at": "2026-06-19T16:28:11Z",
-    "scanned_at": "2026-07-01T11:38:04.080420+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455476+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000192",
     "title": "Search endpoint has no input validation or length limit on query",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1777",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4150,11 +4156,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:15:09Z",
     "updated_at": "2026-06-23T09:40:05Z",
-    "scanned_at": "2026-07-01T11:38:04.080462+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000193",
     "title": "Job creation endpoint lacks authentication — anyone can post jobs",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1776",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4173,11 +4179,11 @@
     "comments": 4,
     "created_at": "2026-05-30T03:15:04Z",
     "updated_at": "2026-06-19T16:28:14Z",
-    "scanned_at": "2026-07-01T11:38:04.080501+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455557+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000194",
     "title": "Refresh token endpoint ignores the provided refresh token",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1775",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4196,11 +4202,11 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:59Z",
     "updated_at": "2026-06-19T16:28:15Z",
-    "scanned_at": "2026-07-01T11:38:04.080553+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455623+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000195",
     "title": "CORS configured with no origin restrictions — allows any domain",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1774",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4219,11 +4225,11 @@
     "comments": 12,
     "created_at": "2026-05-30T03:14:54Z",
     "updated_at": "2026-06-19T16:28:17Z",
-    "scanned_at": "2026-07-01T11:38:04.080594+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455665+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000196",
     "title": "User creation endpoint has no input validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4244,11 +4250,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:14:49Z",
     "updated_at": "2026-07-01T08:27:08Z",
-    "scanned_at": "2026-07-01T11:38:04.080640+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455713+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000197",
     "title": "Payment endpoint lacks authentication — unauthenticated payment creation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1772",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4269,11 +4275,11 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:45Z",
     "updated_at": "2026-06-17T10:07:11Z",
-    "scanned_at": "2026-07-01T11:38:04.080682+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455755+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000198",
     "title": "Upload endpoint lacks authentication — unauthenticated file uploads allowed",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1771",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4294,11 +4300,11 @@
     "comments": 5,
     "created_at": "2026-05-30T03:14:41Z",
     "updated_at": "2026-07-01T05:40:53Z",
-    "scanned_at": "2026-07-01T11:38:04.080724+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455797+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000199",
     "title": "Admin routes lack role-based access control — any authenticated user can access admin endpoints",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4319,11 +4325,11 @@
     "comments": 7,
     "created_at": "2026-05-30T03:14:36Z",
     "updated_at": "2026-07-01T08:30:37Z",
-    "scanned_at": "2026-07-01T11:38:04.080774+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455847+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000200",
     "title": "Bug: user creation accepts empty payloads and client-controlled ids",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1766",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4344,11 +4350,11 @@
     "comments": 4,
     "created_at": "2026-05-30T03:10:27Z",
     "updated_at": "2026-06-17T10:07:12Z",
-    "scanned_at": "2026-07-01T11:38:04.080824+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000201",
     "title": "Bug: Missing admin role authorization check on admin metrics endpoint",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1764",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4369,11 +4375,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:55:48Z",
     "updated_at": "2026-06-17T10:07:13Z",
-    "scanned_at": "2026-07-01T11:38:04.080882+00:00",
+    "scanned_at": "2026-07-01T14:08:43.455933+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000202",
     "title": "Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1760",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4394,11 +4400,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:32:12Z",
     "updated_at": "2026-06-27T07:38:23Z",
-    "scanned_at": "2026-07-01T11:38:04.080966+00:00",
+    "scanned_at": "2026-07-01T14:08:43.456011+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000203",
     "title": "Bug: registerUser signs token with a different generated user id",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1758",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4419,11 +4425,11 @@
     "comments": 4,
     "created_at": "2026-05-30T02:26:10Z",
     "updated_at": "2026-06-17T10:07:15Z",
-    "scanned_at": "2026-07-01T11:38:04.081012+00:00",
+    "scanned_at": "2026-07-01T14:08:43.456053+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000204",
     "title": "fix(auth): prevent admin role self-assignment during registration",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1755",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -4444,7 +4450,7 @@
     "comments": 4,
     "created_at": "2026-05-30T02:15:52Z",
     "updated_at": "2026-06-17T10:07:17Z",
-    "scanned_at": "2026-07-01T11:38:04.081046+00:00",
+    "scanned_at": "2026-07-01T14:08:43.456087+00:00",
     "status": "new"
   }
 ]
