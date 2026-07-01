@@ -16,7 +16,7 @@
     "comments": 29,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-01T08:51:39Z",
-    "scanned_at": "2026-07-01T18:56:00.023219+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476797+00:00",
     "status": "new"
   },
   {
@@ -41,7 +41,7 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-19T16:27:12Z",
-    "scanned_at": "2026-07-01T18:56:06.055896+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330588+00:00",
     "status": "new"
   },
   {
@@ -66,11 +66,11 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-19T16:27:37Z",
-    "scanned_at": "2026-07-01T18:56:06.055917+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330611+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000033",
     "title": "[BUG] JWT None Algorithm + Weak Secret + Kid Injection Triple Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/210",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -84,14 +84,14 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 29,
+    "comments": 84,
     "created_at": "2026-07-01T00:00:37Z",
-    "updated_at": "2026-07-01T18:54:28Z",
-    "scanned_at": "2026-07-01T18:54:46.941034+00:00",
+    "updated_at": "2026-07-01T20:41:58Z",
+    "scanned_at": "2026-07-01T20:45:17.790878+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000034",
     "title": "[BUG] Blind RCE via Server-Side Template Injection in Sandboxed Env $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/209",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -108,11 +108,11 @@
     "comments": 8,
     "created_at": "2026-07-01T00:00:35Z",
     "updated_at": "2026-07-01T14:18:28Z",
-    "scanned_at": "2026-07-01T18:54:46.941047+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790891+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000035",
     "title": "[BUG] Server-Side Prototype Pollution to RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/205",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -129,11 +129,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:28Z",
     "updated_at": "2026-07-01T09:27:54Z",
-    "scanned_at": "2026-07-01T18:54:46.941058+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790901+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000036",
     "title": "[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/202",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -150,11 +150,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:23Z",
     "updated_at": "2026-07-01T09:27:56Z",
-    "scanned_at": "2026-07-01T18:54:46.941076+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790914+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000037",
     "title": "[BUG] Race Condition in Distributed Transaction → Double Spending $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/200",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -171,11 +171,11 @@
     "comments": 9,
     "created_at": "2026-07-01T00:00:19Z",
     "updated_at": "2026-07-01T11:27:53Z",
-    "scanned_at": "2026-07-01T18:54:46.941089+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790928+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000038",
     "title": "[BUG] Prototype Pollution → DOM XSS → Full Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/198",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -192,11 +192,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:16Z",
     "updated_at": "2026-07-01T14:19:17Z",
-    "scanned_at": "2026-07-01T18:54:46.941099+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790939+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000039",
     "title": "[BUG] gRPC Reflection API Abuse → Service Enumeration → Exploitation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/196",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -213,11 +213,11 @@
     "comments": 8,
     "created_at": "2026-07-01T00:00:13Z",
     "updated_at": "2026-07-01T14:19:19Z",
-    "scanned_at": "2026-07-01T18:54:46.941109+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000040",
     "title": "[BUG] CRDT Conflict Resolution Bypass → Data Corruption $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/193",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -234,11 +234,11 @@
     "comments": 12,
     "created_at": "2026-07-01T00:00:07Z",
     "updated_at": "2026-07-01T16:30:04Z",
-    "scanned_at": "2026-07-01T18:54:46.941118+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790957+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000041",
     "title": "[BOUNTY $100] Add unified IG + Twitter action log API endpoint",
     "url": "https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/155",
     "repo": "David-patrick-chuks/Riona-AI-Agent",
@@ -252,11 +252,11 @@
     "comments": 9,
     "created_at": "2026-06-30T17:13:29Z",
     "updated_at": "2026-07-01T10:14:50Z",
-    "scanned_at": "2026-07-01T18:54:46.941129+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790968+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000042",
     "title": "[BUG] Zero-Click Account Takeover via Email Normalization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/156",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -273,11 +273,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:15:00Z",
     "updated_at": "2026-07-01T14:09:59Z",
-    "scanned_at": "2026-07-01T18:54:46.941141+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790977+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000043",
     "title": "[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/154",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -294,11 +294,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:56Z",
     "updated_at": "2026-07-01T14:10:01Z",
-    "scanned_at": "2026-07-01T18:54:46.941150+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790987+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000044",
     "title": "[BUG] Reentrancy Attack on DeFi Withdraw Function $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/153",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -315,11 +315,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:54Z",
     "updated_at": "2026-07-01T14:10:02Z",
-    "scanned_at": "2026-07-01T18:54:46.941159+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790996+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000045",
     "title": "[BUG] Path Traversal + Log Poisoning → RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/151",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -336,11 +336,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:51Z",
     "updated_at": "2026-07-01T14:10:04Z",
-    "scanned_at": "2026-07-01T18:54:46.941168+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791007+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000046",
     "title": "[BUG] Log4j JNDI Injection in Custom Logging Framework $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/150",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -357,11 +357,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:49Z",
     "updated_at": "2026-07-01T14:10:06Z",
-    "scanned_at": "2026-07-01T18:54:46.941177+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791018+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000047",
     "title": "[BUG] Full Chain: XSS → CSRF → Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/149",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -378,11 +378,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:48Z",
     "updated_at": "2026-07-01T14:10:08Z",
-    "scanned_at": "2026-07-01T18:54:46.941188+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791028+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000048",
     "title": "[BUG] Docker Container Escape via Mounted Docker Socket $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/148",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -399,11 +399,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:45Z",
     "updated_at": "2026-07-01T14:10:09Z",
-    "scanned_at": "2026-07-01T18:54:46.941196+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791036+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000049",
     "title": "[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/147",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -420,11 +420,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:44Z",
     "updated_at": "2026-07-01T14:10:11Z",
-    "scanned_at": "2026-07-01T18:54:46.941205+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791045+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000050",
     "title": "[BUG] Web Cache Deception + Session Fixation Combined $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/146",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -441,11 +441,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:42Z",
     "updated_at": "2026-07-01T14:30:16Z",
-    "scanned_at": "2026-07-01T18:54:46.941213+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791053+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000051",
     "title": "[BUG] WebAssembly Memory Corruption → Sandbox Escape $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/145",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -462,11 +462,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:40Z",
     "updated_at": "2026-07-01T14:30:08Z",
-    "scanned_at": "2026-07-01T18:54:46.941222+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791061+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000052",
     "title": "[BUG] Second-Order SQL Injection in Stored Procedure Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/144",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -483,11 +483,11 @@
     "comments": 11,
     "created_at": "2026-06-30T12:14:38Z",
     "updated_at": "2026-07-01T14:30:10Z",
-    "scanned_at": "2026-07-01T18:54:46.941231+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791070+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000053",
     "title": "[BUG] RCE through Unsafe YAML Load in Configuration Parser $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/143",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -504,11 +504,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:37Z",
     "updated_at": "2026-07-01T14:30:24Z",
-    "scanned_at": "2026-07-01T18:54:46.941239+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791078+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000054",
     "title": "[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/140",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -525,11 +525,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:32Z",
     "updated_at": "2026-07-01T14:30:15Z",
-    "scanned_at": "2026-07-01T18:54:46.941248+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791103+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000055",
     "title": "[BUG] WebSocket Cross-Origin Hijacking + Session Prediction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/138",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -546,11 +546,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:28Z",
     "updated_at": "2026-07-01T14:30:17Z",
-    "scanned_at": "2026-07-01T18:54:46.941256+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791113+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000056",
     "title": "[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/137",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -567,11 +567,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:26Z",
     "updated_at": "2026-07-01T14:30:19Z",
-    "scanned_at": "2026-07-01T18:54:46.941265+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791126+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000057",
     "title": "[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/136",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -588,11 +588,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:24Z",
     "updated_at": "2026-07-01T14:30:22Z",
-    "scanned_at": "2026-07-01T18:54:46.941276+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791135+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000058",
     "title": "[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/135",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -609,11 +609,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:23Z",
     "updated_at": "2026-07-01T14:30:24Z",
-    "scanned_at": "2026-07-01T18:54:46.941286+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791144+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000059",
     "title": "[BUG] Timing-Based Blind Data Extraction via Race Window $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/133",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -630,11 +630,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:19Z",
     "updated_at": "2026-07-01T14:30:27Z",
-    "scanned_at": "2026-07-01T18:54:46.941295+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791152+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000060",
     "title": "[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/132",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -651,11 +651,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:17Z",
     "updated_at": "2026-07-01T14:30:29Z",
-    "scanned_at": "2026-07-01T18:54:46.941303+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791161+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000061",
     "title": "[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/131",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -672,11 +672,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:15Z",
     "updated_at": "2026-07-01T14:30:31Z",
-    "scanned_at": "2026-07-01T18:54:46.941314+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791173+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000062",
     "title": "[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/130",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -693,11 +693,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:14Z",
     "updated_at": "2026-07-01T14:30:33Z",
-    "scanned_at": "2026-07-01T18:54:46.941324+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000063",
     "title": "[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/129",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -714,11 +714,11 @@
     "comments": 4,
     "created_at": "2026-06-30T12:14:12Z",
     "updated_at": "2026-07-01T14:10:38Z",
-    "scanned_at": "2026-07-01T18:54:46.941333+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791193+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000065",
     "title": "[BUG] Authentication Bypass via JKI Injection $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/117",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -735,11 +735,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:38:08Z",
     "updated_at": "2026-07-01T08:59:48Z",
-    "scanned_at": "2026-07-01T18:54:46.941351+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791212+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000068",
     "title": "[BUG] Command Injection in Image Processing $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/111",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -756,11 +756,11 @@
     "comments": 9,
     "created_at": "2026-06-30T11:37:57Z",
     "updated_at": "2026-07-01T09:56:51Z",
-    "scanned_at": "2026-07-01T18:54:46.941380+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791240+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000070",
     "title": "[BUG] SSTI to RCE via Template Engine $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/109",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -777,11 +777,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:54Z",
     "updated_at": "2026-06-30T12:09:03Z",
-    "scanned_at": "2026-07-01T18:54:46.941396+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791256+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000072",
     "title": "[BUG] Mass Assignment to Privilege Escalation $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/107",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -798,11 +798,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:51Z",
     "updated_at": "2026-07-01T09:56:53Z",
-    "scanned_at": "2026-07-01T18:54:46.941413+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791272+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000075",
     "title": "[BUG] Full Takeover via Cache Poisoning $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/104",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -819,11 +819,11 @@
     "comments": 7,
     "created_at": "2026-06-30T11:37:46Z",
     "updated_at": "2026-07-01T09:56:57Z",
-    "scanned_at": "2026-07-01T18:54:46.941442+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791299+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000080",
     "title": "[BUG] Server-Side Template Injection (SSTI) v3 $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/99",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -840,11 +840,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:38Z",
     "updated_at": "2026-06-30T12:21:19Z",
-    "scanned_at": "2026-07-01T18:54:46.941492+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791348+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000084",
     "title": "[BUG] Buffer Overflow in Native Module $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/95",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -861,11 +861,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:31Z",
     "updated_at": "2026-07-01T09:00:49Z",
-    "scanned_at": "2026-07-01T18:54:46.941527+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791383+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000089",
     "title": "[BUG] Path Traversal in File Download API $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/88",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -882,11 +882,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:17:10Z",
     "updated_at": "2026-07-01T09:57:03Z",
-    "scanned_at": "2026-07-01T18:54:46.941574+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791430+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000090",
     "title": "[BUG] LDAP Injection in Authentication $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/87",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -903,11 +903,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:17:03Z",
     "updated_at": "2026-07-01T09:57:04Z",
-    "scanned_at": "2026-07-01T18:54:46.941599+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791438+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000091",
     "title": "[BUG] JWT None Algorithm Attack $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/86",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -924,11 +924,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:16:58Z",
     "updated_at": "2026-07-01T09:57:06Z",
-    "scanned_at": "2026-07-01T18:54:46.941611+00:00",
+    "scanned_at": "2026-07-01T20:46:30.008999+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000092",
     "title": "[BUG] Race Condition in File Upload Handler $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/85",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -945,11 +945,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:16:52Z",
     "updated_at": "2026-07-01T09:57:07Z",
-    "scanned_at": "2026-07-01T18:55:59.541661+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009031+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000093",
     "title": "[BUG] Remote Code Execution (RCE) via Unsafe Deserialization $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/84",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -966,11 +966,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:48Z",
     "updated_at": "2026-07-01T09:57:09Z",
-    "scanned_at": "2026-07-01T18:55:59.541689+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009045+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000104",
     "title": "[BUG] Server-Side Prototype Pollution — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/38",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -986,11 +986,11 @@
     "comments": 31,
     "created_at": "2026-06-30T04:19:45Z",
     "updated_at": "2026-06-30T12:22:34Z",
-    "scanned_at": "2026-07-01T18:55:59.541801+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009187+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000106",
     "title": "[BUG] SSRF (Blind) — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/36",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1006,11 +1006,11 @@
     "comments": 7,
     "created_at": "2026-06-30T04:19:38Z",
     "updated_at": "2026-07-01T08:41:57Z",
-    "scanned_at": "2026-07-01T18:55:59.541820+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009209+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000109",
     "title": "[BUG] JWT Algorithm Confusion — $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/33",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1026,7 +1026,7 @@
     "comments": 32,
     "created_at": "2026-06-30T04:19:27Z",
     "updated_at": "2026-07-01T08:41:40Z",
-    "scanned_at": "2026-07-01T18:55:59.541849+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009238+00:00",
     "status": "new"
   },
   {
@@ -1047,7 +1047,7 @@
     "comments": 21,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-07-01T18:32:17Z",
-    "scanned_at": "2026-07-01T18:56:00.023755+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477334+00:00",
     "status": "new"
   },
   {
@@ -1068,11 +1068,11 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-01T18:56:00.023779+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477360+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000066",
     "title": "[BUG] File Upload Bypass via Double Extension $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/116",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1089,11 +1089,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:38:06Z",
     "updated_at": "2026-06-30T11:56:44Z",
-    "scanned_at": "2026-07-01T18:54:46.941360+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791223+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000067",
     "title": "[BUG] Business Logic Flaw in Refund System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/115",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1110,11 +1110,11 @@
     "comments": 10,
     "created_at": "2026-06-30T11:38:04Z",
     "updated_at": "2026-07-01T09:56:41Z",
-    "scanned_at": "2026-07-01T18:54:46.941371+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791232+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000069",
     "title": "[BUG] Hidden API Endpoint Discovery $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/110",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1131,11 +1131,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:37:56Z",
     "updated_at": "2026-06-30T15:46:50Z",
-    "scanned_at": "2026-07-01T18:54:46.941388+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791248+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000071",
     "title": "[BUG] Email Spoofing via Missing SPF/DKIM $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/108",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1152,11 +1152,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:37:52Z",
     "updated_at": "2026-06-30T22:10:12Z",
-    "scanned_at": "2026-07-01T18:54:46.941405+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791264+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000076",
     "title": "[BUG] Blind XSS in Support Ticket System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/103",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1173,11 +1173,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:44Z",
     "updated_at": "2026-07-01T09:51:54Z",
-    "scanned_at": "2026-07-01T18:54:46.941451+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791309+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000078",
     "title": "[BUG] DOM Clobbering Attack $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/101",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1194,11 +1194,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:41Z",
     "updated_at": "2026-07-01T09:51:51Z",
-    "scanned_at": "2026-07-01T18:54:46.941474+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791331+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000079",
     "title": "[BUG] Zip Slip via Archive Upload $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/100",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1215,11 +1215,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:39Z",
     "updated_at": "2026-07-01T09:51:50Z",
-    "scanned_at": "2026-07-01T18:54:46.941483+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791340+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000083",
     "title": "[BUG] Blind NoSQL Injection in Login $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/96",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1236,11 +1236,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:32Z",
     "updated_at": "2026-06-30T11:42:32Z",
-    "scanned_at": "2026-07-01T18:54:46.941518+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791374+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000085",
     "title": "[BUG] Insecure Password Reset Token $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/93",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1257,11 +1257,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:28Z",
     "updated_at": "2026-06-30T12:15:37Z",
-    "scanned_at": "2026-07-01T18:54:46.941535+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791391+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000086",
     "title": "[BUG] Race Condition in Wallet Transfer $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/92",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1278,11 +1278,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:26Z",
     "updated_at": "2026-06-30T12:14:46Z",
-    "scanned_at": "2026-07-01T18:54:46.941543+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791402+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000094",
     "title": "[BUG] Open Redirect in OAuth Callback $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/83",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1299,11 +1299,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:16:43Z",
     "updated_at": "2026-07-01T09:57:10Z",
-    "scanned_at": "2026-07-01T18:55:59.541702+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009057+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000095",
     "title": "[BUG] Mass Assignment in User Profile Update $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/82",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1320,11 +1320,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:37Z",
     "updated_at": "2026-06-30T11:22:23Z",
-    "scanned_at": "2026-07-01T18:55:59.541713+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009067+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000096",
     "title": "[BUG] NoSQL Injection in MongoDB Query $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/81",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1341,11 +1341,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:32Z",
     "updated_at": "2026-07-01T08:48:38Z",
-    "scanned_at": "2026-07-01T18:55:59.541723+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009076+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000097",
     "title": "[BUG] Broken Access Control - Horizontal Privilege Escalation $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/80",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1362,11 +1362,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:27Z",
     "updated_at": "2026-06-30T11:22:48Z",
-    "scanned_at": "2026-07-01T18:55:59.541731+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009110+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000098",
     "title": "[BUG] XML External Entity (XXE) Injection $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/79",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1383,11 +1383,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:21Z",
     "updated_at": "2026-06-30T11:23:01Z",
-    "scanned_at": "2026-07-01T18:55:59.541741+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009123+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000103",
     "title": "[BUG] Dependency Confusion — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/39",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1403,11 +1403,11 @@
     "comments": 47,
     "created_at": "2026-06-30T04:19:48Z",
     "updated_at": "2026-06-30T12:23:31Z",
-    "scanned_at": "2026-07-01T18:55:59.541792+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009177+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000108",
     "title": "[BUG] Cache Poisoning — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/34",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1423,11 +1423,11 @@
     "comments": 16,
     "created_at": "2026-06-30T04:19:31Z",
     "updated_at": "2026-06-30T12:21:55Z",
-    "scanned_at": "2026-07-01T18:55:59.541840+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009228+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000110",
     "title": "[BUG] OAuth Misconfiguration — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/32",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1443,11 +1443,11 @@
     "comments": 33,
     "created_at": "2026-06-30T04:19:23Z",
     "updated_at": "2026-07-01T09:10:10Z",
-    "scanned_at": "2026-07-01T18:55:59.541858+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009247+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000111",
     "title": "[BUG] WebSocket Hijacking — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/31",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1463,11 +1463,11 @@
     "comments": 49,
     "created_at": "2026-06-30T04:19:19Z",
     "updated_at": "2026-07-01T09:13:50Z",
-    "scanned_at": "2026-07-01T18:55:59.541866+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009257+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000112",
     "title": "[BUG] GraphQL Injection — $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/30",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1483,7 +1483,7 @@
     "comments": 33,
     "created_at": "2026-06-30T04:19:16Z",
     "updated_at": "2026-06-30T12:20:46Z",
-    "scanned_at": "2026-07-01T18:55:59.541875+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009266+00:00",
     "status": "new"
   },
   {
@@ -1504,11 +1504,11 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-07-01T18:56:00.023771+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477351+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000064",
     "title": "[BUG] Insecure File Permissions $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/118",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1526,11 +1526,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:38:09Z",
     "updated_at": "2026-06-30T12:15:34Z",
-    "scanned_at": "2026-07-01T18:54:46.941342+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000073",
     "title": "[BUG] Lack of Account Lockout $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/106",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1548,11 +1548,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:49Z",
     "updated_at": "2026-07-01T09:56:55Z",
-    "scanned_at": "2026-07-01T18:54:46.941422+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791281+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000074",
     "title": "[BUG] Unvalidated File Upload Type $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/105",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1570,11 +1570,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:47Z",
     "updated_at": "2026-06-30T12:15:42Z",
-    "scanned_at": "2026-07-01T18:54:46.941433+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791290+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000077",
     "title": "[BUG] Insecure Direct Object Reference in Profile $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/102",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1592,11 +1592,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:43Z",
     "updated_at": "2026-07-01T09:51:53Z",
-    "scanned_at": "2026-07-01T18:54:46.941463+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791322+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000081",
     "title": "[BUG] Session Token in URL $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/98",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1614,11 +1614,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:36Z",
     "updated_at": "2026-07-01T14:31:12Z",
-    "scanned_at": "2026-07-01T18:54:46.941501+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791357+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000082",
     "title": "[BUG] Password in Clipboard via Autocomplete $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/97",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1636,11 +1636,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:37:34Z",
     "updated_at": "2026-07-01T00:26:58Z",
-    "scanned_at": "2026-07-01T18:54:46.941510+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791366+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000087",
     "title": "[BUG] Autocomplete Enabled on Password Field $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/90",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1658,11 +1658,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:22Z",
     "updated_at": "2026-06-30T12:15:49Z",
-    "scanned_at": "2026-07-01T18:54:46.941556+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000088",
     "title": "[BUG] Unvalidated File Extension $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/89",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1680,11 +1680,11 @@
     "comments": 1,
     "created_at": "2026-06-30T11:37:21Z",
     "updated_at": "2026-06-30T12:15:50Z",
-    "scanned_at": "2026-07-01T18:54:46.941565+00:00",
+    "scanned_at": "2026-07-01T20:45:17.791422+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000099",
     "title": "[BUG] Insecure Cookie - Missing HttpOnly Flag $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/77",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1702,11 +1702,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:16:10Z",
     "updated_at": "2026-06-30T20:41:04Z",
-    "scanned_at": "2026-07-01T18:55:59.541750+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009134+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000100",
     "title": "[BUG] Unvalidated Redirect in Login Page $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/76",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1724,11 +1724,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:16:03Z",
     "updated_at": "2026-06-30T12:15:53Z",
-    "scanned_at": "2026-07-01T18:55:59.541759+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009145+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000101",
     "title": "[BUG] Missing Content Security Policy Header $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/75",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1746,11 +1746,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:15:59Z",
     "updated_at": "2026-07-01T09:09:59Z",
-    "scanned_at": "2026-07-01T18:55:59.541769+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009155+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000102",
     "title": "[BUG] Cross-Site Scripting (XSS) in Search Field $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/74",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1768,11 +1768,11 @@
     "comments": 2,
     "created_at": "2026-06-30T11:15:54Z",
     "updated_at": "2026-06-30T12:15:56Z",
-    "scanned_at": "2026-07-01T18:55:59.541780+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009165+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000105",
     "title": "[BUG] CORS Misconfiguration — $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/37",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1789,11 +1789,11 @@
     "comments": 56,
     "created_at": "2026-06-30T04:19:41Z",
     "updated_at": "2026-06-30T20:43:53Z",
-    "scanned_at": "2026-07-01T18:55:59.541811+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009199+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000107",
     "title": "[BUG] Host Header Injection — $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/35",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1810,7 +1810,7 @@
     "comments": 19,
     "created_at": "2026-06-30T04:19:34Z",
     "updated_at": "2026-06-30T12:22:06Z",
-    "scanned_at": "2026-07-01T18:55:59.541830+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009220+00:00",
     "status": "new"
   },
   {
@@ -1831,7 +1831,7 @@
     "comments": 18,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-06-29T07:52:22Z",
-    "scanned_at": "2026-07-01T18:56:00.023231+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476811+00:00",
     "status": "new"
   },
   {
@@ -1852,7 +1852,7 @@
     "comments": 34,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-01T02:30:24Z",
-    "scanned_at": "2026-07-01T18:56:00.023241+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476823+00:00",
     "status": "new"
   },
   {
@@ -1870,7 +1870,7 @@
     "comments": 25,
     "created_at": "2026-06-22T23:36:30Z",
     "updated_at": "2026-06-28T19:29:09Z",
-    "scanned_at": "2026-07-01T18:56:00.023762+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477342+00:00",
     "status": "new"
   },
   {
@@ -1891,7 +1891,7 @@
     "comments": 12,
     "created_at": "2026-07-01T17:36:55Z",
     "updated_at": "2026-07-01T17:53:41Z",
-    "scanned_at": "2026-07-01T18:54:46.939651+00:00",
+    "scanned_at": "2026-07-01T20:45:17.789345+00:00",
     "status": "new"
   },
   {
@@ -1909,10 +1909,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 12,
+    "comments": 13,
     "created_at": "2026-07-01T17:36:53Z",
-    "updated_at": "2026-07-01T18:15:34Z",
-    "scanned_at": "2026-07-01T18:54:46.939716+00:00",
+    "updated_at": "2026-07-01T20:43:29Z",
+    "scanned_at": "2026-07-01T20:45:17.789417+00:00",
     "status": "new"
   },
   {
@@ -1933,7 +1933,7 @@
     "comments": 12,
     "created_at": "2026-07-01T17:36:43Z",
     "updated_at": "2026-07-01T18:38:56Z",
-    "scanned_at": "2026-07-01T18:54:46.939763+00:00",
+    "scanned_at": "2026-07-01T20:45:17.789475+00:00",
     "status": "new"
   },
   {
@@ -1951,10 +1951,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 10,
+    "comments": 12,
     "created_at": "2026-07-01T17:36:40Z",
-    "updated_at": "2026-07-01T18:54:11Z",
-    "scanned_at": "2026-07-01T18:54:46.939809+00:00",
+    "updated_at": "2026-07-01T19:00:30Z",
+    "scanned_at": "2026-07-01T20:45:17.789531+00:00",
     "status": "new"
   },
   {
@@ -1972,10 +1972,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 12,
     "created_at": "2026-07-01T17:36:37Z",
-    "updated_at": "2026-07-01T17:40:55Z",
-    "scanned_at": "2026-07-01T18:54:46.939853+00:00",
+    "updated_at": "2026-07-01T19:20:32Z",
+    "scanned_at": "2026-07-01T20:45:17.789587+00:00",
     "status": "new"
   },
   {
@@ -1993,10 +1993,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 13,
     "created_at": "2026-07-01T17:36:33Z",
-    "updated_at": "2026-07-01T17:42:36Z",
-    "scanned_at": "2026-07-01T18:54:46.939903+00:00",
+    "updated_at": "2026-07-01T20:41:33Z",
+    "scanned_at": "2026-07-01T20:45:17.789647+00:00",
     "status": "new"
   },
   {
@@ -2014,10 +2014,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 12,
     "created_at": "2026-07-01T17:36:30Z",
-    "updated_at": "2026-07-01T17:42:55Z",
-    "scanned_at": "2026-07-01T18:54:46.939947+00:00",
+    "updated_at": "2026-07-01T20:08:07Z",
+    "scanned_at": "2026-07-01T20:45:17.789700+00:00",
     "status": "new"
   },
   {
@@ -2035,10 +2035,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 12,
     "created_at": "2026-07-01T17:36:26Z",
-    "updated_at": "2026-07-01T17:43:14Z",
-    "scanned_at": "2026-07-01T18:54:46.939990+00:00",
+    "updated_at": "2026-07-01T20:37:40Z",
+    "scanned_at": "2026-07-01T20:45:17.789754+00:00",
     "status": "new"
   },
   {
@@ -2059,7 +2059,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:23Z",
     "updated_at": "2026-07-01T17:43:33Z",
-    "scanned_at": "2026-07-01T18:54:46.940033+00:00",
+    "scanned_at": "2026-07-01T20:45:17.789808+00:00",
     "status": "new"
   },
   {
@@ -2077,10 +2077,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-07-01T17:36:20Z",
-    "updated_at": "2026-07-01T17:43:52Z",
-    "scanned_at": "2026-07-01T18:54:46.940076+00:00",
+    "updated_at": "2026-07-01T20:42:33Z",
+    "scanned_at": "2026-07-01T20:45:17.789862+00:00",
     "status": "new"
   },
   {
@@ -2101,7 +2101,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:17Z",
     "updated_at": "2026-07-01T17:36:37Z",
-    "scanned_at": "2026-07-01T18:54:46.940119+00:00",
+    "scanned_at": "2026-07-01T20:45:17.789917+00:00",
     "status": "new"
   },
   {
@@ -2122,7 +2122,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:14Z",
     "updated_at": "2026-07-01T17:36:57Z",
-    "scanned_at": "2026-07-01T18:54:46.940161+00:00",
+    "scanned_at": "2026-07-01T20:45:17.789970+00:00",
     "status": "new"
   },
   {
@@ -2143,7 +2143,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:11Z",
     "updated_at": "2026-07-01T17:37:16Z",
-    "scanned_at": "2026-07-01T18:54:46.940204+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790012+00:00",
     "status": "new"
   },
   {
@@ -2164,7 +2164,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:08Z",
     "updated_at": "2026-07-01T17:37:35Z",
-    "scanned_at": "2026-07-01T18:54:46.940246+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790053+00:00",
     "status": "new"
   },
   {
@@ -2185,7 +2185,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:05Z",
     "updated_at": "2026-07-01T17:37:54Z",
-    "scanned_at": "2026-07-01T18:54:46.940288+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790114+00:00",
     "status": "new"
   },
   {
@@ -2206,7 +2206,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:36:02Z",
     "updated_at": "2026-07-01T17:45:36Z",
-    "scanned_at": "2026-07-01T18:54:46.940333+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790160+00:00",
     "status": "new"
   },
   {
@@ -2227,7 +2227,7 @@
     "comments": 4,
     "created_at": "2026-07-01T17:35:58Z",
     "updated_at": "2026-07-01T18:32:02Z",
-    "scanned_at": "2026-07-01T18:54:46.940374+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790202+00:00",
     "status": "new"
   },
   {
@@ -2248,7 +2248,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:35:53Z",
     "updated_at": "2026-07-01T17:46:15Z",
-    "scanned_at": "2026-07-01T18:54:46.940414+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790243+00:00",
     "status": "new"
   },
   {
@@ -2269,7 +2269,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:35:50Z",
     "updated_at": "2026-07-01T17:46:34Z",
-    "scanned_at": "2026-07-01T18:54:46.940456+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790285+00:00",
     "status": "new"
   },
   {
@@ -2290,7 +2290,7 @@
     "comments": 3,
     "created_at": "2026-07-01T17:35:47Z",
     "updated_at": "2026-07-01T17:46:53Z",
-    "scanned_at": "2026-07-01T18:54:46.940498+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790327+00:00",
     "status": "new"
   },
   {
@@ -2311,7 +2311,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:44Z",
     "updated_at": "2026-07-01T17:35:44Z",
-    "scanned_at": "2026-07-01T18:54:46.940540+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790369+00:00",
     "status": "new"
   },
   {
@@ -2332,7 +2332,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:41Z",
     "updated_at": "2026-07-01T17:35:41Z",
-    "scanned_at": "2026-07-01T18:54:46.940582+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790411+00:00",
     "status": "new"
   },
   {
@@ -2353,7 +2353,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:38Z",
     "updated_at": "2026-07-01T17:35:38Z",
-    "scanned_at": "2026-07-01T18:54:46.940647+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790455+00:00",
     "status": "new"
   },
   {
@@ -2374,7 +2374,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:35Z",
     "updated_at": "2026-07-01T17:35:35Z",
-    "scanned_at": "2026-07-01T18:54:46.940691+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790496+00:00",
     "status": "new"
   },
   {
@@ -2395,7 +2395,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:30Z",
     "updated_at": "2026-07-01T17:35:30Z",
-    "scanned_at": "2026-07-01T18:54:46.940733+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790538+00:00",
     "status": "new"
   },
   {
@@ -2416,7 +2416,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:27Z",
     "updated_at": "2026-07-01T17:35:27Z",
-    "scanned_at": "2026-07-01T18:54:46.940779+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790582+00:00",
     "status": "new"
   },
   {
@@ -2437,7 +2437,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:24Z",
     "updated_at": "2026-07-01T17:35:24Z",
-    "scanned_at": "2026-07-01T18:54:46.940821+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790625+00:00",
     "status": "new"
   },
   {
@@ -2458,7 +2458,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:21Z",
     "updated_at": "2026-07-01T17:35:21Z",
-    "scanned_at": "2026-07-01T18:54:46.940864+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790667+00:00",
     "status": "new"
   },
   {
@@ -2479,7 +2479,7 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:18Z",
     "updated_at": "2026-07-01T17:35:18Z",
-    "scanned_at": "2026-07-01T18:54:46.940907+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790711+00:00",
     "status": "new"
   },
   {
@@ -2500,11 +2500,30 @@
     "comments": 0,
     "created_at": "2026-07-01T17:35:15Z",
     "updated_at": "2026-07-01T17:35:15Z",
-    "scanned_at": "2026-07-01T18:54:46.940948+00:00",
+    "scanned_at": "2026-07-01T20:45:17.790752+00:00",
     "status": "new"
   },
   {
     "id": "BH-000031",
+    "title": "vogon poetry",
+    "url": "https://github.com/dwebagents/AgentPipe/issues/1928",
+    "repo": "dwebagents/AgentPipe",
+    "number": 1928,
+    "labels": [
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-07-01T13:30:46Z",
+    "updated_at": "2026-07-01T19:22:11Z",
+    "scanned_at": "2026-07-01T20:45:17.790785+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000032",
     "title": "Add JWT authentication guard to admin-only endpoints",
     "url": "https://github.com/coopfinance/coopfin-api/issues/6",
     "repo": "coopfinance/coopfin-api",
@@ -2517,14 +2536,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 9,
+    "comments": 10,
     "created_at": "2026-07-01T09:49:07Z",
-    "updated_at": "2026-07-01T14:57:39Z",
-    "scanned_at": "2026-07-01T18:54:46.941017+00:00",
+    "updated_at": "2026-07-01T18:56:12Z",
+    "scanned_at": "2026-07-01T20:45:17.790860+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000113",
     "title": "[🐛 Bounty] HTTP Request Smuggling — 50 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/28",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2540,11 +2559,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:39:29Z",
     "updated_at": "2026-06-29T21:17:04Z",
-    "scanned_at": "2026-07-01T18:55:59.541933+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009328+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000114",
     "title": "[🐛 Bounty] Session Fixation attack — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/27",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2560,11 +2579,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:39:26Z",
     "updated_at": "2026-06-29T19:54:23Z",
-    "scanned_at": "2026-07-01T18:55:59.541991+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009392+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000115",
     "title": "[🐛 Bounty] LDAP Injection in auth — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/26",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2580,11 +2599,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:39:16Z",
     "updated_at": "2026-06-29T22:23:55Z",
-    "scanned_at": "2026-07-01T18:55:59.542041+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009447+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000116",
     "title": "[🐛 Bounty] Insecure Password Reset — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/25",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2600,11 +2619,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:39:14Z",
     "updated_at": "2026-06-29T20:39:12Z",
-    "scanned_at": "2026-07-01T18:55:59.542103+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009515+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000117",
     "title": "[🐛 Bounty] Negative Number Attack in refund — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/24",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2620,11 +2639,11 @@
     "comments": 16,
     "created_at": "2026-06-29T16:39:04Z",
     "updated_at": "2026-06-30T12:20:30Z",
-    "scanned_at": "2026-07-01T18:55:59.542147+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009562+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000118",
     "title": "[🐛 Bounty] Mass Assignment privilege escalation — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/23",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2640,11 +2659,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:39:01Z",
     "updated_at": "2026-06-29T23:30:36Z",
-    "scanned_at": "2026-07-01T18:55:59.542199+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009618+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000119",
     "title": "[🐛 Bounty] Prototype Pollution in merge — 50 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/22",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2660,11 +2679,11 @@
     "comments": 7,
     "created_at": "2026-06-29T16:38:52Z",
     "updated_at": "2026-06-30T03:59:26Z",
-    "scanned_at": "2026-07-01T18:55:59.542249+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009672+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000120",
     "title": "[🐛 Bounty] Hardcoded Credentials in Payment Gateway — 10 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/21",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2680,11 +2699,11 @@
     "comments": 3,
     "created_at": "2026-06-29T16:38:49Z",
     "updated_at": "2026-06-29T23:31:37Z",
-    "scanned_at": "2026-07-01T18:55:59.542291+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009718+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000121",
     "title": "[🐛 Bounty] NoSQL Injection in login — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/20",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2700,11 +2719,11 @@
     "comments": 2,
     "created_at": "2026-06-29T16:38:40Z",
     "updated_at": "2026-06-29T21:13:32Z",
-    "scanned_at": "2026-07-01T18:55:59.542335+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009768+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000122",
     "title": "[🐛 Bounty] Insecure File Upload — 25 HONEY 🪙",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/19",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2720,27 +2739,7 @@
     "comments": 7,
     "created_at": "2026-06-29T16:38:37Z",
     "updated_at": "2026-06-30T04:04:21Z",
-    "scanned_at": "2026-07-01T18:55:59.542376+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000122",
-    "title": "[🐛 Bounty] JWT None Algorithm — 25 HONEY 🪙",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/18",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 18,
-    "labels": [
-      "honeypot-task",
-      "bounty",
-      "jwt"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 6,
-    "created_at": "2026-06-29T16:38:28Z",
-    "updated_at": "2026-06-29T17:49:33Z",
-    "scanned_at": "2026-07-01T18:55:59.542416+00:00",
+    "scanned_at": "2026-07-01T20:46:30.009812+00:00",
     "status": "new"
   },
   {
@@ -2759,7 +2758,7 @@
     "comments": 9,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-01T03:49:30Z",
-    "scanned_at": "2026-07-01T18:56:00.022941+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476512+00:00",
     "status": "new"
   },
   {
@@ -2778,7 +2777,7 @@
     "comments": 3,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-06-30T08:27:52Z",
-    "scanned_at": "2026-07-01T18:56:00.023013+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476586+00:00",
     "status": "new"
   },
   {
@@ -2798,7 +2797,7 @@
     "comments": 5,
     "created_at": "2026-06-29T12:07:57Z",
     "updated_at": "2026-06-30T07:28:51Z",
-    "scanned_at": "2026-07-01T18:56:00.023069+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476643+00:00",
     "status": "new"
   },
   {
@@ -2818,7 +2817,7 @@
     "comments": 4,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-07-01T02:23:17Z",
-    "scanned_at": "2026-07-01T18:56:00.023122+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476698+00:00",
     "status": "new"
   },
   {
@@ -2838,7 +2837,7 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-07-01T18:56:00.023185+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476762+00:00",
     "status": "new"
   },
   {
@@ -2858,7 +2857,7 @@
     "comments": 1,
     "created_at": "2026-06-29T01:58:34Z",
     "updated_at": "2026-06-29T09:47:11Z",
-    "scanned_at": "2026-07-01T18:56:06.054277+00:00",
+    "scanned_at": "2026-07-01T20:46:36.328947+00:00",
     "status": "new"
   },
   {
@@ -2878,7 +2877,7 @@
     "comments": 1,
     "created_at": "2026-06-29T00:17:26Z",
     "updated_at": "2026-06-29T08:02:48Z",
-    "scanned_at": "2026-07-01T18:56:06.054316+00:00",
+    "scanned_at": "2026-07-01T20:46:36.328989+00:00",
     "status": "new"
   },
   {
@@ -2898,7 +2897,7 @@
     "comments": 1,
     "created_at": "2026-06-28T23:47:52Z",
     "updated_at": "2026-06-29T08:02:51Z",
-    "scanned_at": "2026-07-01T18:56:06.054337+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329024+00:00",
     "status": "new"
   },
   {
@@ -2918,7 +2917,7 @@
     "comments": 1,
     "created_at": "2026-06-27T08:48:02Z",
     "updated_at": "2026-06-28T22:19:07Z",
-    "scanned_at": "2026-07-01T18:56:06.054368+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329056+00:00",
     "status": "new"
   },
   {
@@ -2938,7 +2937,7 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-07-01T18:56:06.054391+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329079+00:00",
     "status": "new"
   },
   {
@@ -2960,7 +2959,7 @@
     "comments": 11,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-06-27T08:35:21Z",
-    "scanned_at": "2026-07-01T18:56:00.023338+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476923+00:00",
     "status": "new"
   },
   {
@@ -2982,7 +2981,7 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:16Z",
     "updated_at": "2026-06-27T08:35:22Z",
-    "scanned_at": "2026-07-01T18:56:00.023384+00:00",
+    "scanned_at": "2026-07-01T20:46:30.476971+00:00",
     "status": "new"
   },
   {
@@ -3004,7 +3003,7 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-27T08:35:23Z",
-    "scanned_at": "2026-07-01T18:56:00.023419+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477007+00:00",
     "status": "new"
   },
   {
@@ -3027,7 +3026,7 @@
     "comments": 10,
     "created_at": "2026-06-24T10:54:11Z",
     "updated_at": "2026-06-27T08:35:24Z",
-    "scanned_at": "2026-07-01T18:56:00.023458+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477047+00:00",
     "status": "new"
   },
   {
@@ -3050,7 +3049,7 @@
     "comments": 9,
     "created_at": "2026-06-24T10:54:08Z",
     "updated_at": "2026-06-27T08:35:25Z",
-    "scanned_at": "2026-07-01T18:56:00.023500+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477109+00:00",
     "status": "new"
   },
   {
@@ -3073,7 +3072,7 @@
     "comments": 10,
     "created_at": "2026-06-24T10:54:05Z",
     "updated_at": "2026-06-27T08:35:26Z",
-    "scanned_at": "2026-07-01T18:56:00.023566+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477178+00:00",
     "status": "new"
   },
   {
@@ -3095,7 +3094,7 @@
     "comments": 9,
     "created_at": "2026-06-24T10:54:03Z",
     "updated_at": "2026-06-27T08:35:26Z",
-    "scanned_at": "2026-07-01T18:56:00.023628+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477221+00:00",
     "status": "new"
   },
   {
@@ -3117,7 +3116,7 @@
     "comments": 8,
     "created_at": "2026-06-24T10:54:01Z",
     "updated_at": "2026-06-27T08:35:27Z",
-    "scanned_at": "2026-07-01T18:56:00.023677+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477269+00:00",
     "status": "new"
   },
   {
@@ -3140,7 +3139,7 @@
     "comments": 10,
     "created_at": "2026-06-24T10:53:58Z",
     "updated_at": "2026-06-27T08:35:28Z",
-    "scanned_at": "2026-07-01T18:56:00.023744+00:00",
+    "scanned_at": "2026-07-01T20:46:30.477323+00:00",
     "status": "new"
   },
   {
@@ -3160,7 +3159,7 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-07-01T18:56:06.054415+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329124+00:00",
     "status": "new"
   },
   {
@@ -3184,7 +3183,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:32Z",
     "updated_at": "2026-07-01T17:34:25Z",
-    "scanned_at": "2026-07-01T18:56:06.054460+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329177+00:00",
     "status": "new"
   },
   {
@@ -3207,7 +3206,7 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:29Z",
     "updated_at": "2026-07-01T17:35:02Z",
-    "scanned_at": "2026-07-01T18:56:06.054500+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329223+00:00",
     "status": "new"
   },
   {
@@ -3230,7 +3229,7 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:26Z",
     "updated_at": "2026-07-01T17:34:32Z",
-    "scanned_at": "2026-07-01T18:56:06.054539+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329269+00:00",
     "status": "new"
   },
   {
@@ -3253,7 +3252,7 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:23Z",
     "updated_at": "2026-07-01T17:34:49Z",
-    "scanned_at": "2026-07-01T18:56:06.054578+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329314+00:00",
     "status": "new"
   },
   {
@@ -3276,7 +3275,7 @@
     "comments": 11,
     "created_at": "2026-06-21T13:07:18Z",
     "updated_at": "2026-07-01T17:33:45Z",
-    "scanned_at": "2026-07-01T18:56:06.054634+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329358+00:00",
     "status": "new"
   },
   {
@@ -3299,7 +3298,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:07:15Z",
     "updated_at": "2026-07-01T17:34:19Z",
-    "scanned_at": "2026-07-01T18:56:06.054676+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329405+00:00",
     "status": "new"
   },
   {
@@ -3322,7 +3321,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:12Z",
     "updated_at": "2026-07-01T17:34:57Z",
-    "scanned_at": "2026-07-01T18:56:06.054715+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329450+00:00",
     "status": "new"
   },
   {
@@ -3344,7 +3343,7 @@
     "comments": 12,
     "created_at": "2026-06-21T13:07:08Z",
     "updated_at": "2026-07-01T17:34:04Z",
-    "scanned_at": "2026-07-01T18:56:06.054829+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329493+00:00",
     "status": "new"
   },
   {
@@ -3367,7 +3366,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:04Z",
     "updated_at": "2026-07-01T17:34:28Z",
-    "scanned_at": "2026-07-01T18:56:06.054877+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329539+00:00",
     "status": "new"
   },
   {
@@ -3390,7 +3389,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:07:01Z",
     "updated_at": "2026-07-01T17:34:08Z",
-    "scanned_at": "2026-07-01T18:56:06.054916+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329585+00:00",
     "status": "new"
   },
   {
@@ -3413,7 +3412,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:06:56Z",
     "updated_at": "2026-07-01T17:34:35Z",
-    "scanned_at": "2026-07-01T18:56:06.054953+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329631+00:00",
     "status": "new"
   },
   {
@@ -3436,7 +3435,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:39Z",
     "updated_at": "2026-07-01T17:34:27Z",
-    "scanned_at": "2026-07-01T18:56:06.054988+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329672+00:00",
     "status": "new"
   },
   {
@@ -3459,7 +3458,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:06:36Z",
     "updated_at": "2026-07-01T17:33:58Z",
-    "scanned_at": "2026-07-01T18:56:06.055023+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329708+00:00",
     "status": "new"
   },
   {
@@ -3483,7 +3482,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:19Z",
     "updated_at": "2026-07-01T17:34:49Z",
-    "scanned_at": "2026-07-01T18:56:06.055059+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329745+00:00",
     "status": "new"
   },
   {
@@ -3506,7 +3505,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:16Z",
     "updated_at": "2026-07-01T17:34:51Z",
-    "scanned_at": "2026-07-01T18:56:06.055093+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329781+00:00",
     "status": "new"
   },
   {
@@ -3530,7 +3529,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:06:03Z",
     "updated_at": "2026-07-01T17:35:03Z",
-    "scanned_at": "2026-07-01T18:56:06.055129+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329819+00:00",
     "status": "new"
   },
   {
@@ -3553,7 +3552,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:59Z",
     "updated_at": "2026-07-01T17:34:21Z",
-    "scanned_at": "2026-07-01T18:56:06.055166+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329856+00:00",
     "status": "new"
   },
   {
@@ -3577,7 +3576,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:51Z",
     "updated_at": "2026-07-01T17:34:09Z",
-    "scanned_at": "2026-07-01T18:56:06.055202+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329894+00:00",
     "status": "new"
   },
   {
@@ -3601,7 +3600,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:05:41Z",
     "updated_at": "2026-07-01T17:35:03Z",
-    "scanned_at": "2026-07-01T18:56:06.055238+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329930+00:00",
     "status": "new"
   },
   {
@@ -3624,7 +3623,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:05:30Z",
     "updated_at": "2026-07-01T17:34:22Z",
-    "scanned_at": "2026-07-01T18:56:06.055274+00:00",
+    "scanned_at": "2026-07-01T20:46:36.329968+00:00",
     "status": "new"
   },
   {
@@ -3647,7 +3646,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:04:42Z",
     "updated_at": "2026-07-01T17:34:18Z",
-    "scanned_at": "2026-07-01T18:56:06.055310+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330005+00:00",
     "status": "new"
   },
   {
@@ -3670,7 +3669,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:04:17Z",
     "updated_at": "2026-07-01T17:33:49Z",
-    "scanned_at": "2026-07-01T18:56:06.055347+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330042+00:00",
     "status": "new"
   },
   {
@@ -3692,7 +3691,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:04:02Z",
     "updated_at": "2026-07-01T17:33:47Z",
-    "scanned_at": "2026-07-01T18:56:06.055384+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330113+00:00",
     "status": "new"
   },
   {
@@ -3715,7 +3714,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:03:37Z",
     "updated_at": "2026-07-01T17:34:40Z",
-    "scanned_at": "2026-07-01T18:56:06.055418+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330174+00:00",
     "status": "new"
   },
   {
@@ -3738,7 +3737,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:02:35Z",
     "updated_at": "2026-07-01T17:34:53Z",
-    "scanned_at": "2026-07-01T18:56:06.055455+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330216+00:00",
     "status": "new"
   },
   {
@@ -3761,7 +3760,7 @@
     "comments": 9,
     "created_at": "2026-06-21T13:02:32Z",
     "updated_at": "2026-07-01T17:34:35Z",
-    "scanned_at": "2026-07-01T18:56:06.055489+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330252+00:00",
     "status": "new"
   },
   {
@@ -3784,7 +3783,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:02:26Z",
     "updated_at": "2026-07-01T17:34:06Z",
-    "scanned_at": "2026-07-01T18:56:06.055526+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330291+00:00",
     "status": "new"
   },
   {
@@ -3808,7 +3807,7 @@
     "comments": 10,
     "created_at": "2026-06-21T13:02:22Z",
     "updated_at": "2026-07-01T17:34:52Z",
-    "scanned_at": "2026-07-01T18:56:06.055562+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330331+00:00",
     "status": "new"
   },
   {
@@ -3828,7 +3827,7 @@
     "comments": 2,
     "created_at": "2026-06-20T09:33:24Z",
     "updated_at": "2026-06-20T10:05:00Z",
-    "scanned_at": "2026-07-01T18:56:06.055580+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330350+00:00",
     "status": "new"
   },
   {
@@ -3848,7 +3847,7 @@
     "comments": 1,
     "created_at": "2026-06-18T10:44:14Z",
     "updated_at": "2026-06-20T00:43:58Z",
-    "scanned_at": "2026-07-01T18:56:06.055656+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330370+00:00",
     "status": "new"
   },
   {
@@ -3868,7 +3867,7 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-19T21:17:11Z",
-    "scanned_at": "2026-07-01T18:56:06.055687+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330388+00:00",
     "status": "new"
   },
   {
@@ -3888,7 +3887,7 @@
     "comments": 0,
     "created_at": "2026-06-10T12:34:04Z",
     "updated_at": "2026-06-19T21:17:12Z",
-    "scanned_at": "2026-07-01T18:56:06.055705+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330406+00:00",
     "status": "new"
   },
   {
@@ -3908,7 +3907,7 @@
     "comments": 1,
     "created_at": "2026-06-10T10:19:06Z",
     "updated_at": "2026-06-12T14:33:05Z",
-    "scanned_at": "2026-07-01T18:56:06.055722+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330422+00:00",
     "status": "new"
   },
   {
@@ -3928,7 +3927,7 @@
     "comments": 3,
     "created_at": "2026-06-10T08:59:06Z",
     "updated_at": "2026-06-12T14:36:32Z",
-    "scanned_at": "2026-07-01T18:56:06.055744+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330440+00:00",
     "status": "new"
   },
   {
@@ -3948,7 +3947,7 @@
     "comments": 1,
     "created_at": "2026-06-10T04:41:16Z",
     "updated_at": "2026-06-17T10:04:07Z",
-    "scanned_at": "2026-07-01T18:56:06.055766+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330457+00:00",
     "status": "new"
   },
   {
@@ -3968,7 +3967,7 @@
     "comments": 3,
     "created_at": "2026-06-09T23:36:18Z",
     "updated_at": "2026-06-12T14:38:22Z",
-    "scanned_at": "2026-07-01T18:56:06.055784+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330473+00:00",
     "status": "new"
   },
   {
@@ -3988,7 +3987,7 @@
     "comments": 3,
     "created_at": "2026-06-09T21:56:40Z",
     "updated_at": "2026-06-12T14:39:22Z",
-    "scanned_at": "2026-07-01T18:56:06.055803+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330491+00:00",
     "status": "new"
   },
   {
@@ -4008,7 +4007,7 @@
     "comments": 3,
     "created_at": "2026-06-09T19:26:18Z",
     "updated_at": "2026-06-09T22:08:35Z",
-    "scanned_at": "2026-07-01T18:56:06.055818+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330507+00:00",
     "status": "new"
   },
   {
@@ -4028,7 +4027,7 @@
     "comments": 3,
     "created_at": "2026-06-09T16:11:22Z",
     "updated_at": "2026-06-09T18:15:17Z",
-    "scanned_at": "2026-07-01T18:56:06.055833+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330523+00:00",
     "status": "new"
   },
   {
@@ -4048,7 +4047,7 @@
     "comments": 30,
     "created_at": "2026-06-06T08:44:53Z",
     "updated_at": "2026-06-09T14:15:46Z",
-    "scanned_at": "2026-07-01T18:56:06.055850+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330541+00:00",
     "status": "new"
   },
   {
@@ -4072,7 +4071,7 @@
     "comments": 27,
     "created_at": "2026-05-31T12:44:37Z",
     "updated_at": "2026-06-24T03:16:50Z",
-    "scanned_at": "2026-07-01T18:56:06.055947+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330642+00:00",
     "status": "new"
   },
   {
@@ -4098,7 +4097,7 @@
     "comments": 14,
     "created_at": "2026-05-31T12:42:16Z",
     "updated_at": "2026-06-05T13:02:43Z",
-    "scanned_at": "2026-07-01T18:56:06.055995+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330692+00:00",
     "status": "new"
   },
   {
@@ -4122,7 +4121,7 @@
     "comments": 20,
     "created_at": "2026-05-31T12:40:49Z",
     "updated_at": "2026-06-19T16:27:40Z",
-    "scanned_at": "2026-07-01T18:56:06.056033+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330731+00:00",
     "status": "new"
   },
   {
@@ -4148,7 +4147,7 @@
     "comments": 8,
     "created_at": "2026-05-31T12:35:50Z",
     "updated_at": "2026-06-07T11:38:51Z",
-    "scanned_at": "2026-07-01T18:56:06.056081+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330779+00:00",
     "status": "new"
   },
   {
@@ -4174,7 +4173,7 @@
     "comments": 7,
     "created_at": "2026-05-31T12:31:25Z",
     "updated_at": "2026-06-05T13:02:59Z",
-    "scanned_at": "2026-07-01T18:56:06.056129+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330827+00:00",
     "status": "new"
   },
   {
@@ -4198,7 +4197,7 @@
     "comments": 9,
     "created_at": "2026-05-31T11:26:06Z",
     "updated_at": "2026-06-19T16:27:41Z",
-    "scanned_at": "2026-07-01T18:56:06.056167+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330862+00:00",
     "status": "new"
   },
   {
@@ -4222,7 +4221,7 @@
     "comments": 13,
     "created_at": "2026-05-31T11:25:28Z",
     "updated_at": "2026-06-19T16:27:43Z",
-    "scanned_at": "2026-07-01T18:56:06.056213+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330907+00:00",
     "status": "new"
   },
   {
@@ -4246,7 +4245,7 @@
     "comments": 8,
     "created_at": "2026-05-31T11:25:07Z",
     "updated_at": "2026-07-01T02:46:35Z",
-    "scanned_at": "2026-07-01T18:56:06.056245+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330939+00:00",
     "status": "new"
   },
   {
@@ -4270,7 +4269,7 @@
     "comments": 6,
     "created_at": "2026-05-31T11:13:54Z",
     "updated_at": "2026-06-19T16:27:46Z",
-    "scanned_at": "2026-07-01T18:56:06.056279+00:00",
+    "scanned_at": "2026-07-01T20:46:36.330977+00:00",
     "status": "new"
   },
   {
@@ -4294,7 +4293,7 @@
     "comments": 10,
     "created_at": "2026-05-31T10:23:41Z",
     "updated_at": "2026-06-19T16:27:47Z",
-    "scanned_at": "2026-07-01T18:56:06.056332+00:00",
+    "scanned_at": "2026-07-01T20:46:36.331030+00:00",
     "status": "new"
   },
   {
@@ -4318,7 +4317,7 @@
     "comments": 9,
     "created_at": "2026-05-31T10:18:10Z",
     "updated_at": "2026-06-19T16:27:49Z",
-    "scanned_at": "2026-07-01T18:56:06.056378+00:00",
+    "scanned_at": "2026-07-01T20:46:36.331076+00:00",
     "status": "new"
   },
   {
@@ -4342,7 +4341,7 @@
     "comments": 7,
     "created_at": "2026-05-31T10:12:38Z",
     "updated_at": "2026-06-19T16:27:50Z",
-    "scanned_at": "2026-07-01T18:56:06.056421+00:00",
+    "scanned_at": "2026-07-01T20:46:36.331132+00:00",
     "status": "new"
   }
 ]
