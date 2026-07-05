@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000238",
+    "id": "BH-000237",
     "title": "Low Handing Fruit Automation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/743",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -19,16 +19,16 @@
     "language": "unknown",
     "amount_usd": 700,
     "state": "open",
-    "comments": 1356,
+    "comments": 1360,
     "created_at": "2026-05-27T06:32:39Z",
-    "updated_at": "2026-07-05T20:18:59Z",
-    "scanned_at": "2026-07-05T20:35:01.872985+00:00",
+    "updated_at": "2026-07-05T21:35:59Z",
+    "scanned_at": "2026-07-05T21:52:49.411303+00:00",
     "status": "new",
     "_score": 58.8,
     "tier": "A"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000165",
     "title": "[$40 BOUNTY] [Python] Validate Terraform import resource names",
     "url": "https://github.com/123a-bcd/zeroeye/issues/1",
     "repo": "123a-bcd/zeroeye",
@@ -45,13 +45,13 @@
     "comments": 16,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-07-05T04:40:05Z",
-    "scanned_at": "2026-07-05T20:34:57.373151+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175284+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000166",
     "title": "[$40 BOUNTY] [TypeScript] Harden API response error handling",
     "url": "https://github.com/2lll5/TentOfTrials/issues/1",
     "repo": "2lll5/TentOfTrials",
@@ -68,13 +68,36 @@
     "comments": 14,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-06-29T07:00:02Z",
-    "scanned_at": "2026-07-05T20:34:57.373159+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175292+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000168",
+    "title": "[$40 BOUNTY] [Python] Add benchmark rate-limit bypass flag",
+    "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/1",
+    "repo": "123a-bcd/nailstorm-bounty-forge-358",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty",
+      "language:python"
+    ],
+    "language": "python",
+    "amount_usd": 40,
+    "state": "open",
+    "comments": 12,
+    "created_at": "2026-06-20T14:55:13Z",
+    "updated_at": "2026-06-27T08:36:02Z",
+    "scanned_at": "2026-07-05T21:52:44.175307+00:00",
+    "status": "new",
+    "_score": 58.1,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000163",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -91,13 +114,13 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-05T20:34:57.373137+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175269+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000164",
     "title": "[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -114,7 +137,7 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-07-05T20:34:57.373144+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175276+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -137,7 +160,7 @@
     "comments": 18,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-06-29T07:52:22Z",
-    "scanned_at": "2026-07-05T20:34:57.372836+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175093+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -160,13 +183,13 @@
     "comments": 32,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-05T04:19:30Z",
-    "scanned_at": "2026-07-05T20:34:57.372847+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175103+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000240",
+    "id": "BH-000239",
     "title": "Pixel Art Creation with high Creative Thinking",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/80",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -186,13 +209,13 @@
     "comments": 436,
     "created_at": "2026-05-17T15:04:05Z",
     "updated_at": "2026-07-05T16:01:11Z",
-    "scanned_at": "2026-07-05T20:35:01.873052+00:00",
+    "scanned_at": "2026-07-05T21:52:49.411371+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
   },
   {
-    "id": "BH-000242",
+    "id": "BH-000241",
     "title": "Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/30",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -212,13 +235,13 @@
     "comments": 173,
     "created_at": "2026-05-17T05:55:52Z",
     "updated_at": "2026-07-03T23:17:15Z",
-    "scanned_at": "2026-07-05T20:35:01.873220+00:00",
+    "scanned_at": "2026-07-05T21:52:49.411543+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
   },
   {
-    "id": "BH-000243",
+    "id": "BH-000242",
     "title": "Implement a fully functional Admin Panel",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/29",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -238,13 +261,13 @@
     "comments": 84,
     "created_at": "2026-05-17T05:53:20Z",
     "updated_at": "2026-06-17T10:09:05Z",
-    "scanned_at": "2026-07-05T20:35:01.873332+00:00",
+    "scanned_at": "2026-07-05T21:52:49.411661+00:00",
     "status": "new",
     "_score": 49.5,
     "tier": "A"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000187",
     "title": "Calculate the exact value of PI",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -265,13 +288,13 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-19T16:27:12Z",
-    "scanned_at": "2026-07-05T20:35:01.870902+00:00",
+    "scanned_at": "2026-07-05T21:52:49.409257+00:00",
     "status": "new",
     "_score": 48.8,
     "tier": "A"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000188",
     "title": "Calculate the exact value of PI #2872",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2883",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -292,7 +315,7 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-19T16:27:37Z",
-    "scanned_at": "2026-07-05T20:35:01.870924+00:00",
+    "scanned_at": "2026-07-05T21:52:49.409280+00:00",
     "status": "new",
     "_score": 48.8,
     "tier": "A"
@@ -315,7 +338,7 @@
     "comments": 3,
     "created_at": "2026-06-30T12:14:12Z",
     "updated_at": "2026-07-02T10:54:35Z",
-    "scanned_at": "2026-07-05T20:34:54.941998+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452555+00:00",
     "status": "new",
     "_score": 45.7,
     "tier": "A"
@@ -337,7 +360,7 @@
     "comments": 29,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-05T15:00:21Z",
-    "scanned_at": "2026-07-05T20:34:57.372823+00:00",
+    "scanned_at": "2026-07-05T21:52:44.175081+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
@@ -360,7 +383,7 @@
     "comments": 10,
     "created_at": "2026-06-30T12:15:00Z",
     "updated_at": "2026-07-05T10:33:12Z",
-    "scanned_at": "2026-07-05T20:34:54.941783+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452325+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -383,7 +406,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:56Z",
     "updated_at": "2026-07-05T10:38:15Z",
-    "scanned_at": "2026-07-05T20:34:54.941792+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452336+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -406,7 +429,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:54Z",
     "updated_at": "2026-07-05T08:28:36Z",
-    "scanned_at": "2026-07-05T20:34:54.941802+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452348+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -429,7 +452,7 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:51Z",
     "updated_at": "2026-07-02T10:54:19Z",
-    "scanned_at": "2026-07-05T20:34:54.941812+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452361+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -452,7 +475,7 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:49Z",
     "updated_at": "2026-07-05T15:30:22Z",
-    "scanned_at": "2026-07-05T20:34:54.941822+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452373+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -475,7 +498,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:48Z",
     "updated_at": "2026-07-03T20:18:30Z",
-    "scanned_at": "2026-07-05T20:34:54.941831+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452386+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -498,7 +521,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:45Z",
     "updated_at": "2026-07-04T05:12:20Z",
-    "scanned_at": "2026-07-05T20:34:54.941841+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452398+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -521,7 +544,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:44Z",
     "updated_at": "2026-07-03T20:24:30Z",
-    "scanned_at": "2026-07-05T20:34:54.941851+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452410+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -544,7 +567,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:42Z",
     "updated_at": "2026-07-03T20:27:16Z",
-    "scanned_at": "2026-07-05T20:34:54.941861+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452419+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -567,7 +590,7 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:40Z",
     "updated_at": "2026-07-02T13:28:21Z",
-    "scanned_at": "2026-07-05T20:34:54.941869+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452430+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -590,7 +613,7 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:38Z",
     "updated_at": "2026-07-02T10:54:25Z",
-    "scanned_at": "2026-07-05T20:34:54.941879+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452440+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -613,7 +636,7 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:37Z",
     "updated_at": "2026-07-02T10:54:26Z",
-    "scanned_at": "2026-07-05T20:34:54.941900+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452460+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -636,7 +659,7 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:32Z",
     "updated_at": "2026-07-02T10:54:27Z",
-    "scanned_at": "2026-07-05T20:34:54.941909+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452469+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -659,7 +682,7 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:28Z",
     "updated_at": "2026-07-02T10:54:28Z",
-    "scanned_at": "2026-07-05T20:34:54.941919+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452478+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -682,7 +705,7 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:26Z",
     "updated_at": "2026-07-02T10:54:28Z",
-    "scanned_at": "2026-07-05T20:34:54.941928+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452488+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -705,7 +728,7 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:24Z",
     "updated_at": "2026-07-03T06:59:53Z",
-    "scanned_at": "2026-07-05T20:34:54.941938+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452497+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -728,7 +751,7 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:23Z",
     "updated_at": "2026-07-02T10:54:30Z",
-    "scanned_at": "2026-07-05T20:34:54.941947+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452506+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -751,7 +774,7 @@
     "comments": 6,
     "created_at": "2026-06-30T12:14:19Z",
     "updated_at": "2026-07-02T10:54:31Z",
-    "scanned_at": "2026-07-05T20:34:54.941956+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452515+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -774,7 +797,7 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:17Z",
     "updated_at": "2026-07-02T10:54:33Z",
-    "scanned_at": "2026-07-05T20:34:54.941966+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452524+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -797,7 +820,7 @@
     "comments": 6,
     "created_at": "2026-06-30T12:14:15Z",
     "updated_at": "2026-07-03T21:20:14Z",
-    "scanned_at": "2026-07-05T20:34:54.941976+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452534+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
@@ -820,13 +843,13 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:14Z",
     "updated_at": "2026-07-03T07:00:27Z",
-    "scanned_at": "2026-07-05T20:34:54.941986+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452543+00:00",
     "status": "new",
     "_score": 42.7,
     "tier": "B"
   },
   {
-    "id": "BH-000244",
+    "id": "BH-000243",
     "title": "Implement Secure Payment Gateway and Payment Service",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -846,13 +869,13 @@
     "comments": 112,
     "created_at": "2026-05-16T16:50:35Z",
     "updated_at": "2026-06-27T02:03:53Z",
-    "scanned_at": "2026-07-05T20:35:01.873410+00:00",
+    "scanned_at": "2026-07-05T21:52:49.411743+00:00",
     "status": "new",
     "_score": 42.2,
     "tier": "B"
   },
   {
-    "id": "BH-000241",
+    "id": "BH-000240",
     "title": "Technical Poem Generation and Content Creation",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/76",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -871,7 +894,7 @@
     "comments": 227,
     "created_at": "2026-05-17T15:01:49Z",
     "updated_at": "2026-07-02T02:10:30Z",
-    "scanned_at": "2026-07-05T20:35:01.873079+00:00",
+    "scanned_at": "2026-07-05T21:52:49.411400+00:00",
     "status": "new",
     "_score": 39.5,
     "tier": "B"
@@ -894,7 +917,7 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:38Z",
     "updated_at": "2026-07-04T05:14:36Z",
-    "scanned_at": "2026-07-05T20:34:54.942156+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452719+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -917,7 +940,7 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:44Z",
     "updated_at": "2026-07-01T09:51:54Z",
-    "scanned_at": "2026-07-05T20:34:54.942120+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452682+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -940,7 +963,7 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:41Z",
     "updated_at": "2026-07-01T09:51:51Z",
-    "scanned_at": "2026-07-05T20:34:54.942138+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452701+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -963,7 +986,7 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:39Z",
     "updated_at": "2026-07-01T09:51:50Z",
-    "scanned_at": "2026-07-05T20:34:54.942147+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452710+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -987,7 +1010,7 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:47Z",
     "updated_at": "2026-06-30T12:15:42Z",
-    "scanned_at": "2026-07-05T20:34:54.942102+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452664+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -1011,7 +1034,7 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:43Z",
     "updated_at": "2026-07-01T09:51:53Z",
-    "scanned_at": "2026-07-05T20:34:54.942130+00:00",
+    "scanned_at": "2026-07-05T21:52:41.452692+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -1035,7 +1058,7 @@
     "comments": 0,
     "created_at": "2026-07-04T23:46:28Z",
     "updated_at": "2026-07-05T19:51:50Z",
-    "scanned_at": "2026-07-05T20:33:43.177300+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479490+00:00",
     "status": "new",
     "_score": 33.1,
     "tier": "B"
@@ -1059,7 +1082,7 @@
     "comments": 2392,
     "created_at": "2026-07-05T00:00:24Z",
     "updated_at": "2026-07-05T15:37:41Z",
-    "scanned_at": "2026-07-05T20:33:43.177153+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479345+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1083,7 +1106,7 @@
     "comments": 12,
     "created_at": "2026-07-05T00:00:22Z",
     "updated_at": "2026-07-05T15:37:38Z",
-    "scanned_at": "2026-07-05T20:33:43.177164+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479357+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1107,7 +1130,7 @@
     "comments": 11,
     "created_at": "2026-07-05T00:00:20Z",
     "updated_at": "2026-07-05T15:37:37Z",
-    "scanned_at": "2026-07-05T20:33:43.177176+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479368+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1131,7 +1154,7 @@
     "comments": 11,
     "created_at": "2026-07-05T00:00:18Z",
     "updated_at": "2026-07-05T15:37:37Z",
-    "scanned_at": "2026-07-05T20:33:43.177186+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479378+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1155,30 +1178,7 @@
     "comments": 15,
     "created_at": "2026-07-05T00:00:17Z",
     "updated_at": "2026-07-05T15:37:34Z",
-    "scanned_at": "2026-07-05T20:33:43.177195+00:00",
-    "status": "new",
-    "_score": 32.7,
-    "tier": "B"
-  },
-  {
-    "id": "BH-000030",
-    "title": "[BUG] Second-Order SQL Injection in Stored Procedure Chain $100",
-    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/340",
-    "repo": "zhangjiayang6835-cyber/ai-research",
-    "number": 340,
-    "labels": [
-      "bug",
-      "bounty",
-      "security",
-      "expert"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-07-05T00:00:15Z",
-    "updated_at": "2026-07-05T15:31:28Z",
-    "scanned_at": "2026-07-05T20:33:43.177208+00:00",
+    "scanned_at": "2026-07-05T21:51:28.479388+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
