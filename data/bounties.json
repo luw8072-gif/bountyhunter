@@ -17,10 +17,10 @@
     "language": "unknown",
     "amount_usd": 780,
     "state": "open",
-    "comments": 433,
+    "comments": 436,
     "created_at": "2026-05-17T15:04:05Z",
-    "updated_at": "2026-07-05T15:43:59Z",
-    "scanned_at": "2026-07-05T15:44:41.424791+00:00",
+    "updated_at": "2026-07-05T16:01:11Z",
+    "scanned_at": "2026-07-05T16:56:37.680882+00:00",
     "status": "new"
   },
   {
@@ -44,7 +44,7 @@
     "comments": 173,
     "created_at": "2026-05-17T05:55:52Z",
     "updated_at": "2026-07-03T23:17:15Z",
-    "scanned_at": "2026-07-05T15:44:41.424926+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681070+00:00",
     "status": "new"
   },
   {
@@ -67,10 +67,10 @@
     "language": "unknown",
     "amount_usd": 700,
     "state": "open",
-    "comments": 1340,
+    "comments": 1343,
     "created_at": "2026-05-27T06:32:39Z",
-    "updated_at": "2026-07-05T15:21:06Z",
-    "scanned_at": "2026-07-05T15:44:41.424725+00:00",
+    "updated_at": "2026-07-05T16:28:17Z",
+    "scanned_at": "2026-07-05T16:56:37.680814+00:00",
     "status": "new"
   },
   {
@@ -94,7 +94,7 @@
     "comments": 84,
     "created_at": "2026-05-17T05:53:20Z",
     "updated_at": "2026-06-17T10:09:05Z",
-    "scanned_at": "2026-07-05T15:44:41.425019+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681195+00:00",
     "status": "new"
   },
   {
@@ -117,7 +117,7 @@
     "comments": 227,
     "created_at": "2026-05-17T15:01:49Z",
     "updated_at": "2026-07-02T02:10:30Z",
-    "scanned_at": "2026-07-05T15:44:41.424817+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680912+00:00",
     "status": "new"
   },
   {
@@ -141,11 +141,11 @@
     "comments": 112,
     "created_at": "2026-05-16T16:50:35Z",
     "updated_at": "2026-06-27T02:03:53Z",
-    "scanned_at": "2026-07-05T15:44:41.425085+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681282+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000154",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -161,7 +161,7 @@
     "comments": 29,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-05T15:00:21Z",
-    "scanned_at": "2026-07-05T15:44:36.777438+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875962+00:00",
     "status": "new"
   },
   {
@@ -186,7 +186,7 @@
     "comments": 28,
     "created_at": "2026-05-31T13:00:19Z",
     "updated_at": "2026-06-19T16:27:12Z",
-    "scanned_at": "2026-07-05T15:44:41.422693+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678738+00:00",
     "status": "new"
   },
   {
@@ -211,11 +211,11 @@
     "comments": 22,
     "created_at": "2026-05-31T13:00:14Z",
     "updated_at": "2026-06-19T16:27:37Z",
-    "scanned_at": "2026-07-05T15:44:41.422717+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000025",
     "title": "[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/345",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -233,11 +233,11 @@
     "comments": 2392,
     "created_at": "2026-07-05T00:00:24Z",
     "updated_at": "2026-07-05T15:37:41Z",
-    "scanned_at": "2026-07-05T15:43:21.465150+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352997+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000026",
     "title": "[BUG] WebSocket Cross-Origin Hijacking + Session Prediction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/344",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -255,11 +255,11 @@
     "comments": 12,
     "created_at": "2026-07-05T00:00:22Z",
     "updated_at": "2026-07-05T15:37:38Z",
-    "scanned_at": "2026-07-05T15:43:21.465162+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353009+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000027",
     "title": "[BUG] Full Chain: XSS → CSRF → Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/343",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -277,11 +277,11 @@
     "comments": 11,
     "created_at": "2026-07-05T00:00:20Z",
     "updated_at": "2026-07-05T15:37:37Z",
-    "scanned_at": "2026-07-05T15:43:21.465176+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353019+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000028",
     "title": "[BUG] Log4j JNDI Injection in Custom Logging Framework $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/342",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -299,11 +299,11 @@
     "comments": 11,
     "created_at": "2026-07-05T00:00:18Z",
     "updated_at": "2026-07-05T15:37:37Z",
-    "scanned_at": "2026-07-05T15:43:21.465187+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353033+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000029",
     "title": "[BUG] RCE through Unsafe YAML Load in Configuration Parser $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/341",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -321,11 +321,11 @@
     "comments": 15,
     "created_at": "2026-07-05T00:00:17Z",
     "updated_at": "2026-07-05T15:37:34Z",
-    "scanned_at": "2026-07-05T15:43:21.465197+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353059+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000030",
     "title": "[BUG] Second-Order SQL Injection in Stored Procedure Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/340",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -342,11 +342,11 @@
     "comments": 9,
     "created_at": "2026-07-05T00:00:15Z",
     "updated_at": "2026-07-05T15:31:28Z",
-    "scanned_at": "2026-07-05T15:43:21.465210+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353072+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000031",
     "title": "[BUG] Web Cache Deception + Session Fixation Combined $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/339",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -363,11 +363,11 @@
     "comments": 8,
     "created_at": "2026-07-05T00:00:13Z",
     "updated_at": "2026-07-05T15:31:30Z",
-    "scanned_at": "2026-07-05T15:43:21.465220+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353083+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000032",
     "title": "[BUG] Docker Container Escape via Mounted Docker Socket $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/338",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -384,11 +384,11 @@
     "comments": 9,
     "created_at": "2026-07-05T00:00:12Z",
     "updated_at": "2026-07-05T15:31:32Z",
-    "scanned_at": "2026-07-05T15:43:21.465231+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353094+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000033",
     "title": "[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/337",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -405,11 +405,11 @@
     "comments": 6,
     "created_at": "2026-07-05T00:00:10Z",
     "updated_at": "2026-07-05T09:04:24Z",
-    "scanned_at": "2026-07-05T15:43:21.465241+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353103+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000034",
     "title": "[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/336",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -426,11 +426,11 @@
     "comments": 7,
     "created_at": "2026-07-05T00:00:08Z",
     "updated_at": "2026-07-05T09:04:27Z",
-    "scanned_at": "2026-07-05T15:43:21.465250+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353118+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000035",
     "title": "[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/335",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -447,11 +447,11 @@
     "comments": 7,
     "created_at": "2026-07-05T00:00:06Z",
     "updated_at": "2026-07-05T09:04:31Z",
-    "scanned_at": "2026-07-05T15:43:21.465261+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353128+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000036",
     "title": "[BUG] Path Traversal + Log Poisoning → RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/334",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -468,11 +468,11 @@
     "comments": 7,
     "created_at": "2026-07-05T00:00:04Z",
     "updated_at": "2026-07-05T09:07:04Z",
-    "scanned_at": "2026-07-05T15:43:21.465272+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353138+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000037",
     "title": "[BUG] WebAssembly Memory Corruption → Sandbox Escape $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/333",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -489,11 +489,11 @@
     "comments": 6,
     "created_at": "2026-07-05T00:00:03Z",
     "updated_at": "2026-07-05T09:07:07Z",
-    "scanned_at": "2026-07-05T15:43:21.465284+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353147+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000041",
     "title": "[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/325",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -510,11 +510,11 @@
     "comments": 366,
     "created_at": "2026-07-04T00:00:12Z",
     "updated_at": "2026-07-05T13:23:08Z",
-    "scanned_at": "2026-07-05T15:43:21.465349+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353212+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000042",
     "title": "[BUG] Timing-Based Blind Data Extraction via Race Window $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/324",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -531,11 +531,11 @@
     "comments": 8,
     "created_at": "2026-07-04T00:00:10Z",
     "updated_at": "2026-07-05T13:26:52Z",
-    "scanned_at": "2026-07-05T15:43:21.465361+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353222+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000043",
     "title": "[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/323",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -552,11 +552,11 @@
     "comments": 8,
     "created_at": "2026-07-04T00:00:09Z",
     "updated_at": "2026-07-05T13:30:36Z",
-    "scanned_at": "2026-07-05T15:43:21.465372+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353233+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000044",
     "title": "[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/322",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -573,11 +573,11 @@
     "comments": 8,
     "created_at": "2026-07-04T00:00:07Z",
     "updated_at": "2026-07-05T13:35:17Z",
-    "scanned_at": "2026-07-05T15:43:21.465382+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353242+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000045",
     "title": "[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/321",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -594,11 +594,11 @@
     "comments": 8,
     "created_at": "2026-07-04T00:00:06Z",
     "updated_at": "2026-07-05T13:40:09Z",
-    "scanned_at": "2026-07-05T15:43:21.465391+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353251+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000046",
     "title": "[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/320",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -615,11 +615,11 @@
     "comments": 7,
     "created_at": "2026-07-04T00:00:04Z",
     "updated_at": "2026-07-05T13:44:20Z",
-    "scanned_at": "2026-07-05T15:43:21.465401+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353260+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000078",
     "title": "[BUG] Hash Length Extension Attack on JWT Signature $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/274",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -637,11 +637,11 @@
     "comments": 1272,
     "created_at": "2026-07-02T00:00:35Z",
     "updated_at": "2026-07-05T04:31:52Z",
-    "scanned_at": "2026-07-05T15:43:21.467116+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354981+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000079",
     "title": "[BUG] SSTI to File Read → RCE in Jinja2 Sandbox Breakout $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/273",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -659,11 +659,11 @@
     "comments": 16,
     "created_at": "2026-07-02T00:00:34Z",
     "updated_at": "2026-07-02T08:05:52Z",
-    "scanned_at": "2026-07-05T15:43:21.467127+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354992+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000080",
     "title": "[BUG] LDAP Injection with Blind Boolean-Based Extraction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/272",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -681,11 +681,11 @@
     "comments": 15,
     "created_at": "2026-07-02T00:00:32Z",
     "updated_at": "2026-07-03T23:45:39Z",
-    "scanned_at": "2026-07-05T15:43:21.467136+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355004+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000081",
     "title": "[BUG] Serverless Function Event Injection → Privilege Escalation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/271",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -703,11 +703,11 @@
     "comments": 14,
     "created_at": "2026-07-02T00:00:30Z",
     "updated_at": "2026-07-02T08:05:55Z",
-    "scanned_at": "2026-07-05T15:43:21.467147+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355015+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000082",
     "title": "[BUG] Dangling DNS Record → Subdomain Takeover → Cookie Stealing $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/270",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -725,11 +725,11 @@
     "comments": 14,
     "created_at": "2026-07-02T00:00:29Z",
     "updated_at": "2026-07-02T08:05:57Z",
-    "scanned_at": "2026-07-05T15:43:21.467157+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355024+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000083",
     "title": "[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/269",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -747,11 +747,11 @@
     "comments": 17,
     "created_at": "2026-07-02T00:00:27Z",
     "updated_at": "2026-07-04T00:40:11Z",
-    "scanned_at": "2026-07-05T15:43:21.467167+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355034+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000084",
     "title": "[BUG] Padding Oracle Attack on Encrypted Session Cookies $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/268",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -768,11 +768,11 @@
     "comments": 17,
     "created_at": "2026-07-02T00:00:26Z",
     "updated_at": "2026-07-04T18:59:21Z",
-    "scanned_at": "2026-07-05T15:43:21.467176+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355058+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000085",
     "title": "[BUG] Kubernetes RBAC Bypass via API Server Misconfiguration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/267",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -790,11 +790,11 @@
     "comments": 16,
     "created_at": "2026-07-02T00:00:24Z",
     "updated_at": "2026-07-02T08:06:01Z",
-    "scanned_at": "2026-07-05T15:43:21.467186+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355071+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000086",
     "title": "[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/266",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -811,11 +811,11 @@
     "comments": 6,
     "created_at": "2026-07-02T00:00:22Z",
     "updated_at": "2026-07-05T12:49:15Z",
-    "scanned_at": "2026-07-05T15:43:21.467196+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355081+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000087",
     "title": "[BUG] AWS Metadata Service SSRF → IAM Credential Theft $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/265",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -833,11 +833,11 @@
     "comments": 12,
     "created_at": "2026-07-02T00:00:21Z",
     "updated_at": "2026-07-02T06:07:08Z",
-    "scanned_at": "2026-07-05T15:43:21.467208+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355090+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000088",
     "title": "[BUG] Spring4Shell + CVE Chain for Unauthenticated RCE $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/264",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -855,11 +855,11 @@
     "comments": 10,
     "created_at": "2026-07-02T00:00:19Z",
     "updated_at": "2026-07-02T08:56:10Z",
-    "scanned_at": "2026-07-05T15:43:21.467218+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355103+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000089",
     "title": "[BUG] HTTP Request Smuggling + Cache Poisoning Weaponization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/263",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -877,11 +877,11 @@
     "comments": 10,
     "created_at": "2026-07-02T00:00:17Z",
     "updated_at": "2026-07-02T08:56:55Z",
-    "scanned_at": "2026-07-05T15:43:21.467229+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355113+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000090",
     "title": "[BUG] DNS Rebinding + WebRTC → Internal Network Reconnaissance $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/262",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -899,11 +899,11 @@
     "comments": 9,
     "created_at": "2026-07-02T00:00:16Z",
     "updated_at": "2026-07-02T08:57:41Z",
-    "scanned_at": "2026-07-05T15:43:21.467239+00:00",
+    "scanned_at": "2026-07-05T16:55:17.355122+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000091",
     "title": "[BUG] Insecure Federation SSO → Cross-Tenant Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/261",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -921,11 +921,11 @@
     "comments": 8,
     "created_at": "2026-07-02T00:00:14Z",
     "updated_at": "2026-07-02T00:26:19Z",
-    "scanned_at": "2026-07-05T15:43:21.467248+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324163+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000092",
     "title": "[BUG] XXE via SVG Upload → SSRF → Internal Port Scanning $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/260",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -943,11 +943,11 @@
     "comments": 8,
     "created_at": "2026-07-02T00:00:12Z",
     "updated_at": "2026-07-02T00:26:17Z",
-    "scanned_at": "2026-07-05T15:44:33.954275+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324196+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000093",
     "title": "[BUG] Integer Overflow in Solidity Smart Contract → Token Theft $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/259",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -965,11 +965,11 @@
     "comments": 9,
     "created_at": "2026-07-02T00:00:11Z",
     "updated_at": "2026-07-05T09:43:37Z",
-    "scanned_at": "2026-07-05T15:44:33.954308+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324210+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000094",
     "title": "[BUG] OAuth 2.0 Implicit Grant Flow → Authorization Code Interception $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/258",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -987,11 +987,11 @@
     "comments": 8,
     "created_at": "2026-07-02T00:00:09Z",
     "updated_at": "2026-07-02T00:26:14Z",
-    "scanned_at": "2026-07-05T15:44:33.954321+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324222+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000095",
     "title": "[BUG] Microservice Mesh Sidecar Injection → Traffic Interception $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/257",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1009,11 +1009,11 @@
     "comments": 8,
     "created_at": "2026-07-02T00:00:07Z",
     "updated_at": "2026-07-02T00:26:12Z",
-    "scanned_at": "2026-07-05T15:44:33.954334+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324233+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000096",
     "title": "[BUG] Mass Assignment in Microservice → Privilege Escalation Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/256",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1031,11 +1031,11 @@
     "comments": 9,
     "created_at": "2026-07-02T00:00:05Z",
     "updated_at": "2026-07-05T11:17:15Z",
-    "scanned_at": "2026-07-05T15:44:33.954346+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324245+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000097",
     "title": "[BUG] Cross-Site Search (XS-Search) → User Data Enumeration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/255",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1053,11 +1053,11 @@
     "comments": 9,
     "created_at": "2026-07-02T00:00:03Z",
     "updated_at": "2026-07-05T11:23:52Z",
-    "scanned_at": "2026-07-05T15:44:33.954357+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324256+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000099",
     "title": "[BUG] JWT None Algorithm + Weak Secret + Kid Injection Triple Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/210",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1074,11 +1074,11 @@
     "comments": 206,
     "created_at": "2026-07-01T00:00:37Z",
     "updated_at": "2026-07-04T18:59:31Z",
-    "scanned_at": "2026-07-05T15:44:33.954404+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324309+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000100",
     "title": "[BUG] Blind RCE via Server-Side Template Injection in Sandboxed Env $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/209",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1095,11 +1095,11 @@
     "comments": 8,
     "created_at": "2026-07-01T00:00:35Z",
     "updated_at": "2026-07-05T09:30:57Z",
-    "scanned_at": "2026-07-05T15:44:33.954414+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324320+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000101",
     "title": "[BUG] Server-Side Prototype Pollution to RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/205",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1116,11 +1116,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:28Z",
     "updated_at": "2026-07-03T21:32:22Z",
-    "scanned_at": "2026-07-05T15:44:33.954425+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324330+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000102",
     "title": "[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/202",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1137,11 +1137,11 @@
     "comments": 7,
     "created_at": "2026-07-01T00:00:23Z",
     "updated_at": "2026-07-05T08:36:14Z",
-    "scanned_at": "2026-07-05T15:44:33.954435+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324340+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000103",
     "title": "[BUG] Race Condition in Distributed Transaction → Double Spending $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/200",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1158,11 +1158,11 @@
     "comments": 10,
     "created_at": "2026-07-01T00:00:19Z",
     "updated_at": "2026-07-05T09:16:16Z",
-    "scanned_at": "2026-07-05T15:44:33.954445+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324349+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000104",
     "title": "[BUG] Prototype Pollution → DOM XSS → Full Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/198",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1179,11 +1179,11 @@
     "comments": 8,
     "created_at": "2026-07-01T00:00:16Z",
     "updated_at": "2026-07-05T09:36:00Z",
-    "scanned_at": "2026-07-05T15:44:33.954454+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324359+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000105",
     "title": "[BUG] gRPC Reflection API Abuse → Service Enumeration → Exploitation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/196",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1200,11 +1200,11 @@
     "comments": 8,
     "created_at": "2026-07-01T00:00:13Z",
     "updated_at": "2026-07-05T09:18:37Z",
-    "scanned_at": "2026-07-05T15:44:33.954464+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324369+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000106",
     "title": "[BUG] CRDT Conflict Resolution Bypass → Data Corruption $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/193",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1221,11 +1221,11 @@
     "comments": 12,
     "created_at": "2026-07-01T00:00:07Z",
     "updated_at": "2026-07-01T16:30:04Z",
-    "scanned_at": "2026-07-05T15:44:33.954475+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324380+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000107",
     "title": "[BUG] Zero-Click Account Takeover via Email Normalization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/156",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1242,11 +1242,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:15:00Z",
     "updated_at": "2026-07-05T10:33:12Z",
-    "scanned_at": "2026-07-05T15:44:33.954485+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324390+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000108",
     "title": "[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/154",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1263,11 +1263,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:56Z",
     "updated_at": "2026-07-05T10:38:15Z",
-    "scanned_at": "2026-07-05T15:44:33.954494+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324400+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000109",
     "title": "[BUG] Reentrancy Attack on DeFi Withdraw Function $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/153",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1284,11 +1284,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:54Z",
     "updated_at": "2026-07-05T08:28:36Z",
-    "scanned_at": "2026-07-05T15:44:33.954504+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324409+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000110",
     "title": "[BUG] Path Traversal + Log Poisoning → RCE Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/151",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1305,11 +1305,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:51Z",
     "updated_at": "2026-07-02T10:54:19Z",
-    "scanned_at": "2026-07-05T15:44:33.954514+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324419+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000111",
     "title": "[BUG] Log4j JNDI Injection in Custom Logging Framework $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/150",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1326,11 +1326,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:49Z",
     "updated_at": "2026-07-05T15:30:22Z",
-    "scanned_at": "2026-07-05T15:44:33.954524+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324429+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000112",
     "title": "[BUG] Full Chain: XSS → CSRF → Account Takeover $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/149",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1347,11 +1347,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:48Z",
     "updated_at": "2026-07-03T20:18:30Z",
-    "scanned_at": "2026-07-05T15:44:33.954535+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324438+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000113",
     "title": "[BUG] Docker Container Escape via Mounted Docker Socket $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/148",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1368,11 +1368,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:45Z",
     "updated_at": "2026-07-04T05:12:20Z",
-    "scanned_at": "2026-07-05T15:44:33.954544+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324449+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000114",
     "title": "[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/147",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1389,11 +1389,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:44Z",
     "updated_at": "2026-07-03T20:24:30Z",
-    "scanned_at": "2026-07-05T15:44:33.954554+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324458+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000115",
     "title": "[BUG] Web Cache Deception + Session Fixation Combined $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/146",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1410,11 +1410,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:42Z",
     "updated_at": "2026-07-03T20:27:16Z",
-    "scanned_at": "2026-07-05T15:44:33.954563+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324468+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000116",
     "title": "[BUG] WebAssembly Memory Corruption → Sandbox Escape $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/145",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1431,11 +1431,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:40Z",
     "updated_at": "2026-07-02T13:28:21Z",
-    "scanned_at": "2026-07-05T15:44:33.954573+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324478+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000117",
     "title": "[BUG] Second-Order SQL Injection in Stored Procedure Chain $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/144",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1452,11 +1452,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:38Z",
     "updated_at": "2026-07-02T10:54:25Z",
-    "scanned_at": "2026-07-05T15:44:33.954584+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000118",
     "title": "[BUG] RCE through Unsafe YAML Load in Configuration Parser $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/143",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1473,11 +1473,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:37Z",
     "updated_at": "2026-07-02T10:54:26Z",
-    "scanned_at": "2026-07-05T15:44:33.954593+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324499+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000119",
     "title": "[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/140",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1494,11 +1494,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:32Z",
     "updated_at": "2026-07-02T10:54:27Z",
-    "scanned_at": "2026-07-05T15:44:33.954603+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324524+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000120",
     "title": "[BUG] WebSocket Cross-Origin Hijacking + Session Prediction $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/138",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1515,11 +1515,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:28Z",
     "updated_at": "2026-07-02T10:54:28Z",
-    "scanned_at": "2026-07-05T15:44:33.954624+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324534+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000121",
     "title": "[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/137",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1536,11 +1536,11 @@
     "comments": 7,
     "created_at": "2026-06-30T12:14:26Z",
     "updated_at": "2026-07-02T10:54:28Z",
-    "scanned_at": "2026-07-05T15:44:33.954634+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000122",
     "title": "[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/136",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1557,11 +1557,11 @@
     "comments": 10,
     "created_at": "2026-06-30T12:14:24Z",
     "updated_at": "2026-07-03T06:59:53Z",
-    "scanned_at": "2026-07-05T15:44:33.954646+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324554+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000123",
     "title": "[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/135",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1578,11 +1578,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:23Z",
     "updated_at": "2026-07-02T10:54:30Z",
-    "scanned_at": "2026-07-05T15:44:33.954656+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324563+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000124",
     "title": "[BUG] Timing-Based Blind Data Extraction via Race Window $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/133",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1599,11 +1599,11 @@
     "comments": 6,
     "created_at": "2026-06-30T12:14:19Z",
     "updated_at": "2026-07-02T10:54:31Z",
-    "scanned_at": "2026-07-05T15:44:33.954665+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324572+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000125",
     "title": "[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/132",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1620,11 +1620,11 @@
     "comments": 8,
     "created_at": "2026-06-30T12:14:17Z",
     "updated_at": "2026-07-02T10:54:33Z",
-    "scanned_at": "2026-07-05T15:44:33.954674+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000126",
     "title": "[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/131",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1641,11 +1641,11 @@
     "comments": 6,
     "created_at": "2026-06-30T12:14:15Z",
     "updated_at": "2026-07-03T21:20:14Z",
-    "scanned_at": "2026-07-05T15:44:33.954684+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324591+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000127",
     "title": "[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/130",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1662,11 +1662,11 @@
     "comments": 9,
     "created_at": "2026-06-30T12:14:14Z",
     "updated_at": "2026-07-03T07:00:27Z",
-    "scanned_at": "2026-07-05T15:44:33.954694+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324601+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000128",
     "title": "[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/129",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1683,11 +1683,11 @@
     "comments": 3,
     "created_at": "2026-06-30T12:14:12Z",
     "updated_at": "2026-07-02T10:54:35Z",
-    "scanned_at": "2026-07-05T15:44:33.954704+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324610+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000130",
     "title": "[BUG] Authentication Bypass via JKI Injection $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/117",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1704,11 +1704,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:38:08Z",
     "updated_at": "2026-07-05T10:46:48Z",
-    "scanned_at": "2026-07-05T15:44:33.954728+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324633+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000133",
     "title": "[BUG] Command Injection in Image Processing $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/111",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1725,11 +1725,11 @@
     "comments": 9,
     "created_at": "2026-06-30T11:37:57Z",
     "updated_at": "2026-07-01T09:56:51Z",
-    "scanned_at": "2026-07-05T15:44:33.954757+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324662+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000135",
     "title": "[BUG] SSTI to RCE via Template Engine $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/109",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1746,11 +1746,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:37:54Z",
     "updated_at": "2026-07-05T10:52:11Z",
-    "scanned_at": "2026-07-05T15:44:33.954807+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324681+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000137",
     "title": "[BUG] Mass Assignment to Privilege Escalation $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/107",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1767,11 +1767,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:51Z",
     "updated_at": "2026-07-01T09:56:53Z",
-    "scanned_at": "2026-07-05T15:44:33.954828+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324699+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000140",
     "title": "[BUG] Full Takeover via Cache Poisoning $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/104",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1788,11 +1788,11 @@
     "comments": 7,
     "created_at": "2026-06-30T11:37:46Z",
     "updated_at": "2026-07-01T09:56:57Z",
-    "scanned_at": "2026-07-05T15:44:33.954859+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324728+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000145",
     "title": "[BUG] Server-Side Template Injection (SSTI) v3 $50",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/99",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1809,11 +1809,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:38Z",
     "updated_at": "2026-07-04T05:14:36Z",
-    "scanned_at": "2026-07-05T15:44:33.954908+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324776+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000162",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -1827,14 +1827,14 @@
     "language": "go",
     "amount_usd": 50,
     "state": "open",
-    "comments": 22,
+    "comments": 23,
     "created_at": "2026-06-24T03:03:50Z",
-    "updated_at": "2026-07-04T10:01:55Z",
-    "scanned_at": "2026-07-05T15:44:36.777817+00:00",
+    "updated_at": "2026-07-05T16:02:35Z",
+    "scanned_at": "2026-07-05T16:56:32.876281+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000167",
     "title": "[$40 BOUNTY] [Python] Validate Terraform import resource names",
     "url": "https://github.com/123a-bcd/zeroeye/issues/1",
     "repo": "123a-bcd/zeroeye",
@@ -1851,11 +1851,11 @@
     "comments": 16,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-07-05T04:40:05Z",
-    "scanned_at": "2026-07-05T15:44:36.777865+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876321+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000168",
     "title": "[$40 BOUNTY] [TypeScript] Harden API response error handling",
     "url": "https://github.com/2lll5/TentOfTrials/issues/1",
     "repo": "2lll5/TentOfTrials",
@@ -1872,11 +1872,11 @@
     "comments": 14,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-06-29T07:00:02Z",
-    "scanned_at": "2026-07-05T15:44:36.777875+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876329+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000165",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -1893,11 +1893,11 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-05T15:44:36.777846+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876305+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000131",
     "title": "[BUG] File Upload Bypass via Double Extension $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/116",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1914,11 +1914,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:38:06Z",
     "updated_at": "2026-07-04T04:52:32Z",
-    "scanned_at": "2026-07-05T15:44:33.954738+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324642+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000132",
     "title": "[BUG] Business Logic Flaw in Refund System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/115",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1935,11 +1935,11 @@
     "comments": 10,
     "created_at": "2026-06-30T11:38:04Z",
     "updated_at": "2026-07-01T09:56:41Z",
-    "scanned_at": "2026-07-05T15:44:33.954748+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324652+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000134",
     "title": "[BUG] Hidden API Endpoint Discovery $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/110",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1956,11 +1956,11 @@
     "comments": 6,
     "created_at": "2026-06-30T11:37:56Z",
     "updated_at": "2026-06-30T15:46:50Z",
-    "scanned_at": "2026-07-05T15:44:33.954790+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324671+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000136",
     "title": "[BUG] Email Spoofing via Missing SPF/DKIM $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/108",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1977,11 +1977,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:37:52Z",
     "updated_at": "2026-06-30T22:10:12Z",
-    "scanned_at": "2026-07-05T15:44:33.954818+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324690+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000141",
     "title": "[BUG] Blind XSS in Support Ticket System $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/103",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1998,11 +1998,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:44Z",
     "updated_at": "2026-07-01T09:51:54Z",
-    "scanned_at": "2026-07-05T15:44:33.954869+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324738+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000143",
     "title": "[BUG] DOM Clobbering Attack $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/101",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2019,11 +2019,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:41Z",
     "updated_at": "2026-07-01T09:51:51Z",
-    "scanned_at": "2026-07-05T15:44:33.954889+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324757+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000144",
     "title": "[BUG] Zip Slip via Archive Upload $25",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/100",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2040,32 +2040,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:39Z",
     "updated_at": "2026-07-01T09:51:50Z",
-    "scanned_at": "2026-07-05T15:44:33.954898+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324767+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
-    "title": "[$25 BOUNTY] [Rust] Add support for compressed serialization in protocol serializer",
-    "url": "https://github.com/0106hyh/kickama-manifest-wizard/issues/1",
-    "repo": "0106hyh/kickama-manifest-wizard",
-    "number": 1,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "bounty",
-      "language:rust"
-    ],
-    "language": "rust",
-    "amount_usd": 25,
-    "state": "open",
-    "comments": 12,
-    "created_at": "2026-06-20T15:18:44Z",
-    "updated_at": "2026-06-28T23:19:40Z",
-    "scanned_at": "2026-07-05T15:44:36.777885+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000163",
+    "id": "BH-000164",
     "title": "[$20 BOUNTY] [Go] Make analytics Collector Start idempotent",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/2",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -2082,11 +2061,11 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-07-05T15:44:36.777837+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876296+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000166",
     "title": "[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -2103,11 +2082,11 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-07-05T15:44:36.777855+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876313+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000052",
     "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
     "repo": "Nexussyn/ai-growth-engine",
@@ -2124,11 +2103,11 @@
     "comments": 14,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-07-05T15:00:53Z",
-    "scanned_at": "2026-07-05T15:43:21.465701+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353563+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000005",
     "title": "Frantic bounty #90: runx skill: compliance pack",
     "url": "https://github.com/auscaster/frantic-board/issues/205",
     "repo": "auscaster/frantic-board",
@@ -2144,11 +2123,11 @@
     "comments": 4,
     "created_at": "2026-07-05T09:11:04Z",
     "updated_at": "2026-07-05T09:37:41Z",
-    "scanned_at": "2026-07-05T15:43:21.464066+00:00",
+    "scanned_at": "2026-07-05T16:55:17.351943+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000014",
     "title": "Frantic bounty #81: runx skill: launch guard",
     "url": "https://github.com/auscaster/frantic-board/issues/196",
     "repo": "auscaster/frantic-board",
@@ -2164,11 +2143,11 @@
     "comments": 6,
     "created_at": "2026-07-05T09:10:00Z",
     "updated_at": "2026-07-05T10:15:10Z",
-    "scanned_at": "2026-07-05T15:43:21.464448+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000007",
     "title": "Frantic bounty #88: runx skill: integration doctor",
     "url": "https://github.com/auscaster/frantic-board/issues/203",
     "repo": "auscaster/frantic-board",
@@ -2184,11 +2163,11 @@
     "comments": 7,
     "created_at": "2026-07-05T09:10:50Z",
     "updated_at": "2026-07-05T10:12:59Z",
-    "scanned_at": "2026-07-05T15:43:21.464162+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352025+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000009",
     "title": "Frantic bounty #86: runx skill: contract drafter",
     "url": "https://github.com/auscaster/frantic-board/issues/201",
     "repo": "auscaster/frantic-board",
@@ -2204,11 +2183,11 @@
     "comments": 9,
     "created_at": "2026-07-05T09:10:36Z",
     "updated_at": "2026-07-05T14:00:29Z",
-    "scanned_at": "2026-07-05T15:43:21.464245+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352140+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000013",
     "title": "Frantic bounty #82: runx skill: quote guard",
     "url": "https://github.com/auscaster/frantic-board/issues/197",
     "repo": "auscaster/frantic-board",
@@ -2224,11 +2203,11 @@
     "comments": 7,
     "created_at": "2026-07-05T09:10:08Z",
     "updated_at": "2026-07-05T10:13:34Z",
-    "scanned_at": "2026-07-05T15:43:21.464408+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352294+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000049",
     "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
     "repo": "Nexussyn/ai-growth-engine",
@@ -2245,11 +2224,11 @@
     "comments": 19,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-07-05T14:27:04Z",
-    "scanned_at": "2026-07-05T15:43:21.465667+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353529+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000050",
     "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
     "repo": "Nexussyn/ai-growth-engine",
@@ -2266,11 +2245,11 @@
     "comments": 18,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-07-05T14:33:13Z",
-    "scanned_at": "2026-07-05T15:43:21.465678+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353541+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000051",
     "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
     "repo": "Nexussyn/ai-growth-engine",
@@ -2287,11 +2266,11 @@
     "comments": 17,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-07-05T14:37:42Z",
-    "scanned_at": "2026-07-05T15:43:21.465689+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353551+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000129",
     "title": "[BUG] Insecure File Permissions $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/118",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2309,11 +2288,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:38:09Z",
     "updated_at": "2026-06-30T12:15:34Z",
-    "scanned_at": "2026-07-05T15:44:33.954715+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324623+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000138",
     "title": "[BUG] Lack of Account Lockout $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/106",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2331,11 +2310,11 @@
     "comments": 8,
     "created_at": "2026-06-30T11:37:49Z",
     "updated_at": "2026-07-01T09:56:55Z",
-    "scanned_at": "2026-07-05T15:44:33.954839+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324709+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000139",
     "title": "[BUG] Unvalidated File Upload Type $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/105",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2353,11 +2332,11 @@
     "comments": 3,
     "created_at": "2026-06-30T11:37:47Z",
     "updated_at": "2026-06-30T12:15:42Z",
-    "scanned_at": "2026-07-05T15:44:33.954849+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324719+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000142",
     "title": "[BUG] Insecure Direct Object Reference in Profile $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/102",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2375,11 +2354,11 @@
     "comments": 4,
     "created_at": "2026-06-30T11:37:43Z",
     "updated_at": "2026-07-01T09:51:53Z",
-    "scanned_at": "2026-07-05T15:44:33.954880+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324748+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000146",
     "title": "[BUG] Session Token in URL $10",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/98",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -2397,11 +2376,11 @@
     "comments": 5,
     "created_at": "2026-06-30T11:37:36Z",
     "updated_at": "2026-07-04T13:58:08Z",
-    "scanned_at": "2026-07-05T15:44:33.954918+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324786+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000155",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -2418,11 +2397,11 @@
     "comments": 18,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-06-29T07:52:22Z",
-    "scanned_at": "2026-07-05T15:44:36.777452+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875974+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000156",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -2439,11 +2418,11 @@
     "comments": 32,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-05T04:19:30Z",
-    "scanned_at": "2026-07-05T15:44:36.777463+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875984+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000163",
     "title": "[$10 BOUNTY] [Python] Add configurable timeout and rate limiting to health_check probes",
     "url": "https://github.com/foxyManTou/kickama-foxy-trials/issues/1",
     "repo": "foxyManTou/kickama-foxy-trials",
@@ -2457,11 +2436,11 @@
     "comments": 26,
     "created_at": "2026-06-22T23:36:30Z",
     "updated_at": "2026-07-05T04:19:31Z",
-    "scanned_at": "2026-07-05T15:44:36.777827+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876288+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000048",
     "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
     "repo": "Nexussyn/ai-growth-engine",
@@ -2477,11 +2456,11 @@
     "comments": 36,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-07-05T14:17:43Z",
-    "scanned_at": "2026-07-05T15:43:21.465655+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000053",
     "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
     "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
     "repo": "Nexussyn/ai-growth-platform",
@@ -2496,11 +2475,30 @@
     "comments": 9,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-07-03T22:35:01Z",
-    "scanned_at": "2026-07-05T15:43:21.465711+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353572+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[Bounty] Help fix broken file upload component in React/TypeScript (.tsx)",
+    "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/20",
+    "repo": "Hazyshades/Sendly-Test-Repo",
+    "number": 20,
+    "labels": [
+      "bounty",
+      "bounty:15"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-05T16:53:17Z",
+    "updated_at": "2026-07-05T16:54:37Z",
+    "scanned_at": "2026-07-05T16:55:17.351571+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
     "title": "🎯 Fix Stale ETag Reuse in Pagination Helper When Request Options Change",
     "url": "https://github.com/qxrtjdggj653/go/issues/1",
     "repo": "qxrtjdggj653/go",
@@ -2516,11 +2514,11 @@
     "comments": 175,
     "created_at": "2026-07-05T10:18:11Z",
     "updated_at": "2026-07-05T13:54:00Z",
-    "scanned_at": "2026-07-05T15:43:21.463900+00:00",
+    "scanned_at": "2026-07-05T16:55:17.351813+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000003",
     "title": "Frantic bounty #92: runx skill: secret catcher",
     "url": "https://github.com/auscaster/frantic-board/issues/207",
     "repo": "auscaster/frantic-board",
@@ -2536,11 +2534,11 @@
     "comments": 8,
     "created_at": "2026-07-05T09:11:19Z",
     "updated_at": "2026-07-05T13:44:23Z",
-    "scanned_at": "2026-07-05T15:43:21.463968+00:00",
+    "scanned_at": "2026-07-05T16:55:17.351858+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000004",
     "title": "Frantic bounty #91: runx skill: data doctor",
     "url": "https://github.com/auscaster/frantic-board/issues/206",
     "repo": "auscaster/frantic-board",
@@ -2556,11 +2554,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:11:12Z",
     "updated_at": "2026-07-05T09:37:51Z",
-    "scanned_at": "2026-07-05T15:43:21.464014+00:00",
+    "scanned_at": "2026-07-05T16:55:17.351898+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000006",
     "title": "Frantic bounty #89: runx skill: bookkeeper",
     "url": "https://github.com/auscaster/frantic-board/issues/204",
     "repo": "auscaster/frantic-board",
@@ -2576,11 +2574,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:10:57Z",
     "updated_at": "2026-07-05T09:37:31Z",
-    "scanned_at": "2026-07-05T15:43:21.464107+00:00",
+    "scanned_at": "2026-07-05T16:55:17.351982+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000008",
     "title": "Frantic bounty #87: runx skill: answer from docs",
     "url": "https://github.com/auscaster/frantic-board/issues/202",
     "repo": "auscaster/frantic-board",
@@ -2596,11 +2594,11 @@
     "comments": 8,
     "created_at": "2026-07-05T09:10:43Z",
     "updated_at": "2026-07-05T13:43:28Z",
-    "scanned_at": "2026-07-05T15:43:21.464204+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352097+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000010",
     "title": "Frantic bounty #85: runx skill: expense copilot",
     "url": "https://github.com/auscaster/frantic-board/issues/200",
     "repo": "auscaster/frantic-board",
@@ -2616,11 +2614,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:10:29Z",
     "updated_at": "2026-07-05T09:36:51Z",
-    "scanned_at": "2026-07-05T15:43:21.464287+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352179+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000011",
     "title": "Frantic bounty #84: runx skill: schema guard",
     "url": "https://github.com/auscaster/frantic-board/issues/199",
     "repo": "auscaster/frantic-board",
@@ -2636,11 +2634,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:10:22Z",
     "updated_at": "2026-07-05T09:36:41Z",
-    "scanned_at": "2026-07-05T15:43:21.464328+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352217+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000012",
     "title": "Frantic bounty #83: runx skill: postmortem maker",
     "url": "https://github.com/auscaster/frantic-board/issues/198",
     "repo": "auscaster/frantic-board",
@@ -2656,11 +2654,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:10:15Z",
     "updated_at": "2026-07-05T09:36:31Z",
-    "scanned_at": "2026-07-05T15:43:21.464368+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352256+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000015",
     "title": "Frantic bounty #80: runx skill: support firewatch",
     "url": "https://github.com/auscaster/frantic-board/issues/195",
     "repo": "auscaster/frantic-board",
@@ -2676,11 +2674,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:09:53Z",
     "updated_at": "2026-07-05T09:36:01Z",
-    "scanned_at": "2026-07-05T15:43:21.464489+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352371+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000016",
     "title": "Frantic bounty #79: runx skill: CRM cleanup",
     "url": "https://github.com/auscaster/frantic-board/issues/194",
     "repo": "auscaster/frantic-board",
@@ -2696,11 +2694,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:09:45Z",
     "updated_at": "2026-07-05T09:35:50Z",
-    "scanned_at": "2026-07-05T15:43:21.464528+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352409+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000017",
     "title": "Frantic bounty #78: runx skill: support desk",
     "url": "https://github.com/auscaster/frantic-board/issues/193",
     "repo": "auscaster/frantic-board",
@@ -2716,11 +2714,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:09:38Z",
     "updated_at": "2026-07-05T09:35:40Z",
-    "scanned_at": "2026-07-05T15:43:21.464570+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352446+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000018",
     "title": "Frantic bounty #77: runx skill: docs doctor",
     "url": "https://github.com/auscaster/frantic-board/issues/192",
     "repo": "auscaster/frantic-board",
@@ -2736,11 +2734,11 @@
     "comments": 10,
     "created_at": "2026-07-05T09:09:31Z",
     "updated_at": "2026-07-05T13:43:27Z",
-    "scanned_at": "2026-07-05T15:43:21.464609+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000019",
     "title": "Frantic bounty #76: runx skill: meeting followup",
     "url": "https://github.com/auscaster/frantic-board/issues/191",
     "repo": "auscaster/frantic-board",
@@ -2756,11 +2754,11 @@
     "comments": 5,
     "created_at": "2026-07-05T09:09:23Z",
     "updated_at": "2026-07-05T09:35:20Z",
-    "scanned_at": "2026-07-05T15:43:21.464648+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352527+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000020",
     "title": "Frantic bounty #75: runx skill: SBOM maker",
     "url": "https://github.com/auscaster/frantic-board/issues/190",
     "repo": "auscaster/frantic-board",
@@ -2776,11 +2774,11 @@
     "comments": 4,
     "created_at": "2026-07-05T09:09:10Z",
     "updated_at": "2026-07-05T12:13:50Z",
-    "scanned_at": "2026-07-05T15:43:21.464688+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352566+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000021",
     "title": "🎯 Fix: Request body cannot be rebound after middleware reads body with BodyLimit enabled",
     "url": "https://github.com/qxrtjdggj653/echo/issues/1",
     "repo": "qxrtjdggj653/echo",
@@ -2796,11 +2794,11 @@
     "comments": 8,
     "created_at": "2026-07-05T09:06:12Z",
     "updated_at": "2026-07-05T15:09:09Z",
-    "scanned_at": "2026-07-05T15:43:21.464919+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352770+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000022",
     "title": "🎯 Fix Indefinite Blocking in Client Stream SendMsg() During Context Cancellation",
     "url": "https://github.com/qxrtjdggj653/grpc-go/issues/1",
     "repo": "qxrtjdggj653/grpc-go",
@@ -2816,11 +2814,11 @@
     "comments": 7,
     "created_at": "2026-07-05T09:02:31Z",
     "updated_at": "2026-07-05T15:09:11Z",
-    "scanned_at": "2026-07-05T15:43:21.465109+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352961+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000023",
     "title": "Typing and syntax update. Refactor Login.tsx",
     "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/13",
     "repo": "Hazyshades/Sendly-Test-Repo",
@@ -2836,11 +2834,11 @@
     "comments": 4,
     "created_at": "2026-07-05T06:22:05Z",
     "updated_at": "2026-07-05T09:21:00Z",
-    "scanned_at": "2026-07-05T15:43:21.465122+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352973+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000024",
     "title": "Problem with login token",
     "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/12",
     "repo": "Hazyshades/Sendly-Test-Repo",
@@ -2856,11 +2854,11 @@
     "comments": 4,
     "created_at": "2026-07-05T05:58:13Z",
     "updated_at": "2026-07-05T09:51:29Z",
-    "scanned_at": "2026-07-05T15:43:21.465135+00:00",
+    "scanned_at": "2026-07-05T16:55:17.352984+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000038",
     "title": "Bounty Quick-Open",
     "url": "https://github.com/beertierchen/warera-prost/issues/11",
     "repo": "beertierchen/warera-prost",
@@ -2877,11 +2875,11 @@
     "comments": 6,
     "created_at": "2026-07-04T19:32:27Z",
     "updated_at": "2026-07-05T13:11:24Z",
-    "scanned_at": "2026-07-05T15:43:21.465303+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000039",
     "title": "Bounty-History / Log",
     "url": "https://github.com/beertierchen/warera-prost/issues/6",
     "repo": "beertierchen/warera-prost",
@@ -2897,11 +2895,11 @@
     "comments": 1,
     "created_at": "2026-07-04T19:32:21Z",
     "updated_at": "2026-07-05T13:15:54Z",
-    "scanned_at": "2026-07-05T15:43:21.465320+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000040",
     "title": "[radar] SN open bounty 2026-07-04T08:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/114",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2917,11 +2915,11 @@
     "comments": 2,
     "created_at": "2026-07-04T08:48:43Z",
     "updated_at": "2026-07-05T13:19:14Z",
-    "scanned_at": "2026-07-05T15:43:21.465339+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353201+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000047",
     "title": "🎯 Fix: Prevent Session State Inconsistency on Connection Reset and driver.ErrBadConn Retry",
     "url": "https://github.com/earnestmant2/mysql/issues/1",
     "repo": "earnestmant2/mysql",
@@ -2937,11 +2935,11 @@
     "comments": 10,
     "created_at": "2026-07-03T14:58:37Z",
     "updated_at": "2026-07-05T14:13:34Z",
-    "scanned_at": "2026-07-05T15:43:21.465643+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353504+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000054",
     "title": "Case #1. Issue Bounty Escrow",
     "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/2",
     "repo": "Hazyshades/Sendly-Test-Repo",
@@ -2956,11 +2954,11 @@
     "comments": 6,
     "created_at": "2026-07-03T12:26:14Z",
     "updated_at": "2026-07-03T22:38:12Z",
-    "scanned_at": "2026-07-05T15:43:21.465722+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353584+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000055",
     "title": "🎯 Fix panic on duplicate shell completion registration for inherited persistent flags",
     "url": "https://github.com/Markp1598M/cobra/issues/1",
     "repo": "Markp1598M/cobra",
@@ -2976,11 +2974,11 @@
     "comments": 15,
     "created_at": "2026-07-03T02:20:09Z",
     "updated_at": "2026-07-04T13:55:06Z",
-    "scanned_at": "2026-07-05T15:43:21.465970+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000056",
     "title": "[bounty] Name the threshold-crossing lexeme — the word for entering something new",
     "url": "https://github.com/Eaprime1/custos/issues/187",
     "repo": "Eaprime1/custos",
@@ -2995,11 +2993,11 @@
     "comments": 9,
     "created_at": "2026-07-02T22:56:53Z",
     "updated_at": "2026-07-04T07:45:07Z",
-    "scanned_at": "2026-07-05T15:43:21.466073+00:00",
+    "scanned_at": "2026-07-05T16:55:17.353926+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000057",
     "title": "🎯 Fix: --atomic rollback fails to trigger and leaves release in pending-upgrade state when post-upgrade hook times out",
     "url": "https://github.com/Markp1598M/Helm/issues/1",
     "repo": "Markp1598M/Helm",
@@ -3015,11 +3013,11 @@
     "comments": 9,
     "created_at": "2026-07-02T16:34:26Z",
     "updated_at": "2026-07-05T14:59:33Z",
-    "scanned_at": "2026-07-05T15:43:21.466278+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354158+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000058",
     "title": "Fix: Offline sync queue not clearing after successful push",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/52",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3036,11 +3034,11 @@
     "comments": 22,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-04T16:50:08Z",
-    "scanned_at": "2026-07-05T15:43:21.466333+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354201+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000059",
     "title": "Fix: QR code scanner torch toggle broken on iOS",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/51",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3058,11 +3056,11 @@
     "comments": 17,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-04T06:00:43Z",
-    "scanned_at": "2026-07-05T15:43:21.466364+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354240+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000060",
     "title": "Fix: SOS button not accessible on Android lock screen",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/50",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3080,11 +3078,11 @@
     "comments": 16,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-04T06:05:41Z",
-    "scanned_at": "2026-07-05T15:43:21.466400+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354276+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000061",
     "title": "Appointment conflict detection - improve edge cases",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/49",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3100,11 +3098,11 @@
     "comments": 16,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-03T22:49:02Z",
-    "scanned_at": "2026-07-05T15:43:21.466430+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354307+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000062",
     "title": "Detox E2E tests - QR scan and share flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/48",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3121,11 +3119,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:53Z",
     "updated_at": "2026-07-05T10:52:12Z",
-    "scanned_at": "2026-07-05T15:43:21.466459+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354336+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000063",
     "title": "Detox E2E tests - medication flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/47",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3142,11 +3140,11 @@
     "comments": 11,
     "created_at": "2026-07-02T11:20:43Z",
     "updated_at": "2026-07-03T10:51:51Z",
-    "scanned_at": "2026-07-05T15:43:21.466489+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354366+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000064",
     "title": "Push notification deep-link routing - all notification types",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/46",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3162,11 +3160,11 @@
     "comments": 11,
     "created_at": "2026-07-02T11:20:33Z",
     "updated_at": "2026-07-02T22:08:02Z",
-    "scanned_at": "2026-07-05T15:43:21.466522+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354399+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000065",
     "title": "Health metrics export to PDF - vet-ready report",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/45",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3182,11 +3180,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:20:23Z",
     "updated_at": "2026-07-05T04:04:23Z",
-    "scanned_at": "2026-07-05T15:43:21.466568+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354448+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000066",
     "title": "Stellar trustline UI - PETC / VETH / PAWP token management",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/43",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3203,11 +3201,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:20:06Z",
     "updated_at": "2026-07-05T04:04:22Z",
-    "scanned_at": "2026-07-05T15:43:21.466600+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354482+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000067",
     "title": "Pet insurance claims - full submission flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/42",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3223,11 +3221,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:19:55Z",
     "updated_at": "2026-07-05T04:04:22Z",
-    "scanned_at": "2026-07-05T15:43:21.466635+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000068",
     "title": "Portuguese (BR) language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/41",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3245,11 +3243,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:45Z",
     "updated_at": "2026-07-03T23:54:09Z",
-    "scanned_at": "2026-07-05T15:43:21.466661+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354548+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000069",
     "title": "French language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/40",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3267,11 +3265,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:35Z",
     "updated_at": "2026-07-05T08:20:46Z",
-    "scanned_at": "2026-07-05T15:43:21.466688+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354575+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000070",
     "title": "Dark mode - full app theming audit and fix",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/39",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3288,11 +3286,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:23Z",
     "updated_at": "2026-07-02T14:31:14Z",
-    "scanned_at": "2026-07-05T15:43:21.466722+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354608+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000071",
     "title": "Apple Watch companion app - SwiftUI health widget",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/38",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3308,11 +3306,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:04Z",
     "updated_at": "2026-07-04T21:00:14Z",
-    "scanned_at": "2026-07-05T15:43:21.466755+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354643+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000072",
     "title": "AI symptom checker backend - breed + symptoms to vet recommendation",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/31",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3329,11 +3327,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:11:20Z",
     "updated_at": "2026-07-04T07:52:39Z",
-    "scanned_at": "2026-07-05T15:43:21.466809+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354680+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000073",
     "title": "Telemedicine - WebRTC video consultation end-to-end flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/30",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3349,11 +3347,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:11:02Z",
     "updated_at": "2026-07-02T12:55:07Z",
-    "scanned_at": "2026-07-05T15:43:21.466843+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354714+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000074",
     "title": "Wearable device sync - FitBark and Whistle API integration",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/29",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3369,11 +3367,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:10:45Z",
     "updated_at": "2026-07-04T11:10:23Z",
-    "scanned_at": "2026-07-05T15:43:21.466878+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354746+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000075",
     "title": "Soroban smart contract - on-chain pet record registry",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/28",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -3390,11 +3388,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:10:25Z",
     "updated_at": "2026-07-03T22:22:47Z",
-    "scanned_at": "2026-07-05T15:43:21.466913+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354780+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000076",
     "title": "[Bounty] Cleanup20 stale/placeholder lessons (audit verified)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/282",
     "repo": "Ikalus1988/MisakaNet",
@@ -3409,11 +3407,11 @@
     "comments": 12,
     "created_at": "2026-07-02T02:54:07Z",
     "updated_at": "2026-07-05T13:41:26Z",
-    "scanned_at": "2026-07-05T15:43:21.466975+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354839+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000077",
     "title": "[Roadmap RFC] Evaluate MisakaNet's next 90-day direction",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/280",
     "repo": "Ikalus1988/MisakaNet",
@@ -3430,11 +3428,11 @@
     "comments": 4,
     "created_at": "2026-07-02T02:52:11Z",
     "updated_at": "2026-07-05T13:41:56Z",
-    "scanned_at": "2026-07-05T15:43:21.467101+00:00",
+    "scanned_at": "2026-07-05T16:55:17.354966+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000098",
     "title": "vogon poetry",
     "url": "https://github.com/dwebagents/AgentPipe/issues/1928",
     "repo": "dwebagents/AgentPipe",
@@ -3449,11 +3447,11 @@
     "comments": 3,
     "created_at": "2026-07-01T13:30:46Z",
     "updated_at": "2026-07-05T13:41:57Z",
-    "scanned_at": "2026-07-05T15:44:33.954393+00:00",
+    "scanned_at": "2026-07-05T16:56:30.324297+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000147",
     "title": "Add JWT authentication guard to admin-only endpoints",
     "url": "https://github.com/coopfinance/coopfin-api/issues/6",
     "repo": "coopfinance/coopfin-api",
@@ -3469,11 +3467,11 @@
     "comments": 9,
     "created_at": "2026-07-01T09:49:07Z",
     "updated_at": "2026-07-05T14:59:32Z",
-    "scanned_at": "2026-07-05T15:44:36.776861+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875411+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000148",
     "title": "[Frontend] Implement member contribution form on the group detail page",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/12",
     "repo": "coopfinance/coopfin-frontend",
@@ -3488,11 +3486,11 @@
     "comments": 9,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-01T03:49:30Z",
-    "scanned_at": "2026-07-05T15:44:36.776938+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875480+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000149",
     "title": "[Frontend] Build individual group detail page at /groups/[id]",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/9",
     "repo": "coopfinance/coopfin-frontend",
@@ -3507,11 +3505,11 @@
     "comments": 3,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-06-30T08:27:52Z",
-    "scanned_at": "2026-07-05T15:44:36.777004+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000150",
     "title": "[Frontend] Add wallet connect button to header/navbar with address display and disconnect",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/8",
     "repo": "coopfinance/coopfin-frontend",
@@ -3527,11 +3525,11 @@
     "comments": 7,
     "created_at": "2026-06-29T12:07:57Z",
     "updated_at": "2026-07-03T22:23:01Z",
-    "scanned_at": "2026-07-05T15:44:36.777067+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875602+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000151",
     "title": "CPU mining capped at 64 threads on Windows machines with 64+ logical cores",
     "url": "https://github.com/tari-project/universe/issues/3299",
     "repo": "tari-project/universe",
@@ -3548,11 +3546,11 @@
     "comments": 1,
     "created_at": "2026-06-29T11:54:21Z",
     "updated_at": "2026-07-03T22:23:19Z",
-    "scanned_at": "2026-07-05T15:44:36.777266+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875802+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000152",
     "title": "[Frontend] Implement RecentActivity feed on dashboard",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/2",
     "repo": "coopfinance/coopfin-frontend",
@@ -3568,11 +3566,11 @@
     "comments": 4,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-07-01T02:23:17Z",
-    "scanned_at": "2026-07-05T15:44:36.777326+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875857+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000153",
     "title": "[Frontend] Implement TreasuryChart component with Recharts area chart",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/1",
     "repo": "coopfinance/coopfin-frontend",
@@ -3588,7 +3586,7 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-07-05T15:44:36.777396+00:00",
+    "scanned_at": "2026-07-05T16:56:32.875928+00:00",
     "status": "new"
   },
   {
@@ -3608,7 +3606,7 @@
     "comments": 1,
     "created_at": "2026-06-29T01:58:34Z",
     "updated_at": "2026-06-29T09:47:11Z",
-    "scanned_at": "2026-07-05T15:44:41.422284+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678368+00:00",
     "status": "new"
   },
   {
@@ -3628,7 +3626,7 @@
     "comments": 1,
     "created_at": "2026-06-29T00:17:26Z",
     "updated_at": "2026-06-29T08:02:48Z",
-    "scanned_at": "2026-07-05T15:44:41.422331+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678413+00:00",
     "status": "new"
   },
   {
@@ -3648,7 +3646,7 @@
     "comments": 1,
     "created_at": "2026-06-28T23:47:52Z",
     "updated_at": "2026-06-29T08:02:51Z",
-    "scanned_at": "2026-07-05T15:44:41.422357+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678434+00:00",
     "status": "new"
   },
   {
@@ -3668,7 +3666,7 @@
     "comments": 1,
     "created_at": "2026-06-27T08:48:02Z",
     "updated_at": "2026-06-28T22:19:07Z",
-    "scanned_at": "2026-07-05T15:44:41.422384+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678457+00:00",
     "status": "new"
   },
   {
@@ -3688,11 +3686,11 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-07-05T15:44:41.422403+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678475+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000157",
     "title": "Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)",
     "url": "https://github.com/boundlessfi/boundless/issues/638",
     "repo": "boundlessfi/boundless",
@@ -3710,11 +3708,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-06-27T08:35:21Z",
-    "scanned_at": "2026-07-05T15:44:36.777576+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876101+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000158",
     "title": "FE: Nav + codegen + end-to-end verification",
     "url": "https://github.com/boundlessfi/boundless/issues/637",
     "repo": "boundlessfi/boundless",
@@ -3732,11 +3730,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:16Z",
     "updated_at": "2026-06-27T08:35:22Z",
-    "scanned_at": "2026-07-05T15:44:36.777631+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876149+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000159",
     "title": "FE: Dispute resolution UI",
     "url": "https://github.com/boundlessfi/boundless/issues/636",
     "repo": "boundlessfi/boundless",
@@ -3754,11 +3752,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-27T08:35:23Z",
-    "scanned_at": "2026-07-05T15:44:36.777673+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876186+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000160",
     "title": "FE: Wrap (results/winners page + announcement + archive)",
     "url": "https://github.com/boundlessfi/boundless/issues/635",
     "repo": "boundlessfi/boundless",
@@ -3777,11 +3775,11 @@
     "comments": 10,
     "created_at": "2026-06-24T10:54:11Z",
     "updated_at": "2026-06-27T08:35:24Z",
-    "scanned_at": "2026-07-05T15:44:36.777719+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876226+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000161",
     "title": "FE: Cancel / refund flow",
     "url": "https://github.com/boundlessfi/boundless/issues/634",
     "repo": "boundlessfi/boundless",
@@ -3800,7 +3798,7 @@
     "comments": 9,
     "created_at": "2026-06-24T10:54:08Z",
     "updated_at": "2026-06-27T08:35:25Z",
-    "scanned_at": "2026-07-05T15:44:36.777799+00:00",
+    "scanned_at": "2026-07-05T16:56:32.876271+00:00",
     "status": "new"
   },
   {
@@ -3820,7 +3818,7 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-07-05T15:44:41.422425+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678494+00:00",
     "status": "new"
   },
   {
@@ -3840,7 +3838,7 @@
     "comments": 2,
     "created_at": "2026-06-20T09:33:24Z",
     "updated_at": "2026-06-20T10:05:00Z",
-    "scanned_at": "2026-07-05T15:44:41.422443+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678512+00:00",
     "status": "new"
   },
   {
@@ -3860,7 +3858,7 @@
     "comments": 1,
     "created_at": "2026-06-18T10:44:14Z",
     "updated_at": "2026-06-20T00:43:58Z",
-    "scanned_at": "2026-07-05T15:44:41.422463+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678530+00:00",
     "status": "new"
   },
   {
@@ -3880,7 +3878,7 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-19T21:17:11Z",
-    "scanned_at": "2026-07-05T15:44:41.422481+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678547+00:00",
     "status": "new"
   },
   {
@@ -3900,7 +3898,7 @@
     "comments": 0,
     "created_at": "2026-06-10T12:34:04Z",
     "updated_at": "2026-06-19T21:17:12Z",
-    "scanned_at": "2026-07-05T15:44:41.422501+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678563+00:00",
     "status": "new"
   },
   {
@@ -3920,7 +3918,7 @@
     "comments": 1,
     "created_at": "2026-06-10T10:19:06Z",
     "updated_at": "2026-06-12T14:33:05Z",
-    "scanned_at": "2026-07-05T15:44:41.422518+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678579+00:00",
     "status": "new"
   },
   {
@@ -3940,7 +3938,7 @@
     "comments": 3,
     "created_at": "2026-06-10T08:59:06Z",
     "updated_at": "2026-06-12T14:36:32Z",
-    "scanned_at": "2026-07-05T15:44:41.422536+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678596+00:00",
     "status": "new"
   },
   {
@@ -3960,7 +3958,7 @@
     "comments": 1,
     "created_at": "2026-06-10T04:41:16Z",
     "updated_at": "2026-06-17T10:04:07Z",
-    "scanned_at": "2026-07-05T15:44:41.422554+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678612+00:00",
     "status": "new"
   },
   {
@@ -3980,7 +3978,7 @@
     "comments": 3,
     "created_at": "2026-06-09T23:36:18Z",
     "updated_at": "2026-06-12T14:38:22Z",
-    "scanned_at": "2026-07-05T15:44:41.422572+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678629+00:00",
     "status": "new"
   },
   {
@@ -4000,7 +3998,7 @@
     "comments": 3,
     "created_at": "2026-06-09T21:56:40Z",
     "updated_at": "2026-06-12T14:39:22Z",
-    "scanned_at": "2026-07-05T15:44:41.422590+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678644+00:00",
     "status": "new"
   },
   {
@@ -4020,7 +4018,7 @@
     "comments": 3,
     "created_at": "2026-06-09T19:26:18Z",
     "updated_at": "2026-06-09T22:08:35Z",
-    "scanned_at": "2026-07-05T15:44:41.422608+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678660+00:00",
     "status": "new"
   },
   {
@@ -4040,7 +4038,7 @@
     "comments": 3,
     "created_at": "2026-06-09T16:11:22Z",
     "updated_at": "2026-06-09T18:15:17Z",
-    "scanned_at": "2026-07-05T15:44:41.422626+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678676+00:00",
     "status": "new"
   },
   {
@@ -4060,7 +4058,7 @@
     "comments": 30,
     "created_at": "2026-06-06T08:44:53Z",
     "updated_at": "2026-06-09T14:15:46Z",
-    "scanned_at": "2026-07-05T15:44:41.422644+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678693+00:00",
     "status": "new"
   },
   {
@@ -4084,7 +4082,7 @@
     "comments": 28,
     "created_at": "2026-05-31T12:44:37Z",
     "updated_at": "2026-07-03T23:02:48Z",
-    "scanned_at": "2026-07-05T15:44:41.422747+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678791+00:00",
     "status": "new"
   },
   {
@@ -4110,7 +4108,7 @@
     "comments": 5,
     "created_at": "2026-05-31T12:42:16Z",
     "updated_at": "2026-07-03T20:19:12Z",
-    "scanned_at": "2026-07-05T15:44:41.422813+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678840+00:00",
     "status": "new"
   },
   {
@@ -4134,7 +4132,7 @@
     "comments": 20,
     "created_at": "2026-05-31T12:40:49Z",
     "updated_at": "2026-06-19T16:27:40Z",
-    "scanned_at": "2026-07-05T15:44:41.422856+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678881+00:00",
     "status": "new"
   },
   {
@@ -4160,7 +4158,7 @@
     "comments": 4,
     "created_at": "2026-05-31T12:35:50Z",
     "updated_at": "2026-07-03T20:37:35Z",
-    "scanned_at": "2026-07-05T15:44:41.422904+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678931+00:00",
     "status": "new"
   },
   {
@@ -4186,7 +4184,7 @@
     "comments": 3,
     "created_at": "2026-05-31T12:31:25Z",
     "updated_at": "2026-07-03T20:40:13Z",
-    "scanned_at": "2026-07-05T15:44:41.422953+00:00",
+    "scanned_at": "2026-07-05T16:56:37.678979+00:00",
     "status": "new"
   },
   {
@@ -4210,7 +4208,7 @@
     "comments": 9,
     "created_at": "2026-05-31T11:26:06Z",
     "updated_at": "2026-06-19T16:27:41Z",
-    "scanned_at": "2026-07-05T15:44:41.422992+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679018+00:00",
     "status": "new"
   },
   {
@@ -4234,7 +4232,7 @@
     "comments": 15,
     "created_at": "2026-05-31T11:25:28Z",
     "updated_at": "2026-07-04T00:27:28Z",
-    "scanned_at": "2026-07-05T15:44:41.423041+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679082+00:00",
     "status": "new"
   },
   {
@@ -4258,7 +4256,7 @@
     "comments": 8,
     "created_at": "2026-05-31T11:25:07Z",
     "updated_at": "2026-07-01T02:46:35Z",
-    "scanned_at": "2026-07-05T15:44:41.423076+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679114+00:00",
     "status": "new"
   },
   {
@@ -4282,7 +4280,7 @@
     "comments": 6,
     "created_at": "2026-05-31T11:13:54Z",
     "updated_at": "2026-06-19T16:27:46Z",
-    "scanned_at": "2026-07-05T15:44:41.423113+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679149+00:00",
     "status": "new"
   },
   {
@@ -4306,7 +4304,7 @@
     "comments": 10,
     "created_at": "2026-05-31T10:23:41Z",
     "updated_at": "2026-06-19T16:27:47Z",
-    "scanned_at": "2026-07-05T15:44:41.423166+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679202+00:00",
     "status": "new"
   },
   {
@@ -4330,7 +4328,7 @@
     "comments": 9,
     "created_at": "2026-05-31T10:18:10Z",
     "updated_at": "2026-06-19T16:27:49Z",
-    "scanned_at": "2026-07-05T15:44:41.423210+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679247+00:00",
     "status": "new"
   },
   {
@@ -4354,7 +4352,7 @@
     "comments": 8,
     "created_at": "2026-05-31T10:12:38Z",
     "updated_at": "2026-07-03T23:05:03Z",
-    "scanned_at": "2026-07-05T15:44:41.423252+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679291+00:00",
     "status": "new"
   },
   {
@@ -4378,7 +4376,7 @@
     "comments": 13,
     "created_at": "2026-05-31T09:56:23Z",
     "updated_at": "2026-06-19T16:27:51Z",
-    "scanned_at": "2026-07-05T15:44:41.423284+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679323+00:00",
     "status": "new"
   },
   {
@@ -4402,7 +4400,7 @@
     "comments": 12,
     "created_at": "2026-05-31T09:47:11Z",
     "updated_at": "2026-06-19T16:27:53Z",
-    "scanned_at": "2026-07-05T15:44:41.423321+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679359+00:00",
     "status": "new"
   },
   {
@@ -4426,7 +4424,7 @@
     "comments": 10,
     "created_at": "2026-05-31T09:37:08Z",
     "updated_at": "2026-06-19T16:27:54Z",
-    "scanned_at": "2026-07-05T15:44:41.423356+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679394+00:00",
     "status": "new"
   },
   {
@@ -4450,7 +4448,7 @@
     "comments": 12,
     "created_at": "2026-05-31T09:33:32Z",
     "updated_at": "2026-06-19T16:27:55Z",
-    "scanned_at": "2026-07-05T15:44:41.423390+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679427+00:00",
     "status": "new"
   },
   {
@@ -4474,7 +4472,7 @@
     "comments": 11,
     "created_at": "2026-05-31T09:30:54Z",
     "updated_at": "2026-06-19T16:27:57Z",
-    "scanned_at": "2026-07-05T15:44:41.423428+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679467+00:00",
     "status": "new"
   },
   {
@@ -4498,7 +4496,7 @@
     "comments": 12,
     "created_at": "2026-05-31T09:30:10Z",
     "updated_at": "2026-07-03T23:04:06Z",
-    "scanned_at": "2026-07-05T15:44:41.423464+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679502+00:00",
     "status": "new"
   },
   {
@@ -4522,7 +4520,7 @@
     "comments": 7,
     "created_at": "2026-05-31T09:27:30Z",
     "updated_at": "2026-06-19T16:28:00Z",
-    "scanned_at": "2026-07-05T15:44:41.423500+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679539+00:00",
     "status": "new"
   },
   {
@@ -4546,7 +4544,7 @@
     "comments": 9,
     "created_at": "2026-05-31T09:22:16Z",
     "updated_at": "2026-07-03T20:44:48Z",
-    "scanned_at": "2026-07-05T15:44:41.423550+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679590+00:00",
     "status": "new"
   },
   {
@@ -4570,7 +4568,7 @@
     "comments": 7,
     "created_at": "2026-05-31T09:21:16Z",
     "updated_at": "2026-06-19T16:28:03Z",
-    "scanned_at": "2026-07-05T15:44:41.423586+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679628+00:00",
     "status": "new"
   },
   {
@@ -4590,7 +4588,7 @@
     "comments": 0,
     "created_at": "2026-05-30T08:38:56Z",
     "updated_at": "2026-06-04T05:57:45Z",
-    "scanned_at": "2026-07-05T15:44:41.423604+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679645+00:00",
     "status": "new"
   },
   {
@@ -4613,7 +4611,7 @@
     "comments": 11,
     "created_at": "2026-05-30T05:32:04Z",
     "updated_at": "2026-06-19T16:28:04Z",
-    "scanned_at": "2026-07-05T15:44:41.423644+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679685+00:00",
     "status": "new"
   },
   {
@@ -4636,7 +4634,7 @@
     "comments": 5,
     "created_at": "2026-05-30T05:03:04Z",
     "updated_at": "2026-06-19T16:28:06Z",
-    "scanned_at": "2026-07-05T15:44:41.423703+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679746+00:00",
     "status": "new"
   },
   {
@@ -4659,7 +4657,7 @@
     "comments": 3,
     "created_at": "2026-05-30T04:33:24Z",
     "updated_at": "2026-06-19T16:28:07Z",
-    "scanned_at": "2026-07-05T15:44:41.423761+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679800+00:00",
     "status": "new"
   },
   {
@@ -4682,7 +4680,7 @@
     "comments": 6,
     "created_at": "2026-05-30T04:11:29Z",
     "updated_at": "2026-07-01T01:58:35Z",
-    "scanned_at": "2026-07-05T15:44:41.423823+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679840+00:00",
     "status": "new"
   },
   {
@@ -4705,7 +4703,7 @@
     "comments": 5,
     "created_at": "2026-05-30T03:57:53Z",
     "updated_at": "2026-06-19T16:28:10Z",
-    "scanned_at": "2026-07-05T15:44:41.423868+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679880+00:00",
     "status": "new"
   },
   {
@@ -4728,7 +4726,7 @@
     "comments": 2,
     "created_at": "2026-05-30T03:45:28Z",
     "updated_at": "2026-06-19T16:28:11Z",
-    "scanned_at": "2026-07-05T15:44:41.423910+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679919+00:00",
     "status": "new"
   },
   {
@@ -4751,7 +4749,7 @@
     "comments": 5,
     "created_at": "2026-05-30T03:15:09Z",
     "updated_at": "2026-06-23T09:40:05Z",
-    "scanned_at": "2026-07-05T15:44:41.423960+00:00",
+    "scanned_at": "2026-07-05T16:56:37.679962+00:00",
     "status": "new"
   },
   {
@@ -4774,7 +4772,7 @@
     "comments": 4,
     "created_at": "2026-05-30T03:15:04Z",
     "updated_at": "2026-06-19T16:28:14Z",
-    "scanned_at": "2026-07-05T15:44:41.424005+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680000+00:00",
     "status": "new"
   },
   {
@@ -4797,7 +4795,7 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:59Z",
     "updated_at": "2026-07-04T20:58:38Z",
-    "scanned_at": "2026-07-05T15:44:41.424066+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680096+00:00",
     "status": "new"
   },
   {
@@ -4820,7 +4818,7 @@
     "comments": 12,
     "created_at": "2026-05-30T03:14:54Z",
     "updated_at": "2026-06-19T16:28:17Z",
-    "scanned_at": "2026-07-05T15:44:41.424106+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680142+00:00",
     "status": "new"
   },
   {
@@ -4845,7 +4843,7 @@
     "comments": 5,
     "created_at": "2026-05-30T03:14:49Z",
     "updated_at": "2026-07-04T20:55:14Z",
-    "scanned_at": "2026-07-05T15:44:41.424181+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680191+00:00",
     "status": "new"
   },
   {
@@ -4870,7 +4868,7 @@
     "comments": 3,
     "created_at": "2026-05-30T03:14:45Z",
     "updated_at": "2026-07-04T20:55:12Z",
-    "scanned_at": "2026-07-05T15:44:41.424223+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680233+00:00",
     "status": "new"
   },
   {
@@ -4895,7 +4893,7 @@
     "comments": 5,
     "created_at": "2026-05-30T03:14:41Z",
     "updated_at": "2026-07-04T20:55:10Z",
-    "scanned_at": "2026-07-05T15:44:41.424260+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680277+00:00",
     "status": "new"
   },
   {
@@ -4920,7 +4918,7 @@
     "comments": 7,
     "created_at": "2026-05-30T03:14:36Z",
     "updated_at": "2026-07-04T20:55:08Z",
-    "scanned_at": "2026-07-05T15:44:41.424303+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680327+00:00",
     "status": "new"
   },
   {
@@ -4945,7 +4943,7 @@
     "comments": 4,
     "created_at": "2026-05-30T03:10:27Z",
     "updated_at": "2026-06-17T10:07:12Z",
-    "scanned_at": "2026-07-05T15:44:41.424350+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680378+00:00",
     "status": "new"
   },
   {
@@ -4970,7 +4968,7 @@
     "comments": 4,
     "created_at": "2026-05-30T02:55:48Z",
     "updated_at": "2026-07-04T20:58:29Z",
-    "scanned_at": "2026-07-05T15:44:41.424382+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680415+00:00",
     "status": "new"
   },
   {
@@ -4995,7 +4993,7 @@
     "comments": 4,
     "created_at": "2026-05-30T02:32:12Z",
     "updated_at": "2026-06-27T07:38:23Z",
-    "scanned_at": "2026-07-05T15:44:41.424450+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680494+00:00",
     "status": "new"
   },
   {
@@ -5020,7 +5018,7 @@
     "comments": 4,
     "created_at": "2026-05-30T02:26:10Z",
     "updated_at": "2026-06-17T10:07:15Z",
-    "scanned_at": "2026-07-05T15:44:41.424487+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680537+00:00",
     "status": "new"
   },
   {
@@ -5045,7 +5043,7 @@
     "comments": 4,
     "created_at": "2026-05-30T02:15:52Z",
     "updated_at": "2026-07-04T20:58:34Z",
-    "scanned_at": "2026-07-05T15:44:41.424517+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680570+00:00",
     "status": "new"
   },
   {
@@ -5070,7 +5068,7 @@
     "comments": 7,
     "created_at": "2026-05-30T01:59:14Z",
     "updated_at": "2026-07-04T20:55:16Z",
-    "scanned_at": "2026-07-05T15:44:41.424562+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680620+00:00",
     "status": "new"
   },
   {
@@ -5095,7 +5093,7 @@
     "comments": 4,
     "created_at": "2026-05-30T01:25:17Z",
     "updated_at": "2026-07-04T20:58:36Z",
-    "scanned_at": "2026-07-05T15:44:41.424601+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680668+00:00",
     "status": "new"
   },
   {
@@ -5120,7 +5118,7 @@
     "comments": 4,
     "created_at": "2026-05-30T01:24:51Z",
     "updated_at": "2026-07-01T01:39:42Z",
-    "scanned_at": "2026-07-05T15:44:41.424627+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680699+00:00",
     "status": "new"
   },
   {
@@ -5145,7 +5143,7 @@
     "comments": 3,
     "created_at": "2026-05-30T01:01:31Z",
     "updated_at": "2026-07-04T20:58:31Z",
-    "scanned_at": "2026-07-05T15:44:41.424643+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680718+00:00",
     "status": "new"
   },
   {
@@ -5170,7 +5168,7 @@
     "comments": 6,
     "created_at": "2026-05-30T00:51:09Z",
     "updated_at": "2026-07-01T01:42:13Z",
-    "scanned_at": "2026-07-05T15:44:41.424661+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680738+00:00",
     "status": "new"
   },
   {
@@ -5195,7 +5193,7 @@
     "comments": 2,
     "created_at": "2026-05-29T23:57:13Z",
     "updated_at": "2026-06-17T10:02:48Z",
-    "scanned_at": "2026-07-05T15:44:41.424677+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680757+00:00",
     "status": "new"
   },
   {
@@ -5220,7 +5218,7 @@
     "comments": 5,
     "created_at": "2026-05-29T05:45:38Z",
     "updated_at": "2026-06-30T21:38:05Z",
-    "scanned_at": "2026-07-05T15:44:41.424694+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680777+00:00",
     "status": "new"
   },
   {
@@ -5240,7 +5238,7 @@
     "comments": 11,
     "created_at": "2026-05-17T17:48:32Z",
     "updated_at": "2026-05-20T06:31:29Z",
-    "scanned_at": "2026-07-05T15:44:41.424762+00:00",
+    "scanned_at": "2026-07-05T16:56:37.680857+00:00",
     "status": "new"
   },
   {
@@ -5260,7 +5258,7 @@
     "comments": 1,
     "created_at": "2026-05-09T10:15:31Z",
     "updated_at": "2026-05-13T16:47:31Z",
-    "scanned_at": "2026-07-05T15:44:41.425100+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681299+00:00",
     "status": "new"
   },
   {
@@ -5280,7 +5278,7 @@
     "comments": 2,
     "created_at": "2026-05-08T00:10:16Z",
     "updated_at": "2026-05-13T16:47:33Z",
-    "scanned_at": "2026-07-05T15:44:41.425115+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681316+00:00",
     "status": "new"
   },
   {
@@ -5300,7 +5298,7 @@
     "comments": 2,
     "created_at": "2026-05-08T00:08:38Z",
     "updated_at": "2026-05-13T16:47:33Z",
-    "scanned_at": "2026-07-05T15:44:41.425129+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681331+00:00",
     "status": "new"
   },
   {
@@ -5320,7 +5318,7 @@
     "comments": 2,
     "created_at": "2026-05-07T20:49:39Z",
     "updated_at": "2026-05-13T16:47:34Z",
-    "scanned_at": "2026-07-05T15:44:41.425142+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681347+00:00",
     "status": "new"
   },
   {
@@ -5340,7 +5338,7 @@
     "comments": 2,
     "created_at": "2026-05-07T20:49:21Z",
     "updated_at": "2026-05-13T16:47:35Z",
-    "scanned_at": "2026-07-05T15:44:41.425157+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681362+00:00",
     "status": "new"
   },
   {
@@ -5360,7 +5358,7 @@
     "comments": 0,
     "created_at": "2026-05-07T16:24:42Z",
     "updated_at": "2026-05-13T16:47:36Z",
-    "scanned_at": "2026-07-05T15:44:41.425171+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681378+00:00",
     "status": "new"
   },
   {
@@ -5380,7 +5378,7 @@
     "comments": 0,
     "created_at": "2026-05-07T15:56:36Z",
     "updated_at": "2026-06-19T00:54:36Z",
-    "scanned_at": "2026-07-05T15:44:41.425185+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681394+00:00",
     "status": "new"
   },
   {
@@ -5400,7 +5398,7 @@
     "comments": 0,
     "created_at": "2026-05-07T12:21:44Z",
     "updated_at": "2026-05-13T16:47:38Z",
-    "scanned_at": "2026-07-05T15:44:41.425199+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681410+00:00",
     "status": "new"
   },
   {
@@ -5420,7 +5418,7 @@
     "comments": 0,
     "created_at": "2026-05-07T09:17:56Z",
     "updated_at": "2026-05-13T16:47:38Z",
-    "scanned_at": "2026-07-05T15:44:41.425213+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681425+00:00",
     "status": "new"
   },
   {
@@ -5440,7 +5438,7 @@
     "comments": 1,
     "created_at": "2026-05-07T08:03:26Z",
     "updated_at": "2026-05-13T16:47:39Z",
-    "scanned_at": "2026-07-05T15:44:41.425227+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681441+00:00",
     "status": "new"
   },
   {
@@ -5460,7 +5458,7 @@
     "comments": 1,
     "created_at": "2026-05-06T23:37:47Z",
     "updated_at": "2026-05-13T16:47:40Z",
-    "scanned_at": "2026-07-05T15:44:41.425241+00:00",
+    "scanned_at": "2026-07-05T16:56:37.681457+00:00",
     "status": "new"
   }
 ]
