@@ -16,7 +16,49 @@
     "comments": 33,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-13T23:20:08Z",
-    "scanned_at": "2026-07-14T10:47:58.629426+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532248+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000001",
+    "title": "[BUG] Race Condition in /tmp File Handling (TOCTOU) $150",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1177",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1177,
+    "labels": [
+      "bug",
+      "bounty",
+      "hard",
+      "security"
+    ],
+    "language": "unknown",
+    "amount_usd": 150,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-14T11:26:42Z",
+    "updated_at": "2026-07-14T11:28:57Z",
+    "scanned_at": "2026-07-14T12:05:17.663150+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1176",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1176,
+    "labels": [
+      "bug",
+      "bounty",
+      "easy",
+      "security"
+    ],
+    "language": "unknown",
+    "amount_usd": 120,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-14T11:26:41Z",
+    "updated_at": "2026-07-14T11:29:15Z",
+    "scanned_at": "2026-07-14T12:05:17.663210+00:00",
     "status": "new"
   },
   {
@@ -37,7 +79,7 @@
     "comments": 23,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-07-05T16:02:35Z",
-    "scanned_at": "2026-07-14T10:47:58.629587+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532408+00:00",
     "status": "new"
   },
   {
@@ -58,7 +100,7 @@
     "comments": 16,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-07-05T04:40:05Z",
-    "scanned_at": "2026-07-14T10:47:58.629616+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532437+00:00",
     "status": "new"
   },
   {
@@ -79,7 +121,7 @@
     "comments": 16,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-07-09T08:17:10Z",
-    "scanned_at": "2026-07-14T10:47:58.629624+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532444+00:00",
     "status": "new"
   },
   {
@@ -100,7 +142,7 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-14T10:47:58.629602+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532423+00:00",
     "status": "new"
   },
   {
@@ -121,7 +163,7 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-07-14T10:47:58.629595+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532416+00:00",
     "status": "new"
   },
   {
@@ -142,7 +184,7 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-07-14T10:47:58.629610+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532430+00:00",
     "status": "new"
   },
   {
@@ -163,7 +205,7 @@
     "comments": 18,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-07-12T05:24:25Z",
-    "scanned_at": "2026-07-14T10:47:58.628196+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531043+00:00",
     "status": "new"
   },
   {
@@ -184,7 +226,7 @@
     "comments": 28,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-07-11T14:39:13Z",
-    "scanned_at": "2026-07-14T10:47:58.628138+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531009+00:00",
     "status": "new"
   },
   {
@@ -205,7 +247,7 @@
     "comments": 24,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-07-11T14:38:31Z",
-    "scanned_at": "2026-07-14T10:47:58.628149+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531019+00:00",
     "status": "new"
   },
   {
@@ -226,7 +268,7 @@
     "comments": 22,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-07-11T14:34:15Z",
-    "scanned_at": "2026-07-14T10:47:58.628159+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531029+00:00",
     "status": "new"
   },
   {
@@ -247,7 +289,7 @@
     "comments": 26,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-12T10:43:58Z",
-    "scanned_at": "2026-07-14T10:47:58.629437+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532258+00:00",
     "status": "new"
   },
   {
@@ -268,7 +310,7 @@
     "comments": 37,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-13T00:56:06Z",
-    "scanned_at": "2026-07-14T10:47:58.629447+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532267+00:00",
     "status": "new"
   },
   {
@@ -288,7 +330,7 @@
     "comments": 40,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-07-11T15:18:02Z",
-    "scanned_at": "2026-07-14T10:47:58.628126+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530996+00:00",
     "status": "new"
   },
   {
@@ -307,11 +349,11 @@
     "comments": 12,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-07-11T01:17:38Z",
-    "scanned_at": "2026-07-14T10:47:58.628211+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531052+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000003",
     "title": "[25 MRG] CLI: call command expand remaining tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/10",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -328,11 +370,11 @@
     "comments": 4,
     "created_at": "2026-07-14T04:13:37Z",
     "updated_at": "2026-07-14T07:29:19Z",
-    "scanned_at": "2026-07-14T10:46:42.309229+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663239+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000004",
     "title": "[50 MRG] Docs: Claude Desktop + Cursor config screenshots",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/9",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -349,11 +391,11 @@
     "comments": 4,
     "created_at": "2026-07-14T04:13:36Z",
     "updated_at": "2026-07-14T04:52:24Z",
-    "scanned_at": "2026-07-14T10:46:42.309283+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663265+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000005",
     "title": "[200 MRG] Feature: plugin bridge socket protocol design + stub",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/8",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -369,11 +411,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:34Z",
     "updated_at": "2026-07-14T04:13:58Z",
-    "scanned_at": "2026-07-14T10:46:42.309313+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663300+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000006",
     "title": "[100 MRG] Feature: selection rectangular + fill/stroke",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/7",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -389,11 +431,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:32Z",
     "updated_at": "2026-07-14T04:14:17Z",
-    "scanned_at": "2026-07-14T10:46:42.309341+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663323+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000007",
     "title": "[50 MRG] Feature: gimp_histogram / gimp_exif_stub tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/6",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -409,11 +451,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:30Z",
     "updated_at": "2026-07-14T04:14:35Z",
-    "scanned_at": "2026-07-14T10:46:42.309378+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663347+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000008",
     "title": "[100 MRG] Feature: filters pack (sharpen, emboss, brightness/contrast)",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/4",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -429,11 +471,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:26Z",
     "updated_at": "2026-07-14T04:15:12Z",
-    "scanned_at": "2026-07-14T10:46:42.309404+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663369+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000009",
     "title": "[50 MRG] Feature: layers list / new layer / flatten tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/3",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -449,11 +491,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:24Z",
     "updated_at": "2026-07-14T04:17:35Z",
-    "scanned_at": "2026-07-14T10:46:42.309430+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663390+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000010",
     "title": "[50 MRG] Feature: GIMP 3 python-fu-eval batch path (no hang)",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/2",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -469,11 +511,11 @@
     "comments": 4,
     "created_at": "2026-07-14T04:13:23Z",
     "updated_at": "2026-07-14T06:20:00Z",
-    "scanned_at": "2026-07-14T10:46:42.309457+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663415+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000011",
     "title": "[50 MRG] Feature: export vocab CSV for teachers",
     "url": "https://github.com/mergeos-bounties/Loru/issues/224",
     "repo": "mergeos-bounties/Loru",
@@ -489,11 +531,11 @@
     "comments": 4,
     "created_at": "2026-07-14T03:13:20Z",
     "updated_at": "2026-07-14T04:10:05Z",
-    "scanned_at": "2026-07-14T10:46:42.309495+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663450+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000012",
     "title": "[50 MRG] Feature: gloss coverage heatmap CLI",
     "url": "https://github.com/mergeos-bounties/Loru/issues/223",
     "repo": "mergeos-bounties/Loru",
@@ -509,11 +551,11 @@
     "comments": 4,
     "created_at": "2026-07-14T03:13:18Z",
     "updated_at": "2026-07-14T04:10:16Z",
-    "scanned_at": "2026-07-14T10:46:42.309530+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663485+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000013",
     "title": "[100 MRG] Feature: multi-tag identify explain scores",
     "url": "https://github.com/mergeos-bounties/PlantGuide/issues/151",
     "repo": "mergeos-bounties/PlantGuide",
@@ -529,11 +571,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:52Z",
     "updated_at": "2026-07-14T03:16:57Z",
-    "scanned_at": "2026-07-14T10:46:42.309566+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663520+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000014",
     "title": "[50 MRG] Feature: watering calendar export ICS stub",
     "url": "https://github.com/mergeos-bounties/PlantGuide/issues/150",
     "repo": "mergeos-bounties/PlantGuide",
@@ -549,11 +591,11 @@
     "comments": 4,
     "created_at": "2026-07-14T03:12:50Z",
     "updated_at": "2026-07-14T04:10:28Z",
-    "scanned_at": "2026-07-14T10:46:42.309600+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663556+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000015",
     "title": "[50 MRG] Feature: species toxicity filter CLI",
     "url": "https://github.com/mergeos-bounties/PlantGuide/issues/149",
     "repo": "mergeos-bounties/PlantGuide",
@@ -569,11 +611,11 @@
     "comments": 4,
     "created_at": "2026-07-14T03:12:48Z",
     "updated_at": "2026-07-14T04:10:39Z",
-    "scanned_at": "2026-07-14T10:46:42.309635+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663594+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000016",
     "title": "[200 MRG] Feature: package manifest format proposal + loader stub",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/36",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -589,11 +631,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:33Z",
     "updated_at": "2026-07-14T03:18:10Z",
-    "scanned_at": "2026-07-14T10:46:42.309671+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663670+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000017",
     "title": "[100 MRG] Feature: array map/filter samples + tests",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/35",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -609,11 +651,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:31Z",
     "updated_at": "2026-07-14T03:19:57Z",
-    "scanned_at": "2026-07-14T10:46:42.309710+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663823+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000018",
     "title": "[50 MRG] Feature: VM stack dump debug flag",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/34",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -629,11 +671,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:29Z",
     "updated_at": "2026-07-14T03:20:16Z",
-    "scanned_at": "2026-07-14T10:46:42.309743+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663863+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000019",
     "title": "[100 MRG] Feature: stdlib string helpers",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/33",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -649,11 +691,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:27Z",
     "updated_at": "2026-07-14T03:20:36Z",
-    "scanned_at": "2026-07-14T10:46:42.309775+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663898+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000020",
     "title": "[50 MRG] Feature: compiler better error spans",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/32",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -669,11 +711,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:26Z",
     "updated_at": "2026-07-14T03:20:55Z",
-    "scanned_at": "2026-07-14T10:46:42.309807+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663933+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000021",
     "title": "[50 MRG] Docs: language cheatsheet one-pager",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/31",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -691,11 +733,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:24Z",
     "updated_at": "2026-07-14T03:21:13Z",
-    "scanned_at": "2026-07-14T10:46:42.309841+00:00",
+    "scanned_at": "2026-07-14T12:05:17.663969+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000022",
     "title": "[200 MRG] Feature: multi-workspace recent projects launcher",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/77",
     "repo": "mergeos-bounties/Gomi",
@@ -711,11 +753,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:12:09Z",
     "updated_at": "2026-07-14T03:12:09Z",
-    "scanned_at": "2026-07-14T10:46:42.309875+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664006+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000023",
     "title": "[50 MRG] Feature: keyboard shortcuts help overlay",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/76",
     "repo": "mergeos-bounties/Gomi",
@@ -731,11 +773,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:12:07Z",
     "updated_at": "2026-07-14T08:11:02Z",
-    "scanned_at": "2026-07-14T10:46:42.309907+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664040+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000024",
     "title": "[100 MRG] Feature: shared project memory privacy redactions",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/75",
     "repo": "mergeos-bounties/Gomi",
@@ -751,11 +793,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:12:05Z",
     "updated_at": "2026-07-14T04:13:28Z",
-    "scanned_at": "2026-07-14T10:46:42.309940+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000025",
     "title": "[100 MRG] Feature: patch approval queue filters",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/73",
     "repo": "mergeos-bounties/Gomi",
@@ -771,11 +813,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:12:01Z",
     "updated_at": "2026-07-14T03:12:01Z",
-    "scanned_at": "2026-07-14T10:46:42.309971+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664115+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000026",
     "title": "[50 MRG] Feature: agent provider status badge in UI",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/72",
     "repo": "mergeos-bounties/Gomi",
@@ -791,11 +833,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:59Z",
     "updated_at": "2026-07-14T03:11:59Z",
-    "scanned_at": "2026-07-14T10:46:42.310003+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664149+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000027",
     "title": "[50 MRG] Feature: office settings export/import JSON",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/71",
     "repo": "mergeos-bounties/Gomi",
@@ -811,11 +853,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:57Z",
     "updated_at": "2026-07-14T03:11:57Z",
-    "scanned_at": "2026-07-14T10:46:42.310037+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000028",
     "title": "[200 MRG] Feature: multi-page site generator (home+about+contact)",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/80",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -831,11 +873,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:43Z",
     "updated_at": "2026-07-14T03:11:43Z",
-    "scanned_at": "2026-07-14T10:46:42.310070+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664222+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000029",
     "title": "[50 MRG] Feature: validate --strict schema mode",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/79",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -848,14 +890,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:11:41Z",
-    "updated_at": "2026-07-14T03:11:41Z",
-    "scanned_at": "2026-07-14T10:46:42.310102+00:00",
+    "updated_at": "2026-07-14T11:31:39Z",
+    "scanned_at": "2026-07-14T12:05:17.664256+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000030",
     "title": "[100 MRG] Feature: responsive preview HTML sidecar",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/78",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -871,11 +913,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:39Z",
     "updated_at": "2026-07-14T08:13:42Z",
-    "scanned_at": "2026-07-14T10:46:42.310138+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664292+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000031",
     "title": "[100 MRG] Feature: image palette → theme colors pipeline polish",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/76",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -891,11 +933,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:35Z",
     "updated_at": "2026-07-14T03:11:35Z",
-    "scanned_at": "2026-07-14T10:46:42.310172+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664328+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000032",
     "title": "[50 MRG] Feature: CSS variable theme tokens export",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/75",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -908,14 +950,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:11:33Z",
-    "updated_at": "2026-07-14T03:11:33Z",
-    "scanned_at": "2026-07-14T10:46:42.310224+00:00",
+    "updated_at": "2026-07-14T11:31:38Z",
+    "scanned_at": "2026-07-14T12:05:17.664363+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000033",
     "title": "[50 MRG] Feature: template list with tags filter",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/74",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -928,14 +970,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-07-14T03:11:32Z",
-    "updated_at": "2026-07-14T04:13:17Z",
-    "scanned_at": "2026-07-14T10:46:42.310258+00:00",
+    "updated_at": "2026-07-14T11:31:38Z",
+    "scanned_at": "2026-07-14T12:05:17.664398+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000034",
     "title": "[200 MRG] Feature: adaptive quiz session state machine",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/33",
     "repo": "mergeos-bounties/NokaMan",
@@ -951,11 +993,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:17Z",
     "updated_at": "2026-07-14T03:11:17Z",
-    "scanned_at": "2026-07-14T10:46:42.310292+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664434+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000035",
     "title": "[50 MRG] Feature: batch evaluate --format csv",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/32",
     "repo": "mergeos-bounties/NokaMan",
@@ -971,11 +1013,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:15Z",
     "updated_at": "2026-07-14T07:48:23Z",
-    "scanned_at": "2026-07-14T10:46:42.310323+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000036",
     "title": "[100 MRG] Feature: speaking skill stub samples",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/31",
     "repo": "mergeos-bounties/NokaMan",
@@ -991,11 +1033,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:14Z",
     "updated_at": "2026-07-14T04:12:55Z",
-    "scanned_at": "2026-07-14T10:46:42.310358+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000037",
     "title": "[100 MRG] Feature: optional LLM grader behind flag",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/29",
     "repo": "mergeos-bounties/NokaMan",
@@ -1011,11 +1053,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:10Z",
     "updated_at": "2026-07-14T03:11:10Z",
-    "scanned_at": "2026-07-14T10:46:42.310395+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000038",
     "title": "[50 MRG] Feature: rubric weights explain command",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/28",
     "repo": "mergeos-bounties/NokaMan",
@@ -1031,11 +1073,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:09Z",
     "updated_at": "2026-07-14T09:57:23Z",
-    "scanned_at": "2026-07-14T10:46:42.310427+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664578+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000039",
     "title": "[50 MRG] Feature: language coverage matrix CLI",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/27",
     "repo": "mergeos-bounties/NokaMan",
@@ -1051,11 +1093,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:07Z",
     "updated_at": "2026-07-14T09:54:27Z",
-    "scanned_at": "2026-07-14T10:46:42.310460+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664612+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000040",
     "title": "[25 MRG] Samples: 5 EN writing prompts A2–C1",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/26",
     "repo": "mergeos-bounties/NokaMan",
@@ -1072,11 +1114,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:05Z",
     "updated_at": "2026-07-14T03:57:01Z",
-    "scanned_at": "2026-07-14T10:46:42.310493+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664647+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000041",
     "title": "[200 MRG] Feature: optional MediaPipe subject score path",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/34",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1092,11 +1134,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:52Z",
     "updated_at": "2026-07-14T03:10:52Z",
-    "scanned_at": "2026-07-14T10:46:42.310526+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664692+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000042",
     "title": "[50 MRG] Feature: eval report markdown export",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/33",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1112,11 +1154,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:51Z",
     "updated_at": "2026-07-14T03:10:51Z",
-    "scanned_at": "2026-07-14T10:46:42.310558+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664726+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000043",
     "title": "[100 MRG] Web: pose detail panel with tips",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/32",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1132,11 +1174,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:49Z",
     "updated_at": "2026-07-14T03:10:49Z",
-    "scanned_at": "2026-07-14T10:46:42.310588+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000044",
     "title": "[100 MRG] Feature: batch SVG render for pose pack",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/30",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1152,11 +1194,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:45Z",
     "updated_at": "2026-07-14T04:13:06Z",
-    "scanned_at": "2026-07-14T10:46:42.310621+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664795+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000045",
     "title": "[50 MRG] Feature: scene difficulty tags",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/29",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1172,11 +1214,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:42Z",
     "updated_at": "2026-07-14T04:02:21Z",
-    "scanned_at": "2026-07-14T10:46:42.310653+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664834+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000046",
     "title": "[50 MRG] Feature: pose search by tip keyword",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/28",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1192,11 +1234,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:40Z",
     "updated_at": "2026-07-14T09:12:00Z",
-    "scanned_at": "2026-07-14T10:46:42.310683+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664868+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000047",
     "title": "[25 MRG] Data: 5 new standing poses with tips",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/27",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1213,11 +1255,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:38Z",
     "updated_at": "2026-07-14T03:56:49Z",
-    "scanned_at": "2026-07-14T10:46:42.310718+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664903+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000048",
     "title": "[200 MRG] Feature: multi-CV profiles with selector",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/42",
     "repo": "mergeos-bounties/NeraJob",
@@ -1233,11 +1275,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:26Z",
     "updated_at": "2026-07-14T03:10:57Z",
-    "scanned_at": "2026-07-14T10:46:42.310750+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664937+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000049",
     "title": "[50 MRG] Feature: remote-only default profile preset",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/41",
     "repo": "mergeos-bounties/NeraJob",
@@ -1253,11 +1295,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:24Z",
     "updated_at": "2026-07-14T03:11:15Z",
-    "scanned_at": "2026-07-14T10:46:42.310785+00:00",
+    "scanned_at": "2026-07-14T12:05:17.664973+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000050",
     "title": "[100 MRG] Feature: application tracker status states",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/40",
     "repo": "mergeos-bounties/NeraJob",
@@ -1273,11 +1315,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:22Z",
     "updated_at": "2026-07-14T03:11:33Z",
-    "scanned_at": "2026-07-14T10:46:42.310818+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665008+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000051",
     "title": "[100 MRG] Scraper: one official public API source + tests",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/38",
     "repo": "mergeos-bounties/NeraJob",
@@ -1293,11 +1335,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:18Z",
     "updated_at": "2026-07-14T03:12:10Z",
-    "scanned_at": "2026-07-14T10:46:42.310852+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665045+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000052",
     "title": "[50 MRG] Feature: skills gap report vs CV",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/37",
     "repo": "mergeos-bounties/NeraJob",
@@ -1313,11 +1355,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:16Z",
     "updated_at": "2026-07-14T10:39:23Z",
-    "scanned_at": "2026-07-14T10:46:42.310883+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665080+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000053",
     "title": "[50 MRG] Feature: min-salary filter on scan",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/36",
     "repo": "mergeos-bounties/NeraJob",
@@ -1333,11 +1375,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:14Z",
     "updated_at": "2026-07-14T04:02:09Z",
-    "scanned_at": "2026-07-14T10:46:42.310914+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665114+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000054",
     "title": "[200 MRG] Mobile: device control polish + offline cache",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/65",
     "repo": "mergeos-bounties/HIRI",
@@ -1353,11 +1395,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:00Z",
     "updated_at": "2026-07-14T03:10:00Z",
-    "scanned_at": "2026-07-14T10:46:42.310946+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665150+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000055",
     "title": "[100 MRG] Feature: HA entity mapping export",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/63",
     "repo": "mergeos-bounties/HIRI",
@@ -1373,11 +1415,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:56Z",
     "updated_at": "2026-07-14T03:09:56Z",
-    "scanned_at": "2026-07-14T10:46:42.310978+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665189+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000056",
     "title": "[100 MRG] Feature: MQTT adapter reconnect backoff",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/61",
     "repo": "mergeos-bounties/HIRI",
@@ -1393,11 +1435,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:52Z",
     "updated_at": "2026-07-14T03:09:52Z",
-    "scanned_at": "2026-07-14T10:46:42.311009+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665224+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000057",
     "title": "[50 MRG] Web admin: area floorplan stub",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/60",
     "repo": "mergeos-bounties/HIRI",
@@ -1413,11 +1455,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:50Z",
     "updated_at": "2026-07-14T03:09:50Z",
-    "scanned_at": "2026-07-14T10:46:42.311043+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665258+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000058",
     "title": "[50 MRG] Feature: device search by manufacturer",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/59",
     "repo": "mergeos-bounties/HIRI",
@@ -1433,11 +1475,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:48Z",
     "updated_at": "2026-07-14T03:09:48Z",
-    "scanned_at": "2026-07-14T10:46:42.311077+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665292+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000059",
     "title": "[200 MRG] Feature: collaborative workspace presence (optional)",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/30",
     "repo": "mergeos-bounties/Lappa",
@@ -1453,11 +1495,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:34Z",
     "updated_at": "2026-07-14T03:09:34Z",
-    "scanned_at": "2026-07-14T10:46:42.311111+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665330+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000060",
     "title": "[100 MRG] Feature: ros2 launch log streaming to IDE panel",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/28",
     "repo": "mergeos-bounties/Lappa",
@@ -1473,11 +1515,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:30Z",
     "updated_at": "2026-07-14T03:09:30Z",
-    "scanned_at": "2026-07-14T10:46:42.311145+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665365+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000061",
     "title": "[100 MRG] Feature: multi-robot session switcher",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/26",
     "repo": "mergeos-bounties/Lappa",
@@ -1493,11 +1535,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:26Z",
     "updated_at": "2026-07-14T03:09:26Z",
-    "scanned_at": "2026-07-14T10:46:42.311177+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665401+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000062",
     "title": "[50 MRG] Feature: sim obstacle layer toggle",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/25",
     "repo": "mergeos-bounties/Lappa",
@@ -1513,11 +1555,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:24Z",
     "updated_at": "2026-07-14T03:09:24Z",
-    "scanned_at": "2026-07-14T10:46:42.311218+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665435+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000063",
     "title": "[50 MRG] Feature: demo package template generator",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/24",
     "repo": "mergeos-bounties/Lappa",
@@ -1533,11 +1575,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:22Z",
     "updated_at": "2026-07-14T03:09:22Z",
-    "scanned_at": "2026-07-14T10:46:42.311255+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000064",
     "title": "[25 MRG] Docs: IDE open package → Docker colcon flow",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/23",
     "repo": "mergeos-bounties/Lappa",
@@ -1555,11 +1597,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:21Z",
     "updated_at": "2026-07-14T03:09:21Z",
-    "scanned_at": "2026-07-14T10:46:42.311288+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000065",
     "title": "[100 MRG] Android: landmark overlay debug mode",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/24",
     "repo": "mergeos-bounties/BeeAR",
@@ -1575,11 +1617,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:04Z",
     "updated_at": "2026-07-14T03:09:04Z",
-    "scanned_at": "2026-07-14T10:46:42.311320+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000066",
     "title": "[25 MRG] Docs: library consumer install from GitHub tarball",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/23",
     "repo": "mergeos-bounties/BeeAR",
@@ -1597,11 +1639,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:02Z",
     "updated_at": "2026-07-14T03:09:02Z",
-    "scanned_at": "2026-07-14T10:46:42.311353+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000067",
     "title": "[100 MRG] Feature: fit score explanation panel",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/22",
     "repo": "mergeos-bounties/BeeAR",
@@ -1617,11 +1659,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:00Z",
     "updated_at": "2026-07-14T03:09:00Z",
-    "scanned_at": "2026-07-14T10:46:42.311388+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665615+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000068",
     "title": "[50 MRG] Web: compare tray multi-select UX polish",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/21",
     "repo": "mergeos-bounties/BeeAR",
@@ -1637,11 +1679,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:58Z",
     "updated_at": "2026-07-14T03:08:58Z",
-    "scanned_at": "2026-07-14T10:46:42.311421+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665650+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000069",
     "title": "[50 MRG] Feature: price histogram CLI chart",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/20",
     "repo": "mergeos-bounties/BeeAR",
@@ -1657,11 +1699,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:56Z",
     "updated_at": "2026-07-14T03:08:56Z",
-    "scanned_at": "2026-07-14T10:46:42.311452+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665711+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000070",
     "title": "[25 MRG] Catalog: 4 new seasonal frame SKUs",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/19",
     "repo": "mergeos-bounties/BeeAR",
@@ -1678,11 +1720,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:54Z",
     "updated_at": "2026-07-14T03:08:54Z",
-    "scanned_at": "2026-07-14T10:46:42.311484+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665753+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000071",
     "title": "[200 MRG] Lappa HTTP bridge tools (sim pose/cmd_vel)",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/33",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1698,11 +1740,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:40Z",
     "updated_at": "2026-07-14T03:08:40Z",
-    "scanned_at": "2026-07-14T10:46:42.311517+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665790+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000072",
     "title": "[50 MRG] Feature: publish allowlist management CLI",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/32",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1718,11 +1760,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:39Z",
     "updated_at": "2026-07-14T03:08:39Z",
-    "scanned_at": "2026-07-14T10:46:42.311549+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665826+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000073",
     "title": "[100 MRG] Feature: TF tree summary tool",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/31",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1738,11 +1780,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:36Z",
     "updated_at": "2026-07-14T03:08:36Z",
-    "scanned_at": "2026-07-14T10:46:42.311580+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665863+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000074",
     "title": "[25 MRG] CLI: tools list pretty table",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/30",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1759,11 +1801,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:34Z",
     "updated_at": "2026-07-14T03:08:34Z",
-    "scanned_at": "2026-07-14T10:46:42.311612+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000075",
     "title": "[100 MRG] Feature: action goal/status tools (mock)",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/29",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1779,11 +1821,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:32Z",
     "updated_at": "2026-07-14T03:08:32Z",
-    "scanned_at": "2026-07-14T10:46:42.311644+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665935+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000076",
     "title": "[50 MRG] Feature: service call schema validation",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/28",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1799,11 +1841,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:30Z",
     "updated_at": "2026-07-14T03:08:30Z",
-    "scanned_at": "2026-07-14T10:46:42.311676+00:00",
+    "scanned_at": "2026-07-14T12:05:17.665969+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000077",
     "title": "[50 MRG] Feature: topic echo tool with mock buffer drain",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/27",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1819,11 +1861,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:28Z",
     "updated_at": "2026-07-14T03:08:28Z",
-    "scanned_at": "2026-07-14T10:46:42.311713+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666006+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000078",
     "title": "[25 MRG] Docs: TrucVPN-free offline agent setup",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/26",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1841,11 +1883,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:26Z",
     "updated_at": "2026-07-14T03:08:26Z",
-    "scanned_at": "2026-07-14T10:46:42.311748+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666042+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000079",
     "title": "[200 MRG] Live RViz2 remote API bridge design + stub",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/24",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1861,11 +1903,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:14Z",
     "updated_at": "2026-07-14T03:08:14Z",
-    "scanned_at": "2026-07-14T10:46:42.311784+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000080",
     "title": "[100 MRG] Feature: topic visibility toggles per display",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/23",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1881,11 +1923,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:12Z",
     "updated_at": "2026-07-14T03:08:12Z",
-    "scanned_at": "2026-07-14T10:46:42.311817+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666112+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000081",
     "title": "[25 MRG] CLI: export config JSON snapshot",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/22",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1902,11 +1944,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:10Z",
     "updated_at": "2026-07-14T03:08:10Z",
-    "scanned_at": "2026-07-14T10:46:42.311850+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666147+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000082",
     "title": "[100 MRG] Feature: view controller presets (orbit/fps)",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/21",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1922,11 +1964,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:07Z",
     "updated_at": "2026-07-14T03:08:07Z",
-    "scanned_at": "2026-07-14T10:46:42.311883+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666182+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000083",
     "title": "[50 MRG] Feature: set fixed frame tool",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/20",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1942,11 +1984,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:05Z",
     "updated_at": "2026-07-14T03:08:05Z",
-    "scanned_at": "2026-07-14T10:46:42.311914+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666216+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000084",
     "title": "[50 MRG] Feature: list/add/remove displays mock tools",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/19",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1962,11 +2004,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:04Z",
     "updated_at": "2026-07-14T03:08:04Z",
-    "scanned_at": "2026-07-14T10:46:42.311946+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666249+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000085",
     "title": "[25 MRG] Docs: mock display graph quickstart",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/18",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1984,11 +2026,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:02Z",
     "updated_at": "2026-07-14T03:08:02Z",
-    "scanned_at": "2026-07-14T10:46:42.311980+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666287+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000086",
     "title": "[200 MRG] Live MetaTrader5 Python package bridge stub",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/24",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2004,11 +2046,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:50Z",
     "updated_at": "2026-07-14T08:52:54Z",
-    "scanned_at": "2026-07-14T10:46:42.312015+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666323+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000087",
     "title": "[100 MRG] Feature: symbol spec tool (digits, lot step)",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/23",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2024,11 +2066,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:48Z",
     "updated_at": "2026-07-14T03:07:48Z",
-    "scanned_at": "2026-07-14T10:46:42.312050+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666357+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000088",
     "title": "[50 MRG] Feature: account metrics equity curve mock",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/22",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2044,11 +2086,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:46Z",
     "updated_at": "2026-07-14T03:07:46Z",
-    "scanned_at": "2026-07-14T10:46:42.312081+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666393+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000089",
     "title": "[25 MRG] CLI: doctor shows symbols + mode",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/21",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2065,11 +2107,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:44Z",
     "updated_at": "2026-07-14T03:07:44Z",
-    "scanned_at": "2026-07-14T10:46:42.312115+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666429+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000090",
     "title": "[100 MRG] Feature: place market order with SL/TP (mock)",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/20",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2085,11 +2127,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:42Z",
     "updated_at": "2026-07-14T03:07:42Z",
-    "scanned_at": "2026-07-14T10:46:42.312147+00:00",
+    "scanned_at": "2026-07-14T12:05:17.666462+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000091",
     "title": "[50 MRG] Feature: order history tool",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/19",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2105,11 +2147,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:07:40Z",
     "updated_at": "2026-07-14T07:44:58Z",
-    "scanned_at": "2026-07-14T10:46:42.312178+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955282+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000092",
     "title": "[50 MRG] Feature: positions list mock tool",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/18",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2125,11 +2167,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:38Z",
     "updated_at": "2026-07-14T03:07:38Z",
-    "scanned_at": "2026-07-14T10:46:42.312243+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955343+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000093",
     "title": "[25 MRG] Docs: mock vs live MT5 MCP",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/17",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2147,11 +2189,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:36Z",
     "updated_at": "2026-07-14T03:07:36Z",
-    "scanned_at": "2026-07-14T10:47:54.175431+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955381+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000094",
     "title": "[200 MRG] Live bridge design for MT4 expert/EA socket",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/26",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2167,11 +2209,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:23Z",
     "updated_at": "2026-07-14T03:07:55Z",
-    "scanned_at": "2026-07-14T10:47:54.175488+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955418+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000095",
     "title": "[100 MRG] Feature: multi-symbol watchlist state",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/25",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2187,11 +2229,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:21Z",
     "updated_at": "2026-07-14T03:08:14Z",
-    "scanned_at": "2026-07-14T10:47:54.175524+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955451+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000096",
     "title": "[50 MRG] Feature: history of closed trades export JSON",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/24",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2207,11 +2249,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:19Z",
     "updated_at": "2026-07-14T03:08:33Z",
-    "scanned_at": "2026-07-14T10:47:54.175559+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955483+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000097",
     "title": "[25 MRG] CLI: doctor + demo end-to-end",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/23",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2228,11 +2270,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:18Z",
     "updated_at": "2026-07-14T03:08:51Z",
-    "scanned_at": "2026-07-14T10:47:54.175592+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955515+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000098",
     "title": "[100 MRG] Feature: place/cancel order tools (mock risk checks)",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/22",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2248,11 +2290,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:15Z",
     "updated_at": "2026-07-14T03:09:10Z",
-    "scanned_at": "2026-07-14T10:47:54.175627+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955549+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000099",
     "title": "[50 MRG] Feature: quote snapshot for symbol list",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/21",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2268,11 +2310,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:13Z",
     "updated_at": "2026-07-14T03:07:13Z",
-    "scanned_at": "2026-07-14T10:47:54.175660+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000100",
     "title": "[50 MRG] Feature: account_summary mock tool",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/20",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2288,11 +2330,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:12Z",
     "updated_at": "2026-07-14T03:07:12Z",
-    "scanned_at": "2026-07-14T10:47:54.175692+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955612+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000101",
     "title": "[25 MRG] Docs: mock trading demo without MT4 install",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/19",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2310,11 +2352,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:10Z",
     "updated_at": "2026-07-14T03:07:10Z",
-    "scanned_at": "2026-07-14T10:47:54.175726+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955645+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000102",
     "title": "[200 MRG] Live bridge: gz transport integration design + stub",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/24",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2330,11 +2372,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:56Z",
     "updated_at": "2026-07-14T03:06:56Z",
-    "scanned_at": "2026-07-14T10:47:54.175761+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955693+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000103",
     "title": "[100 MRG] Feature: sensor snapshot tool (lidar/camera mock)",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/23",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2350,11 +2392,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:54Z",
     "updated_at": "2026-07-14T03:06:54Z",
-    "scanned_at": "2026-07-14T10:47:54.175795+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955727+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000104",
     "title": "[50 MRG] Feature: pause / step simulation tools",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/22",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2370,11 +2412,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:52Z",
     "updated_at": "2026-07-14T03:06:52Z",
-    "scanned_at": "2026-07-14T10:47:54.175827+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955759+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000105",
     "title": "[25 MRG] CLI: doctor reports backend mode and tool count",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/21",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2391,11 +2433,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:50Z",
     "updated_at": "2026-07-14T03:06:50Z",
-    "scanned_at": "2026-07-14T10:47:54.175860+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000106",
     "title": "[100 MRG] Feature: pose get/set tools (mock + live stub)",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/20",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2411,11 +2453,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:48Z",
     "updated_at": "2026-07-14T03:06:48Z",
-    "scanned_at": "2026-07-14T10:47:54.175893+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000107",
     "title": "[50 MRG] Feature: model_spawn / model_delete mock",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/19",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2431,11 +2473,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:46Z",
     "updated_at": "2026-07-14T03:06:46Z",
-    "scanned_at": "2026-07-14T10:47:54.175926+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955858+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000108",
     "title": "[50 MRG] Feature: MCP tool world_list with mock fixtures",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/18",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2451,29 +2493,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:44Z",
     "updated_at": "2026-07-14T03:06:44Z",
-    "scanned_at": "2026-07-14T10:47:54.175960+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000107",
-    "title": "[25 MRG] Docs: mock vs live mode quickstart",
-    "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/17",
-    "repo": "mergeos-bounties/gazebo-mcp",
-    "number": 17,
-    "labels": [
-      "documentation",
-      "good first issue",
-      "bounty",
-      "bounty: feature",
-      "reward:25-mrg"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-07-14T03:06:42Z",
-    "updated_at": "2026-07-14T03:06:42Z",
-    "scanned_at": "2026-07-14T10:47:54.175996+00:00",
+    "scanned_at": "2026-07-14T12:06:29.955891+00:00",
     "status": "new"
   },
   {
@@ -2493,7 +2513,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:30Z",
     "updated_at": "2026-07-14T03:06:30Z",
-    "scanned_at": "2026-07-14T10:48:04.510156+00:00",
+    "scanned_at": "2026-07-14T12:06:40.410985+00:00",
     "status": "new"
   },
   {
@@ -2513,7 +2533,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:28Z",
     "updated_at": "2026-07-14T03:06:28Z",
-    "scanned_at": "2026-07-14T10:48:04.510227+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411045+00:00",
     "status": "new"
   },
   {
@@ -2534,7 +2554,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:26Z",
     "updated_at": "2026-07-14T03:06:26Z",
-    "scanned_at": "2026-07-14T10:48:04.510267+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411084+00:00",
     "status": "new"
   },
   {
@@ -2555,7 +2575,7 @@
     "comments": 1,
     "created_at": "2026-07-14T03:06:25Z",
     "updated_at": "2026-07-14T09:25:55Z",
-    "scanned_at": "2026-07-14T10:48:04.510302+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411119+00:00",
     "status": "new"
   },
   {
@@ -2575,7 +2595,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:23Z",
     "updated_at": "2026-07-14T03:06:23Z",
-    "scanned_at": "2026-07-14T10:48:04.510338+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411154+00:00",
     "status": "new"
   },
   {
@@ -2595,7 +2615,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:21Z",
     "updated_at": "2026-07-14T03:06:21Z",
-    "scanned_at": "2026-07-14T10:48:04.510373+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411188+00:00",
     "status": "new"
   },
   {
@@ -2615,7 +2635,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:19Z",
     "updated_at": "2026-07-14T03:06:19Z",
-    "scanned_at": "2026-07-14T10:48:04.510410+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411224+00:00",
     "status": "new"
   },
   {
@@ -2637,7 +2657,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:17Z",
     "updated_at": "2026-07-14T03:06:17Z",
-    "scanned_at": "2026-07-14T10:48:04.510446+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411259+00:00",
     "status": "new"
   },
   {
@@ -2657,7 +2677,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:04Z",
     "updated_at": "2026-07-14T03:06:04Z",
-    "scanned_at": "2026-07-14T10:48:04.510482+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411294+00:00",
     "status": "new"
   },
   {
@@ -2677,7 +2697,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:02Z",
     "updated_at": "2026-07-14T03:06:02Z",
-    "scanned_at": "2026-07-14T10:48:04.510517+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411328+00:00",
     "status": "new"
   },
   {
@@ -2697,7 +2717,7 @@
     "comments": 1,
     "created_at": "2026-07-14T03:06:00Z",
     "updated_at": "2026-07-14T03:36:32Z",
-    "scanned_at": "2026-07-14T10:48:04.510550+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411361+00:00",
     "status": "new"
   },
   {
@@ -2718,7 +2738,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:58Z",
     "updated_at": "2026-07-14T03:05:58Z",
-    "scanned_at": "2026-07-14T10:48:04.510586+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411395+00:00",
     "status": "new"
   },
   {
@@ -2738,7 +2758,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:55Z",
     "updated_at": "2026-07-14T03:05:55Z",
-    "scanned_at": "2026-07-14T10:48:04.510624+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411435+00:00",
     "status": "new"
   },
   {
@@ -2758,7 +2778,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:53Z",
     "updated_at": "2026-07-14T03:05:53Z",
-    "scanned_at": "2026-07-14T10:48:04.510658+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411469+00:00",
     "status": "new"
   },
   {
@@ -2778,7 +2798,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:51Z",
     "updated_at": "2026-07-14T03:05:51Z",
-    "scanned_at": "2026-07-14T10:48:04.510694+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411504+00:00",
     "status": "new"
   },
   {
@@ -2800,7 +2820,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:50Z",
     "updated_at": "2026-07-14T03:05:50Z",
-    "scanned_at": "2026-07-14T10:48:04.510731+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411540+00:00",
     "status": "new"
   },
   {
@@ -2820,7 +2840,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:37Z",
     "updated_at": "2026-07-14T03:05:37Z",
-    "scanned_at": "2026-07-14T10:48:04.510768+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411576+00:00",
     "status": "new"
   },
   {
@@ -2840,7 +2860,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:35Z",
     "updated_at": "2026-07-14T03:05:35Z",
-    "scanned_at": "2026-07-14T10:48:04.510804+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411610+00:00",
     "status": "new"
   },
   {
@@ -2860,7 +2880,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:33Z",
     "updated_at": "2026-07-14T03:05:33Z",
-    "scanned_at": "2026-07-14T10:48:04.510837+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411644+00:00",
     "status": "new"
   },
   {
@@ -2881,7 +2901,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:31Z",
     "updated_at": "2026-07-14T03:05:31Z",
-    "scanned_at": "2026-07-14T10:48:04.510871+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411688+00:00",
     "status": "new"
   },
   {
@@ -2901,7 +2921,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:29Z",
     "updated_at": "2026-07-14T03:05:29Z",
-    "scanned_at": "2026-07-14T10:48:04.510908+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411724+00:00",
     "status": "new"
   },
   {
@@ -2922,7 +2942,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:27Z",
     "updated_at": "2026-07-14T03:05:27Z",
-    "scanned_at": "2026-07-14T10:48:04.510944+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411760+00:00",
     "status": "new"
   },
   {
@@ -2942,7 +2962,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:24Z",
     "updated_at": "2026-07-14T03:05:24Z",
-    "scanned_at": "2026-07-14T10:48:04.510980+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411796+00:00",
     "status": "new"
   },
   {
@@ -2963,7 +2983,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:22Z",
     "updated_at": "2026-07-14T03:05:22Z",
-    "scanned_at": "2026-07-14T10:48:04.511017+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411832+00:00",
     "status": "new"
   },
   {
@@ -2983,7 +3003,7 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:22Z",
     "updated_at": "2026-07-14T03:04:56Z",
-    "scanned_at": "2026-07-14T10:48:04.511047+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411861+00:00",
     "status": "new"
   },
   {
@@ -3003,7 +3023,7 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:21Z",
     "updated_at": "2026-07-14T03:05:15Z",
-    "scanned_at": "2026-07-14T10:48:04.511076+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411890+00:00",
     "status": "new"
   },
   {
@@ -3023,7 +3043,7 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:19Z",
     "updated_at": "2026-07-14T03:05:34Z",
-    "scanned_at": "2026-07-14T10:48:04.511102+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411917+00:00",
     "status": "new"
   },
   {
@@ -3043,7 +3063,7 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:17Z",
     "updated_at": "2026-07-14T03:05:52Z",
-    "scanned_at": "2026-07-14T10:48:04.511128+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411944+00:00",
     "status": "new"
   },
   {
@@ -3063,7 +3083,7 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:15Z",
     "updated_at": "2026-07-14T03:06:10Z",
-    "scanned_at": "2026-07-14T10:48:04.511155+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411971+00:00",
     "status": "new"
   },
   {
@@ -3083,7 +3103,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:13Z",
     "updated_at": "2026-07-14T03:02:13Z",
-    "scanned_at": "2026-07-14T10:48:04.511191+00:00",
+    "scanned_at": "2026-07-14T12:06:40.411998+00:00",
     "status": "new"
   },
   {
@@ -3103,7 +3123,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:12Z",
     "updated_at": "2026-07-14T03:02:12Z",
-    "scanned_at": "2026-07-14T10:48:04.511219+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412025+00:00",
     "status": "new"
   },
   {
@@ -3123,30 +3143,7 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:10Z",
     "updated_at": "2026-07-14T03:02:10Z",
-    "scanned_at": "2026-07-14T10:48:04.511246+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000108",
-    "title": "[Bounty][$0][Benchmark] Run LessonReuseBench and share your score",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/459",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 459,
-    "labels": [
-      "discussion",
-      "needs-ac",
-      "bounty",
-      "agent-friendly",
-      "status:competition",
-      "benchmark"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-07-14T01:52:07Z",
-    "updated_at": "2026-07-14T07:11:41Z",
-    "scanned_at": "2026-07-14T10:47:54.176033+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412052+00:00",
     "status": "new"
   },
   {
@@ -3166,7 +3163,7 @@
     "comments": 0,
     "created_at": "2026-07-13T23:06:14Z",
     "updated_at": "2026-07-13T23:06:14Z",
-    "scanned_at": "2026-07-14T10:48:04.511263+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412069+00:00",
     "status": "new"
   },
   {
@@ -3186,7 +3183,7 @@
     "comments": 0,
     "created_at": "2026-07-13T21:08:49Z",
     "updated_at": "2026-07-13T21:08:49Z",
-    "scanned_at": "2026-07-14T10:48:04.511280+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412085+00:00",
     "status": "new"
   },
   {
@@ -3206,7 +3203,7 @@
     "comments": 0,
     "created_at": "2026-07-13T19:41:53Z",
     "updated_at": "2026-07-13T19:41:53Z",
-    "scanned_at": "2026-07-14T10:48:04.511297+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412102+00:00",
     "status": "new"
   },
   {
@@ -3226,7 +3223,7 @@
     "comments": 1,
     "created_at": "2026-07-13T17:20:20Z",
     "updated_at": "2026-07-13T17:21:21Z",
-    "scanned_at": "2026-07-14T10:48:04.511314+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412119+00:00",
     "status": "new"
   },
   {
@@ -3246,7 +3243,7 @@
     "comments": 1,
     "created_at": "2026-07-13T14:54:37Z",
     "updated_at": "2026-07-13T14:55:39Z",
-    "scanned_at": "2026-07-14T10:48:04.511331+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412136+00:00",
     "status": "new"
   },
   {
@@ -3266,7 +3263,7 @@
     "comments": 1,
     "created_at": "2026-07-13T11:25:22Z",
     "updated_at": "2026-07-13T12:03:44Z",
-    "scanned_at": "2026-07-14T10:48:04.511348+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412153+00:00",
     "status": "new"
   },
   {
@@ -3286,7 +3283,7 @@
     "comments": 0,
     "created_at": "2026-07-13T09:44:44Z",
     "updated_at": "2026-07-13T09:44:44Z",
-    "scanned_at": "2026-07-14T10:48:04.511366+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412170+00:00",
     "status": "new"
   },
   {
@@ -3306,7 +3303,7 @@
     "comments": 0,
     "created_at": "2026-07-13T07:31:59Z",
     "updated_at": "2026-07-13T07:31:59Z",
-    "scanned_at": "2026-07-14T10:48:04.511383+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412187+00:00",
     "status": "new"
   },
   {
@@ -3326,7 +3323,7 @@
     "comments": 4,
     "created_at": "2026-07-13T04:20:05Z",
     "updated_at": "2026-07-13T04:54:08Z",
-    "scanned_at": "2026-07-14T10:48:04.511402+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412207+00:00",
     "status": "new"
   },
   {
@@ -3346,7 +3343,7 @@
     "comments": 5,
     "created_at": "2026-07-13T04:20:03Z",
     "updated_at": "2026-07-13T10:57:37Z",
-    "scanned_at": "2026-07-14T10:48:04.511424+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412227+00:00",
     "status": "new"
   },
   {
@@ -3366,7 +3363,7 @@
     "comments": 3,
     "created_at": "2026-07-13T04:20:01Z",
     "updated_at": "2026-07-13T04:24:11Z",
-    "scanned_at": "2026-07-14T10:48:04.511442+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412247+00:00",
     "status": "new"
   },
   {
@@ -3386,7 +3383,7 @@
     "comments": 4,
     "created_at": "2026-07-13T04:19:57Z",
     "updated_at": "2026-07-13T04:52:18Z",
-    "scanned_at": "2026-07-14T10:48:04.511462+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412266+00:00",
     "status": "new"
   },
   {
@@ -3408,7 +3405,7 @@
     "comments": 3,
     "created_at": "2026-07-13T04:19:54Z",
     "updated_at": "2026-07-13T04:26:51Z",
-    "scanned_at": "2026-07-14T10:48:04.511489+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412291+00:00",
     "status": "new"
   },
   {
@@ -3428,7 +3425,7 @@
     "comments": 0,
     "created_at": "2026-07-13T03:53:07Z",
     "updated_at": "2026-07-13T03:53:07Z",
-    "scanned_at": "2026-07-14T10:48:04.511507+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412309+00:00",
     "status": "new"
   },
   {
@@ -3449,7 +3446,7 @@
     "comments": 4,
     "created_at": "2026-07-13T01:50:40Z",
     "updated_at": "2026-07-13T02:38:46Z",
-    "scanned_at": "2026-07-14T10:48:04.511533+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412335+00:00",
     "status": "new"
   },
   {
@@ -3471,7 +3468,7 @@
     "comments": 3,
     "created_at": "2026-07-13T01:50:31Z",
     "updated_at": "2026-07-13T01:56:32Z",
-    "scanned_at": "2026-07-14T10:48:04.511561+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412361+00:00",
     "status": "new"
   },
   {
@@ -3491,7 +3488,7 @@
     "comments": 0,
     "created_at": "2026-07-13T00:04:59Z",
     "updated_at": "2026-07-13T00:04:59Z",
-    "scanned_at": "2026-07-14T10:48:04.511578+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412379+00:00",
     "status": "new"
   },
   {
@@ -3511,7 +3508,7 @@
     "comments": 0,
     "created_at": "2026-07-12T23:02:11Z",
     "updated_at": "2026-07-12T23:02:11Z",
-    "scanned_at": "2026-07-14T10:48:04.511596+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412398+00:00",
     "status": "new"
   },
   {
@@ -3531,7 +3528,7 @@
     "comments": 0,
     "created_at": "2026-07-12T22:01:42Z",
     "updated_at": "2026-07-12T22:01:42Z",
-    "scanned_at": "2026-07-14T10:48:04.511614+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412415+00:00",
     "status": "new"
   },
   {
@@ -3551,7 +3548,7 @@
     "comments": 0,
     "created_at": "2026-07-12T21:01:47Z",
     "updated_at": "2026-07-12T21:01:47Z",
-    "scanned_at": "2026-07-14T10:48:04.511630+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412432+00:00",
     "status": "new"
   },
   {
@@ -3571,7 +3568,7 @@
     "comments": 0,
     "created_at": "2026-07-12T19:18:58Z",
     "updated_at": "2026-07-12T19:18:58Z",
-    "scanned_at": "2026-07-14T10:48:04.511647+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412450+00:00",
     "status": "new"
   },
   {
@@ -3591,7 +3588,7 @@
     "comments": 0,
     "created_at": "2026-07-12T17:11:44Z",
     "updated_at": "2026-07-12T17:11:44Z",
-    "scanned_at": "2026-07-14T10:48:04.511664+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412467+00:00",
     "status": "new"
   },
   {
@@ -3611,7 +3608,7 @@
     "comments": 0,
     "created_at": "2026-07-12T15:08:14Z",
     "updated_at": "2026-07-12T15:08:14Z",
-    "scanned_at": "2026-07-14T10:48:04.511681+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412484+00:00",
     "status": "new"
   },
   {
@@ -3632,7 +3629,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:52Z",
     "updated_at": "2026-07-12T14:07:55Z",
-    "scanned_at": "2026-07-14T10:48:04.511705+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412509+00:00",
     "status": "new"
   },
   {
@@ -3653,7 +3650,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:49Z",
     "updated_at": "2026-07-12T14:08:32Z",
-    "scanned_at": "2026-07-14T10:48:04.511730+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412534+00:00",
     "status": "new"
   },
   {
@@ -3674,7 +3671,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:47Z",
     "updated_at": "2026-07-12T14:08:50Z",
-    "scanned_at": "2026-07-14T10:48:04.511753+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412558+00:00",
     "status": "new"
   },
   {
@@ -3695,7 +3692,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:45Z",
     "updated_at": "2026-07-12T14:09:09Z",
-    "scanned_at": "2026-07-14T10:48:04.511777+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412582+00:00",
     "status": "new"
   },
   {
@@ -3716,7 +3713,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:43Z",
     "updated_at": "2026-07-12T14:10:56Z",
-    "scanned_at": "2026-07-14T10:48:04.511800+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412606+00:00",
     "status": "new"
   },
   {
@@ -3738,7 +3735,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:41Z",
     "updated_at": "2026-07-12T14:11:16Z",
-    "scanned_at": "2026-07-14T10:48:04.511824+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412630+00:00",
     "status": "new"
   },
   {
@@ -3759,7 +3756,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:39Z",
     "updated_at": "2026-07-12T14:11:35Z",
-    "scanned_at": "2026-07-14T10:48:04.511848+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412654+00:00",
     "status": "new"
   },
   {
@@ -3780,7 +3777,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:32Z",
     "updated_at": "2026-07-12T14:14:13Z",
-    "scanned_at": "2026-07-14T10:48:04.511874+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412689+00:00",
     "status": "new"
   },
   {
@@ -3802,7 +3799,7 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:30Z",
     "updated_at": "2026-07-12T14:14:32Z",
-    "scanned_at": "2026-07-14T10:48:04.511900+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412717+00:00",
     "status": "new"
   },
   {
@@ -3824,7 +3821,7 @@
     "comments": 4,
     "created_at": "2026-07-12T14:06:29Z",
     "updated_at": "2026-07-12T15:16:39Z",
-    "scanned_at": "2026-07-14T10:48:04.511925+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412742+00:00",
     "status": "new"
   },
   {
@@ -3844,7 +3841,7 @@
     "comments": 0,
     "created_at": "2026-07-12T13:49:00Z",
     "updated_at": "2026-07-12T13:49:00Z",
-    "scanned_at": "2026-07-14T10:48:04.511941+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412758+00:00",
     "status": "new"
   },
   {
@@ -3869,7 +3866,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:39:02Z",
     "updated_at": "2026-07-12T12:40:55Z",
-    "scanned_at": "2026-07-14T10:48:04.512069+00:00",
+    "scanned_at": "2026-07-14T12:06:40.412885+00:00",
     "status": "new"
   },
   {
@@ -3894,7 +3891,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:39:01Z",
     "updated_at": "2026-07-12T12:41:14Z",
-    "scanned_at": "2026-07-14T10:48:04.512224+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413028+00:00",
     "status": "new"
   },
   {
@@ -3919,7 +3916,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:59Z",
     "updated_at": "2026-07-12T12:41:32Z",
-    "scanned_at": "2026-07-14T10:48:04.512366+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413169+00:00",
     "status": "new"
   },
   {
@@ -3944,7 +3941,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:57Z",
     "updated_at": "2026-07-12T12:41:51Z",
-    "scanned_at": "2026-07-14T10:48:04.512506+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413308+00:00",
     "status": "new"
   },
   {
@@ -3969,7 +3966,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:55Z",
     "updated_at": "2026-07-12T12:42:09Z",
-    "scanned_at": "2026-07-14T10:48:04.512645+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413447+00:00",
     "status": "new"
   },
   {
@@ -3994,7 +3991,7 @@
     "comments": 1,
     "created_at": "2026-07-12T12:36:43Z",
     "updated_at": "2026-07-12T13:05:12Z",
-    "scanned_at": "2026-07-14T10:48:04.512781+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413582+00:00",
     "status": "new"
   },
   {
@@ -4019,7 +4016,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:30:59Z",
     "updated_at": "2026-07-12T12:32:50Z",
-    "scanned_at": "2026-07-14T10:48:04.512899+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413718+00:00",
     "status": "new"
   },
   {
@@ -4044,7 +4041,7 @@
     "comments": 3,
     "created_at": "2026-07-12T12:30:58Z",
     "updated_at": "2026-07-12T12:33:08Z",
-    "scanned_at": "2026-07-14T10:48:04.513016+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413836+00:00",
     "status": "new"
   },
   {
@@ -4066,7 +4063,7 @@
     "comments": 5,
     "created_at": "2026-07-12T11:41:03Z",
     "updated_at": "2026-07-13T06:18:14Z",
-    "scanned_at": "2026-07-14T10:47:58.626457+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529266+00:00",
     "status": "new"
   },
   {
@@ -4087,7 +4084,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:53Z",
     "updated_at": "2026-07-12T11:47:10Z",
-    "scanned_at": "2026-07-14T10:47:58.626522+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529333+00:00",
     "status": "new"
   },
   {
@@ -4109,7 +4106,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:51Z",
     "updated_at": "2026-07-12T11:47:29Z",
-    "scanned_at": "2026-07-14T10:47:58.626568+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529383+00:00",
     "status": "new"
   },
   {
@@ -4131,7 +4128,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:49Z",
     "updated_at": "2026-07-12T11:47:48Z",
-    "scanned_at": "2026-07-14T10:47:58.626625+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529439+00:00",
     "status": "new"
   },
   {
@@ -4153,7 +4150,7 @@
     "comments": 4,
     "created_at": "2026-07-12T11:40:46Z",
     "updated_at": "2026-07-13T23:58:08Z",
-    "scanned_at": "2026-07-14T10:47:58.626670+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529487+00:00",
     "status": "new"
   },
   {
@@ -4174,7 +4171,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:42Z",
     "updated_at": "2026-07-12T11:50:29Z",
-    "scanned_at": "2026-07-14T10:47:58.626715+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529535+00:00",
     "status": "new"
   },
   {
@@ -4196,7 +4193,7 @@
     "comments": 4,
     "created_at": "2026-07-12T11:40:39Z",
     "updated_at": "2026-07-12T13:11:21Z",
-    "scanned_at": "2026-07-14T10:47:58.626759+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529583+00:00",
     "status": "new"
   },
   {
@@ -4217,7 +4214,7 @@
     "comments": 1,
     "created_at": "2026-07-12T11:40:37Z",
     "updated_at": "2026-07-12T22:37:34Z",
-    "scanned_at": "2026-07-14T10:47:58.626802+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529628+00:00",
     "status": "new"
   },
   {
@@ -4239,7 +4236,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:40:33Z",
     "updated_at": "2026-07-12T11:40:33Z",
-    "scanned_at": "2026-07-14T10:47:58.626848+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529689+00:00",
     "status": "new"
   },
   {
@@ -4261,7 +4258,7 @@
     "comments": 1,
     "created_at": "2026-07-12T11:40:32Z",
     "updated_at": "2026-07-12T22:34:22Z",
-    "scanned_at": "2026-07-14T10:47:58.626892+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529737+00:00",
     "status": "new"
   },
   {
@@ -4283,7 +4280,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-07-12T11:41:10Z",
-    "scanned_at": "2026-07-14T10:47:58.626937+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529786+00:00",
     "status": "new"
   },
   {
@@ -4305,7 +4302,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:26Z",
     "updated_at": "2026-07-12T11:41:28Z",
-    "scanned_at": "2026-07-14T10:47:58.626982+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529835+00:00",
     "status": "new"
   },
   {
@@ -4327,7 +4324,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:24Z",
     "updated_at": "2026-07-12T11:41:46Z",
-    "scanned_at": "2026-07-14T10:47:58.627026+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529884+00:00",
     "status": "new"
   },
   {
@@ -4348,7 +4345,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:39:05Z",
     "updated_at": "2026-07-12T11:39:05Z",
-    "scanned_at": "2026-07-14T10:47:58.627088+00:00",
+    "scanned_at": "2026-07-14T12:06:34.529945+00:00",
     "status": "new"
   },
   {
@@ -4370,7 +4367,7 @@
     "comments": 3,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-07-13T06:18:16Z",
-    "scanned_at": "2026-07-14T10:47:58.627158+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530014+00:00",
     "status": "new"
   },
   {
@@ -4391,7 +4388,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:39:01Z",
     "updated_at": "2026-07-12T11:39:01Z",
-    "scanned_at": "2026-07-14T10:47:58.627246+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530083+00:00",
     "status": "new"
   },
   {
@@ -4413,7 +4410,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:59Z",
     "updated_at": "2026-07-12T11:38:59Z",
-    "scanned_at": "2026-07-14T10:47:58.627314+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530150+00:00",
     "status": "new"
   },
   {
@@ -4435,7 +4432,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:52Z",
     "updated_at": "2026-07-12T11:38:52Z",
-    "scanned_at": "2026-07-14T10:47:58.627387+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530222+00:00",
     "status": "new"
   },
   {
@@ -4457,7 +4454,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:50Z",
     "updated_at": "2026-07-12T11:38:50Z",
-    "scanned_at": "2026-07-14T10:47:58.627458+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530292+00:00",
     "status": "new"
   },
   {
@@ -4479,7 +4476,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:46Z",
     "updated_at": "2026-07-12T11:38:46Z",
-    "scanned_at": "2026-07-14T10:47:58.627528+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530366+00:00",
     "status": "new"
   },
   {
@@ -4501,7 +4498,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:45Z",
     "updated_at": "2026-07-12T11:38:45Z",
-    "scanned_at": "2026-07-14T10:47:58.627596+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530434+00:00",
     "status": "new"
   },
   {
@@ -4523,7 +4520,7 @@
     "comments": 2,
     "created_at": "2026-07-12T11:38:40Z",
     "updated_at": "2026-07-13T01:54:04Z",
-    "scanned_at": "2026-07-14T10:47:58.627671+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530508+00:00",
     "status": "new"
   },
   {
@@ -4545,7 +4542,7 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:36Z",
     "updated_at": "2026-07-12T11:38:36Z",
-    "scanned_at": "2026-07-14T10:47:58.627751+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530583+00:00",
     "status": "new"
   },
   {
@@ -4567,7 +4564,7 @@
     "comments": 4,
     "created_at": "2026-07-12T11:35:38Z",
     "updated_at": "2026-07-13T06:18:12Z",
-    "scanned_at": "2026-07-14T10:47:58.627968+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530836+00:00",
     "status": "new"
   },
   {
@@ -4589,7 +4586,7 @@
     "comments": 5,
     "created_at": "2026-07-12T11:31:33Z",
     "updated_at": "2026-07-12T20:00:32Z",
-    "scanned_at": "2026-07-14T10:47:58.628022+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530890+00:00",
     "status": "new"
   },
   {
@@ -4609,7 +4606,7 @@
     "comments": 1,
     "created_at": "2026-07-11T08:08:46Z",
     "updated_at": "2026-07-11T12:33:17Z",
-    "scanned_at": "2026-07-14T10:48:04.513034+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413854+00:00",
     "status": "new"
   },
   {
@@ -4628,10 +4625,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 19,
+    "comments": 21,
     "created_at": "2026-07-06T17:06:41Z",
-    "updated_at": "2026-07-14T04:23:26Z",
-    "scanned_at": "2026-07-14T10:47:58.628038+00:00",
+    "updated_at": "2026-07-14T11:31:09Z",
+    "scanned_at": "2026-07-14T12:06:34.530907+00:00",
     "status": "new"
   },
   {
@@ -4652,7 +4649,7 @@
     "comments": 8,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-07-07T19:06:10Z",
-    "scanned_at": "2026-07-14T10:47:58.628049+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530918+00:00",
     "status": "new"
   },
   {
@@ -4670,7 +4667,7 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:34Z",
     "updated_at": "2026-07-13T12:05:56Z",
-    "scanned_at": "2026-07-14T10:47:58.628069+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530939+00:00",
     "status": "new"
   },
   {
@@ -4688,7 +4685,7 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:32Z",
     "updated_at": "2026-07-13T12:05:53Z",
-    "scanned_at": "2026-07-14T10:47:58.628089+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530960+00:00",
     "status": "new"
   },
   {
@@ -4706,7 +4703,7 @@
     "comments": 13,
     "created_at": "2026-07-05T05:56:31Z",
     "updated_at": "2026-07-13T12:05:48Z",
-    "scanned_at": "2026-07-14T10:47:58.628108+00:00",
+    "scanned_at": "2026-07-14T12:06:34.530980+00:00",
     "status": "new"
   },
   {
@@ -4727,7 +4724,7 @@
     "comments": 6,
     "created_at": "2026-07-04T19:32:27Z",
     "updated_at": "2026-07-05T13:11:24Z",
-    "scanned_at": "2026-07-14T10:48:04.513052+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413870+00:00",
     "status": "new"
   },
   {
@@ -4747,7 +4744,7 @@
     "comments": 1,
     "created_at": "2026-07-04T19:32:21Z",
     "updated_at": "2026-07-05T13:15:54Z",
-    "scanned_at": "2026-07-14T10:48:04.513067+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413885+00:00",
     "status": "new"
   },
   {
@@ -4767,7 +4764,7 @@
     "comments": 2,
     "created_at": "2026-07-04T08:48:43Z",
     "updated_at": "2026-07-05T13:19:14Z",
-    "scanned_at": "2026-07-14T10:48:04.513084+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413901+00:00",
     "status": "new"
   },
   {
@@ -4788,7 +4785,7 @@
     "comments": 13,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-06T07:37:12Z",
-    "scanned_at": "2026-07-14T10:47:58.628276+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531087+00:00",
     "status": "new"
   },
   {
@@ -4810,7 +4807,7 @@
     "comments": 5,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-11T02:34:48Z",
-    "scanned_at": "2026-07-14T10:47:58.628307+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531117+00:00",
     "status": "new"
   },
   {
@@ -4832,7 +4829,7 @@
     "comments": 5,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-07T07:07:34Z",
-    "scanned_at": "2026-07-14T10:47:58.628341+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531152+00:00",
     "status": "new"
   },
   {
@@ -4852,7 +4849,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-06T07:47:20Z",
-    "scanned_at": "2026-07-14T10:47:58.628369+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531180+00:00",
     "status": "new"
   },
   {
@@ -4873,7 +4870,7 @@
     "comments": 6,
     "created_at": "2026-07-02T11:20:53Z",
     "updated_at": "2026-07-06T07:51:07Z",
-    "scanned_at": "2026-07-14T10:47:58.628396+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531207+00:00",
     "status": "new"
   },
   {
@@ -4894,7 +4891,7 @@
     "comments": 4,
     "created_at": "2026-07-02T11:20:43Z",
     "updated_at": "2026-07-07T07:00:46Z",
-    "scanned_at": "2026-07-14T10:47:58.628425+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531237+00:00",
     "status": "new"
   },
   {
@@ -4914,7 +4911,7 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:33Z",
     "updated_at": "2026-07-06T07:57:05Z",
-    "scanned_at": "2026-07-14T10:47:58.628456+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531269+00:00",
     "status": "new"
   },
   {
@@ -4934,7 +4931,7 @@
     "comments": 8,
     "created_at": "2026-07-02T11:20:23Z",
     "updated_at": "2026-07-06T08:00:08Z",
-    "scanned_at": "2026-07-14T10:47:58.628488+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531300+00:00",
     "status": "new"
   },
   {
@@ -4955,7 +4952,7 @@
     "comments": 6,
     "created_at": "2026-07-02T11:20:06Z",
     "updated_at": "2026-07-06T08:02:40Z",
-    "scanned_at": "2026-07-14T10:47:58.628519+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531332+00:00",
     "status": "new"
   },
   {
@@ -4975,7 +4972,7 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:55Z",
     "updated_at": "2026-07-06T11:55:15Z",
-    "scanned_at": "2026-07-14T10:47:58.628549+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531362+00:00",
     "status": "new"
   },
   {
@@ -4997,7 +4994,7 @@
     "comments": 9,
     "created_at": "2026-07-02T11:19:45Z",
     "updated_at": "2026-07-09T15:15:52Z",
-    "scanned_at": "2026-07-14T10:47:58.628573+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531386+00:00",
     "status": "new"
   },
   {
@@ -5019,7 +5016,7 @@
     "comments": 10,
     "created_at": "2026-07-02T11:19:35Z",
     "updated_at": "2026-07-09T15:15:57Z",
-    "scanned_at": "2026-07-14T10:47:58.628598+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531411+00:00",
     "status": "new"
   },
   {
@@ -5040,7 +5037,7 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:23Z",
     "updated_at": "2026-07-13T16:39:40Z",
-    "scanned_at": "2026-07-14T10:47:58.628627+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531441+00:00",
     "status": "new"
   },
   {
@@ -5060,7 +5057,7 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:04Z",
     "updated_at": "2026-07-06T08:16:16Z",
-    "scanned_at": "2026-07-14T10:47:58.628658+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531473+00:00",
     "status": "new"
   },
   {
@@ -5081,7 +5078,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:11:20Z",
     "updated_at": "2026-07-07T08:15:36Z",
-    "scanned_at": "2026-07-14T10:47:58.628692+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531508+00:00",
     "status": "new"
   },
   {
@@ -5101,7 +5098,7 @@
     "comments": 4,
     "created_at": "2026-07-02T11:11:02Z",
     "updated_at": "2026-07-07T08:11:29Z",
-    "scanned_at": "2026-07-14T10:47:58.628724+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531540+00:00",
     "status": "new"
   },
   {
@@ -5121,7 +5118,7 @@
     "comments": 9,
     "created_at": "2026-07-02T11:10:45Z",
     "updated_at": "2026-07-09T11:13:38Z",
-    "scanned_at": "2026-07-14T10:47:58.628754+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531570+00:00",
     "status": "new"
   },
   {
@@ -5142,7 +5139,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:10:25Z",
     "updated_at": "2026-07-06T08:41:58Z",
-    "scanned_at": "2026-07-14T10:47:58.628785+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531602+00:00",
     "status": "new"
   },
   {
@@ -5162,7 +5159,7 @@
     "comments": 12,
     "created_at": "2026-07-01T09:49:07Z",
     "updated_at": "2026-07-11T23:32:14Z",
-    "scanned_at": "2026-07-14T10:47:58.628859+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531687+00:00",
     "status": "new"
   },
   {
@@ -5181,7 +5178,7 @@
     "comments": 6,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-09T20:17:03Z",
-    "scanned_at": "2026-07-14T10:47:58.628916+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531744+00:00",
     "status": "new"
   },
   {
@@ -5200,7 +5197,7 @@
     "comments": 4,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-07-11T22:47:11Z",
-    "scanned_at": "2026-07-14T10:47:58.628977+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531806+00:00",
     "status": "new"
   },
   {
@@ -5220,7 +5217,7 @@
     "comments": 8,
     "created_at": "2026-06-29T12:07:57Z",
     "updated_at": "2026-07-08T18:28:42Z",
-    "scanned_at": "2026-07-14T10:47:58.629035+00:00",
+    "scanned_at": "2026-07-14T12:06:34.531863+00:00",
     "status": "new"
   },
   {
@@ -5241,7 +5238,7 @@
     "comments": 1,
     "created_at": "2026-06-29T11:54:21Z",
     "updated_at": "2026-07-03T22:23:19Z",
-    "scanned_at": "2026-07-14T10:47:58.629234+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532050+00:00",
     "status": "new"
   },
   {
@@ -5261,7 +5258,7 @@
     "comments": 4,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-07-09T20:17:23Z",
-    "scanned_at": "2026-07-14T10:47:58.629293+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532111+00:00",
     "status": "new"
   },
   {
@@ -5281,7 +5278,7 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-07-14T10:47:58.629360+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532178+00:00",
     "status": "new"
   },
   {
@@ -5299,7 +5296,7 @@
     "comments": 4,
     "created_at": "2026-06-29T03:15:04Z",
     "updated_at": "2026-07-12T16:28:50Z",
-    "scanned_at": "2026-07-14T10:47:58.629396+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532216+00:00",
     "status": "new"
   },
   {
@@ -5319,7 +5316,7 @@
     "comments": 1,
     "created_at": "2026-06-29T01:58:34Z",
     "updated_at": "2026-06-29T09:47:11Z",
-    "scanned_at": "2026-07-14T10:48:04.513100+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413918+00:00",
     "status": "new"
   },
   {
@@ -5339,7 +5336,7 @@
     "comments": 1,
     "created_at": "2026-06-29T00:17:26Z",
     "updated_at": "2026-06-29T08:02:48Z",
-    "scanned_at": "2026-07-14T10:48:04.513117+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413935+00:00",
     "status": "new"
   },
   {
@@ -5359,7 +5356,7 @@
     "comments": 1,
     "created_at": "2026-06-28T23:47:52Z",
     "updated_at": "2026-06-29T08:02:51Z",
-    "scanned_at": "2026-07-14T10:48:04.513133+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413952+00:00",
     "status": "new"
   },
   {
@@ -5379,7 +5376,7 @@
     "comments": 1,
     "created_at": "2026-06-27T08:48:02Z",
     "updated_at": "2026-06-28T22:19:07Z",
-    "scanned_at": "2026-07-14T10:48:04.513156+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413974+00:00",
     "status": "new"
   },
   {
@@ -5399,7 +5396,7 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-07-14T10:48:04.513172+00:00",
+    "scanned_at": "2026-07-14T12:06:40.413991+00:00",
     "status": "new"
   },
   {
@@ -5421,7 +5418,7 @@
     "comments": 12,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-07-05T21:27:50Z",
-    "scanned_at": "2026-07-14T10:47:58.629543+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532365+00:00",
     "status": "new"
   },
   {
@@ -5443,7 +5440,7 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-27T08:35:23Z",
-    "scanned_at": "2026-07-14T10:47:58.629578+00:00",
+    "scanned_at": "2026-07-14T12:06:34.532400+00:00",
     "status": "new"
   },
   {
@@ -5463,7 +5460,7 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-07-14T10:48:04.513207+00:00",
+    "scanned_at": "2026-07-14T12:06:40.414008+00:00",
     "status": "new"
   }
 ]
