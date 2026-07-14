@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-14T18:36:57.951445+00:00",
+  "updated": "2026-07-14T20:06:23.928896+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-07-14T18:36:50.735188+00:00",
+    "checked_at": "2026-07-14T20:06:17.419362+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
     "total_prs": 6,
-    "open_prs": 6,
+    "open_prs": 5,
     "merged_prs": 0,
-    "closed_not_merged": 0,
+    "closed_not_merged": 1,
     "total_claimed_usd": 902,
     "total_earned_usd": 0,
     "pending_usd": 902
@@ -24,13 +24,13 @@
       "bounty": 100,
       "issue": 639,
       "title": "Memanto vs Letta Benchmark",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "merged_at": null,
-      "closed_at": null,
-      "mergeable": "unknown",
-      "reviews": 8,
-      "checked_at": "2026-07-14T18:36:51.472917+00:00"
+      "closed_at": "2026-07-14T18:58:37Z",
+      "mergeable": "blocked",
+      "reviews": 9,
+      "checked_at": "2026-07-14T20:06:18.143620+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -44,7 +44,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-07-14T18:36:52.670077+00:00"
+      "checked_at": "2026-07-14T20:06:19.261196+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -58,7 +58,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-07-14T18:36:53.970103+00:00"
+      "checked_at": "2026-07-14T20:06:20.292104+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -72,7 +72,7 @@
       "closed_at": null,
       "mergeable": "dirty",
       "reviews": 0,
-      "checked_at": "2026-07-14T18:36:55.075303+00:00"
+      "checked_at": "2026-07-14T20:06:21.271773+00:00"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -86,7 +86,7 @@
       "closed_at": null,
       "mergeable": "dirty",
       "reviews": 6,
-      "checked_at": "2026-07-14T18:36:56.207107+00:00"
+      "checked_at": "2026-07-14T20:06:22.298444+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -100,7 +100,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-07-14T18:36:57.450502+00:00"
+      "checked_at": "2026-07-14T20:06:23.427841+00:00"
     }
   ],
   "history": [
