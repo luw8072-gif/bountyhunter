@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000094",
+    "id": "BH-000102",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [tenstorrent/tt-metal] [Bounty $1",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/506",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,11 +15,11 @@
     "comments": 4,
     "created_at": "2026-07-13T13:08:19Z",
     "updated_at": "2026-07-13T13:11:19Z",
-    "scanned_at": "2026-07-15T03:43:43.085255+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871110+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000103",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [tenstorrent/tt-metal] [Bounty $1",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/505",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -34,11 +34,11 @@
     "comments": 4,
     "created_at": "2026-07-13T13:08:19Z",
     "updated_at": "2026-07-13T13:11:00Z",
-    "scanned_at": "2026-07-15T03:43:43.085280+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871133+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000166",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -54,30 +54,53 @@
     "comments": 33,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-13T23:20:08Z",
-    "scanned_at": "2026-07-15T03:43:47.362866+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857314+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
-    "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [claude-builders-bounty/claude-bu",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/497",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 497,
+    "id": "BH-000002",
+    "title": "[BUG] SSTI in Email Template Engine → Sandbox Escape $200",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1184",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1184,
     "labels": [
+      "bug",
       "bounty",
-      "real"
+      "security",
+      "expert"
     ],
     "language": "unknown",
     "amount_usd": 200,
     "state": "open",
     "comments": 3,
-    "created_at": "2026-07-13T10:41:52Z",
-    "updated_at": "2026-07-13T10:44:53Z",
-    "scanned_at": "2026-07-15T03:43:43.086287+00:00",
+    "created_at": "2026-07-15T04:54:02Z",
+    "updated_at": "2026-07-15T04:56:15Z",
+    "scanned_at": "2026-07-15T06:06:58.231635+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000001",
+    "title": "[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1185",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1185,
+    "labels": [
+      "bug",
+      "bounty",
+      "hard",
+      "security"
+    ],
+    "language": "unknown",
+    "amount_usd": 150,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-15T04:54:03Z",
+    "updated_at": "2026-07-15T04:55:56Z",
+    "scanned_at": "2026-07-15T06:06:58.231570+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000013",
     "title": "[BUG] Race Condition in /tmp File Handling (TOCTOU) $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1177",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -94,11 +117,53 @@
     "comments": 4,
     "created_at": "2026-07-14T11:26:42Z",
     "updated_at": "2026-07-14T23:32:23Z",
-    "scanned_at": "2026-07-15T03:42:31.476895+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232601+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000003",
+    "title": "[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1183",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1183,
+    "labels": [
+      "bug",
+      "bounty",
+      "medium",
+      "security"
+    ],
+    "language": "unknown",
+    "amount_usd": 120,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-15T04:54:01Z",
+    "updated_at": "2026-07-15T04:56:33Z",
+    "scanned_at": "2026-07-15T06:06:58.231662+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "[BUG] Host Header Injection → Password Reset Poisoning $120",
+    "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1182",
+    "repo": "zhangjiayang6835-cyber/ai-research",
+    "number": 1182,
+    "labels": [
+      "bug",
+      "bounty",
+      "easy",
+      "security"
+    ],
+    "language": "unknown",
+    "amount_usd": 120,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-07-15T04:53:59Z",
+    "updated_at": "2026-07-15T04:56:51Z",
+    "scanned_at": "2026-07-15T06:06:58.231684+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000014",
     "title": "[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1176",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -112,14 +177,14 @@
     "language": "unknown",
     "amount_usd": 120,
     "state": "open",
-    "comments": 7,
+    "comments": 9,
     "created_at": "2026-07-14T11:26:41Z",
-    "updated_at": "2026-07-15T02:44:38Z",
-    "scanned_at": "2026-07-15T03:42:31.476933+00:00",
+    "updated_at": "2026-07-15T03:58:23Z",
+    "scanned_at": "2026-07-15T06:06:58.232635+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000105",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/502",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -134,11 +199,11 @@
     "comments": 4,
     "created_at": "2026-07-13T13:08:17Z",
     "updated_at": "2026-07-13T13:11:58Z",
-    "scanned_at": "2026-07-15T03:43:43.085452+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871306+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000106",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/503",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -153,11 +218,11 @@
     "comments": 4,
     "created_at": "2026-07-13T13:08:17Z",
     "updated_at": "2026-07-13T13:12:17Z",
-    "scanned_at": "2026-07-15T03:43:43.085565+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871423+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000110",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [1 USDC autonomous bounty] Seed a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/501",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -172,11 +237,11 @@
     "comments": 4,
     "created_at": "2026-07-13T10:41:54Z",
     "updated_at": "2026-07-13T12:34:56Z",
-    "scanned_at": "2026-07-15T03:43:43.085849+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871702+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000111",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [1 USDC autonomous bounty] Seed a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/500",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -191,49 +256,11 @@
     "comments": 3,
     "created_at": "2026-07-13T10:41:53Z",
     "updated_at": "2026-07-13T10:44:34Z",
-    "scanned_at": "2026-07-15T03:43:43.085976+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871824+00:00",
     "status": "new"
   },
   {
     "id": "BH-000104",
-    "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [1 USDC autonomous bounty] Seed a",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/499",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 499,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 90,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-07-13T10:41:53Z",
-    "updated_at": "2026-07-13T10:44:15Z",
-    "scanned_at": "2026-07-15T03:43:43.086100+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000105",
-    "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [1 USDC autonomous bounty] Seed a",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/498",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 498,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 90,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-07-13T10:41:52Z",
-    "updated_at": "2026-07-13T10:45:13Z",
-    "scanned_at": "2026-07-15T03:43:43.086236+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000096",
     "title": "[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [claude-builders-bounty/claude-bu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/504",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -248,11 +275,11 @@
     "comments": 4,
     "created_at": "2026-07-13T13:08:18Z",
     "updated_at": "2026-07-13T13:11:39Z",
-    "scanned_at": "2026-07-15T03:43:43.085337+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871185+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000171",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -269,11 +296,11 @@
     "comments": 23,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-07-05T16:02:35Z",
-    "scanned_at": "2026-07-15T03:43:47.363033+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857453+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000175",
     "title": "[$40 BOUNTY] [Python] Validate Terraform import resource names",
     "url": "https://github.com/123a-bcd/zeroeye/issues/1",
     "repo": "123a-bcd/zeroeye",
@@ -290,11 +317,11 @@
     "comments": 16,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-07-05T04:40:05Z",
-    "scanned_at": "2026-07-15T03:43:47.363064+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857483+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000176",
     "title": "[$40 BOUNTY] [TypeScript] Harden API response error handling",
     "url": "https://github.com/2lll5/TentOfTrials/issues/1",
     "repo": "2lll5/TentOfTrials",
@@ -311,11 +338,11 @@
     "comments": 16,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-07-09T08:17:10Z",
-    "scanned_at": "2026-07-15T03:43:47.363072+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857490+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000178",
     "title": "[$40 BOUNTY] [Python] Add benchmark rate-limit bypass flag",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/1",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -332,11 +359,11 @@
     "comments": 12,
     "created_at": "2026-06-20T14:55:13Z",
     "updated_at": "2026-06-27T08:36:02Z",
-    "scanned_at": "2026-07-15T03:43:47.363088+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000173",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -353,11 +380,11 @@
     "comments": 18,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-06-27T19:24:22Z",
-    "scanned_at": "2026-07-15T03:43:47.363049+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857468+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000172",
+    "id": "BH-000177",
     "title": "[$25 BOUNTY] [Rust] Add support for compressed serialization in protocol serializer",
     "url": "https://github.com/0106hyh/kickama-manifest-wizard/issues/1",
     "repo": "0106hyh/kickama-manifest-wizard",
@@ -374,11 +401,11 @@
     "comments": 12,
     "created_at": "2026-06-20T15:18:44Z",
     "updated_at": "2026-06-28T23:19:40Z",
-    "scanned_at": "2026-07-15T03:43:47.363080+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857499+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000179",
     "title": "[$25 BOUNTY] [Go] Implement gzip response compression in gateway middleware",
     "url": "https://github.com/0106hyh/hammer-and-nail/issues/1",
     "repo": "0106hyh/hammer-and-nail",
@@ -395,11 +422,11 @@
     "comments": 9,
     "created_at": "2026-06-20T14:47:58Z",
     "updated_at": "2026-06-27T08:36:05Z",
-    "scanned_at": "2026-07-15T03:43:47.363096+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000172",
     "title": "[$20 BOUNTY] [Go] Make analytics Collector Start idempotent",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/2",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -416,11 +443,11 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-07-15T03:43:47.363041+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857461+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000174",
     "title": "[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -437,11 +464,11 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-07-15T03:43:47.363057+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857476+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000138",
     "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
     "repo": "Nexussyn/ai-growth-engine",
@@ -458,11 +485,11 @@
     "comments": 18,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-07-12T05:24:25Z",
-    "scanned_at": "2026-07-15T03:43:47.361582+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856301+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000135",
     "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
     "repo": "Nexussyn/ai-growth-engine",
@@ -479,11 +506,11 @@
     "comments": 28,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-07-11T14:39:13Z",
-    "scanned_at": "2026-07-15T03:43:47.361548+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856271+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000136",
     "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
     "repo": "Nexussyn/ai-growth-engine",
@@ -500,11 +527,11 @@
     "comments": 24,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-07-11T14:38:31Z",
-    "scanned_at": "2026-07-15T03:43:47.361558+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856281+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000137",
     "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
     "repo": "Nexussyn/ai-growth-engine",
@@ -521,11 +548,11 @@
     "comments": 22,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-07-11T14:34:15Z",
-    "scanned_at": "2026-07-15T03:43:47.361568+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856290+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000167",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -542,11 +569,11 @@
     "comments": 26,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-12T10:43:58Z",
-    "scanned_at": "2026-07-15T03:43:47.362877+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857325+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000168",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -563,11 +590,11 @@
     "comments": 38,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-14T17:25:27Z",
-    "scanned_at": "2026-07-15T03:43:47.362887+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857334+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000134",
     "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
     "repo": "Nexussyn/ai-growth-engine",
@@ -583,11 +610,11 @@
     "comments": 40,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-07-11T15:18:02Z",
-    "scanned_at": "2026-07-15T03:43:47.361534+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856261+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000139",
     "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
     "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
     "repo": "Nexussyn/ai-growth-platform",
@@ -602,11 +629,111 @@
     "comments": 12,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-07-11T01:17:38Z",
-    "scanned_at": "2026-07-15T03:43:47.361593+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856309+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000005",
+    "title": "[0.10 USDC autonomous bounty] Complete an agent-skill claim-to-payout canary",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/277",
+    "repo": "NSPG13/agent-bounties",
+    "number": 277,
+    "labels": [
+      "bounty",
+      "ai-agent-welcome",
+      "good-first-agent-bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-07-15T04:52:38Z",
+    "updated_at": "2026-07-15T04:58:24Z",
+    "scanned_at": "2026-07-15T06:06:58.231779+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "[0.10 USDC autonomous bounty] Complete an MCP-discovered claim-to-payout canary",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/276",
+    "repo": "NSPG13/agent-bounties",
+    "number": 276,
+    "labels": [
+      "bounty",
+      "ai-agent-welcome",
+      "good-first-agent-bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-07-15T04:52:36Z",
+    "updated_at": "2026-07-15T05:00:33Z",
+    "scanned_at": "2026-07-15T06:06:58.231866+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[0.10 USDC autonomous bounty] Complete a wallet claim-to-payout canary",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/275",
+    "repo": "NSPG13/agent-bounties",
+    "number": 275,
+    "labels": [
+      "bounty",
+      "ai-agent-welcome",
+      "good-first-agent-bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-07-15T04:52:35Z",
+    "updated_at": "2026-07-15T05:00:28Z",
+    "scanned_at": "2026-07-15T06:06:58.231953+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "[0.10 USDC autonomous meta-bounty] Create a paid coding-bounty loop",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/274",
+    "repo": "NSPG13/agent-bounties",
+    "number": 274,
+    "labels": [
+      "bounty",
+      "ai-agent-welcome",
+      "distribution"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-07-15T04:52:33Z",
+    "updated_at": "2026-07-15T04:54:15Z",
+    "scanned_at": "2026-07-15T06:06:58.232047+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
+    "title": "[0.10 USDC autonomous meta-bounty] Post a funded agent-tooling bounty completed by another wallet",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/273",
+    "repo": "NSPG13/agent-bounties",
+    "number": 273,
+    "labels": [
+      "bounty",
+      "ai-agent-welcome",
+      "distribution"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 8,
+    "created_at": "2026-07-15T04:52:32Z",
+    "updated_at": "2026-07-15T05:04:40Z",
+    "scanned_at": "2026-07-15T06:06:58.232144+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000010",
     "title": "🎯 Fix: Command aliases bypass ValidArgsFunction during shell completion",
     "url": "https://github.com/rethavonRueden3/cobra/issues/1",
     "repo": "rethavonRueden3/cobra",
@@ -622,11 +749,11 @@
     "comments": 9,
     "created_at": "2026-07-14T16:19:23Z",
     "updated_at": "2026-07-14T21:48:45Z",
-    "scanned_at": "2026-07-15T03:42:31.476595+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000011",
     "title": "🎯 Preserve Secondary Rate-Limit Information on HTTP 403 Responses",
     "url": "https://github.com/rethavonRueden3/go-github/issues/1",
     "repo": "rethavonRueden3/go-github",
@@ -642,11 +769,11 @@
     "comments": 8,
     "created_at": "2026-07-14T16:16:40Z",
     "updated_at": "2026-07-14T19:41:55Z",
-    "scanned_at": "2026-07-15T03:42:31.476832+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232559+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000012",
     "title": "Test Bounty Issue",
     "url": "https://github.com/sakshisaxena0308-droid/website-uptime-monitor/issues/1",
     "repo": "sakshisaxena0308-droid/website-uptime-monitor",
@@ -660,11 +787,11 @@
     "comments": 3,
     "created_at": "2026-07-14T13:07:07Z",
     "updated_at": "2026-07-14T13:07:57Z",
-    "scanned_at": "2026-07-15T03:42:31.476847+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232570+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000015",
     "title": "[Bounty][$0] Productionize bot@misakanet.org email intake",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/470",
     "repo": "Ikalus1988/MisakaNet",
@@ -682,11 +809,11 @@
     "comments": 4,
     "created_at": "2026-07-14T10:30:58Z",
     "updated_at": "2026-07-15T02:52:07Z",
-    "scanned_at": "2026-07-15T03:42:31.476958+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232662+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000016",
     "title": "[25 MRG] CLI: call command expand remaining tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/10",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -700,14 +827,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "created_at": "2026-07-14T04:13:37Z",
-    "updated_at": "2026-07-14T07:29:19Z",
-    "scanned_at": "2026-07-15T03:42:31.476985+00:00",
+    "updated_at": "2026-07-15T05:22:08Z",
+    "scanned_at": "2026-07-15T06:06:58.232687+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000017",
     "title": "[50 MRG] Docs: Claude Desktop + Cursor config screenshots",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/9",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -724,11 +851,11 @@
     "comments": 5,
     "created_at": "2026-07-14T04:13:36Z",
     "updated_at": "2026-07-14T14:03:52Z",
-    "scanned_at": "2026-07-15T03:42:31.477009+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232712+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000018",
     "title": "[200 MRG] Feature: plugin bridge socket protocol design + stub",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/8",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -744,11 +871,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:34Z",
     "updated_at": "2026-07-14T04:13:58Z",
-    "scanned_at": "2026-07-15T03:42:31.477033+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232737+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000019",
     "title": "[100 MRG] Feature: selection rectangular + fill/stroke",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/7",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -764,11 +891,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:32Z",
     "updated_at": "2026-07-14T04:14:17Z",
-    "scanned_at": "2026-07-15T03:42:31.477056+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232762+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000020",
     "title": "[50 MRG] Feature: gimp_histogram / gimp_exif_stub tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/6",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -784,11 +911,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:30Z",
     "updated_at": "2026-07-14T04:14:35Z",
-    "scanned_at": "2026-07-15T03:42:31.477079+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232787+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000021",
     "title": "[100 MRG] Feature: filters pack (sharpen, emboss, brightness/contrast)",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/4",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -804,11 +931,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:26Z",
     "updated_at": "2026-07-14T04:15:12Z",
-    "scanned_at": "2026-07-15T03:42:31.477102+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232811+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000022",
     "title": "[50 MRG] Feature: layers list / new layer / flatten tools",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/3",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -824,11 +951,11 @@
     "comments": 3,
     "created_at": "2026-07-14T04:13:24Z",
     "updated_at": "2026-07-14T04:17:35Z",
-    "scanned_at": "2026-07-15T03:42:31.477123+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232835+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000023",
     "title": "[50 MRG] Feature: GIMP 3 python-fu-eval batch path (no hang)",
     "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/2",
     "repo": "mergeos-bounties/gimp-mcp",
@@ -844,11 +971,11 @@
     "comments": 4,
     "created_at": "2026-07-14T04:13:23Z",
     "updated_at": "2026-07-14T06:20:00Z",
-    "scanned_at": "2026-07-15T03:42:31.477147+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232860+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000024",
     "title": "[50 MRG] Feature: gloss coverage heatmap CLI",
     "url": "https://github.com/mergeos-bounties/Loru/issues/223",
     "repo": "mergeos-bounties/Loru",
@@ -864,11 +991,11 @@
     "comments": 5,
     "created_at": "2026-07-14T03:13:18Z",
     "updated_at": "2026-07-14T20:05:52Z",
-    "scanned_at": "2026-07-15T03:42:31.477184+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000025",
     "title": "[200 MRG] Feature: package manifest format proposal + loader stub",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/36",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -884,11 +1011,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:33Z",
     "updated_at": "2026-07-14T03:18:10Z",
-    "scanned_at": "2026-07-15T03:42:31.477231+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232935+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000026",
     "title": "[100 MRG] Feature: array map/filter samples + tests",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/35",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -904,11 +1031,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:31Z",
     "updated_at": "2026-07-14T03:19:57Z",
-    "scanned_at": "2026-07-15T03:42:31.477266+00:00",
+    "scanned_at": "2026-07-15T06:06:58.232971+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000027",
     "title": "[50 MRG] Feature: VM stack dump debug flag",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/34",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -924,11 +1051,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:29Z",
     "updated_at": "2026-07-14T03:20:16Z",
-    "scanned_at": "2026-07-15T03:42:31.477299+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233005+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000028",
     "title": "[100 MRG] Feature: stdlib string helpers",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/33",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -944,11 +1071,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:27Z",
     "updated_at": "2026-07-14T03:20:36Z",
-    "scanned_at": "2026-07-15T03:42:31.477333+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233039+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000029",
     "title": "[50 MRG] Feature: compiler better error spans",
     "url": "https://github.com/ThanhTrucSolutions/OriLang/issues/32",
     "repo": "ThanhTrucSolutions/OriLang",
@@ -964,11 +1091,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:12:26Z",
     "updated_at": "2026-07-14T03:20:55Z",
-    "scanned_at": "2026-07-15T03:42:31.477367+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233074+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000030",
     "title": "[200 MRG] Feature: multi-workspace recent projects launcher",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/77",
     "repo": "mergeos-bounties/Gomi",
@@ -984,11 +1111,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:12:09Z",
     "updated_at": "2026-07-14T03:12:09Z",
-    "scanned_at": "2026-07-15T03:42:31.477401+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233109+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000031",
     "title": "[50 MRG] Feature: keyboard shortcuts help overlay",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/76",
     "repo": "mergeos-bounties/Gomi",
@@ -1004,11 +1131,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:12:07Z",
     "updated_at": "2026-07-14T08:11:02Z",
-    "scanned_at": "2026-07-15T03:42:31.477434+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233145+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000032",
     "title": "[100 MRG] Feature: shared project memory privacy redactions",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/75",
     "repo": "mergeos-bounties/Gomi",
@@ -1024,11 +1151,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:12:05Z",
     "updated_at": "2026-07-14T04:13:28Z",
-    "scanned_at": "2026-07-15T03:42:31.477468+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233181+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000033",
     "title": "[200 MRG] Feature: multi-page site generator (home+about+contact)",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/80",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1044,11 +1171,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:43Z",
     "updated_at": "2026-07-14T17:28:05Z",
-    "scanned_at": "2026-07-15T03:42:31.477503+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233219+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000034",
     "title": "[50 MRG] Feature: validate --strict schema mode",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/79",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1064,11 +1191,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:41Z",
     "updated_at": "2026-07-14T11:31:39Z",
-    "scanned_at": "2026-07-15T03:42:31.477539+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233255+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000035",
     "title": "[100 MRG] Feature: responsive preview HTML sidecar",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/78",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1084,11 +1211,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:39Z",
     "updated_at": "2026-07-14T08:13:42Z",
-    "scanned_at": "2026-07-15T03:42:31.477573+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233294+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000036",
     "title": "[100 MRG] Feature: image palette → theme colors pipeline polish",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/76",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1104,11 +1231,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:11:35Z",
     "updated_at": "2026-07-14T03:11:35Z",
-    "scanned_at": "2026-07-15T03:42:31.477608+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000037",
     "title": "[50 MRG] Feature: CSS variable theme tokens export",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/75",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1124,11 +1251,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:33Z",
     "updated_at": "2026-07-14T11:31:38Z",
-    "scanned_at": "2026-07-15T03:42:31.477641+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233368+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000038",
     "title": "[50 MRG] Feature: template list with tags filter",
     "url": "https://github.com/mergeos-bounties/BloggerEasy/issues/74",
     "repo": "mergeos-bounties/BloggerEasy",
@@ -1144,11 +1271,11 @@
     "comments": 2,
     "created_at": "2026-07-14T03:11:32Z",
     "updated_at": "2026-07-14T11:31:38Z",
-    "scanned_at": "2026-07-15T03:42:31.477675+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233403+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000039",
     "title": "[50 MRG] Feature: batch evaluate --format csv",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/32",
     "repo": "mergeos-bounties/NokaMan",
@@ -1164,11 +1291,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:15Z",
     "updated_at": "2026-07-14T07:48:23Z",
-    "scanned_at": "2026-07-15T03:42:31.477707+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233437+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000040",
     "title": "[100 MRG] Feature: speaking skill stub samples",
     "url": "https://github.com/mergeos-bounties/NokaMan/issues/31",
     "repo": "mergeos-bounties/NokaMan",
@@ -1184,32 +1311,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:11:14Z",
     "updated_at": "2026-07-14T04:12:55Z",
-    "scanned_at": "2026-07-15T03:42:31.477742+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233473+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
-    "title": "[25 MRG] Samples: 5 EN writing prompts A2–C1",
-    "url": "https://github.com/mergeos-bounties/NokaMan/issues/26",
-    "repo": "mergeos-bounties/NokaMan",
-    "number": 26,
-    "labels": [
-      "good first issue",
-      "bounty",
-      "bounty: feature",
-      "reward:25-mrg"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-07-14T03:11:05Z",
-    "updated_at": "2026-07-14T03:57:01Z",
-    "scanned_at": "2026-07-15T03:42:31.477776+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000033",
+    "id": "BH-000041",
     "title": "[200 MRG] Feature: optional MediaPipe subject score path",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/34",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1225,11 +1331,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:52Z",
     "updated_at": "2026-07-14T03:10:52Z",
-    "scanned_at": "2026-07-15T03:42:31.477810+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233508+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000042",
     "title": "[100 MRG] Web: pose detail panel with tips",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/32",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1245,11 +1351,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:49Z",
     "updated_at": "2026-07-14T03:10:49Z",
-    "scanned_at": "2026-07-15T03:42:31.477844+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233543+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000043",
     "title": "[100 MRG] Feature: batch SVG render for pose pack",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/30",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1265,11 +1371,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:10:45Z",
     "updated_at": "2026-07-14T04:13:06Z",
-    "scanned_at": "2026-07-15T03:42:31.477882+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233578+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000044",
     "title": "[25 MRG] Data: 5 new standing poses with tips",
     "url": "https://github.com/mergeos-bounties/PoseGuide/issues/27",
     "repo": "mergeos-bounties/PoseGuide",
@@ -1283,14 +1389,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-07-14T03:10:38Z",
-    "updated_at": "2026-07-14T03:56:49Z",
-    "scanned_at": "2026-07-15T03:42:31.477917+00:00",
+    "updated_at": "2026-07-15T05:22:04Z",
+    "scanned_at": "2026-07-15T06:06:58.233622+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000045",
     "title": "[200 MRG] Feature: multi-CV profiles with selector",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/42",
     "repo": "mergeos-bounties/NeraJob",
@@ -1306,11 +1412,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:26Z",
     "updated_at": "2026-07-14T03:10:57Z",
-    "scanned_at": "2026-07-15T03:42:31.477950+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233659+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000046",
     "title": "[50 MRG] Feature: remote-only default profile preset",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/41",
     "repo": "mergeos-bounties/NeraJob",
@@ -1326,11 +1432,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:24Z",
     "updated_at": "2026-07-14T03:11:15Z",
-    "scanned_at": "2026-07-15T03:42:31.477984+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233695+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000047",
     "title": "[100 MRG] Feature: application tracker status states",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/40",
     "repo": "mergeos-bounties/NeraJob",
@@ -1346,11 +1452,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:22Z",
     "updated_at": "2026-07-14T03:11:33Z",
-    "scanned_at": "2026-07-15T03:42:31.478018+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233731+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000048",
     "title": "[100 MRG] Scraper: one official public API source + tests",
     "url": "https://github.com/mergeos-bounties/NeraJob/issues/38",
     "repo": "mergeos-bounties/NeraJob",
@@ -1366,11 +1472,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:10:18Z",
     "updated_at": "2026-07-14T03:12:10Z",
-    "scanned_at": "2026-07-15T03:42:31.478054+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233768+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000049",
     "title": "[200 MRG] Mobile: device control polish + offline cache",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/65",
     "repo": "mergeos-bounties/HIRI",
@@ -1386,11 +1492,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:10:00Z",
     "updated_at": "2026-07-14T03:10:00Z",
-    "scanned_at": "2026-07-15T03:42:31.478088+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233806+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000050",
     "title": "[100 MRG] Feature: HA entity mapping export",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/63",
     "repo": "mergeos-bounties/HIRI",
@@ -1406,11 +1512,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:56Z",
     "updated_at": "2026-07-14T03:09:56Z",
-    "scanned_at": "2026-07-15T03:42:31.478121+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233841+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000051",
     "title": "[100 MRG] Feature: MQTT adapter reconnect backoff",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/61",
     "repo": "mergeos-bounties/HIRI",
@@ -1426,11 +1532,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:52Z",
     "updated_at": "2026-07-14T03:09:52Z",
-    "scanned_at": "2026-07-15T03:42:31.478154+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000052",
     "title": "[50 MRG] Web admin: area floorplan stub",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/60",
     "repo": "mergeos-bounties/HIRI",
@@ -1446,11 +1552,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:50Z",
     "updated_at": "2026-07-14T03:09:50Z",
-    "scanned_at": "2026-07-15T03:42:31.478187+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233910+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000053",
     "title": "[50 MRG] Feature: device search by manufacturer",
     "url": "https://github.com/mergeos-bounties/HIRI/issues/59",
     "repo": "mergeos-bounties/HIRI",
@@ -1466,11 +1572,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:48Z",
     "updated_at": "2026-07-14T03:09:48Z",
-    "scanned_at": "2026-07-15T03:42:31.478233+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233944+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000054",
     "title": "[200 MRG] Feature: collaborative workspace presence (optional)",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/30",
     "repo": "mergeos-bounties/Lappa",
@@ -1486,11 +1592,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:34Z",
     "updated_at": "2026-07-14T03:09:34Z",
-    "scanned_at": "2026-07-15T03:42:31.478267+00:00",
+    "scanned_at": "2026-07-15T06:06:58.233980+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000055",
     "title": "[100 MRG] Feature: ros2 launch log streaming to IDE panel",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/28",
     "repo": "mergeos-bounties/Lappa",
@@ -1506,11 +1612,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:30Z",
     "updated_at": "2026-07-14T03:09:30Z",
-    "scanned_at": "2026-07-15T03:42:31.478301+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234017+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000056",
     "title": "[100 MRG] Feature: multi-robot session switcher",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/26",
     "repo": "mergeos-bounties/Lappa",
@@ -1526,11 +1632,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:26Z",
     "updated_at": "2026-07-14T03:09:26Z",
-    "scanned_at": "2026-07-15T03:42:31.478334+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234053+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000057",
     "title": "[50 MRG] Feature: sim obstacle layer toggle",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/25",
     "repo": "mergeos-bounties/Lappa",
@@ -1546,11 +1652,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:24Z",
     "updated_at": "2026-07-14T03:09:24Z",
-    "scanned_at": "2026-07-15T03:42:31.478367+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234088+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000058",
     "title": "[50 MRG] Feature: demo package template generator",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/24",
     "repo": "mergeos-bounties/Lappa",
@@ -1566,11 +1672,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:22Z",
     "updated_at": "2026-07-14T03:09:22Z",
-    "scanned_at": "2026-07-15T03:42:31.478401+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234125+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000059",
     "title": "[25 MRG] Docs: IDE open package → Docker colcon flow",
     "url": "https://github.com/mergeos-bounties/Lappa/issues/23",
     "repo": "mergeos-bounties/Lappa",
@@ -1588,11 +1694,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:21Z",
     "updated_at": "2026-07-14T03:09:21Z",
-    "scanned_at": "2026-07-15T03:42:31.478435+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234163+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000060",
     "title": "[25 MRG] Docs: library consumer install from GitHub tarball",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/23",
     "repo": "mergeos-bounties/BeeAR",
@@ -1607,14 +1713,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:09:02Z",
-    "updated_at": "2026-07-14T03:09:02Z",
-    "scanned_at": "2026-07-15T03:42:31.478470+00:00",
+    "updated_at": "2026-07-15T05:22:22Z",
+    "scanned_at": "2026-07-15T06:06:58.234200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000061",
     "title": "[100 MRG] Feature: fit score explanation panel",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/22",
     "repo": "mergeos-bounties/BeeAR",
@@ -1630,11 +1736,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:09:00Z",
     "updated_at": "2026-07-14T03:09:00Z",
-    "scanned_at": "2026-07-15T03:42:31.478504+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234236+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000062",
     "title": "[50 MRG] Web: compare tray multi-select UX polish",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/21",
     "repo": "mergeos-bounties/BeeAR",
@@ -1650,11 +1756,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:58Z",
     "updated_at": "2026-07-14T03:08:58Z",
-    "scanned_at": "2026-07-15T03:42:31.478537+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234274+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000063",
     "title": "[50 MRG] Feature: price histogram CLI chart",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/20",
     "repo": "mergeos-bounties/BeeAR",
@@ -1670,11 +1776,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:56Z",
     "updated_at": "2026-07-14T03:08:56Z",
-    "scanned_at": "2026-07-15T03:42:31.478571+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234308+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000064",
     "title": "[25 MRG] Catalog: 4 new seasonal frame SKUs",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/19",
     "repo": "mergeos-bounties/BeeAR",
@@ -1688,14 +1794,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:08:54Z",
-    "updated_at": "2026-07-14T03:08:54Z",
-    "scanned_at": "2026-07-15T03:42:31.478605+00:00",
+    "updated_at": "2026-07-15T05:22:18Z",
+    "scanned_at": "2026-07-15T06:06:58.234343+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000065",
     "title": "[200 MRG] Lappa HTTP bridge tools (sim pose/cmd_vel)",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/33",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1711,11 +1817,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:40Z",
     "updated_at": "2026-07-14T03:08:40Z",
-    "scanned_at": "2026-07-15T03:42:31.478641+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234382+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000066",
     "title": "[50 MRG] Feature: publish allowlist management CLI",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/32",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1731,11 +1837,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:39Z",
     "updated_at": "2026-07-14T03:08:39Z",
-    "scanned_at": "2026-07-15T03:42:31.478674+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234418+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000067",
     "title": "[100 MRG] Feature: TF tree summary tool",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/31",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1751,11 +1857,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:36Z",
     "updated_at": "2026-07-14T03:08:36Z",
-    "scanned_at": "2026-07-15T03:42:31.478706+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234452+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000068",
     "title": "[25 MRG] CLI: tools list pretty table",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/30",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1772,11 +1878,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:34Z",
     "updated_at": "2026-07-14T03:08:34Z",
-    "scanned_at": "2026-07-15T03:42:31.478737+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234486+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000069",
     "title": "[100 MRG] Feature: action goal/status tools (mock)",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/29",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1792,11 +1898,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:32Z",
     "updated_at": "2026-07-14T03:08:32Z",
-    "scanned_at": "2026-07-15T03:42:31.478772+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234522+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000070",
     "title": "[50 MRG] Feature: service call schema validation",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/28",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1812,11 +1918,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:30Z",
     "updated_at": "2026-07-14T03:08:30Z",
-    "scanned_at": "2026-07-15T03:42:31.478804+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234559+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000071",
     "title": "[50 MRG] Feature: topic echo tool with mock buffer drain",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/27",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1832,11 +1938,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:28Z",
     "updated_at": "2026-07-14T03:08:28Z",
-    "scanned_at": "2026-07-15T03:42:31.478840+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234615+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000072",
     "title": "[25 MRG] Docs: TrucVPN-free offline agent setup",
     "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/26",
     "repo": "mergeos-bounties/ros2-mcp",
@@ -1854,11 +1960,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:26Z",
     "updated_at": "2026-07-14T03:08:26Z",
-    "scanned_at": "2026-07-15T03:42:31.478875+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234662+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000073",
     "title": "[200 MRG] Live RViz2 remote API bridge design + stub",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/24",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1874,11 +1980,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:14Z",
     "updated_at": "2026-07-14T03:08:14Z",
-    "scanned_at": "2026-07-15T03:42:31.478911+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234699+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000074",
     "title": "[100 MRG] Feature: topic visibility toggles per display",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/23",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1894,11 +2000,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:12Z",
     "updated_at": "2026-07-14T03:08:12Z",
-    "scanned_at": "2026-07-15T03:42:31.478944+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234735+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000075",
     "title": "[25 MRG] CLI: export config JSON snapshot",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/22",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1912,14 +2018,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:08:10Z",
-    "updated_at": "2026-07-14T03:08:10Z",
-    "scanned_at": "2026-07-15T03:42:31.478978+00:00",
+    "updated_at": "2026-07-15T05:22:11Z",
+    "scanned_at": "2026-07-15T06:06:58.234774+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000076",
     "title": "[100 MRG] Feature: view controller presets (orbit/fps)",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/21",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1935,11 +2041,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:07Z",
     "updated_at": "2026-07-14T03:08:07Z",
-    "scanned_at": "2026-07-15T03:42:31.479012+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234810+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000077",
     "title": "[50 MRG] Feature: set fixed frame tool",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/20",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1955,11 +2061,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:05Z",
     "updated_at": "2026-07-14T03:08:05Z",
-    "scanned_at": "2026-07-15T03:42:31.479044+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234847+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000078",
     "title": "[50 MRG] Feature: list/add/remove displays mock tools",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/19",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1975,11 +2081,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:08:04Z",
     "updated_at": "2026-07-14T03:08:04Z",
-    "scanned_at": "2026-07-15T03:42:31.479077+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234884+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000079",
     "title": "[25 MRG] Docs: mock display graph quickstart",
     "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/18",
     "repo": "mergeos-bounties/rviz-mcp",
@@ -1994,14 +2100,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:08:02Z",
-    "updated_at": "2026-07-14T03:08:02Z",
-    "scanned_at": "2026-07-15T03:42:31.479110+00:00",
+    "updated_at": "2026-07-15T05:22:15Z",
+    "scanned_at": "2026-07-15T06:06:58.234921+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000080",
     "title": "[200 MRG] Live MetaTrader5 Python package bridge stub",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/24",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2017,11 +2123,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:50Z",
     "updated_at": "2026-07-14T08:52:54Z",
-    "scanned_at": "2026-07-15T03:42:31.479144+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234958+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000081",
     "title": "[100 MRG] Feature: symbol spec tool (digits, lot step)",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/23",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2037,11 +2143,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:48Z",
     "updated_at": "2026-07-14T03:07:48Z",
-    "scanned_at": "2026-07-15T03:42:31.479176+00:00",
+    "scanned_at": "2026-07-15T06:06:58.234993+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000082",
     "title": "[50 MRG] Feature: account metrics equity curve mock",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/22",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2057,11 +2163,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:46Z",
     "updated_at": "2026-07-14T03:07:46Z",
-    "scanned_at": "2026-07-15T03:42:31.479228+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235028+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000083",
     "title": "[25 MRG] CLI: doctor shows symbols + mode",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/21",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2078,11 +2184,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:44Z",
     "updated_at": "2026-07-14T03:07:44Z",
-    "scanned_at": "2026-07-15T03:42:31.479263+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235062+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000084",
     "title": "[100 MRG] Feature: place market order with SL/TP (mock)",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/20",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2098,11 +2204,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:42Z",
     "updated_at": "2026-07-14T03:07:42Z",
-    "scanned_at": "2026-07-15T03:42:31.479295+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235097+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000085",
     "title": "[50 MRG] Feature: order history tool",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/19",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2118,11 +2224,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:07:40Z",
     "updated_at": "2026-07-14T07:44:58Z",
-    "scanned_at": "2026-07-15T03:42:31.479328+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235133+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000086",
     "title": "[50 MRG] Feature: positions list mock tool",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/18",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2138,11 +2244,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:38Z",
     "updated_at": "2026-07-14T03:07:38Z",
-    "scanned_at": "2026-07-15T03:42:31.479361+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235168+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000087",
     "title": "[25 MRG] Docs: mock vs live MT5 MCP",
     "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/17",
     "repo": "mergeos-bounties/mt5-mcp",
@@ -2160,11 +2266,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:36Z",
     "updated_at": "2026-07-14T03:07:36Z",
-    "scanned_at": "2026-07-15T03:42:31.479396+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235204+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000088",
     "title": "[200 MRG] Live bridge design for MT4 expert/EA socket",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/26",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2180,11 +2286,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:23Z",
     "updated_at": "2026-07-14T03:07:55Z",
-    "scanned_at": "2026-07-15T03:42:31.479430+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235240+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000089",
     "title": "[100 MRG] Feature: multi-symbol watchlist state",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/25",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2200,11 +2306,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:21Z",
     "updated_at": "2026-07-14T03:08:14Z",
-    "scanned_at": "2026-07-15T03:42:31.479463+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235275+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000090",
     "title": "[25 MRG] CLI: doctor + demo end-to-end",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/23",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2221,11 +2327,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:18Z",
     "updated_at": "2026-07-14T03:08:51Z",
-    "scanned_at": "2026-07-15T03:42:31.479496+00:00",
+    "scanned_at": "2026-07-15T06:06:58.235309+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000091",
     "title": "[100 MRG] Feature: place/cancel order tools (mock risk checks)",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/22",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2241,11 +2347,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:07:15Z",
     "updated_at": "2026-07-14T03:09:10Z",
-    "scanned_at": "2026-07-15T03:42:31.479529+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870695+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000092",
     "title": "[25 MRG] Docs: mock trading demo without MT4 install",
     "url": "https://github.com/mergeos-bounties/mt4-mcp/issues/19",
     "repo": "mergeos-bounties/mt4-mcp",
@@ -2263,11 +2369,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:07:10Z",
     "updated_at": "2026-07-14T03:07:10Z",
-    "scanned_at": "2026-07-15T03:42:31.479562+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870753+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000093",
     "title": "[200 MRG] Live bridge: gz transport integration design + stub",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/24",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2283,11 +2389,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:56Z",
     "updated_at": "2026-07-14T03:06:56Z",
-    "scanned_at": "2026-07-15T03:42:31.479599+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000094",
     "title": "[100 MRG] Feature: sensor snapshot tool (lidar/camera mock)",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/23",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2303,11 +2409,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:54Z",
     "updated_at": "2026-07-14T03:06:54Z",
-    "scanned_at": "2026-07-15T03:42:31.479632+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870831+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000095",
     "title": "[50 MRG] Feature: pause / step simulation tools",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/22",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2323,11 +2429,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:52Z",
     "updated_at": "2026-07-14T03:06:52Z",
-    "scanned_at": "2026-07-15T03:42:31.479664+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870866+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000096",
     "title": "[25 MRG] CLI: doctor reports backend mode and tool count",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/21",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2344,11 +2450,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:50Z",
     "updated_at": "2026-07-14T03:06:50Z",
-    "scanned_at": "2026-07-15T03:42:31.479699+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870902+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000097",
     "title": "[100 MRG] Feature: pose get/set tools (mock + live stub)",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/20",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2364,11 +2470,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:48Z",
     "updated_at": "2026-07-14T03:06:48Z",
-    "scanned_at": "2026-07-15T03:42:31.479731+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870939+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000098",
     "title": "[50 MRG] Feature: model_spawn / model_delete mock",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/19",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2384,11 +2490,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:46Z",
     "updated_at": "2026-07-14T03:06:46Z",
-    "scanned_at": "2026-07-15T03:42:31.479763+00:00",
+    "scanned_at": "2026-07-15T06:08:11.870976+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000099",
     "title": "[50 MRG] Feature: MCP tool world_list with mock fixtures",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/18",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2404,11 +2510,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:44Z",
     "updated_at": "2026-07-14T03:06:44Z",
-    "scanned_at": "2026-07-15T03:43:43.085115+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871012+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000100",
     "title": "[25 MRG] Docs: mock vs live mode quickstart",
     "url": "https://github.com/mergeos-bounties/gazebo-mcp/issues/17",
     "repo": "mergeos-bounties/gazebo-mcp",
@@ -2426,11 +2532,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:42Z",
     "updated_at": "2026-07-14T03:06:42Z",
-    "scanned_at": "2026-07-15T03:43:43.085173+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871049+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000180",
     "title": "[200 MRG] Feature: multi-wallet profile switcher",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/22",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2446,11 +2552,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:30Z",
     "updated_at": "2026-07-14T03:06:30Z",
-    "scanned_at": "2026-07-15T03:43:53.015643+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000181",
     "title": "[100 MRG] Feature: Solana address link-out from entry_hash",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/21",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2466,11 +2572,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:28Z",
     "updated_at": "2026-07-14T03:06:28Z",
-    "scanned_at": "2026-07-15T03:43:53.015702+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176085+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000182",
     "title": "[50 MRG] Firefox addon packaging notes + manifest check",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/20",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2487,11 +2593,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:26Z",
     "updated_at": "2026-07-14T03:06:26Z",
-    "scanned_at": "2026-07-15T03:43:53.015741+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176125+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000183",
     "title": "[100 MRG] Feature: ledger history pagination + filters",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/18",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2507,11 +2613,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:23Z",
     "updated_at": "2026-07-14T03:06:23Z",
-    "scanned_at": "2026-07-15T03:43:53.015777+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176163+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000179",
+    "id": "BH-000184",
     "title": "[50 MRG] Feature: QR export for worker_id / github:login",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/17",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2527,11 +2633,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:21Z",
     "updated_at": "2026-07-14T03:06:21Z",
-    "scanned_at": "2026-07-15T03:43:53.015812+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000180",
+    "id": "BH-000185",
     "title": "[50 MRG] Feature: show bandwidth-share earnings summary panel",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/16",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2547,11 +2653,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:19Z",
     "updated_at": "2026-07-14T03:06:19Z",
-    "scanned_at": "2026-07-15T03:43:53.015848+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176240+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000181",
+    "id": "BH-000186",
     "title": "[25 MRG] Docs: Chrome extension load unpacked walkthrough",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/15",
     "repo": "mergeos-bounties/MRGWallet",
@@ -2569,11 +2675,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:06:17Z",
     "updated_at": "2026-07-14T20:16:05Z",
-    "scanned_at": "2026-07-15T03:43:53.015883+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176278+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000187",
     "title": "[200 MRG] Feature: encrypted share control plane (TLS + token)",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/27",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2589,11 +2695,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:04Z",
     "updated_at": "2026-07-14T03:06:04Z",
-    "scanned_at": "2026-07-15T03:43:53.015918+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176317+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000188",
     "title": "[100 MRG] Feature: multi-region advertise (multiple exit ids)",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/26",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2609,11 +2715,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:06:02Z",
     "updated_at": "2026-07-14T03:06:02Z",
-    "scanned_at": "2026-07-15T03:43:53.015952+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176355+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000189",
     "title": "[50 MRG] CLI: share history — show claim-mock history table",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/25",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2629,11 +2735,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:06:00Z",
     "updated_at": "2026-07-14T03:36:32Z",
-    "scanned_at": "2026-07-15T03:43:53.015986+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176392+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000190",
     "title": "[25 MRG] Tests: share SOCKS5 relay unit test",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/24",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2647,14 +2753,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-07-14T03:05:58Z",
-    "updated_at": "2026-07-14T03:05:58Z",
-    "scanned_at": "2026-07-15T03:43:53.016020+00:00",
+    "updated_at": "2026-07-15T05:34:05Z",
+    "scanned_at": "2026-07-15T06:08:23.176429+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000191",
     "title": "[100 MRG] Feature: post share earnings to MergeOS ledger API (optional)",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/23",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2670,11 +2776,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:55Z",
     "updated_at": "2026-07-14T03:05:55Z",
-    "scanned_at": "2026-07-15T03:43:53.016056+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176468+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000192",
     "title": "[50 MRG] Feature: share rate limit (max connections / Mbps)",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/22",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2690,11 +2796,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:53Z",
     "updated_at": "2026-07-14T03:05:53Z",
-    "scanned_at": "2026-07-15T03:43:53.016091+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176505+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000193",
     "title": "[50 MRG] Feature: share --background PID file + status from disk",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/21",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2710,11 +2816,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:51Z",
     "updated_at": "2026-07-14T03:05:51Z",
-    "scanned_at": "2026-07-15T03:43:53.016126+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176543+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000194",
     "title": "[25 MRG] Docs: bandwidth-share stream guide (EN)",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/20",
     "repo": "mergeos-bounties/MRGMinner",
@@ -2732,11 +2838,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:50Z",
     "updated_at": "2026-07-14T03:05:50Z",
-    "scanned_at": "2026-07-15T03:43:53.016162+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000190",
+    "id": "BH-000195",
     "title": "[200 MRG] Feature: multi-user share load balancer across exits",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/16",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2752,11 +2858,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:37Z",
     "updated_at": "2026-07-14T03:05:37Z",
-    "scanned_at": "2026-07-15T03:43:53.016199+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176638+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000196",
     "title": "[100 MRG] Feature: per-app split tunnel list in config",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/15",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2772,11 +2878,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:35Z",
     "updated_at": "2026-07-14T03:05:35Z",
-    "scanned_at": "2026-07-15T03:43:53.016248+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176676+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000197",
     "title": "[50 MRG] Dashboard: dark/light theme toggle",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/14",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2792,11 +2898,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:33Z",
     "updated_at": "2026-07-14T03:05:33Z",
-    "scanned_at": "2026-07-15T03:43:53.016282+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176714+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000198",
     "title": "[25 MRG] Tests: HTTP CONNECT path smoke",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/13",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2813,11 +2919,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:05:31Z",
     "updated_at": "2026-07-14T13:29:29Z",
-    "scanned_at": "2026-07-15T03:43:53.016316+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176751+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000199",
     "title": "[100 MRG] Feature: PAC file generator for browser proxy",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/12",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2833,11 +2939,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:29Z",
     "updated_at": "2026-07-14T03:05:29Z",
-    "scanned_at": "2026-07-15T03:43:53.016352+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176791+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000200",
     "title": "[50 MRG] Docs: architecture diagram (archify) for share + client",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/11",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2854,11 +2960,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:27Z",
     "updated_at": "2026-07-14T03:05:27Z",
-    "scanned_at": "2026-07-15T03:43:53.016388+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176830+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000201",
     "title": "[50 MRG] Feature: auto-reconnect when share exit drops",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/10",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2874,11 +2980,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:05:24Z",
     "updated_at": "2026-07-14T03:05:24Z",
-    "scanned_at": "2026-07-15T03:43:53.016424+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176869+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000202",
     "title": "[25 MRG] CLI: trucvpn regions — list regions with exit counts",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/9",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2895,11 +3001,11 @@
     "comments": 1,
     "created_at": "2026-07-14T03:05:22Z",
     "updated_at": "2026-07-14T16:01:13Z",
-    "scanned_at": "2026-07-15T03:43:53.016460+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176909+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000203",
     "title": "[200 MRG] Research: optional Wintun/WireGuard path design + stub",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/8",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2915,11 +3021,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:22Z",
     "updated_at": "2026-07-14T03:04:56Z",
-    "scanned_at": "2026-07-15T03:43:53.016488+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176941+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000204",
     "title": "[100 MRG] Feature: multi-hop exit preference (share + fallback chain)",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/7",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2935,11 +3041,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:21Z",
     "updated_at": "2026-07-14T03:05:15Z",
-    "scanned_at": "2026-07-15T03:43:53.016516+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176970+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000205",
     "title": "[50 MRG] Dashboard: traffic chart + exit latency badges",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/6",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2955,11 +3061,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:19Z",
     "updated_at": "2026-07-14T03:05:34Z",
-    "scanned_at": "2026-07-15T03:43:53.016544+00:00",
+    "scanned_at": "2026-07-15T06:08:23.176997+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000206",
     "title": "[25 MRG] Tests: SOCKS5 CONNECT smoke through mock share",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/5",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2975,11 +3081,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:17Z",
     "updated_at": "2026-07-14T03:05:52Z",
-    "scanned_at": "2026-07-15T03:43:53.016571+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177024+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000207",
     "title": "[100 MRG] Feature: kill-switch helper for non-proxy traffic",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/4",
     "repo": "mergeos-bounties/TrucVPN",
@@ -2995,11 +3101,11 @@
     "comments": 3,
     "created_at": "2026-07-14T03:02:15Z",
     "updated_at": "2026-07-14T03:06:10Z",
-    "scanned_at": "2026-07-15T03:43:53.016598+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177052+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000208",
     "title": "[50 MRG] Feature: share exit auth token handshake",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/3",
     "repo": "mergeos-bounties/TrucVPN",
@@ -3015,11 +3121,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:13Z",
     "updated_at": "2026-07-14T03:02:13Z",
-    "scanned_at": "2026-07-15T03:43:53.016624+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177078+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000204",
+    "id": "BH-000209",
     "title": "[50 MRG] Feature: Windows system proxy helper script",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/2",
     "repo": "mergeos-bounties/TrucVPN",
@@ -3035,11 +3141,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:12Z",
     "updated_at": "2026-07-14T03:02:12Z",
-    "scanned_at": "2026-07-15T03:43:53.016651+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000205",
+    "id": "BH-000210",
     "title": "[25 MRG] Docs: split-tunnel policy examples in README",
     "url": "https://github.com/mergeos-bounties/TrucVPN/issues/1",
     "repo": "mergeos-bounties/TrucVPN",
@@ -3055,11 +3161,11 @@
     "comments": 0,
     "created_at": "2026-07-14T03:02:10Z",
     "updated_at": "2026-07-14T03:02:10Z",
-    "scanned_at": "2026-07-15T03:43:53.016678+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177133+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000101",
     "title": "[Bounty][$0][Benchmark] Run LessonReuseBench and share your score",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/459",
     "repo": "Ikalus1988/MisakaNet",
@@ -3078,11 +3184,11 @@
     "comments": 0,
     "created_at": "2026-07-14T01:52:07Z",
     "updated_at": "2026-07-14T07:11:41Z",
-    "scanned_at": "2026-07-15T03:43:43.085226+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871082+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000206",
+    "id": "BH-000211",
     "title": "[radar] SN open bounty 2026-07-13T23:06",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/132",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3098,11 +3204,11 @@
     "comments": 0,
     "created_at": "2026-07-13T23:06:14Z",
     "updated_at": "2026-07-13T23:06:14Z",
-    "scanned_at": "2026-07-15T03:43:53.016696+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177152+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000207",
+    "id": "BH-000212",
     "title": "[radar] SN open bounty 2026-07-13T21:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/131",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3118,11 +3224,11 @@
     "comments": 0,
     "created_at": "2026-07-13T21:08:49Z",
     "updated_at": "2026-07-13T21:08:49Z",
-    "scanned_at": "2026-07-15T03:43:53.016712+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177169+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000208",
+    "id": "BH-000213",
     "title": "[radar] SN open bounty 2026-07-13T19:41",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/130",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3138,11 +3244,11 @@
     "comments": 0,
     "created_at": "2026-07-13T19:41:53Z",
     "updated_at": "2026-07-13T19:41:53Z",
-    "scanned_at": "2026-07-15T03:43:53.016729+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177186+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000209",
+    "id": "BH-000214",
     "title": "[radar] SN open bounty 2026-07-13T17:20",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/129",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3158,11 +3264,11 @@
     "comments": 1,
     "created_at": "2026-07-13T17:20:20Z",
     "updated_at": "2026-07-13T17:21:21Z",
-    "scanned_at": "2026-07-15T03:43:53.016746+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000210",
+    "id": "BH-000215",
     "title": "[radar] SN open bounty 2026-07-13T14:54",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/128",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3178,11 +3284,11 @@
     "comments": 1,
     "created_at": "2026-07-13T14:54:37Z",
     "updated_at": "2026-07-13T14:55:39Z",
-    "scanned_at": "2026-07-15T03:43:53.016763+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177221+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000107",
     "title": "Adapter Bounty Sprint — Hall of Fame + primeros adapters live (Intune/Jamf)",
     "url": "https://github.com/adrimg3196/lucidfence/issues/3",
     "repo": "adrimg3196/lucidfence",
@@ -3197,11 +3303,11 @@
     "comments": 5,
     "created_at": "2026-07-13T13:07:04Z",
     "updated_at": "2026-07-14T00:01:17Z",
-    "scanned_at": "2026-07-15T03:43:43.085615+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871473+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000108",
     "title": "Adapter Bounty: Jamf live (Pro API)",
     "url": "https://github.com/adrimg3196/lucidfence/issues/2",
     "repo": "adrimg3196/lucidfence",
@@ -3217,11 +3323,11 @@
     "comments": 5,
     "created_at": "2026-07-13T13:06:24Z",
     "updated_at": "2026-07-13T23:51:46Z",
-    "scanned_at": "2026-07-15T03:43:43.085668+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871521+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000109",
     "title": "Adapter Bounty: Intune live (Microsoft Graph)",
     "url": "https://github.com/adrimg3196/lucidfence/issues/1",
     "repo": "adrimg3196/lucidfence",
@@ -3237,11 +3343,11 @@
     "comments": 5,
     "created_at": "2026-07-13T13:06:23Z",
     "updated_at": "2026-07-13T23:51:23Z",
-    "scanned_at": "2026-07-15T03:43:43.085722+00:00",
+    "scanned_at": "2026-07-15T06:08:11.871570+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000211",
+    "id": "BH-000216",
     "title": "[radar] SN open bounty 2026-07-13T11:25",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/127",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3257,11 +3363,11 @@
     "comments": 1,
     "created_at": "2026-07-13T11:25:22Z",
     "updated_at": "2026-07-13T12:03:44Z",
-    "scanned_at": "2026-07-15T03:43:53.016781+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177239+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000212",
+    "id": "BH-000217",
     "title": "[radar] SN open bounty 2026-07-13T09:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/126",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3277,11 +3383,11 @@
     "comments": 0,
     "created_at": "2026-07-13T09:44:44Z",
     "updated_at": "2026-07-13T09:44:44Z",
-    "scanned_at": "2026-07-15T03:43:53.016798+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177257+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000213",
+    "id": "BH-000218",
     "title": "[radar] SN open bounty 2026-07-13T07:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/125",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3297,11 +3403,11 @@
     "comments": 0,
     "created_at": "2026-07-13T07:31:59Z",
     "updated_at": "2026-07-13T07:31:59Z",
-    "scanned_at": "2026-07-15T03:43:53.016815+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177275+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000214",
+    "id": "BH-000219",
     "title": "[100 MRG] Deep link: mrgwallet://claim?task_id=",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/7",
     "repo": "mergeos-bounties/MRGWallet",
@@ -3317,11 +3423,11 @@
     "comments": 4,
     "created_at": "2026-07-13T04:20:05Z",
     "updated_at": "2026-07-13T04:54:08Z",
-    "scanned_at": "2026-07-15T03:43:53.016834+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177296+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000215",
+    "id": "BH-000220",
     "title": "[100 MRG] Solana: display token accounts for connected address",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/6",
     "repo": "mergeos-bounties/MRGWallet",
@@ -3337,11 +3443,11 @@
     "comments": 5,
     "created_at": "2026-07-13T04:20:03Z",
     "updated_at": "2026-07-13T10:57:37Z",
-    "scanned_at": "2026-07-15T03:43:53.016855+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177321+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000216",
+    "id": "BH-000221",
     "title": "[50 MRG] Android: dark status bar + pull-to-refresh",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/5",
     "repo": "mergeos-bounties/MRGWallet",
@@ -3357,11 +3463,11 @@
     "comments": 3,
     "created_at": "2026-07-13T04:20:01Z",
     "updated_at": "2026-07-13T04:24:11Z",
-    "scanned_at": "2026-07-15T03:43:53.016875+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177342+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000217",
+    "id": "BH-000222",
     "title": "[50 MRG] Core: import/export vault JSON (no raw secrets)",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/3",
     "repo": "mergeos-bounties/MRGWallet",
@@ -3377,11 +3483,11 @@
     "comments": 4,
     "created_at": "2026-07-13T04:19:57Z",
     "updated_at": "2026-07-13T04:52:18Z",
-    "scanned_at": "2026-07-15T03:43:53.016894+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177363+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000218",
+    "id": "BH-000223",
     "title": "[25 MRG] Docs: install screenshots Chrome + Firefox + Android",
     "url": "https://github.com/mergeos-bounties/MRGWallet/issues/1",
     "repo": "mergeos-bounties/MRGWallet",
@@ -3399,11 +3505,11 @@
     "comments": 3,
     "created_at": "2026-07-13T04:19:54Z",
     "updated_at": "2026-07-13T04:26:51Z",
-    "scanned_at": "2026-07-15T03:43:53.016919+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177391+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000219",
+    "id": "BH-000224",
     "title": "[radar] SN open bounty 2026-07-13T03:53",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/124",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3419,11 +3525,11 @@
     "comments": 0,
     "created_at": "2026-07-13T03:53:07Z",
     "updated_at": "2026-07-13T03:53:07Z",
-    "scanned_at": "2026-07-15T03:43:53.016937+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177409+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000220",
+    "id": "BH-000225",
     "title": "[100 MRG] Evidence packager: collect logs + PR URL into zip",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/6",
     "repo": "mergeos-bounties/MRGMinner",
@@ -3440,11 +3546,11 @@
     "comments": 4,
     "created_at": "2026-07-13T01:50:40Z",
     "updated_at": "2026-07-13T02:38:46Z",
-    "scanned_at": "2026-07-15T03:43:53.016963+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177448+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000221",
+    "id": "BH-000226",
     "title": "[25 MRG] Docs: install + configure quickstart screenshots",
     "url": "https://github.com/mergeos-bounties/MRGMinner/issues/1",
     "repo": "mergeos-bounties/MRGMinner",
@@ -3462,11 +3568,11 @@
     "comments": 3,
     "created_at": "2026-07-13T01:50:31Z",
     "updated_at": "2026-07-13T01:56:32Z",
-    "scanned_at": "2026-07-15T03:43:53.016989+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177476+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000222",
+    "id": "BH-000227",
     "title": "[radar] SN open bounty 2026-07-13T00:04",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/123",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3482,11 +3588,11 @@
     "comments": 0,
     "created_at": "2026-07-13T00:04:59Z",
     "updated_at": "2026-07-13T00:04:59Z",
-    "scanned_at": "2026-07-15T03:43:53.017007+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177494+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000223",
+    "id": "BH-000228",
     "title": "[radar] SN open bounty 2026-07-12T23:02",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/122",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3502,11 +3608,11 @@
     "comments": 0,
     "created_at": "2026-07-12T23:02:11Z",
     "updated_at": "2026-07-12T23:02:11Z",
-    "scanned_at": "2026-07-15T03:43:53.017025+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000224",
+    "id": "BH-000229",
     "title": "[radar] SN open bounty 2026-07-12T22:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/121",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3522,11 +3628,11 @@
     "comments": 0,
     "created_at": "2026-07-12T22:01:42Z",
     "updated_at": "2026-07-12T22:01:42Z",
-    "scanned_at": "2026-07-15T03:43:53.017042+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177532+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000225",
+    "id": "BH-000230",
     "title": "[radar] SN open bounty 2026-07-12T21:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/120",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3542,11 +3648,11 @@
     "comments": 0,
     "created_at": "2026-07-12T21:01:47Z",
     "updated_at": "2026-07-12T21:01:47Z",
-    "scanned_at": "2026-07-15T03:43:53.017073+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177551+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000226",
+    "id": "BH-000231",
     "title": "[radar] SN open bounty 2026-07-12T19:18",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/119",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3562,11 +3668,11 @@
     "comments": 0,
     "created_at": "2026-07-12T19:18:58Z",
     "updated_at": "2026-07-12T19:18:58Z",
-    "scanned_at": "2026-07-15T03:43:53.017091+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177569+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000227",
+    "id": "BH-000232",
     "title": "[radar] SN open bounty 2026-07-12T17:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/118",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3582,11 +3688,11 @@
     "comments": 0,
     "created_at": "2026-07-12T17:11:44Z",
     "updated_at": "2026-07-12T17:11:44Z",
-    "scanned_at": "2026-07-15T03:43:53.017107+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177588+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000228",
+    "id": "BH-000233",
     "title": "[radar] SN open bounty 2026-07-12T15:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/117",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3602,11 +3708,11 @@
     "comments": 0,
     "created_at": "2026-07-12T15:08:14Z",
     "updated_at": "2026-07-12T15:08:14Z",
-    "scanned_at": "2026-07-15T03:43:53.017124+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177614+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000229",
+    "id": "BH-000234",
     "title": "[50 MRG] Compare mode: two frames side-by-side",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/14",
     "repo": "mergeos-bounties/BeeAR",
@@ -3623,11 +3729,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:52Z",
     "updated_at": "2026-07-12T14:07:55Z",
-    "scanned_at": "2026-07-15T03:43:53.017150+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177642+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000230",
+    "id": "BH-000235",
     "title": "[50 MRG] Accessories: ear/hat anchor improvements",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/12",
     "repo": "mergeos-bounties/BeeAR",
@@ -3644,11 +3750,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:49Z",
     "updated_at": "2026-07-12T14:08:32Z",
-    "scanned_at": "2026-07-15T03:43:53.017176+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177668+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000231",
+    "id": "BH-000236",
     "title": "[200 MRG] E2E video: demo face + 3 frames + snapshot",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/11",
     "repo": "mergeos-bounties/BeeAR",
@@ -3665,11 +3771,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:47Z",
     "updated_at": "2026-07-12T14:08:50Z",
-    "scanned_at": "2026-07-15T03:43:53.017211+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177694+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000232",
+    "id": "BH-000237",
     "title": "[100 MRG] Server: wishlist + session API",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/10",
     "repo": "mergeos-bounties/BeeAR",
@@ -3686,11 +3792,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:45Z",
     "updated_at": "2026-07-12T14:09:09Z",
-    "scanned_at": "2026-07-15T03:43:53.017235+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177720+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000233",
+    "id": "BH-000238",
     "title": "[50 MRG] Snapshot gallery + share link stub",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/9",
     "repo": "mergeos-bounties/BeeAR",
@@ -3707,11 +3813,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:43Z",
     "updated_at": "2026-07-12T14:10:56Z",
-    "scanned_at": "2026-07-15T03:43:53.017259+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177746+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000234",
+    "id": "BH-000239",
     "title": "[25 MRG] Vietnamese UI strings toggle",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/8",
     "repo": "mergeos-bounties/BeeAR",
@@ -3729,11 +3835,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:41Z",
     "updated_at": "2026-07-12T14:11:16Z",
-    "scanned_at": "2026-07-15T03:43:53.017283+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177771+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000235",
+    "id": "BH-000240",
     "title": "[50 MRG] PD calibration wizard (slider + measure)",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/7",
     "repo": "mergeos-bounties/BeeAR",
@@ -3750,11 +3856,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:39Z",
     "updated_at": "2026-07-12T14:11:35Z",
-    "scanned_at": "2026-07-15T03:43:53.017306+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177798+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000236",
+    "id": "BH-000241",
     "title": "[50 MRG] Catalog: 8 more frames (JSON + SVG)",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/3",
     "repo": "mergeos-bounties/BeeAR",
@@ -3771,11 +3877,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:32Z",
     "updated_at": "2026-07-12T14:14:13Z",
-    "scanned_at": "2026-07-15T03:43:53.017332+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000237",
+    "id": "BH-000242",
     "title": "[50 MRG] Web: MediaPipe Face Mesh real landmarks",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/2",
     "repo": "mergeos-bounties/BeeAR",
@@ -3793,11 +3899,11 @@
     "comments": 3,
     "created_at": "2026-07-12T14:06:30Z",
     "updated_at": "2026-07-12T14:14:32Z",
-    "scanned_at": "2026-07-15T03:43:53.017359+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177851+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000238",
+    "id": "BH-000243",
     "title": "[25 MRG] Docs: privacy + camera consent notice",
     "url": "https://github.com/mergeos-bounties/BeeAR/issues/1",
     "repo": "mergeos-bounties/BeeAR",
@@ -3815,11 +3921,11 @@
     "comments": 4,
     "created_at": "2026-07-12T14:06:29Z",
     "updated_at": "2026-07-12T15:16:39Z",
-    "scanned_at": "2026-07-15T03:43:53.017385+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177877+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000239",
+    "id": "BH-000244",
     "title": "[radar] SN open bounty 2026-07-12T13:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/116",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3835,11 +3941,11 @@
     "comments": 0,
     "created_at": "2026-07-12T13:49:00Z",
     "updated_at": "2026-07-12T13:49:00Z",
-    "scanned_at": "2026-07-15T03:43:53.017402+00:00",
+    "scanned_at": "2026-07-15T06:08:23.177895+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000240",
+    "id": "BH-000245",
     "title": "[25 MRG] Sign pack: `fingerspell_z` (fingerspell) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/221",
     "repo": "mergeos-bounties/Loru",
@@ -3860,11 +3966,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:39:02Z",
     "updated_at": "2026-07-12T12:40:55Z",
-    "scanned_at": "2026-07-15T03:43:53.017534+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000241",
+    "id": "BH-000246",
     "title": "[25 MRG] Sign pack: `fingerspell_y` (fingerspell) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/220",
     "repo": "mergeos-bounties/Loru",
@@ -3885,11 +3991,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:39:01Z",
     "updated_at": "2026-07-12T12:41:14Z",
-    "scanned_at": "2026-07-15T03:43:53.017677+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178165+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000242",
+    "id": "BH-000247",
     "title": "[25 MRG] Sign pack: `fingerspell_x` (fingerspell) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/219",
     "repo": "mergeos-bounties/Loru",
@@ -3910,11 +4016,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:59Z",
     "updated_at": "2026-07-12T12:41:32Z",
-    "scanned_at": "2026-07-15T03:43:53.017818+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178297+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000243",
+    "id": "BH-000248",
     "title": "[25 MRG] Sign pack: `fingerspell_w` (fingerspell) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/218",
     "repo": "mergeos-bounties/Loru",
@@ -3935,11 +4041,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:57Z",
     "updated_at": "2026-07-12T12:41:51Z",
-    "scanned_at": "2026-07-15T03:43:53.017958+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178430+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000244",
+    "id": "BH-000249",
     "title": "[25 MRG] Sign pack: `fingerspell_v` (fingerspell) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/217",
     "repo": "mergeos-bounties/Loru",
@@ -3960,11 +4066,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:38:55Z",
     "updated_at": "2026-07-12T12:42:09Z",
-    "scanned_at": "2026-07-15T03:43:53.018096+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178562+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000245",
+    "id": "BH-000250",
     "title": "[25 MRG] Sign pack: `handshape_g` (handshape) — photo/video + landmarks",
     "url": "https://github.com/mergeos-bounties/Loru/issues/149",
     "repo": "mergeos-bounties/Loru",
@@ -3985,11 +4091,11 @@
     "comments": 1,
     "created_at": "2026-07-12T12:36:43Z",
     "updated_at": "2026-07-12T13:05:12Z",
-    "scanned_at": "2026-07-15T03:43:53.018244+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178699+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000246",
+    "id": "BH-000251",
     "title": "[25 MRG] Species pack: English Ivy (`english_ivy`) — photo + care card",
     "url": "https://github.com/mergeos-bounties/PlantGuide/issues/136",
     "repo": "mergeos-bounties/PlantGuide",
@@ -4010,11 +4116,11 @@
     "comments": 3,
     "created_at": "2026-07-12T12:30:58Z",
     "updated_at": "2026-07-12T12:33:08Z",
-    "scanned_at": "2026-07-15T03:43:53.018363+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178812+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000112",
     "title": "[100 MRG] Secure storage for provider API keys (OS keytar/safeStorage) instead of plain settings",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/47",
     "repo": "mergeos-bounties/Gomi",
@@ -4032,11 +4138,11 @@
     "comments": 5,
     "created_at": "2026-07-12T11:41:03Z",
     "updated_at": "2026-07-13T06:18:14Z",
-    "scanned_at": "2026-07-15T03:43:47.360245+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855190+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000113",
     "title": "[50 MRG] Drag-and-drop files/folders onto Office request to attach context paths",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/42",
     "repo": "mergeos-bounties/Gomi",
@@ -4053,11 +4159,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:53Z",
     "updated_at": "2026-07-12T11:47:10Z",
-    "scanned_at": "2026-07-15T03:43:47.360317+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855251+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000114",
     "title": "[100 MRG] macOS/Linux packaging notes + electron-builder targets scaffold",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/41",
     "repo": "mergeos-bounties/Gomi",
@@ -4075,11 +4181,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:51Z",
     "updated_at": "2026-07-12T11:47:29Z",
-    "scanned_at": "2026-07-15T03:43:47.360369+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855296+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000115",
     "title": "[50 MRG] Demo scenario packs: load scripted multi-agent stories for sales demos",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/40",
     "repo": "mergeos-bounties/Gomi",
@@ -4097,11 +4203,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:49Z",
     "updated_at": "2026-07-12T11:47:48Z",
-    "scanned_at": "2026-07-15T03:43:47.360429+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855350+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000116",
     "title": "[100 MRG] Custom department / custom agent role templates in Office Settings",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/32",
     "repo": "mergeos-bounties/Gomi",
@@ -4119,11 +4225,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:40:33Z",
     "updated_at": "2026-07-12T11:40:33Z",
-    "scanned_at": "2026-07-15T03:43:47.360482+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855395+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000117",
     "title": "[50 MRG] Electron: auto-update stub wiring (electron-updater optional, off by default)",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/29",
     "repo": "mergeos-bounties/Gomi",
@@ -4141,11 +4247,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-07-12T11:41:10Z",
-    "scanned_at": "2026-07-15T03:43:47.360535+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855439+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000118",
     "title": "[100 MRG] Electron: optional second window for patch review / memory board",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/28",
     "repo": "mergeos-bounties/Gomi",
@@ -4163,11 +4269,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:26Z",
     "updated_at": "2026-07-12T11:41:28Z",
-    "scanned_at": "2026-07-15T03:43:47.360589+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855482+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000119",
     "title": "[50 MRG] Open VSX: publish metadata checklist + product.json gallery sanity test",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/27",
     "repo": "mergeos-bounties/Gomi",
@@ -4185,11 +4291,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:40:24Z",
     "updated_at": "2026-07-12T11:41:46Z",
-    "scanned_at": "2026-07-15T03:43:47.360640+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855523+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000120",
     "title": "[50 MRG] Live task kanban mini-board driven by GomiTask state",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/23",
     "repo": "mergeos-bounties/Gomi",
@@ -4206,11 +4312,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:39:05Z",
     "updated_at": "2026-07-12T11:39:05Z",
-    "scanned_at": "2026-07-15T03:43:47.360702+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855578+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000121",
     "title": "[100 MRG] Webview host bridge: versioned message validation + size limits",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/22",
     "repo": "mergeos-bounties/Gomi",
@@ -4228,11 +4334,11 @@
     "comments": 3,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-07-13T06:18:16Z",
-    "scanned_at": "2026-07-15T03:43:47.360772+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855651+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000122",
     "title": "[100 MRG] Persist Office session timeline (tasks/messages) per workspace with wipe",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/16",
     "repo": "mergeos-bounties/Gomi",
@@ -4250,11 +4356,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:52Z",
     "updated_at": "2026-07-12T11:38:52Z",
-    "scanned_at": "2026-07-15T03:43:47.360846+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855712+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000123",
     "title": "[50 MRG] a11y: keyboard shortcuts, Esc dismiss, focus rings for Office UI",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/15",
     "repo": "mergeos-bounties/Gomi",
@@ -4272,11 +4378,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:50Z",
     "updated_at": "2026-07-12T11:38:50Z",
-    "scanned_at": "2026-07-15T03:43:47.360918+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855770+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000124",
     "title": "[100 MRG] Playwright smoke e2e for Gomi Office prototype (demo provider)",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/13",
     "repo": "mergeos-bounties/Gomi",
@@ -4294,11 +4400,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:46Z",
     "updated_at": "2026-07-12T11:38:46Z",
-    "scanned_at": "2026-07-15T03:43:47.360991+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855830+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000125",
     "title": "[50 MRG] First-run onboarding tour for Gomi Office workflow",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/12",
     "repo": "mergeos-bounties/Gomi",
@@ -4316,11 +4422,11 @@
     "comments": 0,
     "created_at": "2026-07-12T11:38:45Z",
     "updated_at": "2026-07-12T11:38:45Z",
-    "scanned_at": "2026-07-15T03:43:47.361062+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855887+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000126",
     "title": "[100 MRG] Runtime: stream CLI/HTTP agent progress into Office chat bubbles",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/10",
     "repo": "mergeos-bounties/Gomi",
@@ -4338,11 +4444,11 @@
     "comments": 2,
     "created_at": "2026-07-12T11:38:40Z",
     "updated_at": "2026-07-13T01:54:04Z",
-    "scanned_at": "2026-07-15T03:43:47.361137+00:00",
+    "scanned_at": "2026-07-15T06:08:16.855948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000127",
     "title": "[200 MRG] Gomi Office: upgrade multi-agent office from 2D Phaser to 3D",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/7",
     "repo": "mergeos-bounties/Gomi",
@@ -4360,11 +4466,11 @@
     "comments": 4,
     "created_at": "2026-07-12T11:35:38Z",
     "updated_at": "2026-07-13T06:18:12Z",
-    "scanned_at": "2026-07-15T03:43:47.361365+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856124+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000128",
     "title": "[50 MRG] Patch applier: reject workspace path escape in unified diffs",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/3",
     "repo": "mergeos-bounties/Gomi",
@@ -4382,11 +4488,11 @@
     "comments": 6,
     "created_at": "2026-07-12T11:31:33Z",
     "updated_at": "2026-07-14T18:16:29Z",
-    "scanned_at": "2026-07-15T03:43:47.361420+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000247",
+    "id": "BH-000252",
     "title": "[radar] SN open bounty 2026-07-11T08:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/115",
     "repo": "relayhop/sn-monetization-runtime",
@@ -4402,11 +4508,11 @@
     "comments": 1,
     "created_at": "2026-07-11T08:08:46Z",
     "updated_at": "2026-07-11T12:33:17Z",
-    "scanned_at": "2026-07-15T03:43:53.018380+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178830+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000129",
     "title": "Bug bounty 100 usd to whoever makes my landing page responsive for mobile",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/3",
     "repo": "iii123iii/Crystal-PDF",
@@ -4424,11 +4530,11 @@
     "comments": 28,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-07-14T23:12:07Z",
-    "scanned_at": "2026-07-15T03:43:47.361439+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856182+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000130",
     "title": "Fix speed",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/2",
     "repo": "iii123iii/Crystal-PDF",
@@ -4445,11 +4551,11 @@
     "comments": 10,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-07-14T21:48:37Z",
-    "scanned_at": "2026-07-15T03:43:47.361451+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856192+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000131",
     "title": "Add payout receipt export for community admins",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/28",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4463,11 +4569,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:34Z",
     "updated_at": "2026-07-13T12:05:56Z",
-    "scanned_at": "2026-07-15T03:43:47.361474+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856210+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000132",
     "title": "Audit the mobile join flow for accessibility",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/27",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4481,11 +4587,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:32Z",
     "updated_at": "2026-07-13T12:05:53Z",
-    "scanned_at": "2026-07-15T03:43:47.361495+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856228+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000133",
     "title": "Document the Solana devnet deployment and smoke test",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/26",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4499,11 +4605,11 @@
     "comments": 13,
     "created_at": "2026-07-05T05:56:31Z",
     "updated_at": "2026-07-13T12:05:48Z",
-    "scanned_at": "2026-07-15T03:43:47.361516+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856246+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000248",
+    "id": "BH-000253",
     "title": "Bounty Quick-Open",
     "url": "https://github.com/beertierchen/warera-prost/issues/11",
     "repo": "beertierchen/warera-prost",
@@ -4520,11 +4626,11 @@
     "comments": 6,
     "created_at": "2026-07-04T19:32:27Z",
     "updated_at": "2026-07-05T13:11:24Z",
-    "scanned_at": "2026-07-15T03:43:53.018397+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178847+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000249",
+    "id": "BH-000254",
     "title": "Bounty-History / Log",
     "url": "https://github.com/beertierchen/warera-prost/issues/6",
     "repo": "beertierchen/warera-prost",
@@ -4540,11 +4646,11 @@
     "comments": 1,
     "created_at": "2026-07-04T19:32:21Z",
     "updated_at": "2026-07-05T13:15:54Z",
-    "scanned_at": "2026-07-15T03:43:53.018413+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178864+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000250",
+    "id": "BH-000255",
     "title": "[radar] SN open bounty 2026-07-04T08:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/114",
     "repo": "relayhop/sn-monetization-runtime",
@@ -4560,11 +4666,11 @@
     "comments": 2,
     "created_at": "2026-07-04T08:48:43Z",
     "updated_at": "2026-07-05T13:19:14Z",
-    "scanned_at": "2026-07-15T03:43:53.018430+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178882+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000140",
     "title": "Fix: Offline sync queue not clearing after successful push",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/52",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4581,11 +4687,11 @@
     "comments": 13,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-06T07:37:12Z",
-    "scanned_at": "2026-07-15T03:43:47.361629+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856338+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000141",
     "title": "Fix: QR code scanner torch toggle broken on iOS",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/51",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4603,11 +4709,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-11T02:34:48Z",
-    "scanned_at": "2026-07-15T03:43:47.361660+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856364+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000142",
     "title": "Fix: SOS button not accessible on Android lock screen",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/50",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4625,11 +4731,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-07T07:07:34Z",
-    "scanned_at": "2026-07-15T03:43:47.361697+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856393+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000143",
     "title": "Appointment conflict detection - improve edge cases",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/49",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4645,11 +4751,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-06T07:47:20Z",
-    "scanned_at": "2026-07-15T03:43:47.361727+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856419+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000144",
     "title": "Detox E2E tests - QR scan and share flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/48",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4666,11 +4772,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:20:53Z",
     "updated_at": "2026-07-06T07:51:07Z",
-    "scanned_at": "2026-07-15T03:43:47.361756+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856442+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000145",
     "title": "Detox E2E tests - medication flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/47",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4687,11 +4793,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:20:43Z",
     "updated_at": "2026-07-07T07:00:46Z",
-    "scanned_at": "2026-07-15T03:43:47.361784+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856466+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000146",
     "title": "Push notification deep-link routing - all notification types",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/46",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4707,11 +4813,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:33Z",
     "updated_at": "2026-07-06T07:57:05Z",
-    "scanned_at": "2026-07-15T03:43:47.361817+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856493+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000147",
     "title": "Health metrics export to PDF - vet-ready report",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/45",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4727,11 +4833,11 @@
     "comments": 8,
     "created_at": "2026-07-02T11:20:23Z",
     "updated_at": "2026-07-06T08:00:08Z",
-    "scanned_at": "2026-07-15T03:43:47.361851+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856520+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000148",
     "title": "Stellar trustline UI - PETC / VETH / PAWP token management",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/43",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4748,11 +4854,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:20:06Z",
     "updated_at": "2026-07-06T08:02:40Z",
-    "scanned_at": "2026-07-15T03:43:47.361883+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856546+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000149",
     "title": "Pet insurance claims - full submission flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/42",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4768,11 +4874,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:55Z",
     "updated_at": "2026-07-06T11:55:15Z",
-    "scanned_at": "2026-07-15T03:43:47.361915+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856572+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000150",
     "title": "Portuguese (BR) language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/41",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4790,11 +4896,11 @@
     "comments": 9,
     "created_at": "2026-07-02T11:19:45Z",
     "updated_at": "2026-07-09T15:15:52Z",
-    "scanned_at": "2026-07-15T03:43:47.361941+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856601+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000151",
     "title": "French language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/40",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4812,11 +4918,11 @@
     "comments": 10,
     "created_at": "2026-07-02T11:19:35Z",
     "updated_at": "2026-07-09T15:15:57Z",
-    "scanned_at": "2026-07-15T03:43:47.361966+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856623+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000152",
     "title": "Dark mode - full app theming audit and fix",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/39",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4833,11 +4939,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:23Z",
     "updated_at": "2026-07-13T16:39:40Z",
-    "scanned_at": "2026-07-15T03:43:47.361998+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856650+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000153",
     "title": "Apple Watch companion app - SwiftUI health widget",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/38",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4853,11 +4959,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:04Z",
     "updated_at": "2026-07-06T08:16:16Z",
-    "scanned_at": "2026-07-15T03:43:47.362030+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856677+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000154",
     "title": "AI symptom checker backend - breed + symptoms to vet recommendation",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/31",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4874,11 +4980,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:11:20Z",
     "updated_at": "2026-07-07T08:15:36Z",
-    "scanned_at": "2026-07-15T03:43:47.362066+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856707+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000155",
     "title": "Telemedicine - WebRTC video consultation end-to-end flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/30",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4894,11 +5000,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:11:02Z",
     "updated_at": "2026-07-07T08:11:29Z",
-    "scanned_at": "2026-07-15T03:43:47.362099+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856734+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000156",
     "title": "Wearable device sync - FitBark and Whistle API integration",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/29",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4914,11 +5020,11 @@
     "comments": 9,
     "created_at": "2026-07-02T11:10:45Z",
     "updated_at": "2026-07-09T11:13:38Z",
-    "scanned_at": "2026-07-15T03:43:47.362130+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000157",
     "title": "Soroban smart contract - on-chain pet record registry",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/28",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4935,11 +5041,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:10:25Z",
     "updated_at": "2026-07-06T08:41:58Z",
-    "scanned_at": "2026-07-15T03:43:47.362165+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856789+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000158",
     "title": "Add JWT authentication guard to admin-only endpoints",
     "url": "https://github.com/coopfinance/coopfin-api/issues/6",
     "repo": "coopfinance/coopfin-api",
@@ -4955,11 +5061,11 @@
     "comments": 12,
     "created_at": "2026-07-01T09:49:07Z",
     "updated_at": "2026-07-11T23:32:14Z",
-    "scanned_at": "2026-07-15T03:43:47.362276+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856852+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000159",
     "title": "[Frontend] Implement member contribution form on the group detail page",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/12",
     "repo": "coopfinance/coopfin-frontend",
@@ -4974,11 +5080,11 @@
     "comments": 6,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-09T20:17:03Z",
-    "scanned_at": "2026-07-15T03:43:47.362336+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856900+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000160",
     "title": "[Frontend] Build individual group detail page at /groups/[id]",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/9",
     "repo": "coopfinance/coopfin-frontend",
@@ -4993,11 +5099,11 @@
     "comments": 4,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-07-11T22:47:11Z",
-    "scanned_at": "2026-07-15T03:43:47.362411+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856950+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000161",
     "title": "[Frontend] Add wallet connect button to header/navbar with address display and disconnect",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/8",
     "repo": "coopfinance/coopfin-frontend",
@@ -5013,11 +5119,11 @@
     "comments": 8,
     "created_at": "2026-06-29T12:07:57Z",
     "updated_at": "2026-07-08T18:28:42Z",
-    "scanned_at": "2026-07-15T03:43:47.362473+00:00",
+    "scanned_at": "2026-07-15T06:08:16.856998+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000162",
     "title": "CPU mining capped at 64 threads on Windows machines with 64+ logical cores",
     "url": "https://github.com/tari-project/universe/issues/3299",
     "repo": "tari-project/universe",
@@ -5034,11 +5140,11 @@
     "comments": 1,
     "created_at": "2026-06-29T11:54:21Z",
     "updated_at": "2026-07-03T22:23:19Z",
-    "scanned_at": "2026-07-15T03:43:47.362661+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857152+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000163",
     "title": "[Frontend] Implement RecentActivity feed on dashboard",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/2",
     "repo": "coopfinance/coopfin-frontend",
@@ -5054,11 +5160,11 @@
     "comments": 4,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-07-09T20:17:23Z",
-    "scanned_at": "2026-07-15T03:43:47.362723+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000164",
     "title": "[Frontend] Implement TreasuryChart component with Recharts area chart",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/1",
     "repo": "coopfinance/coopfin-frontend",
@@ -5074,11 +5180,11 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-07-15T03:43:47.362792+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857255+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000165",
     "title": "Resolve TS2307 akili module resolution failures in test imports",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/16",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -5092,11 +5198,11 @@
     "comments": 4,
     "created_at": "2026-06-29T03:15:04Z",
     "updated_at": "2026-07-12T16:28:50Z",
-    "scanned_at": "2026-07-15T03:43:47.362831+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857287+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000251",
+    "id": "BH-000256",
     "title": "[radar] SN open bounty 2026-06-29T01:58",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/107",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5112,11 +5218,11 @@
     "comments": 1,
     "created_at": "2026-06-29T01:58:34Z",
     "updated_at": "2026-06-29T09:47:11Z",
-    "scanned_at": "2026-07-15T03:43:53.018447+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178900+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000252",
+    "id": "BH-000257",
     "title": "[radar] SN open bounty 2026-06-29T00:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/106",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5132,11 +5238,11 @@
     "comments": 1,
     "created_at": "2026-06-29T00:17:26Z",
     "updated_at": "2026-06-29T08:02:48Z",
-    "scanned_at": "2026-07-15T03:43:53.018463+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178918+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000253",
+    "id": "BH-000258",
     "title": "[radar] SN open bounty 2026-06-28T23:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/105",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5152,11 +5258,11 @@
     "comments": 1,
     "created_at": "2026-06-28T23:47:52Z",
     "updated_at": "2026-06-29T08:02:51Z",
-    "scanned_at": "2026-07-15T03:43:53.018479+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178936+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000254",
+    "id": "BH-000259",
     "title": "[radar] SN open bounty 2026-06-27T08:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/101",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5172,11 +5278,11 @@
     "comments": 1,
     "created_at": "2026-06-27T08:48:02Z",
     "updated_at": "2026-06-28T22:19:07Z",
-    "scanned_at": "2026-07-15T03:43:53.018503+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178960+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000255",
+    "id": "BH-000260",
     "title": "[radar] SN open bounty 2026-06-25T09:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/100",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5192,11 +5298,11 @@
     "comments": 36,
     "created_at": "2026-06-25T09:39:16Z",
     "updated_at": "2026-06-25T16:19:30Z",
-    "scanned_at": "2026-07-15T03:43:53.018520+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178978+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000169",
     "title": "Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)",
     "url": "https://github.com/boundlessfi/boundless/issues/638",
     "repo": "boundlessfi/boundless",
@@ -5214,11 +5320,11 @@
     "comments": 12,
     "created_at": "2026-06-24T10:55:12Z",
     "updated_at": "2026-07-05T21:27:50Z",
-    "scanned_at": "2026-07-15T03:43:47.362987+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857415+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000170",
     "title": "FE: Dispute resolution UI",
     "url": "https://github.com/boundlessfi/boundless/issues/636",
     "repo": "boundlessfi/boundless",
@@ -5236,11 +5342,11 @@
     "comments": 11,
     "created_at": "2026-06-24T10:54:13Z",
     "updated_at": "2026-06-27T08:35:23Z",
-    "scanned_at": "2026-07-15T03:43:47.363024+00:00",
+    "scanned_at": "2026-07-15T06:08:16.857445+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000256",
+    "id": "BH-000261",
     "title": "[radar] SN open bounty 2026-06-24T09:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/99",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5256,11 +5362,11 @@
     "comments": 2,
     "created_at": "2026-06-24T09:48:25Z",
     "updated_at": "2026-06-24T09:50:27Z",
-    "scanned_at": "2026-07-15T03:43:53.018538+00:00",
+    "scanned_at": "2026-07-15T06:08:23.178998+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000257",
+    "id": "BH-000262",
     "title": "[radar] SN open bounty 2026-06-20T09:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/96",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5276,11 +5382,11 @@
     "comments": 2,
     "created_at": "2026-06-20T09:33:24Z",
     "updated_at": "2026-06-20T10:05:00Z",
-    "scanned_at": "2026-07-15T03:43:53.018555+00:00",
+    "scanned_at": "2026-07-15T06:08:23.179016+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000258",
+    "id": "BH-000263",
     "title": "[radar] SN open bounty 2026-06-18T10:44",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/94",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5296,11 +5402,11 @@
     "comments": 1,
     "created_at": "2026-06-18T10:44:14Z",
     "updated_at": "2026-06-20T00:43:58Z",
-    "scanned_at": "2026-07-15T03:43:53.018572+00:00",
+    "scanned_at": "2026-07-15T06:08:23.179035+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000259",
+    "id": "BH-000264",
     "title": "[radar] SN open bounty 2026-06-13T09:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/90",
     "repo": "relayhop/sn-monetization-runtime",
@@ -5316,7 +5422,7 @@
     "comments": 9,
     "created_at": "2026-06-13T09:31:22Z",
     "updated_at": "2026-06-19T21:17:11Z",
-    "scanned_at": "2026-07-15T03:43:53.018588+00:00",
+    "scanned_at": "2026-07-15T06:08:23.179052+00:00",
     "status": "new"
   }
 ]
