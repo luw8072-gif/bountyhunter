@@ -17,7 +17,7 @@
     "comments": 16,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-07-05T04:40:05Z",
-    "scanned_at": "2026-07-15T15:59:46.645393+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883344+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -40,7 +40,7 @@
     "comments": 16,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-07-09T08:17:10Z",
-    "scanned_at": "2026-07-15T15:59:46.645401+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883352+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -63,7 +63,7 @@
     "comments": 12,
     "created_at": "2026-06-20T14:55:13Z",
     "updated_at": "2026-06-27T08:36:02Z",
-    "scanned_at": "2026-07-15T15:59:46.645416+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883367+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -86,7 +86,7 @@
     "comments": 19,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-07-15T08:51:43Z",
-    "scanned_at": "2026-07-15T15:59:46.645378+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883329+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -109,7 +109,7 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-07-15T15:59:46.645386+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883337+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -132,7 +132,7 @@
     "comments": 26,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-12T10:43:58Z",
-    "scanned_at": "2026-07-15T15:59:46.645209+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883157+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -155,7 +155,7 @@
     "comments": 38,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-14T17:25:27Z",
-    "scanned_at": "2026-07-15T15:59:46.645219+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883168+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -177,7 +177,7 @@
     "comments": 33,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-13T23:20:08Z",
-    "scanned_at": "2026-07-15T15:59:46.645197+00:00",
+    "scanned_at": "2026-07-15T17:17:20.883143+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
@@ -200,13 +200,13 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:38Z",
     "updated_at": "2026-07-15T11:44:55Z",
-    "scanned_at": "2026-07-15T15:58:30.465189+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153444+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000075",
     "title": "[BUG] SSTI in Email Template Engine → Sandbox Escape $200",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1184",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -223,7 +223,7 @@
     "comments": 3,
     "created_at": "2026-07-15T04:54:02Z",
     "updated_at": "2026-07-15T04:56:15Z",
-    "scanned_at": "2026-07-15T15:58:30.468503+00:00",
+    "scanned_at": "2026-07-15T17:16:04.156450+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -246,7 +246,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:46Z",
     "updated_at": "2026-07-15T11:41:36Z",
-    "scanned_at": "2026-07-15T15:58:30.464943+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153268+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -269,7 +269,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:45Z",
     "updated_at": "2026-07-15T11:41:55Z",
-    "scanned_at": "2026-07-15T15:58:30.464965+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153289+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -292,7 +292,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:43Z",
     "updated_at": "2026-07-15T11:42:14Z",
-    "scanned_at": "2026-07-15T15:58:30.464986+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153331+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -315,7 +315,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:41Z",
     "updated_at": "2026-07-15T11:44:17Z",
-    "scanned_at": "2026-07-15T15:58:30.465088+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153390+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -338,7 +338,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:35Z",
     "updated_at": "2026-07-15T11:46:57Z",
-    "scanned_at": "2026-07-15T15:58:30.465241+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153523+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -361,7 +361,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:34Z",
     "updated_at": "2026-07-15T11:37:58Z",
-    "scanned_at": "2026-07-15T15:58:30.465273+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153582+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -384,13 +384,13 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:31Z",
     "updated_at": "2026-07-15T11:38:36Z",
-    "scanned_at": "2026-07-15T15:58:30.465322+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153629+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000074",
     "title": "[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1185",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -407,13 +407,13 @@
     "comments": 3,
     "created_at": "2026-07-15T04:54:03Z",
     "updated_at": "2026-07-15T04:55:56Z",
-    "scanned_at": "2026-07-15T15:58:30.468481+00:00",
+    "scanned_at": "2026-07-15T17:16:04.156430+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000086",
     "title": "[BUG] Race Condition in /tmp File Handling (TOCTOU) $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1177",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -430,7 +430,7 @@
     "comments": 4,
     "created_at": "2026-07-14T11:26:42Z",
     "updated_at": "2026-07-14T23:32:23Z",
-    "scanned_at": "2026-07-15T15:58:30.469435+00:00",
+    "scanned_at": "2026-07-15T17:16:04.157309+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -453,7 +453,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:47Z",
     "updated_at": "2026-07-15T11:41:17Z",
-    "scanned_at": "2026-07-15T15:58:30.464918+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153244+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -476,7 +476,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:42Z",
     "updated_at": "2026-07-15T11:43:58Z",
-    "scanned_at": "2026-07-15T15:58:30.465007+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153360+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -499,7 +499,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:39Z",
     "updated_at": "2026-07-15T11:44:36Z",
-    "scanned_at": "2026-07-15T15:58:30.465161+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153414+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -522,7 +522,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:37Z",
     "updated_at": "2026-07-15T11:45:14Z",
-    "scanned_at": "2026-07-15T15:58:30.465210+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153476+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -545,7 +545,7 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:33Z",
     "updated_at": "2026-07-15T11:38:17Z",
-    "scanned_at": "2026-07-15T15:58:30.465302+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153611+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -568,13 +568,13 @@
     "comments": 3,
     "created_at": "2026-07-15T11:37:30Z",
     "updated_at": "2026-07-15T11:38:55Z",
-    "scanned_at": "2026-07-15T15:58:30.465341+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153647+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000076",
     "title": "[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1183",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -591,13 +591,13 @@
     "comments": 4,
     "created_at": "2026-07-15T04:54:01Z",
     "updated_at": "2026-07-15T08:27:24Z",
-    "scanned_at": "2026-07-15T15:58:30.468524+00:00",
+    "scanned_at": "2026-07-15T17:16:04.156469+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000077",
     "title": "[BUG] Host Header Injection → Password Reset Poisoning $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1182",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -614,7 +614,7 @@
     "comments": 4,
     "created_at": "2026-07-15T04:53:59Z",
     "updated_at": "2026-07-15T08:27:22Z",
-    "scanned_at": "2026-07-15T15:58:30.468544+00:00",
+    "scanned_at": "2026-07-15T17:16:04.156488+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -637,13 +637,13 @@
     "comments": 6,
     "created_at": "2026-07-15T11:37:49Z",
     "updated_at": "2026-07-15T14:55:29Z",
-    "scanned_at": "2026-07-15T15:58:30.464872+00:00",
+    "scanned_at": "2026-07-15T17:16:04.153198+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000087",
     "title": "[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1176",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -660,7 +660,7 @@
     "comments": 9,
     "created_at": "2026-07-14T11:26:41Z",
     "updated_at": "2026-07-15T03:58:23Z",
-    "scanned_at": "2026-07-15T15:58:30.469469+00:00",
+    "scanned_at": "2026-07-15T17:16:04.157340+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
