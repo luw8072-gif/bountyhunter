@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000170",
+    "id": "BH-000171",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -17,13 +17,13 @@
     "comments": 26,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-12T10:43:58Z",
-    "scanned_at": "2026-07-18T01:28:34.699296+00:00",
+    "scanned_at": "2026-07-18T04:24:07.574519+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000172",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -40,13 +40,40 @@
     "comments": 38,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-14T17:25:27Z",
-    "scanned_at": "2026-07-18T01:28:34.699305+00:00",
+    "scanned_at": "2026-07-18T04:24:07.574527+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000261",
+    "title": "Calculate the exact value of PI",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "number": 2885,
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "$1.2k"
+    ],
+    "language": "unknown",
+    "amount_usd": 120,
+    "state": "open",
+    "comments": 29,
+    "created_at": "2026-05-31T13:00:19Z",
+    "updated_at": "2026-07-15T22:40:56Z",
+    "scanned_at": "2026-07-18T04:24:13.693051+00:00",
+    "status": "new",
+    "_score": 48.8,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000170",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -62,13 +89,13 @@
     "comments": 36,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-17T21:20:59Z",
-    "scanned_at": "2026-07-18T01:28:34.699287+00:00",
+    "scanned_at": "2026-07-18T04:24:07.574508+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000067",
     "title": "[Bounty] [Bounty: $7500] Optimise atan/asin/acos (fp32)",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/509",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -83,13 +110,13 @@
     "comments": 3,
     "created_at": "2026-07-15T18:43:15Z",
     "updated_at": "2026-07-15T18:43:57Z",
-    "scanned_at": "2026-07-18T01:27:19.929693+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452185+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000074",
     "title": "[Bounty: $7500] Performance/precision: atan/asin/acos (fp32)",
     "url": "https://github.com/tenstorrent/tt-metal/issues/49943",
     "repo": "tenstorrent/tt-metal",
@@ -105,7 +132,7 @@
     "comments": 4,
     "created_at": "2026-07-15T18:14:46Z",
     "updated_at": "2026-07-16T20:36:13Z",
-    "scanned_at": "2026-07-18T01:27:19.930009+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452448+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -127,7 +154,7 @@
     "comments": 8,
     "created_at": "2026-07-17T20:21:07Z",
     "updated_at": "2026-07-17T23:46:12Z",
-    "scanned_at": "2026-07-18T01:27:19.924217+00:00",
+    "scanned_at": "2026-07-18T04:22:51.447006+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -150,7 +177,7 @@
     "comments": 3,
     "created_at": "2026-07-17T05:16:16Z",
     "updated_at": "2026-07-17T05:18:09Z",
-    "scanned_at": "2026-07-18T01:27:19.925634+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448369+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -173,7 +200,7 @@
     "comments": 4,
     "created_at": "2026-07-16T05:13:18Z",
     "updated_at": "2026-07-16T16:46:12Z",
-    "scanned_at": "2026-07-18T01:27:19.928256+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450839+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -196,13 +223,13 @@
     "comments": 3,
     "created_at": "2026-07-16T05:13:15Z",
     "updated_at": "2026-07-16T05:17:16Z",
-    "scanned_at": "2026-07-18T01:27:19.928309+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450891+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000083",
     "title": "[BUG] Java RMI Deserialization → Remote Code Execution $200",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1195",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -219,7 +246,7 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:38Z",
     "updated_at": "2026-07-15T18:48:56Z",
-    "scanned_at": "2026-07-18T01:27:19.930190+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452623+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -242,7 +269,7 @@
     "comments": 3,
     "created_at": "2026-07-15T04:54:02Z",
     "updated_at": "2026-07-15T04:56:15Z",
-    "scanned_at": "2026-07-18T01:28:32.150424+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743668+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -265,7 +292,7 @@
     "comments": 3,
     "created_at": "2026-07-17T05:16:17Z",
     "updated_at": "2026-07-17T05:17:50Z",
-    "scanned_at": "2026-07-18T01:27:19.925586+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448323+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -288,7 +315,7 @@
     "comments": 3,
     "created_at": "2026-07-17T05:16:15Z",
     "updated_at": "2026-07-17T05:18:27Z",
-    "scanned_at": "2026-07-18T01:27:19.925656+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448390+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -311,7 +338,7 @@
     "comments": 3,
     "created_at": "2026-07-17T05:16:13Z",
     "updated_at": "2026-07-17T05:18:47Z",
-    "scanned_at": "2026-07-18T01:27:19.925687+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448421+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -334,7 +361,7 @@
     "comments": 4,
     "created_at": "2026-07-16T05:13:22Z",
     "updated_at": "2026-07-16T06:10:17Z",
-    "scanned_at": "2026-07-18T01:27:19.928187+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450772+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -357,7 +384,7 @@
     "comments": 3,
     "created_at": "2026-07-16T05:13:19Z",
     "updated_at": "2026-07-16T05:14:53Z",
-    "scanned_at": "2026-07-18T01:27:19.928237+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450820+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -380,13 +407,13 @@
     "comments": 3,
     "created_at": "2026-07-16T05:13:17Z",
     "updated_at": "2026-07-16T05:16:57Z",
-    "scanned_at": "2026-07-18T01:27:19.928286+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450869+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000085",
     "title": "[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1193",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -403,13 +430,13 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:35Z",
     "updated_at": "2026-07-15T18:49:10Z",
-    "scanned_at": "2026-07-18T01:27:19.930238+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452683+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000086",
     "title": "[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1192",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -426,13 +453,13 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:34Z",
     "updated_at": "2026-07-15T18:49:16Z",
-    "scanned_at": "2026-07-18T01:27:19.930257+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452701+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000088",
     "title": "[BUG] Web Cache Deception → Session Token Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1190",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -449,7 +476,7 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:31Z",
     "updated_at": "2026-07-15T18:49:29Z",
-    "scanned_at": "2026-07-18T01:27:19.930309+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452750+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -472,7 +499,7 @@
     "comments": 3,
     "created_at": "2026-07-15T04:54:03Z",
     "updated_at": "2026-07-15T04:55:56Z",
-    "scanned_at": "2026-07-18T01:28:32.150401+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743644+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -495,7 +522,7 @@
     "comments": 4,
     "created_at": "2026-07-14T11:26:42Z",
     "updated_at": "2026-07-14T23:32:23Z",
-    "scanned_at": "2026-07-18T01:28:32.150484+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743737+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -518,7 +545,7 @@
     "comments": 3,
     "created_at": "2026-07-17T05:16:19Z",
     "updated_at": "2026-07-17T05:17:31Z",
-    "scanned_at": "2026-07-18T01:27:19.925552+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448288+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -541,13 +568,13 @@
     "comments": 4,
     "created_at": "2026-07-17T05:16:12Z",
     "updated_at": "2026-07-17T22:47:43Z",
-    "scanned_at": "2026-07-18T01:27:19.925717+00:00",
+    "scanned_at": "2026-07-18T04:22:51.448451+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000087",
     "title": "[BUG] Log Injection → Log Forging → SIEM Poisoning $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1191",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -564,13 +591,13 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:33Z",
     "updated_at": "2026-07-15T18:49:23Z",
-    "scanned_at": "2026-07-18T01:27:19.930290+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452732+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000089",
     "title": "[BUG] Timing Attack on Password Verification → User Enumeration $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1189",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -587,7 +614,7 @@
     "comments": 4,
     "created_at": "2026-07-15T11:37:30Z",
     "updated_at": "2026-07-15T18:49:35Z",
-    "scanned_at": "2026-07-18T01:27:19.930330+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452768+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -610,7 +637,7 @@
     "comments": 4,
     "created_at": "2026-07-15T04:54:01Z",
     "updated_at": "2026-07-15T08:27:24Z",
-    "scanned_at": "2026-07-18T01:28:32.150445+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743701+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -633,7 +660,7 @@
     "comments": 4,
     "created_at": "2026-07-15T04:53:59Z",
     "updated_at": "2026-07-15T08:27:22Z",
-    "scanned_at": "2026-07-18T01:28:32.150466+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743720+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -656,7 +683,7 @@
     "comments": 10,
     "created_at": "2026-07-16T05:13:21Z",
     "updated_at": "2026-07-16T16:46:40Z",
-    "scanned_at": "2026-07-18T01:27:19.928217+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450801+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -679,13 +706,13 @@
     "comments": 10,
     "created_at": "2026-07-16T05:13:14Z",
     "updated_at": "2026-07-16T16:46:38Z",
-    "scanned_at": "2026-07-18T01:27:19.928340+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450925+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000075",
     "title": "[BUG] Web Cache Deception → Session Token Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1203",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -702,13 +729,13 @@
     "comments": 5,
     "created_at": "2026-07-15T11:37:49Z",
     "updated_at": "2026-07-15T18:22:30Z",
-    "scanned_at": "2026-07-18T01:27:19.930030+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452469+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000077",
     "title": "[BUG] Blind Command Injection via Email Header $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1201",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -725,13 +752,13 @@
     "comments": 8,
     "created_at": "2026-07-15T11:37:46Z",
     "updated_at": "2026-07-16T11:49:55Z",
-    "scanned_at": "2026-07-18T01:27:19.930072+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452509+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000078",
     "title": "[BUG] Web Cache Poisoning via Unkeyed Header $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1200",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -748,13 +775,13 @@
     "comments": 5,
     "created_at": "2026-07-15T11:37:45Z",
     "updated_at": "2026-07-15T18:45:16Z",
-    "scanned_at": "2026-07-18T01:27:19.930094+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452528+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000079",
     "title": "[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1199",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -771,13 +798,13 @@
     "comments": 5,
     "created_at": "2026-07-15T11:37:43Z",
     "updated_at": "2026-07-15T18:45:23Z",
-    "scanned_at": "2026-07-18T01:27:19.930113+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452546+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000081",
     "title": "[BUG] Zip Slip → Arbitrary File Write via Archive Extraction $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1197",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -794,7 +821,7 @@
     "comments": 8,
     "created_at": "2026-07-15T11:37:41Z",
     "updated_at": "2026-07-16T11:50:02Z",
-    "scanned_at": "2026-07-18T01:27:19.930151+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452587+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -817,13 +844,13 @@
     "comments": 9,
     "created_at": "2026-07-16T05:13:23Z",
     "updated_at": "2026-07-16T16:46:41Z",
-    "scanned_at": "2026-07-18T01:27:19.928151+00:00",
+    "scanned_at": "2026-07-18T04:22:51.450737+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000076",
     "title": "[BUG] Timing Attack on Password Verification → User Enumeration $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1202",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -840,13 +867,13 @@
     "comments": 7,
     "created_at": "2026-07-15T11:37:47Z",
     "updated_at": "2026-07-16T11:49:54Z",
-    "scanned_at": "2026-07-18T01:27:19.930052+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452488+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000080",
     "title": "[BUG] Session Fixation + Session ID in URL $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1198",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -863,13 +890,13 @@
     "comments": 5,
     "created_at": "2026-07-15T11:37:42Z",
     "updated_at": "2026-07-15T18:45:30Z",
-    "scanned_at": "2026-07-18T01:27:19.930132+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452568+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000082",
     "title": "[BUG] LDAP Injection → Anonymous Bind Bypass $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1196",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -886,13 +913,13 @@
     "comments": 5,
     "created_at": "2026-07-15T11:37:39Z",
     "updated_at": "2026-07-15T18:45:44Z",
-    "scanned_at": "2026-07-18T01:27:19.930169+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452603+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000084",
     "title": "[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1194",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -909,7 +936,7 @@
     "comments": 7,
     "created_at": "2026-07-15T11:37:37Z",
     "updated_at": "2026-07-16T11:49:58Z",
-    "scanned_at": "2026-07-18T01:27:19.930209+00:00",
+    "scanned_at": "2026-07-18T04:22:51.452644+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -932,7 +959,7 @@
     "comments": 10,
     "created_at": "2026-07-14T11:26:41Z",
     "updated_at": "2026-07-16T03:20:03Z",
-    "scanned_at": "2026-07-18T01:28:32.150518+00:00",
+    "scanned_at": "2026-07-18T04:24:04.743769+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
