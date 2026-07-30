@@ -17,7 +17,7 @@
     "comments": 22,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-28T13:04:45Z",
-    "scanned_at": "2026-07-30T00:55:28.169250+00:00",
+    "scanned_at": "2026-07-30T03:51:25.724393+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -40,13 +40,13 @@
     "comments": 33,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-28T08:31:40Z",
-    "scanned_at": "2026-07-30T00:55:28.169256+00:00",
+    "scanned_at": "2026-07-30T03:51:25.724403+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000061",
     "title": "Automate Bug Detection and Reviews",
     "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/11398",
     "repo": "SecureBananaLabs/bug-bounty",
@@ -69,7 +69,7 @@
     "comments": 43,
     "created_at": "2026-07-25T09:51:18Z",
     "updated_at": "2026-07-26T14:16:09Z",
-    "scanned_at": "2026-07-30T00:54:13.233925+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009258+00:00",
     "status": "new",
     "_score": 56.2,
     "tier": "A"
@@ -90,13 +90,13 @@
     "comments": 1,
     "created_at": "2026-07-22T04:30:02Z",
     "updated_at": "2026-07-26T14:17:28Z",
-    "scanned_at": "2026-07-30T00:55:25.599699+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664459+00:00",
     "status": "new",
     "_score": 53.0,
     "tier": "A"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000009",
     "title": "[BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating system.",
     "url": "https://github.com/theselfish/SlopStation13/issues/4",
     "repo": "theselfish/SlopStation13",
@@ -108,16 +108,16 @@
     "language": "unknown",
     "amount_usd": 640,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-07-29T05:02:41Z",
-    "updated_at": "2026-07-30T00:47:55Z",
-    "scanned_at": "2026-07-30T00:54:13.231837+00:00",
+    "updated_at": "2026-07-30T01:10:07Z",
+    "scanned_at": "2026-07-30T03:50:09.006423+00:00",
     "status": "new",
     "_score": 47.5,
     "tier": "A"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000008",
     "title": "[Bounty] [$600] Add Thursday's Boots",
     "url": "https://github.com/theselfish/SlopStation13/issues/5",
     "repo": "theselfish/SlopStation13",
@@ -132,30 +132,9 @@
     "comments": 1,
     "created_at": "2026-07-29T05:02:58Z",
     "updated_at": "2026-07-29T05:45:04Z",
-    "scanned_at": "2026-07-30T00:54:13.231828+00:00",
+    "scanned_at": "2026-07-30T03:50:09.006401+00:00",
     "status": "new",
     "_score": 47.5,
-    "tier": "A"
-  },
-  {
-    "id": "BH-000001",
-    "title": "[Bounty] [Bounty $7500] Gemma-2 (2B / 9B) text model bring-up using TTNN APIs",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/756",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 756,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-07-29T21:38:52Z",
-    "updated_at": "2026-07-29T21:38:52Z",
-    "scanned_at": "2026-07-30T00:54:13.231576+00:00",
-    "status": "new",
-    "_score": 45.0,
     "tier": "A"
   },
   {
@@ -175,13 +154,34 @@
     "comments": 32,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-26T15:02:52Z",
-    "scanned_at": "2026-07-30T00:55:28.169241+00:00",
+    "scanned_at": "2026-07-30T03:51:25.724382+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000002",
+    "title": "[Bounty] [Bounty $7500] Gemma-2 (2B / 9B) text model bring-up using TTNN APIs",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/756",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 756,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 750,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-07-29T21:38:52Z",
+    "updated_at": "2026-07-30T03:43:51Z",
+    "scanned_at": "2026-07-30T03:50:09.006165+00:00",
+    "status": "new",
+    "_score": 43.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000019",
     "title": "[Bounty $7500] Gemma-2 (2B / 9B) text model bring-up using TTNN APIs",
     "url": "https://github.com/tenstorrent/tt-metal/issues/51398",
     "repo": "tenstorrent/tt-metal",
@@ -197,13 +197,13 @@
     "comments": 1,
     "created_at": "2026-07-28T17:46:54Z",
     "updated_at": "2026-07-29T21:22:30Z",
-    "scanned_at": "2026-07-30T00:54:13.232170+00:00",
+    "scanned_at": "2026-07-30T03:50:09.006857+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000006",
     "title": "[Bounty] [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/746",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -218,7 +218,7 @@
     "comments": 2,
     "created_at": "2026-07-29T06:16:50Z",
     "updated_at": "2026-07-29T19:07:25Z",
-    "scanned_at": "2026-07-30T00:54:13.231812+00:00",
+    "scanned_at": "2026-07-30T03:50:09.006380+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -239,13 +239,13 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:07Z",
-    "scanned_at": "2026-07-30T00:55:25.599243+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663827+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000007",
     "title": "[Bounty] [Bounty] [$600] Add Thursday's Boots",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/745",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -260,13 +260,13 @@
     "comments": 3,
     "created_at": "2026-07-29T06:16:49Z",
     "updated_at": "2026-07-29T19:50:21Z",
-    "scanned_at": "2026-07-30T00:54:13.231819+00:00",
+    "scanned_at": "2026-07-30T03:50:09.006389+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000049",
     "title": "[Bounty] [Bounty] [$600] Add Thursday's Boots",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/707",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -281,7 +281,7 @@
     "comments": 3,
     "created_at": "2026-07-26T18:40:49Z",
     "updated_at": "2026-07-27T22:41:22Z",
-    "scanned_at": "2026-07-30T00:54:13.233711+00:00",
+    "scanned_at": "2026-07-30T03:50:09.008967+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -302,7 +302,7 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:57Z",
     "updated_at": "2026-07-26T14:18:09Z",
-    "scanned_at": "2026-07-30T00:55:25.599235+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663817+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -323,7 +323,7 @@
     "comments": 2,
     "created_at": "2026-07-22T18:07:10Z",
     "updated_at": "2026-07-26T14:17:52Z",
-    "scanned_at": "2026-07-30T00:55:25.599348+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663972+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -344,13 +344,13 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:51Z",
     "updated_at": "2026-07-26T14:17:51Z",
-    "scanned_at": "2026-07-30T00:55:25.599363+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663993+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000060",
     "title": "[Bounty] Automate Bug Detection and Reviews",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/700",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -365,13 +365,13 @@
     "comments": 11,
     "created_at": "2026-07-25T10:47:28Z",
     "updated_at": "2026-07-26T14:19:04Z",
-    "scanned_at": "2026-07-30T00:54:13.233889+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009224+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000072",
     "title": "[Bounty] [BOUNTY] [$670 USD] [HARD] Replace Action delays from high ping with rubberbandi",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/689",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -386,13 +386,13 @@
     "comments": 18,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:48Z",
-    "scanned_at": "2026-07-30T00:54:13.234142+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009561+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000018",
     "title": "[Bounty] [BOUNTY] 500 USD - Add Runescape inspired chat effects",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/741",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -407,13 +407,13 @@
     "comments": 7,
     "created_at": "2026-07-28T17:54:05Z",
     "updated_at": "2026-07-29T19:50:21Z",
-    "scanned_at": "2026-07-30T00:54:13.232161+00:00",
+    "scanned_at": "2026-07-30T03:50:09.006842+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000041",
     "title": "[BUG] Race Condition in /tmp File Handling (TOCTOU) $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1503",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -431,13 +431,13 @@
     "comments": 4,
     "created_at": "2026-07-27T05:53:03Z",
     "updated_at": "2026-07-29T02:12:14Z",
-    "scanned_at": "2026-07-30T00:54:13.233520+00:00",
+    "scanned_at": "2026-07-30T03:50:09.008703+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000042",
     "title": "[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1502",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -455,7 +455,7 @@
     "comments": 4,
     "created_at": "2026-07-27T05:53:02Z",
     "updated_at": "2026-07-29T02:12:15Z",
-    "scanned_at": "2026-07-30T00:54:13.233532+00:00",
+    "scanned_at": "2026-07-30T03:50:09.008723+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -479,7 +479,7 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:45Z",
     "updated_at": "2026-07-29T02:10:35Z",
-    "scanned_at": "2026-07-30T00:55:25.599397+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664039+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -503,7 +503,7 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:42Z",
     "updated_at": "2026-07-29T02:10:30Z",
-    "scanned_at": "2026-07-30T00:55:25.599411+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664056+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -527,7 +527,7 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:41Z",
     "updated_at": "2026-07-29T02:10:32Z",
-    "scanned_at": "2026-07-30T00:55:25.599423+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664072+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -551,13 +551,13 @@
     "comments": 3,
     "created_at": "2026-07-22T11:49:23Z",
     "updated_at": "2026-07-22T14:04:30Z",
-    "scanned_at": "2026-07-30T00:55:25.599556+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664267+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000031",
     "title": "[Bounty] [BOUNTY] [$300] re-add nanites",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/729",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -572,13 +572,13 @@
     "comments": 4,
     "created_at": "2026-07-27T18:06:58Z",
     "updated_at": "2026-07-29T02:12:27Z",
-    "scanned_at": "2026-07-30T00:54:13.232898+00:00",
+    "scanned_at": "2026-07-30T03:50:09.007843+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000083",
     "title": "[Bounty] [BOUNTY] [$3000] Secondary extraction shooter gamemode",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/685",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -593,7 +593,7 @@
     "comments": 2,
     "created_at": "2026-07-24T06:12:57Z",
     "updated_at": "2026-07-26T14:18:45Z",
-    "scanned_at": "2026-07-30T00:54:13.234623+00:00",
+    "scanned_at": "2026-07-30T03:50:09.010227+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -614,7 +614,7 @@
     "comments": 2,
     "created_at": "2026-07-22T04:30:02Z",
     "updated_at": "2026-07-26T14:17:27Z",
-    "scanned_at": "2026-07-30T00:55:25.599690+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664448+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -635,7 +635,7 @@
     "comments": 3,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:10Z",
-    "scanned_at": "2026-07-30T00:55:25.599195+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663763+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -656,7 +656,7 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:12Z",
-    "scanned_at": "2026-07-30T00:55:25.599202+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663772+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -677,7 +677,7 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:04Z",
-    "scanned_at": "2026-07-30T00:55:25.599251+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663837+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -698,13 +698,13 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:50Z",
     "updated_at": "2026-07-26T14:17:48Z",
-    "scanned_at": "2026-07-30T00:55:25.599371+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664003+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000085",
     "title": "[Bounty] [agentic ai] [BOUNTY] [200 USD] [TOP PRIORITY] [respond to this one] implement g",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/683",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -719,7 +719,7 @@
     "comments": 1,
     "created_at": "2026-07-24T03:34:56Z",
     "updated_at": "2026-07-26T14:18:41Z",
-    "scanned_at": "2026-07-30T00:54:13.234679+00:00",
+    "scanned_at": "2026-07-30T03:50:09.010300+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -740,7 +740,7 @@
     "comments": 3,
     "created_at": "2026-07-22T19:47:31Z",
     "updated_at": "2026-07-26T14:18:03Z",
-    "scanned_at": "2026-07-30T00:55:25.599312+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663919+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -761,7 +761,7 @@
     "comments": 1,
     "created_at": "2026-07-22T04:30:03Z",
     "updated_at": "2026-07-26T14:17:31Z",
-    "scanned_at": "2026-07-30T00:55:25.599678+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664438+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -782,7 +782,7 @@
     "comments": 1,
     "created_at": "2026-07-23T15:12:45Z",
     "updated_at": "2026-07-26T14:18:27Z",
-    "scanned_at": "2026-07-30T00:55:25.599031+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663535+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -803,7 +803,7 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:51Z",
     "updated_at": "2026-07-26T14:17:49Z",
-    "scanned_at": "2026-07-30T00:55:25.599355+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663981+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -824,7 +824,7 @@
     "comments": 2,
     "created_at": "2026-07-22T04:30:03Z",
     "updated_at": "2026-07-26T14:17:30Z",
-    "scanned_at": "2026-07-30T00:55:25.599608+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664341+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -845,7 +845,7 @@
     "comments": 2,
     "created_at": "2026-07-23T15:12:46Z",
     "updated_at": "2026-07-29T12:36:22Z",
-    "scanned_at": "2026-07-30T00:55:25.599021+00:00",
+    "scanned_at": "2026-07-30T03:51:22.663521+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -866,7 +866,7 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:49Z",
     "updated_at": "2026-07-26T14:17:44Z",
-    "scanned_at": "2026-07-30T00:55:25.599384+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664022+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -887,7 +887,7 @@
     "comments": 1,
     "created_at": "2026-07-22T07:16:55Z",
     "updated_at": "2026-07-26T14:17:41Z",
-    "scanned_at": "2026-07-30T00:55:25.599595+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664321+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -911,7 +911,7 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:34Z",
     "updated_at": "2026-07-29T19:07:28Z",
-    "scanned_at": "2026-07-30T00:55:25.599463+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664122+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -935,7 +935,7 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:24Z",
     "updated_at": "2026-07-29T19:07:31Z",
-    "scanned_at": "2026-07-30T00:55:25.599538+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664240+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -959,13 +959,13 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:22Z",
     "updated_at": "2026-07-29T19:07:32Z",
-    "scanned_at": "2026-07-30T00:55:25.599568+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664283+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000043",
     "title": "[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1501",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -983,13 +983,13 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:00Z",
     "updated_at": "2026-07-29T02:12:15Z",
-    "scanned_at": "2026-07-30T00:54:13.233545+00:00",
+    "scanned_at": "2026-07-30T03:50:09.008739+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000064",
     "title": "[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1477",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1007,7 +1007,7 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:47Z",
     "updated_at": "2026-07-29T23:28:47Z",
-    "scanned_at": "2026-07-30T00:54:13.233971+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009316+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1031,13 +1031,13 @@
     "comments": 7,
     "created_at": "2026-07-22T11:49:27Z",
     "updated_at": "2026-07-29T19:07:30Z",
-    "scanned_at": "2026-07-30T00:55:25.599513+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664205+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000057",
     "title": "[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1489",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1055,13 +1055,13 @@
     "comments": 9,
     "created_at": "2026-07-26T05:34:33Z",
     "updated_at": "2026-07-29T23:29:01Z",
-    "scanned_at": "2026-07-30T00:54:13.233798+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009084+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000065",
     "title": "[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1476",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1079,7 +1079,7 @@
     "comments": 23,
     "created_at": "2026-07-25T05:16:45Z",
     "updated_at": "2026-07-29T23:28:38Z",
-    "scanned_at": "2026-07-30T00:54:13.233990+00:00",
+    "scanned_at": "2026-07-30T03:50:09.009342+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -1103,7 +1103,7 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:39Z",
     "updated_at": "2026-07-29T02:12:17Z",
-    "scanned_at": "2026-07-30T00:55:25.599436+00:00",
+    "scanned_at": "2026-07-30T03:51:22.664088+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
