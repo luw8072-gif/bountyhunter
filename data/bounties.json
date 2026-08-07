@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000095",
+    "id": "BH-000093",
     "title": "[Bounty] [Bounty $6,000] Fix SFPU RNG correlation and improve FP32 uniform random quality",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/765",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,11 +15,31 @@
     "comments": 4,
     "created_at": "2026-08-03T21:48:39Z",
     "updated_at": "2026-08-05T13:38:24Z",
-    "scanned_at": "2026-08-06T13:42:09.919987+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279691+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000003",
+    "title": "[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/52328",
+    "repo": "tenstorrent/tt-metal",
+    "number": 52328,
+    "labels": [
+      "community",
+      "bounty",
+      "bounty_difficulty/medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 1500,
+    "state": "open",
+    "comments": 4,
+    "created_at": "2026-08-06T15:43:20Z",
+    "updated_at": "2026-08-06T23:22:36Z",
+    "scanned_at": "2026-08-07T00:20:56.615114+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000118",
     "title": "[Bounty] Automate Bug Detection and Reviews",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/700",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -34,11 +54,11 @@
     "comments": 2,
     "created_at": "2026-07-25T10:47:28Z",
     "updated_at": "2026-08-03T18:40:58Z",
-    "scanned_at": "2026-08-06T13:42:09.920643+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280704+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000095",
     "title": "[Bounty] [Bounty $7500] Gemma-2 (2B / 9B) text model bring-up using TTNN APIs",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/756",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -53,11 +73,11 @@
     "comments": 3,
     "created_at": "2026-07-29T21:38:52Z",
     "updated_at": "2026-08-03T18:40:30Z",
-    "scanned_at": "2026-08-06T13:42:09.920048+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279791+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000127",
     "title": "[Bounty] [BOUNTY] [$670 USD] [HARD] Replace Action delays from high ping with rubberbandi",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/689",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -72,11 +92,11 @@
     "comments": 18,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:48Z",
-    "scanned_at": "2026-08-06T13:42:09.920781+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280920+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000098",
     "title": "[Bounty] [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/746",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -91,11 +111,11 @@
     "comments": 6,
     "created_at": "2026-07-29T06:16:50Z",
     "updated_at": "2026-08-04T05:56:41Z",
-    "scanned_at": "2026-08-06T13:42:09.920119+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279906+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000149",
     "title": "[Bounty] [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/669",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -110,11 +130,11 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:07Z",
-    "scanned_at": "2026-08-06T13:42:09.921357+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281880+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000099",
     "title": "[Bounty] [Bounty] [$600] Add Thursday's Boots",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/745",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -129,11 +149,11 @@
     "comments": 7,
     "created_at": "2026-07-29T06:16:49Z",
     "updated_at": "2026-08-04T06:01:06Z",
-    "scanned_at": "2026-08-06T13:42:09.920127+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279918+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000113",
     "title": "[Bounty] [Bounty] [$600] Add Thursday's Boots",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/707",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -148,11 +168,11 @@
     "comments": 4,
     "created_at": "2026-07-26T18:40:49Z",
     "updated_at": "2026-08-03T18:41:12Z",
-    "scanned_at": "2026-08-06T13:42:09.920563+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280580+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000100",
     "title": "[Bounty] [BOUNTY] 500 USD - Add Runescape inspired chat effects",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/741",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -167,11 +187,11 @@
     "comments": 11,
     "created_at": "2026-07-28T17:54:05Z",
     "updated_at": "2026-08-04T06:11:03Z",
-    "scanned_at": "2026-08-06T13:42:09.920174+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279993+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000148",
     "title": "[Bounty] [BOUNTY] 500 USD Add farts and super farts",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/670",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -186,11 +206,11 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:57Z",
     "updated_at": "2026-07-26T14:18:09Z",
-    "scanned_at": "2026-08-06T13:42:09.921349+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281867+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000155",
     "title": "[Bounty] [BOUNTY] [$500] [$1000] [Agent] [Agentic] [Upfront Payment Confirmed] [AI Automa",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/663",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -205,11 +225,11 @@
     "comments": 2,
     "created_at": "2026-07-22T18:07:10Z",
     "updated_at": "2026-07-26T14:17:52Z",
-    "scanned_at": "2026-08-06T13:42:09.921473+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282070+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000157",
     "title": "[Bounty] [BOUNTY] [AGENTIC AI] [$500] Simulate players to save my dying server.",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/660",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -224,11 +244,11 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:51Z",
     "updated_at": "2026-07-26T14:17:51Z",
-    "scanned_at": "2026-08-06T13:42:09.921488+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282093+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000091",
     "title": "[Bounty] [Bounty $3000] Fix Blackhole destination-reuse synchronization",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/798",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -243,11 +263,11 @@
     "comments": 2,
     "created_at": "2026-08-05T21:53:04Z",
     "updated_at": "2026-08-06T01:39:40Z",
-    "scanned_at": "2026-08-06T13:42:09.919910+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279536+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000106",
     "title": "[Bounty] [BOUNTY] [$300] re-add nanites",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/729",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -262,11 +282,11 @@
     "comments": 5,
     "created_at": "2026-07-27T18:06:58Z",
     "updated_at": "2026-08-03T18:41:18Z",
-    "scanned_at": "2026-08-06T13:42:09.920480+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280446+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000136",
     "title": "[Bounty] [BOUNTY] [$3000] Secondary extraction shooter gamemode",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/685",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -281,11 +301,30 @@
     "comments": 2,
     "created_at": "2026-07-24T06:12:57Z",
     "updated_at": "2026-07-26T14:18:45Z",
-    "scanned_at": "2026-08-06T13:42:09.921046+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281336+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000179",
+    "title": "[Bounty] [BOUNTY] [$300] Cyborg Buff By Adding Hand On Stick That Kills Anyone That Punch",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/647",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 647,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 300,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-07-22T04:30:02Z",
+    "updated_at": "2026-07-26T14:17:27Z",
+    "scanned_at": "2026-08-07T00:22:08.282651+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000146",
     "title": "[Bounty] [BOUNTY][$250][UNCLAIMED][REQUEST][LOW CODE][URGENT][AGENTIC] Comment Standardiz",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/671",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -300,11 +339,11 @@
     "comments": 3,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:10Z",
-    "scanned_at": "2026-08-06T13:42:09.921310+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281799+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000147",
     "title": "[Bounty] [BOUNTY] [$2500] [EASY] [AGENTIC AI] [HOST REQUEST] [CRITICAL] Translate comment",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/672",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -319,11 +358,11 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:12Z",
-    "scanned_at": "2026-08-06T13:42:09.921317+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281811+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000150",
     "title": "[Bounty] [BOUNTY] [$2500] [EASY] [AGENTIC AI] [HOST REQUEST] [MISSION CRITICAL] Codify se",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/667",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -338,11 +377,11 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:04Z",
-    "scanned_at": "2026-08-06T13:42:09.921365+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281893+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000158",
     "title": "[Bounty] [BOUNTY] [$250] [EASY] [AGENTIC AI] Albuquerque/Turkey Refactor",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/658",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -357,11 +396,11 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:50Z",
     "updated_at": "2026-07-26T14:17:48Z",
-    "scanned_at": "2026-08-06T13:42:09.921496+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282105+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000234",
+    "id": "BH-000233",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -377,11 +416,11 @@
     "comments": 32,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-26T15:02:52Z",
-    "scanned_at": "2026-08-06T13:42:13.829757+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743313+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000125",
     "title": "[Bounty] [Bounty] [$200] Add a shrimp-person species 🦐",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/692",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -396,11 +435,11 @@
     "comments": 2,
     "created_at": "2026-07-24T17:22:34Z",
     "updated_at": "2026-08-03T18:41:20Z",
-    "scanned_at": "2026-08-06T13:42:09.920749+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280869+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000137",
     "title": "[Bounty] [agentic ai] [BOUNTY] [200 USD] [TOP PRIORITY] [respond to this one] implement g",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/683",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -415,11 +454,11 @@
     "comments": 1,
     "created_at": "2026-07-24T03:34:56Z",
     "updated_at": "2026-07-26T14:18:41Z",
-    "scanned_at": "2026-08-06T13:42:09.921097+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281418+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000142",
     "title": "[Bounty] [BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/676",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -434,11 +473,11 @@
     "comments": 6,
     "created_at": "2026-07-23T03:46:23Z",
     "updated_at": "2026-07-29T11:45:55Z",
-    "scanned_at": "2026-08-06T13:42:09.921229+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281661+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000152",
     "title": "[Bounty] [BOUNTY $200] 🐜 The Great Memory Migration: Own Your Agentic Memory with Memanto",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/665",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -453,11 +492,11 @@
     "comments": 3,
     "created_at": "2026-07-22T19:47:31Z",
     "updated_at": "2026-07-26T14:18:03Z",
-    "scanned_at": "2026-08-06T13:42:09.921424+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281997+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000153",
     "title": "[BOUNTY $200] 🐜 The Great Memory Migration: Own Your Agentic Memory with Memanto + OKF",
     "url": "https://github.com/moorcheh-ai/memanto/issues/1609",
     "repo": "moorcheh-ai/memanto",
@@ -472,11 +511,11 @@
     "comments": 28,
     "created_at": "2026-07-22T18:52:55Z",
     "updated_at": "2026-08-06T06:44:53Z",
-    "scanned_at": "2026-08-06T13:42:09.921449+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282020+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000166",
     "title": "[BUG] Java RMI Deserialization → Remote Code Execution $200",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1444",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -494,11 +533,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:34Z",
     "updated_at": "2026-07-29T19:07:28Z",
-    "scanned_at": "2026-08-06T13:42:09.921590+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282255+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000171",
     "title": "[BUG] Python Pickle Deserialization RCE via Cache $200",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1437",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -516,11 +555,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:24Z",
     "updated_at": "2026-07-29T19:07:31Z",
-    "scanned_at": "2026-08-06T13:42:09.921664+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282377+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000173",
     "title": "[BUG] Server-Side Prototype Pollution to RCE $200",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1435",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -538,11 +577,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:22Z",
     "updated_at": "2026-07-29T19:07:32Z",
-    "scanned_at": "2026-08-06T13:42:09.921697+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282430+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000180",
+    "id": "BH-000178",
     "title": "[Bounty] [BOUNTY] [READY FOR AGENT] [200-600$USD Opire] Implement the 'Fish Doctor' job 🐟",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/650",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -557,11 +596,11 @@
     "comments": 1,
     "created_at": "2026-07-22T04:30:03Z",
     "updated_at": "2026-07-26T14:17:31Z",
-    "scanned_at": "2026-08-06T13:42:09.921807+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282637+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000111",
     "title": "[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1501",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -579,11 +618,11 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:00Z",
     "updated_at": "2026-08-03T18:41:24Z",
-    "scanned_at": "2026-08-06T13:42:09.920548+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000120",
     "title": "[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1477",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -601,11 +640,11 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:47Z",
     "updated_at": "2026-08-03T18:41:26Z",
-    "scanned_at": "2026-08-06T13:42:09.920679+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000169",
     "title": "[BUG] Race Condition in Distributed Transaction → Double Spend $180",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1439",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -623,11 +662,11 @@
     "comments": 7,
     "created_at": "2026-07-22T11:49:27Z",
     "updated_at": "2026-07-29T19:07:30Z",
-    "scanned_at": "2026-08-06T13:42:09.921639+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282336+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000141",
     "title": "[Bounty] [BOUNTY] [$15750.15 USD]  [Agent Ready] [Critical] [Standards] Replace All for l",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/677",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -642,11 +681,11 @@
     "comments": 1,
     "created_at": "2026-07-23T15:12:45Z",
     "updated_at": "2026-07-26T14:18:27Z",
-    "scanned_at": "2026-08-06T13:42:09.921222+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281648+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000109",
     "title": "[BUG] Race Condition in /tmp File Handling (TOCTOU) $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1503",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -664,11 +703,11 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:03Z",
     "updated_at": "2026-08-05T05:53:57Z",
-    "scanned_at": "2026-08-06T13:42:09.920521+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280503+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000110",
     "title": "[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1502",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -686,11 +725,11 @@
     "comments": 4,
     "created_at": "2026-07-27T05:53:02Z",
     "updated_at": "2026-08-03T18:43:01Z",
-    "scanned_at": "2026-08-06T13:42:09.920535+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280524+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000116",
     "title": "[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1489",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -708,11 +747,11 @@
     "comments": 10,
     "created_at": "2026-07-26T05:34:33Z",
     "updated_at": "2026-08-03T18:43:03Z",
-    "scanned_at": "2026-08-06T13:42:09.920605+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280643+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000121",
     "title": "[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1476",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -730,11 +769,11 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:45Z",
     "updated_at": "2026-08-03T18:43:05Z",
-    "scanned_at": "2026-08-06T13:42:09.920699+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280795+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000156",
     "title": "[Bounty] [BOUNTY] [$1500] Translate the game to simplified Chinese",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/659",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -749,11 +788,11 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:51Z",
     "updated_at": "2026-07-26T14:17:49Z",
-    "scanned_at": "2026-08-06T13:42:09.921480+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282081+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000161",
     "title": "[BUG] Web Cache Deception → Session Token Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1452",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -771,11 +810,11 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:45Z",
     "updated_at": "2026-07-29T02:10:35Z",
-    "scanned_at": "2026-08-06T13:42:09.921524+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282149+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000162",
     "title": "[BUG] Blind Command Injection via Email Header $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1450",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -793,11 +832,11 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:42Z",
     "updated_at": "2026-07-29T02:10:30Z",
-    "scanned_at": "2026-08-06T13:42:09.921539+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282170+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000163",
     "title": "[BUG] Web Cache Poisoning via Unkeyed Header $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1449",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -815,11 +854,11 @@
     "comments": 4,
     "created_at": "2026-07-22T11:49:41Z",
     "updated_at": "2026-07-29T02:10:32Z",
-    "scanned_at": "2026-08-06T13:42:09.921552+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282190+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000164",
     "title": "[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1448",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -837,11 +876,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:39Z",
     "updated_at": "2026-07-29T02:12:17Z",
-    "scanned_at": "2026-08-06T13:42:09.921564+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282210+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000165",
     "title": "[BUG] Zip Slip → Arbitrary File Write via Archive Extraction $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1446",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -859,11 +898,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:36Z",
     "updated_at": "2026-07-29T02:12:18Z",
-    "scanned_at": "2026-08-06T13:42:09.921576+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282233+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000167",
     "title": "[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1442",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -881,11 +920,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:31Z",
     "updated_at": "2026-07-29T19:07:29Z",
-    "scanned_at": "2026-08-06T13:42:09.921608+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282286+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000168",
     "title": "[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1441",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -903,11 +942,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:30Z",
     "updated_at": "2026-07-29T19:07:30Z",
-    "scanned_at": "2026-08-06T13:42:09.921621+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282306+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000172",
+    "id": "BH-000170",
     "title": "[BUG] MongoDB NoSQL Injection → Authentication Bypass $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1438",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -925,11 +964,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:26Z",
     "updated_at": "2026-07-29T19:07:31Z",
-    "scanned_at": "2026-08-06T13:42:09.921651+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282357+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000172",
     "title": "[BUG] GraphQL Batch Query + Rate Limit Bypass $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1436",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -947,11 +986,11 @@
     "comments": 3,
     "created_at": "2026-07-22T11:49:23Z",
     "updated_at": "2026-07-22T14:04:30Z",
-    "scanned_at": "2026-08-06T13:42:09.921683+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000174",
     "title": "[BUG] Blind SSRF via DNS Rebinding Bypass $150",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1434",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -969,11 +1008,11 @@
     "comments": 5,
     "created_at": "2026-07-22T11:49:20Z",
     "updated_at": "2026-07-29T19:07:32Z",
-    "scanned_at": "2026-08-06T13:42:09.921717+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282463+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000179",
+    "id": "BH-000177",
     "title": "[Bounty] [ BOUNTY ] [ $145 ] [ AGENT ] [ AGENTIC ] Increase Reflectivity of projectile/en",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/649",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -988,11 +1027,11 @@
     "comments": 2,
     "created_at": "2026-07-22T04:30:03Z",
     "updated_at": "2026-07-26T14:17:30Z",
-    "scanned_at": "2026-08-06T13:42:09.921738+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282499+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000114",
     "title": "[BUG] Session Fixation + Session ID in URL $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1491",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1010,11 +1049,11 @@
     "comments": 7,
     "created_at": "2026-07-26T11:20:45Z",
     "updated_at": "2026-08-03T18:43:09Z",
-    "scanned_at": "2026-08-06T13:42:09.920576+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280602+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000115",
     "title": "[BUG] LDAP Injection → Anonymous Bind Bypass $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1490",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1032,11 +1071,11 @@
     "comments": 11,
     "created_at": "2026-07-26T11:20:43Z",
     "updated_at": "2026-08-03T18:43:11Z",
-    "scanned_at": "2026-08-06T13:42:09.920589+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280622+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000119",
     "title": "[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1478",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1054,11 +1093,11 @@
     "comments": 20,
     "created_at": "2026-07-25T05:16:48Z",
     "updated_at": "2026-08-03T18:43:13Z",
-    "scanned_at": "2026-08-06T13:42:09.920658+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280725+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000122",
     "title": "[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120",
     "url": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/1475",
     "repo": "zhangjiayang6835-cyber/ai-research",
@@ -1076,11 +1115,11 @@
     "comments": 19,
     "created_at": "2026-07-25T05:16:44Z",
     "updated_at": "2026-08-03T18:43:15Z",
-    "scanned_at": "2026-08-06T13:42:09.920718+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280826+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000128",
     "title": "[Bounty] [BOUNTY] [$100 USD] Resprite the corgi into a hyperrealistic front-facing 4K ima",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/690",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1095,11 +1134,11 @@
     "comments": 20,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:49Z",
-    "scanned_at": "2026-08-06T13:42:09.920787+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280929+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000138",
     "title": "[Bounty] [bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/681",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1114,11 +1153,11 @@
     "comments": 63,
     "created_at": "2026-07-23T19:45:46Z",
     "updated_at": "2026-07-26T14:18:32Z",
-    "scanned_at": "2026-08-06T13:42:09.921172+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281542+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000139",
     "title": "[Bounty] [BOUNTY] [900$ USD] [EASY] Rewrite it in rust",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/680",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1133,11 +1172,11 @@
     "comments": 178,
     "created_at": "2026-07-23T16:49:39Z",
     "updated_at": "2026-07-26T14:18:31Z",
-    "scanned_at": "2026-08-06T13:42:09.921206+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281622+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000140",
     "title": "[Bounty] [BOUNTY] [$10000 USD] [OPIRE/AGENTIC] [EASY FOR AI] Add Cultivation skill",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/678",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1152,11 +1191,11 @@
     "comments": 2,
     "created_at": "2026-07-23T15:12:46Z",
     "updated_at": "2026-07-29T12:36:22Z",
-    "scanned_at": "2026-08-06T13:42:09.921214+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281636+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000151",
     "title": "[Bounty] [BOUNTY] [100$] [REQUEST] [NO CODE] [AGENTIC] [EASY] Re-write every comment in A",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/668",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1171,11 +1210,11 @@
     "comments": 398,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-28T15:11:48Z",
-    "scanned_at": "2026-08-06T13:42:09.921416+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281982+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000154",
     "title": "[Bounty] [BOUNTY] [EASY AI TASK] [OPIRE] [OPPORTUNITYIES] [AGENT] [AGENTIC] [UPFRONT PAYM",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/664",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1190,11 +1229,11 @@
     "comments": 11,
     "created_at": "2026-07-22T18:07:11Z",
     "updated_at": "2026-07-29T12:43:21Z",
-    "scanned_at": "2026-08-06T13:42:09.921463+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282043+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000160",
     "title": "[Bounty] [BOUNTY] [$1000] [EASY] [AGENTIC AI] D.O.N.G. Expansion",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/656",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1209,11 +1248,11 @@
     "comments": 2,
     "created_at": "2026-07-22T16:52:49Z",
     "updated_at": "2026-07-26T14:17:44Z",
-    "scanned_at": "2026-08-06T13:42:09.921512+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282127+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000175",
     "title": "[Bounty] [BOUNTY] [$10000] Ported Space Station 13 to the Godot Engine",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/651",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1228,11 +1267,11 @@
     "comments": 1,
     "created_at": "2026-07-22T07:16:55Z",
     "updated_at": "2026-07-26T14:17:41Z",
-    "scanned_at": "2026-08-06T13:42:09.921724+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282477+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000101",
     "title": "[Bounty] [DIRECT] Restore the public ChatGPT bounty inventory tool",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/738",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1247,11 +1286,11 @@
     "comments": 243,
     "created_at": "2026-07-28T07:18:12Z",
     "updated_at": "2026-08-04T06:32:01Z",
-    "scanned_at": "2026-08-06T13:42:09.920230+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280080+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000102",
     "title": "[Bounty] [DIRECT] Add an end-to-end profitable inventory contract test",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/737",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1266,11 +1305,11 @@
     "comments": 4,
     "created_at": "2026-07-28T07:18:11Z",
     "updated_at": "2026-08-04T06:35:54Z",
-    "scanned_at": "2026-08-06T13:42:09.920286+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280171+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000103",
     "title": "[Bounty] [DIRECT] Show solver cash margin before claim",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/736",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1285,11 +1324,11 @@
     "comments": 242,
     "created_at": "2026-07-28T07:18:10Z",
     "updated_at": "2026-08-04T04:43:39Z",
-    "scanned_at": "2026-08-06T13:42:09.920341+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280257+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000104",
     "title": "[Bounty] [DIRECT] Make activation reconciliation lifecycle-aware",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/735",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1304,11 +1343,11 @@
     "comments": 7,
     "created_at": "2026-07-28T07:18:10Z",
     "updated_at": "2026-08-04T05:35:30Z",
-    "scanned_at": "2026-08-06T13:42:09.920395+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280345+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000105",
     "title": "[Bounty] [DIRECT] Add a reusable five-bounty direct seed runner",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/734",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1323,11 +1362,11 @@
     "comments": 25,
     "created_at": "2026-07-28T07:18:09Z",
     "updated_at": "2026-08-04T06:38:42Z",
-    "scanned_at": "2026-08-06T13:42:09.920470+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280435+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000097",
     "title": "[Bounty] [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/747",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1342,11 +1381,11 @@
     "comments": 8,
     "created_at": "2026-07-29T06:16:50Z",
     "updated_at": "2026-08-04T06:06:00Z",
-    "scanned_at": "2026-08-06T13:42:09.920110+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279893+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000159",
     "title": "[Bounty] [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/657",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1361,11 +1400,11 @@
     "comments": 158,
     "created_at": "2026-07-22T16:52:50Z",
     "updated_at": "2026-07-28T15:10:49Z",
-    "scanned_at": "2026-08-06T13:42:09.921503+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282116+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000108",
     "title": "[Bounty] [BOUNTY] [MONEY] [$50] Implement Dodge Rolling",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/710",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1380,11 +1419,11 @@
     "comments": 344,
     "created_at": "2026-07-27T07:53:29Z",
     "updated_at": "2026-08-03T18:43:34Z",
-    "scanned_at": "2026-08-06T13:42:09.920505+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280481+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000124",
     "title": "[Bounty] 💵🐛[BUG BOUNTY] [$50 PER BUG] Complete Removal of Copywritten Material. ⚠️ CRITIC",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/693",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1399,11 +1438,11 @@
     "comments": 15,
     "created_at": "2026-07-24T20:35:57Z",
     "updated_at": "2026-08-03T18:43:36Z",
-    "scanned_at": "2026-08-06T13:42:09.920740+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280857+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000129",
     "title": "[Bounty] Bounty: end-to-end test copperhead create (brief → clean full run) + findings re",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/686",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1418,11 +1457,11 @@
     "comments": 21,
     "created_at": "2026-07-24T08:45:39Z",
     "updated_at": "2026-07-26T14:18:46Z",
-    "scanned_at": "2026-08-06T13:42:09.920794+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280938+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000190",
     "title": "Bounty: end-to-end test copperhead create (brief → clean full run) + findings report",
     "url": "https://github.com/chouhanindustries/copperhead/issues/66",
     "repo": "chouhanindustries/copperhead",
@@ -1436,14 +1475,14 @@
     "language": "unknown",
     "amount_usd": 50,
     "state": "open",
-    "comments": 53,
+    "comments": 56,
     "created_at": "2026-07-24T08:17:43Z",
-    "updated_at": "2026-08-02T23:25:37Z",
-    "scanned_at": "2026-08-06T13:42:13.828726+00:00",
+    "updated_at": "2026-08-06T21:30:36Z",
+    "scanned_at": "2026-08-07T00:22:10.741638+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000237",
+    "id": "BH-000236",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -1460,11 +1499,11 @@
     "comments": 23,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-07-15T17:30:02Z",
-    "scanned_at": "2026-08-06T13:42:13.829777+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743342+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000145",
     "title": "[Bounty] [BOUNTY] [299$] [0.034568 BTC] [Ready for Agent] [Easy] [Easy for Agent] Impleme",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/673",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1479,11 +1518,11 @@
     "comments": 247,
     "created_at": "2026-07-22T22:56:59Z",
     "updated_at": "2026-07-26T14:18:21Z",
-    "scanned_at": "2026-08-06T13:42:09.921302+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281788+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000135",
     "title": "[Bounty] [Bounty] [$30] Apply an owospeak speech filter to the felinid species",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/684",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1498,11 +1537,11 @@
     "comments": 5,
     "created_at": "2026-07-24T06:12:57Z",
     "updated_at": "2026-07-26T14:18:43Z",
-    "scanned_at": "2026-08-06T13:42:09.921039+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281322+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000107",
     "title": "[Bounty] [BOUNTY] [$25] Give space carp visible feet",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/730",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1517,11 +1556,11 @@
     "comments": 128,
     "created_at": "2026-07-27T18:06:58Z",
     "updated_at": "2026-08-03T18:43:40Z",
-    "scanned_at": "2026-08-06T13:42:09.920489+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280458+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000112",
     "title": "[Bounty] [BOUNTY] [$25] Prove that you personally smelled a number we have not chosen yet",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/706",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1536,11 +1575,11 @@
     "comments": 1,
     "created_at": "2026-07-26T18:40:49Z",
     "updated_at": "2026-08-03T18:43:41Z",
-    "scanned_at": "2026-08-06T13:42:09.920556+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280567+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000117",
     "title": "[Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external duplicate iss",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/702",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1555,11 +1594,11 @@
     "comments": 3,
     "created_at": "2026-07-25T23:37:53Z",
     "updated_at": "2026-08-03T18:43:43Z",
-    "scanned_at": "2026-08-06T13:42:09.920612+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280654+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000123",
     "title": "[Bounty] [BOUNTY] [$25] [Priority] [Easy] [Agentic] Puzzlescript implementation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/695",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1574,11 +1613,11 @@
     "comments": 4,
     "created_at": "2026-07-25T04:50:48Z",
     "updated_at": "2026-08-03T18:43:45Z",
-    "scanned_at": "2026-08-06T13:42:09.920726+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280837+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000144",
     "title": "[Bounty] [BOUNTY] [$25] [NO CODE] [REQUEST] Instructions are in issue body",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/674",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1593,11 +1632,11 @@
     "comments": 356,
     "created_at": "2026-07-23T00:09:27Z",
     "updated_at": "2026-07-26T14:18:23Z",
-    "scanned_at": "2026-08-06T13:42:09.921247+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281692+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000176",
     "title": "[Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external duplicate iss",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/652",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1612,11 +1651,11 @@
     "comments": 5,
     "created_at": "2026-07-22T07:16:55Z",
     "updated_at": "2026-07-26T14:17:42Z",
-    "scanned_at": "2026-08-06T13:42:09.921731+00:00",
+    "scanned_at": "2026-08-07T00:22:08.282488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000208",
+    "id": "BH-000207",
     "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
     "repo": "Nexussyn/ai-growth-engine",
@@ -1633,11 +1672,11 @@
     "comments": 19,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-07-29T19:20:09Z",
-    "scanned_at": "2026-08-06T13:42:13.829045+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742135+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000143",
     "title": "[Bounty] [BOUNTY] [$12,345,678] [PRIORITY: CRITICAL] [EASY] [AGENT READY] Replace all ins",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/675",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1652,11 +1691,11 @@
     "comments": 2,
     "created_at": "2026-07-23T00:09:28Z",
     "updated_at": "2026-07-26T14:18:24Z",
-    "scanned_at": "2026-08-06T13:42:09.921241+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281681+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000205",
+    "id": "BH-000204",
     "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
     "repo": "Nexussyn/ai-growth-engine",
@@ -1673,11 +1712,11 @@
     "comments": 28,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-07-29T19:20:08Z",
-    "scanned_at": "2026-08-06T13:42:13.829023+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742102+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000206",
+    "id": "BH-000205",
     "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
     "repo": "Nexussyn/ai-growth-engine",
@@ -1694,11 +1733,11 @@
     "comments": 24,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-07-29T19:20:08Z",
-    "scanned_at": "2026-08-06T13:42:13.829029+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742112+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000207",
+    "id": "BH-000206",
     "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
     "repo": "Nexussyn/ai-growth-engine",
@@ -1715,11 +1754,11 @@
     "comments": 23,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-07-29T19:20:09Z",
-    "scanned_at": "2026-08-06T13:42:13.829036+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742121+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000235",
+    "id": "BH-000234",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -1736,11 +1775,11 @@
     "comments": 22,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-28T13:04:45Z",
-    "scanned_at": "2026-08-06T13:42:13.829765+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743324+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000236",
+    "id": "BH-000235",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -1757,11 +1796,11 @@
     "comments": 33,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-28T08:31:40Z",
-    "scanned_at": "2026-08-06T13:42:13.829772+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000204",
+    "id": "BH-000203",
     "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
     "repo": "Nexussyn/ai-growth-engine",
@@ -1777,11 +1816,11 @@
     "comments": 42,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-07-29T19:20:07Z",
-    "scanned_at": "2026-08-06T13:42:13.829014+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742090+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000209",
+    "id": "BH-000208",
     "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
     "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
     "repo": "Nexussyn/ai-growth-platform",
@@ -1796,31 +1835,97 @@
     "comments": 15,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-08-04T16:59:43Z",
-    "scanned_at": "2026-08-06T13:42:13.829050+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742145+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
-    "title": "🎯 Handle Context Cancellation during CompleteMultipartUpload to Prevent Orphaned Multipart Uploads",
-    "url": "https://github.com/carmelloby11/MinIO-Go-Client/issues/1",
-    "repo": "carmelloby11/MinIO-Go-Client",
-    "number": 1,
+    "title": "[BOUNTY] Suggestion #1078",
+    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1104",
+    "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+    "number": 1104,
     "labels": [
-      "bounty",
-      "opire",
-      "$10"
+      "bounty"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
-    "created_at": "2026-08-06T13:38:20Z",
-    "updated_at": "2026-08-06T13:38:25Z",
-    "scanned_at": "2026-08-06T13:40:56.905595+00:00",
+    "comments": 0,
+    "created_at": "2026-08-06T21:11:53Z",
+    "updated_at": "2026-08-06T21:11:53Z",
+    "scanned_at": "2026-08-07T00:20:56.614938+00:00",
     "status": "new"
   },
   {
     "id": "BH-000002",
+    "title": "[UX] Absorb merged journey reports into actionable docs/issues",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/868",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 868,
+    "labels": [
+      "user-journey",
+      "status: competition",
+      "ready",
+      "bounty",
+      "zero-bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-08-06T16:02:26Z",
+    "updated_at": "2026-08-06T22:47:46Z",
+    "scanned_at": "2026-08-07T00:20:56.615089+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "📱 Integrazione Telegram Bot per AgricoloBot",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33",
+    "repo": "MyZubster-Ecosystem/MyZubster-Marketplace",
+    "number": 33,
+    "labels": [
+      "bounty",
+      "integration",
+      "community",
+      "feature",
+      "telegram",
+      "bot"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-08-06T15:22:49Z",
+    "updated_at": "2026-08-06T23:23:23Z",
+    "scanned_at": "2026-08-07T00:20:56.615207+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000005",
+    "title": "📡 Installazione sensori Arduino per orti urbani di Rimini",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/21",
+    "repo": "MyZubster-Ecosystem/MyZubster-Marketplace",
+    "number": 21,
+    "labels": [
+      "bounty",
+      "rimini",
+      "hardware",
+      "arduino",
+      "sensors",
+      "iot"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-08-06T14:52:50Z",
+    "updated_at": "2026-08-06T14:52:50Z",
+    "scanned_at": "2026-08-07T00:20:56.615266+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
     "title": "🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recovery",
     "url": "https://github.com/colmev080/pgx/issues/3",
     "repo": "colmev080/pgx",
@@ -1833,14 +1938,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "created_at": "2026-08-06T12:41:03Z",
-    "updated_at": "2026-08-06T13:23:35Z",
-    "scanned_at": "2026-08-06T13:40:56.905739+00:00",
+    "updated_at": "2026-08-06T16:19:11Z",
+    "scanned_at": "2026-08-07T00:20:56.615455+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000007",
     "title": "🤖 [BOUNTY] EVA IONI - Prototipo braccio robotico per orti urbani",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/750",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1857,11 +1962,11 @@
     "comments": 2,
     "created_at": "2026-08-06T12:16:56Z",
     "updated_at": "2026-08-06T12:19:42Z",
-    "scanned_at": "2026-08-06T13:40:56.905760+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000008",
     "title": "🌱 [BOUNTY] Sensori IoT per orti urbani - Temperatura e umidità",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/749",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1877,11 +1982,11 @@
     "comments": 1,
     "created_at": "2026-08-06T11:50:33Z",
     "updated_at": "2026-08-06T12:19:36Z",
-    "scanned_at": "2026-08-06T13:40:56.905780+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000009",
     "title": "🌱 [BOUNTY] Mercato Semi - Scambio semi e talee",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/747",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1897,11 +2002,11 @@
     "comments": 1,
     "created_at": "2026-08-06T11:06:10Z",
     "updated_at": "2026-08-06T12:19:31Z",
-    "scanned_at": "2026-08-06T13:40:56.905809+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000010",
     "title": "🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/746",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1914,14 +2019,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 8,
     "created_at": "2026-08-06T11:06:05Z",
-    "updated_at": "2026-08-06T11:06:05Z",
-    "scanned_at": "2026-08-06T13:40:56.905825+00:00",
+    "updated_at": "2026-08-06T23:39:04Z",
+    "scanned_at": "2026-08-07T00:20:56.615583+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000011",
     "title": "🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/745",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1934,14 +2039,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 4,
     "created_at": "2026-08-06T11:05:57Z",
-    "updated_at": "2026-08-06T11:05:57Z",
-    "scanned_at": "2026-08-06T13:40:56.905844+00:00",
+    "updated_at": "2026-08-06T23:35:10Z",
+    "scanned_at": "2026-08-07T00:20:56.615611+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000012",
     "title": "🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/744",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1954,14 +2059,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 5,
     "created_at": "2026-08-06T11:05:25Z",
-    "updated_at": "2026-08-06T12:16:50Z",
-    "scanned_at": "2026-08-06T13:40:56.905859+00:00",
+    "updated_at": "2026-08-06T16:03:09Z",
+    "scanned_at": "2026-08-07T00:20:56.615636+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000013",
     "title": "🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/743",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1974,14 +2079,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 5,
+    "comments": 11,
     "created_at": "2026-08-06T11:05:20Z",
-    "updated_at": "2026-08-06T12:55:15Z",
-    "scanned_at": "2026-08-06T13:40:56.905875+00:00",
+    "updated_at": "2026-08-06T17:04:29Z",
+    "scanned_at": "2026-08-07T00:20:56.615678+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000014",
     "title": "🌱 [BOUNTY] API Arduino per sensori pH/EC - Orti Urbani",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/742",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1995,14 +2100,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 8,
+    "comments": 18,
     "created_at": "2026-08-06T11:03:48Z",
-    "updated_at": "2026-08-06T12:55:07Z",
-    "scanned_at": "2026-08-06T13:40:56.905893+00:00",
+    "updated_at": "2026-08-06T17:04:28Z",
+    "scanned_at": "2026-08-07T00:20:56.615708+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000015",
     "title": "[PAGAMENTI] Crypto - BTC/ETH/ADA",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/741",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2019,11 +2124,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:52:18Z",
     "updated_at": "2026-08-06T12:19:54Z",
-    "scanned_at": "2026-08-06T13:40:56.905906+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615728+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000016",
     "title": "[PAGAMENTI] Batch - Pagamenti multipli",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/740",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2040,11 +2145,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:52:16Z",
     "updated_at": "2026-08-06T12:19:48Z",
-    "scanned_at": "2026-08-06T13:40:56.905917+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615747+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000017",
     "title": "[PAGAMENTI] Ricorrenti - Subscription",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/739",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2061,11 +2166,11 @@
     "comments": 3,
     "created_at": "2026-08-06T10:52:14Z",
     "updated_at": "2026-08-06T12:25:44Z",
-    "scanned_at": "2026-08-06T13:40:56.905929+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615767+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000018",
     "title": "[PAGAMENTI] Fiat - USD/EUR/GBP",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/738",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2082,11 +2187,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:52:12Z",
     "updated_at": "2026-08-06T12:25:49Z",
-    "scanned_at": "2026-08-06T13:40:56.905940+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615786+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000019",
     "title": "[PAGAMENTI] Stablecoin - USDC/USDT",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/737",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2103,11 +2208,11 @@
     "comments": 3,
     "created_at": "2026-08-06T10:52:10Z",
     "updated_at": "2026-08-06T12:25:56Z",
-    "scanned_at": "2026-08-06T13:40:56.905953+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615805+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000020",
     "title": "[AGENTI-IA] Monitoraggio - IA in tempo reale",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/736",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2124,11 +2229,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:52:03Z",
     "updated_at": "2026-08-06T12:26:02Z",
-    "scanned_at": "2026-08-06T13:40:56.905966+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615826+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000021",
     "title": "[AGENTI-IA] IA - Portfolio ottimizzazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/735",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2145,11 +2250,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:52:01Z",
     "updated_at": "2026-08-06T12:26:07Z",
-    "scanned_at": "2026-08-06T13:40:56.905978+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615846+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000022",
     "title": "[AGENTI-IA] Supporto - Chatbot IA",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/734",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2166,11 +2271,11 @@
     "comments": 3,
     "created_at": "2026-08-06T10:51:59Z",
     "updated_at": "2026-08-06T12:26:12Z",
-    "scanned_at": "2026-08-06T13:40:56.905992+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615865+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000023",
     "title": "[AGENTI-IA] IA - Pagamenti intelligenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/733",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2187,11 +2292,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:57Z",
     "updated_at": "2026-08-06T12:26:18Z",
-    "scanned_at": "2026-08-06T13:40:56.906004+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000024",
     "title": "[AGENTI-IA] IA - Escrow intelligente",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/732",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2208,11 +2313,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:55Z",
     "updated_at": "2026-08-06T12:26:23Z",
-    "scanned_at": "2026-08-06T13:40:56.906015+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615916+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000025",
     "title": "[AGENTI-IA] Agenti - Automazione robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/731",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2229,11 +2334,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:53Z",
     "updated_at": "2026-08-06T12:26:29Z",
-    "scanned_at": "2026-08-06T13:40:56.906027+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615936+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000026",
     "title": "[ESCROW] Dashboard - Gestione escrow",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/730",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2250,11 +2355,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:49Z",
     "updated_at": "2026-08-06T12:26:35Z",
-    "scanned_at": "2026-08-06T13:40:56.906039+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615956+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000027",
     "title": "[ESCROW] Multi-currency - MYZ e XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/729",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2271,11 +2376,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:48Z",
     "updated_at": "2026-08-06T10:51:48Z",
-    "scanned_at": "2026-08-06T13:40:56.906050+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615976+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000028",
     "title": "[ESCROW] Automazione - Escrow automatico",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/728",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2292,11 +2397,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:46Z",
     "updated_at": "2026-08-06T10:51:46Z",
-    "scanned_at": "2026-08-06T13:40:56.906061+00:00",
+    "scanned_at": "2026-08-07T00:20:56.615995+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000029",
     "title": "[ESCROW] Dispute - Sistema di risoluzione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/727",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2313,11 +2418,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:44Z",
     "updated_at": "2026-08-06T10:51:44Z",
-    "scanned_at": "2026-08-06T13:40:56.906074+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616014+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000030",
     "title": "[ESCROW] Multi-step - Deposito a step",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/726",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2334,11 +2439,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:42Z",
     "updated_at": "2026-08-06T12:36:36Z",
-    "scanned_at": "2026-08-06T13:40:56.906085+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616034+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000031",
     "title": "[API] Docs - Documentazione interattiva",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/725",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2355,11 +2460,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:39Z",
     "updated_at": "2026-08-06T10:51:39Z",
-    "scanned_at": "2026-08-06T13:40:56.906096+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616053+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000032",
     "title": "[API] WebSocket - Real-time",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/724",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2376,11 +2481,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:37Z",
     "updated_at": "2026-08-06T10:51:37Z",
-    "scanned_at": "2026-08-06T13:40:56.906107+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616074+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000033",
     "title": "[API] SDK - Librerie per sviluppatori",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/723",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2397,11 +2502,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:35Z",
     "updated_at": "2026-08-06T10:51:35Z",
-    "scanned_at": "2026-08-06T13:40:56.906117+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616097+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000034",
     "title": "[API] Wallet - Gestione portafoglio",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/722",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2418,11 +2523,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:33Z",
     "updated_at": "2026-08-06T10:51:33Z",
-    "scanned_at": "2026-08-06T13:40:56.906128+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616118+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000035",
     "title": "[API] Pagamenti - API completa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/721",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2439,11 +2544,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:31Z",
     "updated_at": "2026-08-06T10:51:31Z",
-    "scanned_at": "2026-08-06T13:40:56.906140+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616137+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000036",
     "title": "[API] Robot - API completa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/720",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2460,11 +2565,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:51:29Z",
     "updated_at": "2026-08-06T12:36:35Z",
-    "scanned_at": "2026-08-06T13:40:56.906153+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616158+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000037",
     "title": "[MONITORAGGIO] Admin - Dashboard amministrativa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/719",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2481,11 +2586,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:26Z",
     "updated_at": "2026-08-06T10:51:26Z",
-    "scanned_at": "2026-08-06T13:40:56.906165+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616179+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000038",
     "title": "[MONITORAGGIO] Verifica - Pagamenti automatizzata",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/718",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2502,11 +2607,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:24Z",
     "updated_at": "2026-08-06T10:51:24Z",
-    "scanned_at": "2026-08-06T13:40:56.906178+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000039",
     "title": "[MONITORAGGIO] Analisi - Pagamenti e trend",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/717",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2523,11 +2628,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:22Z",
     "updated_at": "2026-08-06T10:51:22Z",
-    "scanned_at": "2026-08-06T13:40:56.906193+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616219+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000040",
     "title": "[MONITORAGGIO] Allarmi - Notifiche pagamenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/716",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2544,11 +2649,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:20Z",
     "updated_at": "2026-08-06T10:51:20Z",
-    "scanned_at": "2026-08-06T13:40:56.906206+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616243+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000041",
     "title": "[MONITORAGGIO] Dashboard - Monitoraggio pagamenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/715",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2565,11 +2670,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:18Z",
     "updated_at": "2026-08-06T10:51:18Z",
-    "scanned_at": "2026-08-06T13:40:56.906221+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616264+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000042",
     "title": "[PORTAFOGLIO] API - Gestione portafoglio",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/714",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2586,11 +2691,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:13Z",
     "updated_at": "2026-08-06T10:51:13Z",
-    "scanned_at": "2026-08-06T13:40:56.906234+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616284+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000043",
     "title": "[PORTAFOGLIO] Sicurezza - 2FA e autenticazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/713",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2607,11 +2712,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:11Z",
     "updated_at": "2026-08-06T10:51:11Z",
-    "scanned_at": "2026-08-06T13:40:56.906245+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616306+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000044",
     "title": "[PORTAFOGLIO] Multi-wallet - Supporto wallet multipli",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/712",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2628,11 +2733,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:09Z",
     "updated_at": "2026-08-06T10:51:09Z",
-    "scanned_at": "2026-08-06T13:40:56.906258+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616325+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000045",
     "title": "[PORTAFOGLIO] Bilancio - Analisi finanziaria",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/711",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2649,11 +2754,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:07Z",
     "updated_at": "2026-08-06T10:51:07Z",
-    "scanned_at": "2026-08-06T13:40:56.906271+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616345+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000046",
     "title": "[PORTAFOGLIO] Storico - Transazioni avanzato",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/710",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2670,11 +2775,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:05Z",
     "updated_at": "2026-08-06T10:51:05Z",
-    "scanned_at": "2026-08-06T13:40:56.906285+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616365+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000047",
     "title": "[PORTAFOGLIO] Dashboard - Gestione unificata MYZ/XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/709",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2691,11 +2796,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:51:03Z",
     "updated_at": "2026-08-06T10:51:03Z",
-    "scanned_at": "2026-08-06T13:40:56.906298+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616385+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000048",
     "title": "[WALLET] Dashboard - Wallet MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/708",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2712,11 +2817,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:35:16Z",
     "updated_at": "2026-08-06T10:35:16Z",
-    "scanned_at": "2026-08-06T13:40:56.906317+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616404+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000049",
     "title": "[BENZINA-XMR] App stazione - XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/707",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2734,11 +2839,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:27Z",
     "updated_at": "2026-08-06T10:33:27Z",
-    "scanned_at": "2026-08-06T13:40:56.906332+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616426+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000050",
     "title": "[BENZINA-XMR] Multi-currency - MYZ e XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/706",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2756,11 +2861,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:25Z",
     "updated_at": "2026-08-06T10:33:25Z",
-    "scanned_at": "2026-08-06T13:40:56.906346+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616450+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000051",
     "title": "[BENZINA-XMR] Notifiche - Rifornimento XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/705",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2778,11 +2883,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:24Z",
     "updated_at": "2026-08-06T10:33:24Z",
-    "scanned_at": "2026-08-06T13:40:56.906361+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000052",
     "title": "[BENZINA-XMR] Gateway - Integrazione Monero",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/704",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2800,11 +2905,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:22Z",
     "updated_at": "2026-08-06T10:33:22Z",
-    "scanned_at": "2026-08-06T13:40:56.906374+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616492+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000053",
     "title": "[BENZINA-XMR] Conversione - XMR a benzina",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/703",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2822,11 +2927,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:20Z",
     "updated_at": "2026-08-06T10:33:20Z",
-    "scanned_at": "2026-08-06T13:40:56.906387+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616517+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000054",
     "title": "[BENZINA-XMR] QR Code - Pagamento XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/702",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2844,11 +2949,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:18Z",
     "updated_at": "2026-08-06T10:33:18Z",
-    "scanned_at": "2026-08-06T13:40:56.906400+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616539+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000055",
     "title": "[BENZINA-XMR] Wallet Monero - Stazioni",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/701",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2866,11 +2971,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:16Z",
     "updated_at": "2026-08-06T10:33:16Z",
-    "scanned_at": "2026-08-06T13:40:56.906414+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616572+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000056",
     "title": "[BENZINA-XMR] Pagamento - Benzina in XMR",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/700",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2888,11 +2993,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:33:14Z",
     "updated_at": "2026-08-06T10:33:14Z",
-    "scanned_at": "2026-08-06T13:40:56.906442+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616597+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000057",
     "title": "[CARBURANTI] Stazione multi - Tutti i carburanti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/699",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2909,11 +3014,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:41Z",
     "updated_at": "2026-08-06T10:32:41Z",
-    "scanned_at": "2026-08-06T13:40:56.906457+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616619+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000058",
     "title": "[CARBURANTI] Gas/GPL - Rifornimento MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/698",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2930,11 +3035,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:39Z",
     "updated_at": "2026-08-06T10:32:39Z",
-    "scanned_at": "2026-08-06T13:40:56.906470+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616639+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000059",
     "title": "[CARBURANTI] Idrogeno - Rifornimento MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/697",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2951,11 +3056,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:37Z",
     "updated_at": "2026-08-06T10:32:37Z",
-    "scanned_at": "2026-08-06T13:40:56.906485+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616659+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000060",
     "title": "[CARBURANTI] Ricarica elettrica - MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/696",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2972,11 +3077,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:35Z",
     "updated_at": "2026-08-06T10:32:35Z",
-    "scanned_at": "2026-08-06T13:40:56.906497+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616680+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000061",
     "title": "[BENZINA] Integrazione - Auto MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/695",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2993,11 +3098,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:31Z",
     "updated_at": "2026-08-06T10:32:31Z",
-    "scanned_at": "2026-08-06T13:40:56.906510+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616705+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000062",
     "title": "[BENZINA] Promozioni - Sconti in MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/694",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3014,11 +3119,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:29Z",
     "updated_at": "2026-08-06T10:55:57Z",
-    "scanned_at": "2026-08-06T13:40:56.906524+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616727+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000063",
     "title": "[BENZINA] Notifiche - Rifornimento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/693",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3035,11 +3140,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:27Z",
     "updated_at": "2026-08-06T10:32:27Z",
-    "scanned_at": "2026-08-06T13:40:56.906537+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616750+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000064",
     "title": "[BENZINA] Conversione - MYZ a benzina",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/692",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3056,11 +3161,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:25Z",
     "updated_at": "2026-08-06T10:32:25Z",
-    "scanned_at": "2026-08-06T13:40:56.906550+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616771+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000065",
     "title": "[BENZINA] Dashboard - Gestione stazioni",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/691",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3077,11 +3182,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:23Z",
     "updated_at": "2026-08-06T10:32:23Z",
-    "scanned_at": "2026-08-06T13:40:56.906564+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616795+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000066",
     "title": "[BENZINA] QR Code - Pagamento pompa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/690",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3098,11 +3203,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:21Z",
     "updated_at": "2026-08-06T10:32:21Z",
-    "scanned_at": "2026-08-06T13:40:56.906577+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616815+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000067",
     "title": "[BENZINA] App stazione - Rifornimento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/689",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3119,11 +3224,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:19Z",
     "updated_at": "2026-08-06T10:32:19Z",
-    "scanned_at": "2026-08-06T13:40:56.906591+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616839+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000068",
     "title": "[BENZINA] Pagamento - Benzina in MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/688",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3140,11 +3245,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:32:17Z",
     "updated_at": "2026-08-06T10:32:17Z",
-    "scanned_at": "2026-08-06T13:40:56.906607+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616862+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000069",
     "title": "[AUTO] Auto per famiglie - Spazio e comfort",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/687",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3161,11 +3266,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:31Z",
     "updated_at": "2026-08-06T10:25:31Z",
-    "scanned_at": "2026-08-06T13:40:56.906621+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616883+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000070",
     "title": "[AUTO] Auto per bambini - Sicurezza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/686",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3182,11 +3287,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:30Z",
     "updated_at": "2026-08-06T10:25:30Z",
-    "scanned_at": "2026-08-06T13:40:56.906633+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616903+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000071",
     "title": "[AUTO] Auto per anziani - Assistenza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/685",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3203,11 +3308,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:28Z",
     "updated_at": "2026-08-06T10:25:28Z",
-    "scanned_at": "2026-08-06T13:40:56.906646+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616924+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000072",
     "title": "[AUTO] Auto per disabili - Accessibilità",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/684",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3224,11 +3329,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:26Z",
     "updated_at": "2026-08-06T10:25:26Z",
-    "scanned_at": "2026-08-06T13:40:56.906661+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616945+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000073",
     "title": "[AUTO] Manutenzione - Predittiva",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/683",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3245,11 +3350,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:22Z",
     "updated_at": "2026-08-06T10:25:22Z",
-    "scanned_at": "2026-08-06T13:40:56.906675+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616970+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000074",
     "title": "[AUTO] Assicurazione - Pay-as-you-drive",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/682",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3266,11 +3371,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:20Z",
     "updated_at": "2026-08-06T10:25:20Z",
-    "scanned_at": "2026-08-06T13:40:56.906689+00:00",
+    "scanned_at": "2026-08-07T00:20:56.616992+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000075",
     "title": "[AUTO] Stazioni di ricarica - Rete",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/681",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3287,11 +3392,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:18Z",
     "updated_at": "2026-08-06T10:25:18Z",
-    "scanned_at": "2026-08-06T13:40:56.906702+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617012+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000076",
     "title": "[AUTO] Flotta autonoma - Gestione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/680",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3308,11 +3413,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:16Z",
     "updated_at": "2026-08-06T10:25:16Z",
-    "scanned_at": "2026-08-06T13:40:56.906714+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617033+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000077",
     "title": "[AUTO] Ride hailing - Taxi autonomi",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/679",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3329,11 +3434,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:14Z",
     "updated_at": "2026-08-06T10:25:14Z",
-    "scanned_at": "2026-08-06T13:40:56.906726+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617055+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000078",
     "title": "[AUTO] Car sharing - Auto condivise",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/678",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3350,11 +3455,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:12Z",
     "updated_at": "2026-08-06T10:25:12Z",
-    "scanned_at": "2026-08-06T13:40:56.906739+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000079",
     "title": "[AUTO] App MyZubster - Controllo auto",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/677",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3371,11 +3476,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:08Z",
     "updated_at": "2026-08-06T10:25:08Z",
-    "scanned_at": "2026-08-06T13:40:56.906754+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617098+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000080",
     "title": "[AUTO] Sicurezza - Sistemi di sicurezza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/676",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3392,11 +3497,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:07Z",
     "updated_at": "2026-08-06T10:25:07Z",
-    "scanned_at": "2026-08-06T13:40:56.906767+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617119+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000081",
     "title": "[AUTO] Connettività - IoT e cloud",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/675",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3413,11 +3518,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:05Z",
     "updated_at": "2026-08-06T10:25:05Z",
-    "scanned_at": "2026-08-06T13:40:56.906781+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617139+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000082",
     "title": "[AUTO] Infotainment - UI auto",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/674",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3434,11 +3539,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:03Z",
     "updated_at": "2026-08-06T10:25:03Z",
-    "scanned_at": "2026-08-06T13:40:56.906794+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617159+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000083",
     "title": "[AUTO] Batteria - Autonomia 500km",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/673",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3455,11 +3560,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:25:01Z",
     "updated_at": "2026-08-06T10:25:01Z",
-    "scanned_at": "2026-08-06T13:40:56.906807+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000084",
     "title": "[AUTO] Software - Guida autonoma",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/672",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3476,11 +3581,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:24:59Z",
     "updated_at": "2026-08-06T10:24:59Z",
-    "scanned_at": "2026-08-06T13:40:56.906819+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617204+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000085",
     "title": "[AUTO] Sensori - Lidar, radar, camera",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/671",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3497,11 +3602,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:24:57Z",
     "updated_at": "2026-08-06T10:24:57Z",
-    "scanned_at": "2026-08-06T13:40:56.906833+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617225+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000086",
     "title": "[AUTO] Navigazione autonoma - GPS e mapping",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/670",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3518,11 +3623,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:24:55Z",
     "updated_at": "2026-08-06T10:24:55Z",
-    "scanned_at": "2026-08-06T13:40:56.906846+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617247+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000087",
     "title": "[AUTO] Auto elettrica - IA per guida",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/669",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3539,11 +3644,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:24:54Z",
     "updated_at": "2026-08-06T10:24:54Z",
-    "scanned_at": "2026-08-06T13:40:56.906859+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617271+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000088",
     "title": "[AUTO] Auto autonoma L4 - Trasporto persone",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/668",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3560,11 +3665,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:24:52Z",
     "updated_at": "2026-08-06T10:24:52Z",
-    "scanned_at": "2026-08-06T13:40:56.906873+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617295+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000089",
     "title": "[RICERCA] Journal Robotica - MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/667",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3580,11 +3685,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:53Z",
     "updated_at": "2026-08-06T10:16:53Z",
-    "scanned_at": "2026-08-06T13:40:56.906886+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617314+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000090",
     "title": "[RICERCA] Research Grants - Robotica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/666",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3600,11 +3705,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:51Z",
     "updated_at": "2026-08-06T10:16:51Z",
-    "scanned_at": "2026-08-06T13:40:56.906897+00:00",
+    "scanned_at": "2026-08-07T00:20:56.617333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000237",
     "title": "[RICERCA] Industrial Research - Robotica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/665",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3620,11 +3725,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:50Z",
     "updated_at": "2026-08-06T10:16:50Z",
-    "scanned_at": "2026-08-06T13:40:56.906908+00:00",
+    "scanned_at": "2026-08-07T00:22:16.660966+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000238",
     "title": "[RICERCA] Academic Network - Robotica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/664",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3640,11 +3745,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:48Z",
     "updated_at": "2026-08-06T10:16:48Z",
-    "scanned_at": "2026-08-06T13:40:56.906920+00:00",
+    "scanned_at": "2026-08-07T00:22:16.661006+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000239",
     "title": "[RICERCA] Crowdsourced Research - Robotica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/663",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3660,11 +3765,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:47Z",
     "updated_at": "2026-08-06T10:16:47Z",
-    "scanned_at": "2026-08-06T13:40:56.906931+00:00",
+    "scanned_at": "2026-08-07T00:22:16.661028+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000240",
     "title": "[RICERCA] Open Research - Robotica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/662",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3680,51 +3785,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:45Z",
     "updated_at": "2026-08-06T10:16:45Z",
-    "scanned_at": "2026-08-06T13:40:56.906942+00:00",
+    "scanned_at": "2026-08-07T00:22:16.661047+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000238",
-    "title": "[RICERCA] Research Lab - Robotica",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/661",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 661,
-    "labels": [
-      "bounty",
-      "robot",
-      "ricerca"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-08-06T10:16:43Z",
-    "updated_at": "2026-08-06T10:16:43Z",
-    "scanned_at": "2026-08-06T13:42:20.030175+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000239",
-    "title": "[DOCUMENTAZIONE] Documentazione tecnica - Robot",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/660",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 660,
-    "labels": [
-      "bounty",
-      "robot",
-      "documentazione"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-08-06T10:16:39Z",
-    "updated_at": "2026-08-06T10:16:39Z",
-    "scanned_at": "2026-08-06T13:42:20.030207+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000181",
+    "id": "BH-000180",
     "title": "[bounty] Shared rate-limit middleware (hot-key correct)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/11",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3740,11 +3805,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-06T09:49:28Z",
-    "scanned_at": "2026-08-06T13:42:13.828382+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741180+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000181",
     "title": "[bounty] Preview-DB seeding + reset endpoint",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/10",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3760,11 +3825,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-06T10:06:34Z",
-    "scanned_at": "2026-08-06T13:42:13.828458+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741243+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000182",
     "title": "[bounty] Per-clone observability (logs + /metrics + middleware)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/9",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3780,11 +3845,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-08-06T09:15:27Z",
-    "scanned_at": "2026-08-06T13:42:13.828497+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741294+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000183",
     "title": "[bounty] Voucher clone (single-use redemption)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/8",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3800,11 +3865,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-06T11:03:58Z",
-    "scanned_at": "2026-08-06T13:42:13.828529+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741341+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000184",
     "title": "[bounty] Inventory / reservation clone (never oversell)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/7",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3820,11 +3885,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-06T09:15:24Z",
-    "scanned_at": "2026-08-06T13:42:13.828562+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741387+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000185",
     "title": "[bounty] Wallet clone (atomic transfers + ledger)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/6",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3840,11 +3905,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-06T09:15:21Z",
-    "scanned_at": "2026-08-06T13:42:13.828595+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741436+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000186",
     "title": "[bounty] Gallery: contributor credit + \"new since last visit\"",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/5",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3860,11 +3925,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-08-06T09:22:58Z",
-    "scanned_at": "2026-08-06T13:42:13.828627+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741485+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000187",
     "title": "[bounty] Paste clone (view-once)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/4",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3880,11 +3945,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-06T09:15:18Z",
-    "scanned_at": "2026-08-06T13:42:13.828659+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741531+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000188",
     "title": "[bounty] Shortlink clone",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/3",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -3900,53 +3965,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-08-06T09:42:53Z",
-    "scanned_at": "2026-08-06T13:42:13.828691+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741592+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
-    "title": "[UX] Absorb journey report findings into docs and code",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/855",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 855,
-    "labels": [
-      "status: competition",
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 10,
-    "created_at": "2026-08-06T07:23:02Z",
-    "updated_at": "2026-08-06T13:03:13Z",
-    "scanned_at": "2026-08-06T13:42:09.919793+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000092",
-    "title": "v2.16.0 — Remote MCP 稳定化 + 首次接入体验闭环",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/835",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 835,
-    "labels": [
-      "status: competition",
-      "ready",
-      "bounty",
-      "core-bounty",
-      "agent-friendly"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-08-06T03:19:31Z",
-    "updated_at": "2026-08-06T10:48:18Z",
-    "scanned_at": "2026-08-06T13:42:09.919886+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000190",
+    "id": "BH-000189",
     "title": "Bounty template for verified work",
     "url": "https://github.com/OxBenji/progress-ledger/issues/2",
     "repo": "OxBenji/progress-ledger",
@@ -3960,11 +3983,11 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-08-06T13:42:13.828709+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741621+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000092",
     "title": "[Bounty] 发布 MisakaNet Remote MCP 社媒引流帖",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/818",
     "repo": "Ikalus1988/MisakaNet",
@@ -3983,11 +4006,11 @@
     "comments": 1,
     "created_at": "2026-08-05T17:11:02Z",
     "updated_at": "2026-08-06T02:11:38Z",
-    "scanned_at": "2026-08-06T13:42:09.919974+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279670+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000094",
     "title": "[P2][Analytics] Track first-call funnel manually for Glama",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/763",
     "repo": "Ikalus1988/MisakaNet",
@@ -4007,11 +4030,11 @@
     "comments": 200,
     "created_at": "2026-08-02T06:59:51Z",
     "updated_at": "2026-08-03T18:44:29Z",
-    "scanned_at": "2026-08-06T13:42:09.920039+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279776+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000096",
     "title": "[Onboarding] Try MisakaNet — search a lesson + register your node",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/646",
     "repo": "Ikalus1988/MisakaNet",
@@ -4033,11 +4056,11 @@
     "comments": 16,
     "created_at": "2026-07-29T14:38:14Z",
     "updated_at": "2026-08-03T18:44:51Z",
-    "scanned_at": "2026-08-06T13:42:09.920102+00:00",
+    "scanned_at": "2026-08-07T00:22:08.279880+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000126",
     "title": "[Bounty] [BOUNTY] 1000 USD - Fix all flaky unit tests",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/691",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -4052,11 +4075,11 @@
     "comments": 2,
     "created_at": "2026-07-24T17:22:33Z",
     "updated_at": "2026-08-03T18:40:57Z",
-    "scanned_at": "2026-08-06T13:42:09.920775+00:00",
+    "scanned_at": "2026-08-07T00:22:08.280911+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000130",
     "title": "🏆 [BOUNTY] Ruby Adapter — lh_standard_adapter for RubyGems",
     "url": "https://github.com/UID9622/lh-standard-adapter/issues/5",
     "repo": "UID9622/lh-standard-adapter",
@@ -4072,11 +4095,11 @@
     "comments": 9,
     "created_at": "2026-07-24T06:14:00Z",
     "updated_at": "2026-07-26T15:34:56Z",
-    "scanned_at": "2026-08-06T13:42:09.920834+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281001+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000131",
     "title": "🏆 [BOUNTY] Java/Kotlin Adapter — lh_standard_adapter for Maven Central",
     "url": "https://github.com/UID9622/lh-standard-adapter/issues/4",
     "repo": "UID9622/lh-standard-adapter",
@@ -4092,11 +4115,11 @@
     "comments": 8,
     "created_at": "2026-07-24T06:13:54Z",
     "updated_at": "2026-07-26T15:34:55Z",
-    "scanned_at": "2026-08-06T13:42:09.920879+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281070+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000132",
     "title": "🏆 [BOUNTY] Rust Adapter — lh_standard_adapter for crates.io",
     "url": "https://github.com/UID9622/lh-standard-adapter/issues/3",
     "repo": "UID9622/lh-standard-adapter",
@@ -4112,11 +4135,11 @@
     "comments": 5,
     "created_at": "2026-07-24T06:13:48Z",
     "updated_at": "2026-07-26T15:34:54Z",
-    "scanned_at": "2026-08-06T13:42:09.920925+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281143+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000133",
     "title": "🏆 [BOUNTY] Go Adapter — lh_standard_adapter for Go modules",
     "url": "https://github.com/UID9622/lh-standard-adapter/issues/2",
     "repo": "UID9622/lh-standard-adapter",
@@ -4132,11 +4155,11 @@
     "comments": 8,
     "created_at": "2026-07-24T06:13:43Z",
     "updated_at": "2026-07-26T15:34:52Z",
-    "scanned_at": "2026-08-06T13:42:09.920967+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281211+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000134",
     "title": "🏆 [BOUNTY] JavaScript/TypeScript Adapter — lh_standard_adapter for npm",
     "url": "https://github.com/UID9622/lh-standard-adapter/issues/1",
     "repo": "UID9622/lh-standard-adapter",
@@ -4152,11 +4175,11 @@
     "comments": 7,
     "created_at": "2026-07-24T06:13:35Z",
     "updated_at": "2026-07-26T15:34:51Z",
-    "scanned_at": "2026-08-06T13:42:09.921031+00:00",
+    "scanned_at": "2026-08-07T00:22:08.281310+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000191",
     "title": "[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/5",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4172,11 +4195,11 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-08-06T13:42:13.828758+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741692+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000192",
     "title": "[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/4",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4192,11 +4215,11 @@
     "comments": 25,
     "created_at": "2026-07-23T14:27:55Z",
     "updated_at": "2026-07-29T22:35:54Z",
-    "scanned_at": "2026-08-06T13:42:13.828789+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741741+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000193",
     "title": "[Bounty] 6-second AI receipt video loop - 150 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/3",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4211,11 +4234,11 @@
     "comments": 5,
     "created_at": "2026-07-23T14:27:54Z",
     "updated_at": "2026-07-29T22:35:29Z",
-    "scanned_at": "2026-08-06T13:42:13.828820+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000194",
     "title": "[Bounty] 1024px AI-work receipt image - 100 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/2",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4230,11 +4253,11 @@
     "comments": 6,
     "created_at": "2026-07-23T14:27:52Z",
     "updated_at": "2026-07-29T22:34:28Z",
-    "scanned_at": "2026-08-06T13:42:13.828851+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741839+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000195",
     "title": "Really important",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/45",
     "repo": "iii123iii/Crystal-PDF",
@@ -4254,11 +4277,11 @@
     "comments": 4,
     "created_at": "2026-07-16T07:21:53Z",
     "updated_at": "2026-07-29T19:06:14Z",
-    "scanned_at": "2026-08-06T13:42:13.828863+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741856+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000196",
     "title": "[50 MRG] Electron: auto-update stub wiring (electron-updater optional, off by default)",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/29",
     "repo": "mergeos-bounties/Gomi",
@@ -4276,11 +4299,11 @@
     "comments": 10,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-08-04T06:36:00Z",
-    "scanned_at": "2026-08-06T13:42:13.828896+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741909+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000197",
     "title": "[100 MRG] Webview host bridge: versioned message validation + size limits",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/22",
     "repo": "mergeos-bounties/Gomi",
@@ -4298,11 +4321,11 @@
     "comments": 5,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-08-04T06:52:28Z",
-    "scanned_at": "2026-08-06T13:42:13.828947+00:00",
+    "scanned_at": "2026-08-07T00:22:10.741986+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000198",
     "title": "Bug bounty 100 usd to whoever makes my landing page responsive for mobile",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/3",
     "repo": "iii123iii/Crystal-PDF",
@@ -4320,11 +4343,11 @@
     "comments": 41,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-08-05T23:24:28Z",
-    "scanned_at": "2026-08-06T13:42:13.828958+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742003+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000199",
     "title": "Fix speed",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/2",
     "repo": "iii123iii/Crystal-PDF",
@@ -4341,11 +4364,11 @@
     "comments": 10,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-07-29T19:20:05Z",
-    "scanned_at": "2026-08-06T13:42:13.828965+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742013+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000200",
     "title": "Add payout receipt export for community admins",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/28",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4359,11 +4382,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:34Z",
     "updated_at": "2026-07-13T12:05:56Z",
-    "scanned_at": "2026-08-06T13:42:13.828979+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742035+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000201",
     "title": "Audit the mobile join flow for accessibility",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/27",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4377,11 +4400,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:32Z",
     "updated_at": "2026-07-13T12:05:53Z",
-    "scanned_at": "2026-08-06T13:42:13.828993+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742058+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000202",
     "title": "Document the Solana devnet deployment and smoke test",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/26",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4395,11 +4418,11 @@
     "comments": 13,
     "created_at": "2026-07-05T05:56:31Z",
     "updated_at": "2026-07-13T12:05:48Z",
-    "scanned_at": "2026-08-06T13:42:13.829006+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742079+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000210",
+    "id": "BH-000209",
     "title": "Fix: Offline sync queue not clearing after successful push",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/52",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4416,11 +4439,11 @@
     "comments": 13,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-20T09:57:09Z",
-    "scanned_at": "2026-08-06T13:42:13.829072+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742179+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000211",
+    "id": "BH-000210",
     "title": "Fix: QR code scanner torch toggle broken on iOS",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/51",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4438,11 +4461,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-30T11:20:25Z",
-    "scanned_at": "2026-08-06T13:42:13.829092+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742209+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000212",
+    "id": "BH-000211",
     "title": "Fix: SOS button not accessible on Android lock screen",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/50",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4460,11 +4483,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-30T11:20:22Z",
-    "scanned_at": "2026-08-06T13:42:13.829114+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742244+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000213",
+    "id": "BH-000212",
     "title": "Appointment conflict detection - improve edge cases",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/49",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4480,11 +4503,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-29T04:29:10Z",
-    "scanned_at": "2026-08-06T13:42:13.829133+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742272+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000214",
+    "id": "BH-000213",
     "title": "Detox E2E tests - QR scan and share flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/48",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4501,11 +4524,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:53Z",
     "updated_at": "2026-07-29T03:53:31Z",
-    "scanned_at": "2026-08-06T13:42:13.829150+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742299+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000215",
+    "id": "BH-000214",
     "title": "Detox E2E tests - medication flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/47",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4522,11 +4545,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:20:43Z",
     "updated_at": "2026-07-29T04:06:25Z",
-    "scanned_at": "2026-08-06T13:42:13.829167+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742327+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000216",
+    "id": "BH-000215",
     "title": "Push notification deep-link routing - all notification types",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/46",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4542,11 +4565,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:33Z",
     "updated_at": "2026-07-30T11:20:28Z",
-    "scanned_at": "2026-08-06T13:42:13.829187+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742359+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000217",
+    "id": "BH-000216",
     "title": "Health metrics export to PDF - vet-ready report",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/45",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4562,11 +4585,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:20:23Z",
     "updated_at": "2026-07-29T04:28:24Z",
-    "scanned_at": "2026-08-06T13:42:13.829208+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742391+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000218",
+    "id": "BH-000217",
     "title": "Stellar trustline UI - PETC / VETH / PAWP token management",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/43",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4583,11 +4606,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:06Z",
     "updated_at": "2026-07-29T04:27:16Z",
-    "scanned_at": "2026-08-06T13:42:13.829228+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742421+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000219",
+    "id": "BH-000218",
     "title": "Pet insurance claims - full submission flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/42",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4603,11 +4626,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:19:55Z",
     "updated_at": "2026-07-29T04:25:22Z",
-    "scanned_at": "2026-08-06T13:42:13.829248+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742453+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000220",
+    "id": "BH-000219",
     "title": "Portuguese (BR) language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/41",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4625,11 +4648,11 @@
     "comments": 11,
     "created_at": "2026-07-02T11:19:45Z",
     "updated_at": "2026-07-27T08:55:33Z",
-    "scanned_at": "2026-08-06T13:42:13.829264+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742476+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000221",
+    "id": "BH-000220",
     "title": "French language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/40",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4647,11 +4670,11 @@
     "comments": 12,
     "created_at": "2026-07-02T11:19:35Z",
     "updated_at": "2026-07-20T11:50:41Z",
-    "scanned_at": "2026-08-06T13:42:13.829281+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742501+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000222",
+    "id": "BH-000221",
     "title": "Dark mode - full app theming audit and fix",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/39",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4668,11 +4691,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:23Z",
     "updated_at": "2026-07-29T03:31:43Z",
-    "scanned_at": "2026-08-06T13:42:13.829301+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742532+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000223",
+    "id": "BH-000222",
     "title": "Apple Watch companion app - SwiftUI health widget",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/38",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4688,11 +4711,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:04Z",
     "updated_at": "2026-07-06T08:16:16Z",
-    "scanned_at": "2026-08-06T13:42:13.829320+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000224",
+    "id": "BH-000223",
     "title": "AI symptom checker backend - breed + symptoms to vet recommendation",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/31",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4709,11 +4732,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:11:20Z",
     "updated_at": "2026-07-07T08:15:36Z",
-    "scanned_at": "2026-08-06T13:42:13.829342+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742616+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000225",
+    "id": "BH-000224",
     "title": "Telemedicine - WebRTC video consultation end-to-end flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/30",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4729,11 +4752,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:11:02Z",
     "updated_at": "2026-07-07T08:11:29Z",
-    "scanned_at": "2026-08-06T13:42:13.829363+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742649+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000226",
+    "id": "BH-000225",
     "title": "Wearable device sync - FitBark and Whistle API integration",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/29",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4749,11 +4772,11 @@
     "comments": 9,
     "created_at": "2026-07-02T11:10:45Z",
     "updated_at": "2026-07-09T11:13:38Z",
-    "scanned_at": "2026-08-06T13:42:13.829382+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742680+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000227",
+    "id": "BH-000226",
     "title": "Soroban smart contract - on-chain pet record registry",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/28",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4767,14 +4790,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 6,
+    "comments": 4,
     "created_at": "2026-07-02T11:10:25Z",
-    "updated_at": "2026-07-29T04:17:20Z",
-    "scanned_at": "2026-08-06T13:42:13.829403+00:00",
+    "updated_at": "2026-08-06T13:53:27Z",
+    "scanned_at": "2026-08-07T00:22:10.742713+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000228",
+    "id": "BH-000227",
     "title": "[Frontend] Implement member contribution form on the group detail page",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/12",
     "repo": "coopfinance/coopfin-frontend",
@@ -4789,11 +4812,11 @@
     "comments": 6,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-09T20:17:03Z",
-    "scanned_at": "2026-08-06T13:42:13.829453+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742775+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000229",
+    "id": "BH-000228",
     "title": "[Frontend] Build individual group detail page at /groups/[id]",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/9",
     "repo": "coopfinance/coopfin-frontend",
@@ -4808,11 +4831,11 @@
     "comments": 4,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-07-29T06:54:16Z",
-    "scanned_at": "2026-08-06T13:42:13.829497+00:00",
+    "scanned_at": "2026-08-07T00:22:10.742843+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000230",
+    "id": "BH-000229",
     "title": "CPU mining capped at 64 threads on Windows machines with 64+ logical cores",
     "url": "https://github.com/tari-project/universe/issues/3299",
     "repo": "tari-project/universe",
@@ -4829,11 +4852,11 @@
     "comments": 2,
     "created_at": "2026-06-29T11:54:21Z",
     "updated_at": "2026-07-17T22:02:25Z",
-    "scanned_at": "2026-08-06T13:42:13.829628+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743050+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000231",
+    "id": "BH-000230",
     "title": "[Frontend] Implement RecentActivity feed on dashboard",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/2",
     "repo": "coopfinance/coopfin-frontend",
@@ -4846,14 +4869,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-06-29T11:08:01Z",
-    "updated_at": "2026-07-29T04:09:34Z",
-    "scanned_at": "2026-08-06T13:42:13.829663+00:00",
+    "updated_at": "2026-08-06T17:50:46Z",
+    "scanned_at": "2026-08-07T00:22:10.743116+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000232",
+    "id": "BH-000231",
     "title": "[Frontend] Implement TreasuryChart component with Recharts area chart",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/1",
     "repo": "coopfinance/coopfin-frontend",
@@ -4869,11 +4892,11 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-08-06T13:42:13.829710+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743208+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000233",
+    "id": "BH-000232",
     "title": "Resolve TS2307 akili module resolution failures in test imports",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/16",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4887,7 +4910,7 @@
     "comments": 5,
     "created_at": "2026-06-29T03:15:04Z",
     "updated_at": "2026-07-20T09:56:11Z",
-    "scanned_at": "2026-08-06T13:42:13.829735+00:00",
+    "scanned_at": "2026-08-07T00:22:10.743278+00:00",
     "status": "new"
   }
 ]
