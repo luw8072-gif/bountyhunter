@@ -1,17 +1,20 @@
 {
-  "updated": "2026-08-09T17:03:59.100081+00:00",
-  "total": 256,
-  "with_amount": 16,
-  "total_value_usd": 2428,
+  "updated": "2026-08-09T17:56:37.609823+00:00",
+  "total": 265,
+  "with_amount": 83,
+  "total_value_usd": 23705,
   "by_language": {
-    "unknown": 251,
-    "go": 2,
+    "unknown": 256,
+    "go": 3,
     "typescript": 2,
-    "python": 1
+    "python": 1,
+    "java": 1,
+    "rust": 1,
+    "javascript": 1
   },
   "by_label": {
-    "bounty": 256,
-    "good first issue": 23,
+    "bounty": 265,
+    "good first issue": 26,
     "help wanted": 39
   }
 }
