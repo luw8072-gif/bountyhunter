@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000094",
+    "id": "BH-000087",
     "title": "[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,11 +15,31 @@
     "comments": 28,
     "created_at": "2026-08-07T00:34:23Z",
     "updated_at": "2026-08-08T10:07:12Z",
-    "scanned_at": "2026-08-09T10:59:31.880246+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609855+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000089",
+    "title": "[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/52328",
+    "repo": "tenstorrent/tt-metal",
+    "number": 52328,
+    "labels": [
+      "community",
+      "bounty",
+      "bounty_difficulty/medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 1500,
+    "state": "open",
+    "comments": 7,
+    "created_at": "2026-08-06T15:43:20Z",
+    "updated_at": "2026-08-08T05:14:00Z",
+    "scanned_at": "2026-08-09T11:29:33.609908+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000193",
     "title": "[Bounty] Validate user creation payloads",
     "url": "https://github.com/xevrion-v2/agent-playground/issues/2207",
     "repo": "xevrion-v2/agent-playground",
@@ -35,11 +55,11 @@
     "comments": 32,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-26T15:02:52Z",
-    "scanned_at": "2026-08-09T11:00:34.532663+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678176+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000061",
     "title": "[Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/807",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -54,11 +74,11 @@
     "comments": 3,
     "created_at": "2026-08-08T09:46:21Z",
     "updated_at": "2026-08-09T04:04:13Z",
-    "scanned_at": "2026-08-09T10:59:16.384209+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608666+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000150",
     "title": "Bounty: end-to-end test copperhead create (brief → clean full run) + findings report",
     "url": "https://github.com/chouhanindustries/copperhead/issues/66",
     "repo": "chouhanindustries/copperhead",
@@ -75,11 +95,11 @@
     "comments": 56,
     "created_at": "2026-07-24T08:17:43Z",
     "updated_at": "2026-08-06T21:30:36Z",
-    "scanned_at": "2026-08-09T11:00:34.531055+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676527+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000196",
     "title": "[$50 BOUNTY] [Go] Limit analytics metric tag cardinality",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -96,11 +116,11 @@
     "comments": 23,
     "created_at": "2026-06-24T03:03:50Z",
     "updated_at": "2026-07-15T17:30:02Z",
-    "scanned_at": "2026-08-09T11:00:34.532692+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678204+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000200",
     "title": "[$40 BOUNTY] [Python] Validate Terraform import resource names",
     "url": "https://github.com/123a-bcd/zeroeye/issues/1",
     "repo": "123a-bcd/zeroeye",
@@ -117,11 +137,11 @@
     "comments": 6,
     "created_at": "2026-06-20T16:03:03Z",
     "updated_at": "2026-08-02T09:00:09Z",
-    "scanned_at": "2026-08-09T11:00:34.532732+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678233+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000201",
     "title": "[$40 BOUNTY] [TypeScript] Harden API response error handling",
     "url": "https://github.com/2lll5/TentOfTrials/issues/1",
     "repo": "2lll5/TentOfTrials",
@@ -138,11 +158,11 @@
     "comments": 11,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-07-24T09:04:30Z",
-    "scanned_at": "2026-08-09T11:00:34.532740+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678240+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000198",
     "title": "[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/1",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -159,11 +179,11 @@
     "comments": 13,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-08-02T21:06:55Z",
-    "scanned_at": "2026-08-09T11:00:34.532712+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678219+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000202",
     "title": "[$25 BOUNTY] [Rust] Add support for compressed serialization in protocol serializer",
     "url": "https://github.com/0106hyh/kickama-manifest-wizard/issues/1",
     "repo": "0106hyh/kickama-manifest-wizard",
@@ -180,11 +200,11 @@
     "comments": 12,
     "created_at": "2026-06-20T15:18:44Z",
     "updated_at": "2026-06-28T23:19:40Z",
-    "scanned_at": "2026-08-09T11:00:34.532748+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678247+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000197",
     "title": "[$20 BOUNTY] [Go] Make analytics Collector Start idempotent",
     "url": "https://github.com/xxnjms1-code/kickama-prize-lab/issues/2",
     "repo": "xxnjms1-code/kickama-prize-lab",
@@ -201,11 +221,11 @@
     "comments": 14,
     "created_at": "2026-06-20T20:56:10Z",
     "updated_at": "2026-06-28T19:27:01Z",
-    "scanned_at": "2026-08-09T11:00:34.532701+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678211+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000199",
     "title": "[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client",
     "url": "https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3",
     "repo": "123a-bcd/nailstorm-bounty-forge-358",
@@ -222,11 +242,11 @@
     "comments": 13,
     "created_at": "2026-06-20T16:03:10Z",
     "updated_at": "2026-06-27T08:35:59Z",
-    "scanned_at": "2026-08-09T11:00:34.532725+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678226+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000167",
     "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
     "repo": "Nexussyn/ai-growth-engine",
@@ -243,11 +263,11 @@
     "comments": 19,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-07-29T19:20:09Z",
-    "scanned_at": "2026-08-09T11:00:34.531553+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677024+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000164",
     "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
     "repo": "Nexussyn/ai-growth-engine",
@@ -264,11 +284,11 @@
     "comments": 28,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-07-29T19:20:08Z",
-    "scanned_at": "2026-08-09T11:00:34.531521+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676992+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000165",
     "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
     "repo": "Nexussyn/ai-growth-engine",
@@ -285,11 +305,11 @@
     "comments": 24,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-07-29T19:20:08Z",
-    "scanned_at": "2026-08-09T11:00:34.531532+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000166",
     "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
     "repo": "Nexussyn/ai-growth-engine",
@@ -306,11 +326,11 @@
     "comments": 23,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-07-29T19:20:09Z",
-    "scanned_at": "2026-08-09T11:00:34.531541+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677012+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000194",
     "title": "[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/10",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -327,11 +347,11 @@
     "comments": 22,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-28T13:04:45Z",
-    "scanned_at": "2026-08-09T11:00:34.532674+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678188+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000195",
     "title": "[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating",
     "url": "https://github.com/Saiaaax/CyberNinja-Dojo/issues/2",
     "repo": "Saiaaax/CyberNinja-Dojo",
@@ -348,11 +368,11 @@
     "comments": 33,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-28T08:31:40Z",
-    "scanned_at": "2026-08-09T11:00:34.532684+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678196+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000163",
     "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
     "repo": "Nexussyn/ai-growth-engine",
@@ -368,11 +388,11 @@
     "comments": 37,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-08-09T00:05:24Z",
-    "scanned_at": "2026-08-09T11:00:34.531510+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676981+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000168",
     "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
     "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
     "repo": "Nexussyn/ai-growth-platform",
@@ -387,7 +407,7 @@
     "comments": 15,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-08-04T16:59:43Z",
-    "scanned_at": "2026-08-09T11:00:34.531563+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677034+00:00",
     "status": "new"
   },
   {
@@ -406,7 +426,7 @@
     "comments": 5,
     "created_at": "2026-08-09T05:45:49Z",
     "updated_at": "2026-08-09T07:09:48Z",
-    "scanned_at": "2026-08-09T10:59:16.382285+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607097+00:00",
     "status": "new"
   },
   {
@@ -425,7 +445,7 @@
     "comments": 4,
     "created_at": "2026-08-09T05:45:46Z",
     "updated_at": "2026-08-09T07:09:45Z",
-    "scanned_at": "2026-08-09T10:59:16.382335+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607149+00:00",
     "status": "new"
   },
   {
@@ -444,7 +464,7 @@
     "comments": 4,
     "created_at": "2026-08-09T05:45:44Z",
     "updated_at": "2026-08-09T07:09:43Z",
-    "scanned_at": "2026-08-09T10:59:16.382369+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607181+00:00",
     "status": "new"
   },
   {
@@ -463,7 +483,7 @@
     "comments": 4,
     "created_at": "2026-08-09T05:45:42Z",
     "updated_at": "2026-08-09T07:09:41Z",
-    "scanned_at": "2026-08-09T10:59:16.382403+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607211+00:00",
     "status": "new"
   },
   {
@@ -479,10 +499,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 38,
+    "comments": 45,
     "created_at": "2026-08-09T05:45:40Z",
-    "updated_at": "2026-08-09T10:55:04Z",
-    "scanned_at": "2026-08-09T10:59:16.382440+00:00",
+    "updated_at": "2026-08-09T11:25:03Z",
+    "scanned_at": "2026-08-09T11:29:33.607244+00:00",
     "status": "new"
   },
   {
@@ -501,7 +521,7 @@
     "comments": 4,
     "created_at": "2026-08-09T05:45:09Z",
     "updated_at": "2026-08-09T07:09:36Z",
-    "scanned_at": "2026-08-09T10:59:16.382467+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607268+00:00",
     "status": "new"
   },
   {
@@ -517,10 +537,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 7,
+    "comments": 8,
     "created_at": "2026-08-09T05:45:07Z",
-    "updated_at": "2026-08-09T07:46:41Z",
-    "scanned_at": "2026-08-09T10:59:16.382499+00:00",
+    "updated_at": "2026-08-09T11:00:04Z",
+    "scanned_at": "2026-08-09T11:29:33.607296+00:00",
     "status": "new"
   },
   {
@@ -536,10 +556,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-08-09T05:45:05Z",
-    "updated_at": "2026-08-09T07:48:42Z",
-    "scanned_at": "2026-08-09T10:59:16.382530+00:00",
+    "updated_at": "2026-08-09T11:00:02Z",
+    "scanned_at": "2026-08-09T11:29:33.607322+00:00",
     "status": "new"
   },
   {
@@ -558,30 +578,11 @@
     "comments": 6,
     "created_at": "2026-08-09T05:45:04Z",
     "updated_at": "2026-08-09T07:09:19Z",
-    "scanned_at": "2026-08-09T10:59:16.382568+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607362+00:00",
     "status": "new"
   },
   {
     "id": "BH-000010",
-    "title": "🌱 [BOUNTY] Integrazione Sensori IoT per Orti Urbani",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1039",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 1039,
-    "labels": [
-      "bounty",
-      "iot"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 14,
-    "created_at": "2026-08-09T05:45:01Z",
-    "updated_at": "2026-08-09T09:07:17Z",
-    "scanned_at": "2026-08-09T10:59:16.382606+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000011",
     "title": "🌍 [FUTURA] Community Ambientale",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1030",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -598,11 +599,11 @@
     "comments": 5,
     "created_at": "2026-08-09T04:29:09Z",
     "updated_at": "2026-08-09T07:03:14Z",
-    "scanned_at": "2026-08-09T10:59:16.382634+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607387+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000011",
     "title": "⛓️ [FUTURA] Blockchain per Dati Ambientali",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1029",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -619,32 +620,11 @@
     "comments": 5,
     "created_at": "2026-08-09T04:29:07Z",
     "updated_at": "2026-08-09T07:03:19Z",
-    "scanned_at": "2026-08-09T10:59:16.382664+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607414+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
-    "title": "📊 [FUTURA] Analytics Ambientali",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1027",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 1027,
-    "labels": [
-      "bounty",
-      "data",
-      "analytics",
-      "futura"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 14,
-    "created_at": "2026-08-09T04:29:02Z",
-    "updated_at": "2026-08-09T08:57:22Z",
-    "scanned_at": "2026-08-09T10:59:16.382698+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000014",
+    "id": "BH-000012",
     "title": "🔬 [FUTURA] Integrazione Sensori Ambientali",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1026",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -661,33 +641,11 @@
     "comments": 7,
     "created_at": "2026-08-09T04:28:59Z",
     "updated_at": "2026-08-09T07:59:56Z",
-    "scanned_at": "2026-08-09T10:59:16.382732+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607444+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
-    "title": "🌱 [FUTURA] Dashboard Monitoraggio Ambientale",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1025",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 1025,
-    "labels": [
-      "bounty",
-      "dashboard",
-      "frontend",
-      "futura",
-      "sustainability"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-08-09T04:28:57Z",
-    "updated_at": "2026-08-09T07:03:39Z",
-    "scanned_at": "2026-08-09T10:59:16.382772+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000016",
+    "id": "BH-000013",
     "title": "🎯 [ANTHEA] Sistema Reclutamento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1021",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -704,11 +662,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:27:32Z",
     "updated_at": "2026-08-09T07:09:16Z",
-    "scanned_at": "2026-08-09T10:59:16.382811+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607477+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000014",
     "title": "🏢 [ANTHEA] Sistema HR Anthea",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1019",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -725,11 +683,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:27:27Z",
     "updated_at": "2026-08-09T07:09:12Z",
-    "scanned_at": "2026-08-09T10:59:16.382853+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607512+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000015",
     "title": "👥 [ANTHEA] Gestione Dipendenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1018",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -746,32 +704,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:27:24Z",
     "updated_at": "2026-08-09T07:09:10Z",
-    "scanned_at": "2026-08-09T10:59:16.382894+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607548+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
-    "title": "👤 [ANTHEA] Dashboard Dipendenti Anthea",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1017",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 1017,
-    "labels": [
-      "bounty",
-      "dashboard",
-      "frontend",
-      "anthea"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-08-09T04:27:22Z",
-    "updated_at": "2026-08-09T07:09:08Z",
-    "scanned_at": "2026-08-09T10:59:16.382940+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000020",
+    "id": "BH-000016",
     "title": "📘 [SOCIAL] Facebook Community Building",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1015",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -788,11 +725,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:26:10Z",
     "updated_at": "2026-08-09T07:09:06Z",
-    "scanned_at": "2026-08-09T10:59:16.382957+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607566+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000017",
     "title": "🔴 [SOCIAL] Reddit Community Building",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1014",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -809,11 +746,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:26:08Z",
     "updated_at": "2026-08-09T07:09:04Z",
-    "scanned_at": "2026-08-09T10:59:16.382973+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607582+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000018",
     "title": "🎥 [SOCIAL] YouTube Channel Strategy",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1013",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -830,11 +767,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:26:06Z",
     "updated_at": "2026-08-09T07:09:01Z",
-    "scanned_at": "2026-08-09T10:59:16.383006+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607598+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000019",
     "title": "💬 [SOCIAL] Discord Community Server",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1012",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -848,14 +785,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 79,
+    "comments": 92,
     "created_at": "2026-08-09T04:26:03Z",
-    "updated_at": "2026-08-09T10:55:05Z",
-    "scanned_at": "2026-08-09T10:59:16.383026+00:00",
+    "updated_at": "2026-08-09T11:25:04Z",
+    "scanned_at": "2026-08-09T11:29:33.607619+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000020",
     "title": "📱 [SOCIAL] Telegram Community Growth",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1011",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -872,11 +809,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:26:01Z",
     "updated_at": "2026-08-09T07:08:48Z",
-    "scanned_at": "2026-08-09T10:59:16.383047+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607636+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000021",
     "title": "👥 [COMMUNITY] Sottosezioni Community",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1009",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -893,32 +830,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:25:26Z",
     "updated_at": "2026-08-09T07:08:41Z",
-    "scanned_at": "2026-08-09T10:59:16.383089+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607679+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
-    "title": "📊 [DASHBOARD] Sottosezioni Dashboard",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1008",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 1008,
-    "labels": [
-      "enhancement",
-      "bounty",
-      "dashboard",
-      "frontend"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-08-09T04:25:20Z",
-    "updated_at": "2026-08-09T07:08:36Z",
-    "scanned_at": "2026-08-09T10:59:16.383137+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000027",
+    "id": "BH-000022",
     "title": "📝 [SOCIAL] Blog Content Strategy",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1006",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -935,11 +851,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:24:31Z",
     "updated_at": "2026-08-09T07:08:32Z",
-    "scanned_at": "2026-08-09T10:59:16.383157+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607696+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000023",
     "title": "🐦 [SOCIAL] Twitter/X Growth Strategy",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1005",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -956,11 +872,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:24:15Z",
     "updated_at": "2026-08-09T07:08:29Z",
-    "scanned_at": "2026-08-09T10:59:16.383176+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607714+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000024",
     "title": "🧪 [TESTING] Test Suite Completa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1001",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -977,11 +893,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:18:39Z",
     "updated_at": "2026-08-09T07:09:52Z",
-    "scanned_at": "2026-08-09T10:59:16.383194+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607729+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000025",
     "title": "⛓️ [BLOCKCHAIN] Integrazione Smart Contract",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1000",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -998,11 +914,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:18:37Z",
     "updated_at": "2026-08-09T07:10:02Z",
-    "scanned_at": "2026-08-09T10:59:16.383214+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607748+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000026",
     "title": "📈 [MONITORING] Sistema Monitoraggio e Alert",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/999",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1019,11 +935,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:18:03Z",
     "updated_at": "2026-08-09T07:09:54Z",
-    "scanned_at": "2026-08-09T10:59:16.383232+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607765+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000027",
     "title": "🌐 [API] API Gateway e Rate Limiting",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/998",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1040,11 +956,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:17:59Z",
     "updated_at": "2026-08-09T07:09:59Z",
-    "scanned_at": "2026-08-09T10:59:16.383251+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607783+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000028",
     "title": "📚 [DOCS] User Guide e Tutorial",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/997",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1061,11 +977,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:17:55Z",
     "updated_at": "2026-08-09T07:08:07Z",
-    "scanned_at": "2026-08-09T10:59:16.383268+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607800+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000029",
     "title": "📱 [SOCIAL] Social Media Integration",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/996",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1082,11 +998,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:17:53Z",
     "updated_at": "2026-08-09T07:08:00Z",
-    "scanned_at": "2026-08-09T10:59:16.383284+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607818+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000030",
     "title": "🔒 [SECURITY] Security Audit e Penetration Test",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/994",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1103,11 +1019,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:17:48Z",
     "updated_at": "2026-08-09T07:09:58Z",
-    "scanned_at": "2026-08-09T10:59:16.383302+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607837+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000031",
     "title": "📊 [ANALYTICS] Dashboard Analytics e Report",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/993",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1124,11 +1040,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:17:45Z",
     "updated_at": "2026-08-09T07:07:47Z",
-    "scanned_at": "2026-08-09T10:59:16.383321+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607856+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000032",
     "title": "📱 [MOBILE] App Mobile MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/992",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1145,11 +1061,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:17:43Z",
     "updated_at": "2026-08-09T07:07:43Z",
-    "scanned_at": "2026-08-09T10:59:16.383338+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607873+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000033",
     "title": "🎨 [DESIGN] Design System Componenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/991",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1166,11 +1082,11 @@
     "comments": 3,
     "created_at": "2026-08-09T04:17:40Z",
     "updated_at": "2026-08-09T07:07:36Z",
-    "scanned_at": "2026-08-09T10:59:16.383354+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607889+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000034",
     "title": "⚡ [PERFORMANCE] Ottimizzazione Caricamento Dashboard",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/990",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1187,11 +1103,11 @@
     "comments": 4,
     "created_at": "2026-08-09T04:17:37Z",
     "updated_at": "2026-08-09T07:07:30Z",
-    "scanned_at": "2026-08-09T10:59:16.383375+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607907+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000035",
     "title": "🚀 [DEVOPS] Setup Deployment Pipeline Production",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/989",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1205,35 +1121,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-08-09T04:17:35Z",
-    "updated_at": "2026-08-09T07:55:04Z",
-    "scanned_at": "2026-08-09T10:59:16.383395+00:00",
+    "updated_at": "2026-08-09T11:00:01Z",
+    "scanned_at": "2026-08-09T11:29:33.607940+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
-    "title": "Docs: Documentazione API Interattiva",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/988",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 988,
-    "labels": [
-      "documentation",
-      "enhancement",
-      "bounty",
-      "api"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-08-09T04:16:21Z",
-    "updated_at": "2026-08-09T09:45:06Z",
-    "scanned_at": "2026-08-09T10:59:16.383415+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000042",
+    "id": "BH-000036",
     "title": "Blockchain: Sistema Token e Wallet",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/987",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1251,11 +1146,11 @@
     "comments": 1,
     "created_at": "2026-08-09T04:16:15Z",
     "updated_at": "2026-08-09T09:45:07Z",
-    "scanned_at": "2026-08-09T10:59:16.383432+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607958+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000037",
     "title": "Backend: API Complete per Ecosistema",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/985",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1272,32 +1167,11 @@
     "comments": 1,
     "created_at": "2026-08-09T04:16:06Z",
     "updated_at": "2026-08-09T09:45:08Z",
-    "scanned_at": "2026-08-09T10:59:16.383455+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607974+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
-    "title": "Frontend: Dashboard Unificata MyZubster Ecosystem",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/984",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 984,
-    "labels": [
-      "enhancement",
-      "bounty",
-      "dashboard",
-      "frontend"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-08-09T04:16:00Z",
-    "updated_at": "2026-08-09T09:45:09Z",
-    "scanned_at": "2026-08-09T10:59:16.383472+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000045",
+    "id": "BH-000038",
     "title": "[radar] SN open bounty 2026-08-08T23:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/297",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1313,11 +1187,11 @@
     "comments": 1,
     "created_at": "2026-08-08T23:38:42Z",
     "updated_at": "2026-08-09T03:15:10Z",
-    "scanned_at": "2026-08-09T10:59:16.383490+00:00",
+    "scanned_at": "2026-08-09T11:29:33.607993+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000039",
     "title": "[radar] SN open bounty 2026-08-08T22:40",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/296",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1333,11 +1207,11 @@
     "comments": 0,
     "created_at": "2026-08-08T22:40:03Z",
     "updated_at": "2026-08-08T22:40:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383508+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608013+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000040",
     "title": "[radar] SN open bounty 2026-08-08T21:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/295",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1353,11 +1227,11 @@
     "comments": 0,
     "created_at": "2026-08-08T21:39:58Z",
     "updated_at": "2026-08-08T21:39:58Z",
-    "scanned_at": "2026-08-09T10:59:16.383525+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000041",
     "title": "[Bounty: 5 GSD] Write a manifesto for a bold new vision, with actionable milestones",
     "url": "https://github.com/jflournoy/for-funsies/issues/21",
     "repo": "jflournoy/for-funsies",
@@ -1375,11 +1249,11 @@
     "comments": 3,
     "created_at": "2026-08-08T21:06:01Z",
     "updated_at": "2026-08-09T04:01:54Z",
-    "scanned_at": "2026-08-09T10:59:16.383707+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608195+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000042",
     "title": "[radar] SN open bounty 2026-08-08T20:42",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/294",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1395,11 +1269,11 @@
     "comments": 0,
     "created_at": "2026-08-08T20:42:55Z",
     "updated_at": "2026-08-08T20:42:55Z",
-    "scanned_at": "2026-08-09T10:59:16.383728+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608213+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000043",
     "title": "[radar] SN open bounty 2026-08-08T19:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/293",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1415,11 +1289,11 @@
     "comments": 0,
     "created_at": "2026-08-08T19:38:13Z",
     "updated_at": "2026-08-08T19:38:13Z",
-    "scanned_at": "2026-08-09T10:59:16.383746+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608230+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000044",
     "title": "[radar] SN open bounty 2026-08-08T18:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/292",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1435,11 +1309,11 @@
     "comments": 0,
     "created_at": "2026-08-08T18:52:39Z",
     "updated_at": "2026-08-08T18:52:39Z",
-    "scanned_at": "2026-08-09T10:59:16.383763+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608249+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000045",
     "title": "[radar] SN open bounty 2026-08-08T17:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/291",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1455,11 +1329,11 @@
     "comments": 1,
     "created_at": "2026-08-08T17:39:38Z",
     "updated_at": "2026-08-08T18:50:32Z",
-    "scanned_at": "2026-08-09T10:59:16.383780+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608266+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000046",
     "title": "[radar] SN open bounty 2026-08-08T16:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/290",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1475,11 +1349,11 @@
     "comments": 1,
     "created_at": "2026-08-08T16:47:21Z",
     "updated_at": "2026-08-08T17:14:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383797+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608283+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000047",
     "title": "[radar] SN open bounty 2026-08-08T15:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/289",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1495,11 +1369,11 @@
     "comments": 1,
     "created_at": "2026-08-08T15:38:40Z",
     "updated_at": "2026-08-08T17:14:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383814+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608302+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000048",
     "title": "[radar] SN open bounty 2026-08-08T14:42",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/288",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1515,11 +1389,11 @@
     "comments": 1,
     "created_at": "2026-08-08T14:42:32Z",
     "updated_at": "2026-08-08T17:14:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383831+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608319+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000049",
     "title": "[radar] SN open bounty 2026-08-08T13:54",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/287",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1535,11 +1409,11 @@
     "comments": 1,
     "created_at": "2026-08-08T13:54:01Z",
     "updated_at": "2026-08-08T17:14:04Z",
-    "scanned_at": "2026-08-09T10:59:16.383848+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608338+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000050",
     "title": "[radar] SN open bounty 2026-08-08T13:06",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/286",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1555,11 +1429,11 @@
     "comments": 1,
     "created_at": "2026-08-08T13:06:58Z",
     "updated_at": "2026-08-08T17:14:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383868+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608358+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000051",
     "title": "👥 [COMMUNITY] Community Moderator",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/872",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1572,14 +1446,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 9,
+    "comments": 10,
     "created_at": "2026-08-08T12:28:33Z",
-    "updated_at": "2026-08-09T04:40:21Z",
-    "scanned_at": "2026-08-09T10:59:16.383889+00:00",
+    "updated_at": "2026-08-09T11:10:05Z",
+    "scanned_at": "2026-08-09T11:29:33.608377+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000052",
     "title": "📱 [COMMUNITY] Social Media Ambassador",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/871",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1592,14 +1466,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 9,
+    "comments": 10,
     "created_at": "2026-08-08T12:28:31Z",
-    "updated_at": "2026-08-09T04:40:49Z",
-    "scanned_at": "2026-08-09T10:59:16.383911+00:00",
+    "updated_at": "2026-08-09T11:10:05Z",
+    "scanned_at": "2026-08-09T11:29:33.608395+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000053",
     "title": "🎥 [CONTENT] Become a MyZubster Content Creator",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/870",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -1616,11 +1490,11 @@
     "comments": 9,
     "created_at": "2026-08-08T12:28:29Z",
     "updated_at": "2026-08-09T04:41:25Z",
-    "scanned_at": "2026-08-09T10:59:16.383934+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608416+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000054",
     "title": "[radar] SN open bounty 2026-08-08T11:37",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/285",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1636,11 +1510,11 @@
     "comments": 1,
     "created_at": "2026-08-08T11:37:05Z",
     "updated_at": "2026-08-08T17:14:03Z",
-    "scanned_at": "2026-08-09T10:59:16.383955+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608435+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000055",
     "title": "[FEAT] Implement on-chain subscription analytics and event history viewer",
     "url": "https://github.com/bodycount0/stellar-drips-protocol/issues/4",
     "repo": "bodycount0/stellar-drips-protocol",
@@ -1657,11 +1531,11 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:48Z",
     "updated_at": "2026-08-08T18:55:11Z",
-    "scanned_at": "2026-08-09T10:59:16.383979+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608458+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000056",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/bodycount0/soroban-defi-analytics/issues/4",
     "repo": "bodycount0/soroban-defi-analytics",
@@ -1678,11 +1552,11 @@
     "comments": 2,
     "created_at": "2026-08-08T11:36:45Z",
     "updated_at": "2026-08-09T04:43:47Z",
-    "scanned_at": "2026-08-09T10:59:16.384023+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608486+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000057",
     "title": "[radar] SN open bounty 2026-08-08T10:45",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/284",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1698,11 +1572,11 @@
     "comments": 0,
     "created_at": "2026-08-08T10:45:09Z",
     "updated_at": "2026-08-08T10:45:09Z",
-    "scanned_at": "2026-08-09T10:59:16.384042+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608504+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000058",
     "title": "[FEAT] Implement on-chain subscription analytics and event history viewer",
     "url": "https://github.com/AbleeGod/stellar-drips-protocol/issues/4",
     "repo": "AbleeGod/stellar-drips-protocol",
@@ -1719,11 +1593,11 @@
     "comments": 1,
     "created_at": "2026-08-08T10:26:10Z",
     "updated_at": "2026-08-09T03:48:00Z",
-    "scanned_at": "2026-08-09T10:59:16.384120+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608576+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000059",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/AbleeGod/soroban-defi-analytics/issues/4",
     "repo": "AbleeGod/soroban-defi-analytics",
@@ -1740,11 +1614,11 @@
     "comments": 1,
     "created_at": "2026-08-08T10:23:21Z",
     "updated_at": "2026-08-09T03:31:28Z",
-    "scanned_at": "2026-08-09T10:59:16.384175+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608631+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000060",
     "title": "[radar] SN open bounty 2026-08-08T09:49",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/283",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1760,11 +1634,11 @@
     "comments": 0,
     "created_at": "2026-08-08T09:49:33Z",
     "updated_at": "2026-08-08T09:49:33Z",
-    "scanned_at": "2026-08-09T10:59:16.384194+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608649+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000062",
     "title": "[radar] SN open bounty 2026-08-08T08:53",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/282",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1780,11 +1654,11 @@
     "comments": 0,
     "created_at": "2026-08-08T08:53:34Z",
     "updated_at": "2026-08-08T08:53:34Z",
-    "scanned_at": "2026-08-09T10:59:16.384232+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608687+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000063",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/Bigg770/soroban-defi-analytics/issues/4",
     "repo": "Bigg770/soroban-defi-analytics",
@@ -1801,11 +1675,11 @@
     "comments": 4,
     "created_at": "2026-08-08T08:48:25Z",
     "updated_at": "2026-08-09T00:28:47Z",
-    "scanned_at": "2026-08-09T10:59:16.384300+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608749+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000064",
     "title": "[radar] SN open bounty 2026-08-08T07:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/278",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1821,11 +1695,11 @@
     "comments": 0,
     "created_at": "2026-08-08T07:08:35Z",
     "updated_at": "2026-08-08T07:08:35Z",
-    "scanned_at": "2026-08-09T10:59:16.384318+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608766+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000065",
     "title": "[radar] SN open bounty 2026-08-08T07:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/277",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1841,11 +1715,11 @@
     "comments": 0,
     "created_at": "2026-08-08T07:08:18Z",
     "updated_at": "2026-08-08T07:08:18Z",
-    "scanned_at": "2026-08-09T10:59:16.384336+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608784+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000066",
     "title": "[radar] SN open bounty 2026-08-08T05:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/276",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1861,11 +1735,11 @@
     "comments": 0,
     "created_at": "2026-08-08T05:51:31Z",
     "updated_at": "2026-08-08T05:51:31Z",
-    "scanned_at": "2026-08-09T10:59:16.384355+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608801+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000067",
     "title": "[radar] SN open bounty 2026-08-08T04:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/275",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1881,11 +1755,11 @@
     "comments": 0,
     "created_at": "2026-08-08T04:17:02Z",
     "updated_at": "2026-08-08T04:17:02Z",
-    "scanned_at": "2026-08-09T10:59:16.384372+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608819+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000068",
     "title": "[radar] SN open bounty 2026-08-08T02:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/274",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1901,11 +1775,11 @@
     "comments": 0,
     "created_at": "2026-08-08T02:13:37Z",
     "updated_at": "2026-08-08T02:13:37Z",
-    "scanned_at": "2026-08-09T10:59:16.384392+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608836+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000069",
     "title": "[radar] SN open bounty 2026-08-07T23:42",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/273",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1921,11 +1795,11 @@
     "comments": 0,
     "created_at": "2026-08-07T23:42:36Z",
     "updated_at": "2026-08-07T23:42:36Z",
-    "scanned_at": "2026-08-09T10:59:16.384411+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608854+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000070",
     "title": "Paid bounty: add a new vendor offer to the catalog",
     "url": "https://github.com/sourcey/startup-credits/issues/259",
     "repo": "sourcey/startup-credits",
@@ -1939,11 +1813,11 @@
     "comments": 1,
     "created_at": "2026-08-07T23:08:38Z",
     "updated_at": "2026-08-08T07:03:17Z",
-    "scanned_at": "2026-08-09T10:59:16.384476+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608929+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000071",
     "title": "[radar] SN open bounty 2026-08-07T22:49",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/272",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1959,11 +1833,11 @@
     "comments": 0,
     "created_at": "2026-08-07T22:49:46Z",
     "updated_at": "2026-08-07T22:49:46Z",
-    "scanned_at": "2026-08-09T10:59:16.384496+00:00",
+    "scanned_at": "2026-08-09T11:29:33.608948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000072",
     "title": "[Bounty: 2 GSD] Make merged work visible on the published Pages site",
     "url": "https://github.com/jflournoy/for-funsies/issues/9",
     "repo": "jflournoy/for-funsies",
@@ -1982,11 +1856,11 @@
     "comments": 2,
     "created_at": "2026-08-07T22:23:46Z",
     "updated_at": "2026-08-08T04:14:42Z",
-    "scanned_at": "2026-08-09T10:59:16.384685+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609127+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000073",
     "title": "[Proposal] Add --summary flag for contributor totals",
     "url": "https://github.com/jflournoy/for-funsies/issues/7",
     "repo": "jflournoy/for-funsies",
@@ -2004,11 +1878,11 @@
     "comments": 0,
     "created_at": "2026-08-07T21:53:12Z",
     "updated_at": "2026-08-08T04:05:07Z",
-    "scanned_at": "2026-08-09T10:59:16.384753+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609193+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000074",
     "title": "[Proposal] Add --format json output to the ledger script",
     "url": "https://github.com/jflournoy/for-funsies/issues/5",
     "repo": "jflournoy/for-funsies",
@@ -2026,11 +1900,11 @@
     "comments": 0,
     "created_at": "2026-08-07T21:53:11Z",
     "updated_at": "2026-08-08T04:05:06Z",
-    "scanned_at": "2026-08-09T10:59:16.384816+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609258+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000075",
     "title": "[radar] SN open bounty 2026-08-07T21:50",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/271",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2046,11 +1920,11 @@
     "comments": 0,
     "created_at": "2026-08-07T21:50:27Z",
     "updated_at": "2026-08-07T21:50:27Z",
-    "scanned_at": "2026-08-09T10:59:16.384835+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609277+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000076",
     "title": "[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository",
     "url": "https://github.com/jflournoy/for-funsies/issues/4",
     "repo": "jflournoy/for-funsies",
@@ -2067,11 +1941,11 @@
     "comments": 0,
     "created_at": "2026-08-07T21:42:46Z",
     "updated_at": "2026-08-08T04:16:50Z",
-    "scanned_at": "2026-08-09T10:59:16.385054+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609467+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000077",
     "title": "[radar] SN open bounty 2026-08-07T20:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/270",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2087,11 +1961,11 @@
     "comments": 0,
     "created_at": "2026-08-07T20:52:21Z",
     "updated_at": "2026-08-07T20:52:21Z",
-    "scanned_at": "2026-08-09T10:59:16.385075+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000078",
     "title": "Add an average() helper",
     "url": "https://github.com/FjrREPO/gitbounty-demo/issues/3",
     "repo": "FjrREPO/gitbounty-demo",
@@ -2106,11 +1980,11 @@
     "comments": 1,
     "created_at": "2026-08-07T19:26:57Z",
     "updated_at": "2026-08-07T20:39:26Z",
-    "scanned_at": "2026-08-09T10:59:16.385100+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609512+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000079",
     "title": "[radar] SN open bounty 2026-08-07T19:09",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/269",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2126,11 +2000,11 @@
     "comments": 0,
     "created_at": "2026-08-07T19:09:29Z",
     "updated_at": "2026-08-07T19:09:29Z",
-    "scanned_at": "2026-08-09T10:59:16.385122+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609532+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000080",
     "title": "[radar] SN open bounty 2026-08-07T17:57",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/268",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2146,11 +2020,11 @@
     "comments": 1,
     "created_at": "2026-08-07T17:57:41Z",
     "updated_at": "2026-08-07T18:12:36Z",
-    "scanned_at": "2026-08-09T10:59:16.385141+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609550+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000081",
     "title": "sum() skips the first element",
     "url": "https://github.com/hellofajar/gitbounty-demo/issues/1",
     "repo": "hellofajar/gitbounty-demo",
@@ -2164,11 +2038,11 @@
     "comments": 2,
     "created_at": "2026-08-07T17:04:22Z",
     "updated_at": "2026-08-07T21:09:55Z",
-    "scanned_at": "2026-08-09T10:59:16.385153+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609562+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000082",
     "title": "[radar] SN open bounty 2026-08-07T17:03",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/267",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2184,11 +2058,11 @@
     "comments": 0,
     "created_at": "2026-08-07T17:03:57Z",
     "updated_at": "2026-08-07T17:03:57Z",
-    "scanned_at": "2026-08-09T10:59:16.385175+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609580+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000083",
     "title": "[radar] SN open bounty 2026-08-07T16:05",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/266",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2204,11 +2078,11 @@
     "comments": 0,
     "created_at": "2026-08-07T16:05:28Z",
     "updated_at": "2026-08-07T16:05:28Z",
-    "scanned_at": "2026-08-09T10:59:16.385195+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609597+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000084",
     "title": "[radar] SN open bounty 2026-08-07T15:04",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/265",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2224,11 +2098,11 @@
     "comments": 0,
     "created_at": "2026-08-07T15:04:13Z",
     "updated_at": "2026-08-07T15:04:13Z",
-    "scanned_at": "2026-08-09T10:59:31.879900+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609615+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000085",
     "title": "[radar] SN open bounty 2026-08-07T13:23",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/264",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2244,11 +2118,11 @@
     "comments": 0,
     "created_at": "2026-08-07T13:23:55Z",
     "updated_at": "2026-08-07T13:23:55Z",
-    "scanned_at": "2026-08-09T10:59:31.879949+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609632+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000086",
     "title": "🎯 Fix Race Condition: Watch Misses Deletion Event Near Compaction Boundary",
     "url": "https://github.com/morriganreza973/etcd/issues/5",
     "repo": "morriganreza973/etcd",
@@ -2264,11 +2138,11 @@
     "comments": 5,
     "created_at": "2026-08-07T12:02:37Z",
     "updated_at": "2026-08-07T19:45:33Z",
-    "scanned_at": "2026-08-09T10:59:31.880219+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609838+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000088",
     "title": "[BOUNTY] Suggestion #1078",
     "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1104",
     "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
@@ -2282,11 +2156,11 @@
     "comments": 0,
     "created_at": "2026-08-06T21:11:53Z",
     "updated_at": "2026-08-06T21:11:53Z",
-    "scanned_at": "2026-08-09T10:59:31.880287+00:00",
+    "scanned_at": "2026-08-09T11:29:33.609891+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000090",
     "title": "📱 Integrazione Telegram Bot per AgricoloBot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33",
     "repo": "MyZubster-Ecosystem/MyZubster-Marketplace",
@@ -2305,11 +2179,11 @@
     "comments": 14,
     "created_at": "2026-08-06T15:22:49Z",
     "updated_at": "2026-08-09T10:09:56Z",
-    "scanned_at": "2026-08-09T11:00:40.724632+00:00",
+    "scanned_at": "2026-08-09T11:29:33.610019+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000091",
     "title": "🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recovery",
     "url": "https://github.com/colmev080/pgx/issues/3",
     "repo": "colmev080/pgx",
@@ -2325,54 +2199,11 @@
     "comments": 8,
     "created_at": "2026-08-06T12:41:03Z",
     "updated_at": "2026-08-07T21:25:47Z",
-    "scanned_at": "2026-08-09T10:59:31.880500+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727398+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
-    "title": "🤖 [BOUNTY] EVA IONI - Prototipo braccio robotico per orti urbani",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/750",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 750,
-    "labels": [
-      "bounty",
-      "robot",
-      "eva",
-      "green",
-      "in-progress",
-      "bounty-assigned"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-08-06T12:16:56Z",
-    "updated_at": "2026-08-09T07:10:28Z",
-    "scanned_at": "2026-08-09T11:00:29.706979+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000097",
-    "title": "🌱 [BOUNTY] Sensori IoT per orti urbani - Temperatura e umidità",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/749",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 749,
-    "labels": [
-      "bounty",
-      "iot",
-      "green"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 13,
-    "created_at": "2026-08-06T11:50:33Z",
-    "updated_at": "2026-08-09T07:10:37Z",
-    "scanned_at": "2026-08-09T10:59:31.880531+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000109",
+    "id": "BH-000103",
     "title": "[PAGAMENTI] Crypto - BTC/ETH/ADA",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/741",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2391,11 +2222,11 @@
     "comments": 10,
     "created_at": "2026-08-06T10:52:18Z",
     "updated_at": "2026-08-09T07:10:14Z",
-    "scanned_at": "2026-08-09T11:00:29.707051+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347065+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000104",
     "title": "[PAGAMENTI] Ricorrenti - Subscription",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/739",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2414,11 +2245,11 @@
     "comments": 6,
     "created_at": "2026-08-06T10:52:14Z",
     "updated_at": "2026-08-09T00:42:57Z",
-    "scanned_at": "2026-08-09T11:00:29.707080+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347107+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000105",
     "title": "[PAGAMENTI] Fiat - USD/EUR/GBP",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/738",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2437,11 +2268,11 @@
     "comments": 10,
     "created_at": "2026-08-06T10:52:12Z",
     "updated_at": "2026-08-09T07:10:09Z",
-    "scanned_at": "2026-08-09T11:00:29.707104+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347129+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000106",
     "title": "[AGENTI-IA] IA - Pagamenti intelligenti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/733",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2460,11 +2291,11 @@
     "comments": 4,
     "created_at": "2026-08-06T10:51:57Z",
     "updated_at": "2026-08-08T11:58:34Z",
-    "scanned_at": "2026-08-09T11:00:29.707132+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347151+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000107",
     "title": "[ESCROW] Multi-step - Deposito a step",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/726",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2483,11 +2314,11 @@
     "comments": 4,
     "created_at": "2026-08-06T10:51:42Z",
     "updated_at": "2026-08-08T13:02:52Z",
-    "scanned_at": "2026-08-09T11:00:29.707156+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347171+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000108",
     "title": "[API] Robot - API completa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/720",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2506,11 +2337,11 @@
     "comments": 3,
     "created_at": "2026-08-06T10:51:29Z",
     "updated_at": "2026-08-08T11:55:36Z",
-    "scanned_at": "2026-08-09T11:00:29.707179+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347190+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000109",
     "title": "[MONITORAGGIO] Admin - Dashboard amministrativa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/719",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2529,11 +2360,11 @@
     "comments": 3,
     "created_at": "2026-08-06T10:51:26Z",
     "updated_at": "2026-08-08T14:00:20Z",
-    "scanned_at": "2026-08-09T11:00:29.707204+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347210+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000110",
     "title": "[PORTAFOGLIO] Bilancio - Analisi finanziaria",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/711",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2552,33 +2383,11 @@
     "comments": 5,
     "created_at": "2026-08-06T10:51:07Z",
     "updated_at": "2026-08-09T00:41:28Z",
-    "scanned_at": "2026-08-09T11:00:29.707228+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347231+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
-    "title": "[BENZINA-XMR] QR Code - Pagamento XMR",
-    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/702",
-    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
-    "number": 702,
-    "labels": [
-      "bounty",
-      "robot",
-      "benzina",
-      "pagamenti",
-      "xmr"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 8,
-    "created_at": "2026-08-06T10:33:18Z",
-    "updated_at": "2026-08-09T07:10:44Z",
-    "scanned_at": "2026-08-09T10:59:31.880554+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000117",
+    "id": "BH-000111",
     "title": "[CARBURANTI] Stazione multi - Tutti i carburanti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/699",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2595,11 +2404,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:41Z",
     "updated_at": "2026-08-09T00:35:10Z",
-    "scanned_at": "2026-08-09T11:00:29.707256+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347252+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000112",
     "title": "[CARBURANTI] Gas/GPL - Rifornimento MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/698",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2616,11 +2425,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:39Z",
     "updated_at": "2026-08-09T00:35:28Z",
-    "scanned_at": "2026-08-09T11:00:29.707279+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347271+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000113",
     "title": "[CARBURANTI] Idrogeno - Rifornimento MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/697",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2639,11 +2448,11 @@
     "comments": 4,
     "created_at": "2026-08-06T10:32:37Z",
     "updated_at": "2026-08-09T00:35:51Z",
-    "scanned_at": "2026-08-09T11:00:29.707303+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347293+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000114",
     "title": "[CARBURANTI] Ricarica elettrica - MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/696",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2660,11 +2469,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:35Z",
     "updated_at": "2026-08-09T00:34:03Z",
-    "scanned_at": "2026-08-09T11:00:29.707327+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347312+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000115",
     "title": "[BENZINA] Integrazione - Auto MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/695",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2681,11 +2490,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:31Z",
     "updated_at": "2026-08-09T00:34:49Z",
-    "scanned_at": "2026-08-09T11:00:29.707353+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347333+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000116",
     "title": "[BENZINA] Promozioni - Sconti in MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/694",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2702,11 +2511,11 @@
     "comments": 6,
     "created_at": "2026-08-06T10:32:29Z",
     "updated_at": "2026-08-09T00:33:40Z",
-    "scanned_at": "2026-08-09T11:00:29.707377+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347353+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000117",
     "title": "[BENZINA] Notifiche - Rifornimento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/693",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2723,11 +2532,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:27Z",
     "updated_at": "2026-08-09T00:34:23Z",
-    "scanned_at": "2026-08-09T11:00:29.707400+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347371+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000118",
     "title": "[BENZINA] Conversione - MYZ a benzina",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/692",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2744,11 +2553,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:25Z",
     "updated_at": "2026-08-09T00:32:43Z",
-    "scanned_at": "2026-08-09T11:00:29.707425+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347391+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000092",
     "title": "[BENZINA] Dashboard - Gestione stazioni",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/691",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2765,11 +2574,11 @@
     "comments": 4,
     "created_at": "2026-08-06T10:32:23Z",
     "updated_at": "2026-08-09T00:32:24Z",
-    "scanned_at": "2026-08-09T10:59:31.880576+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727441+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000119",
     "title": "[BENZINA] QR Code - Pagamento pompa",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/690",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2786,11 +2595,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:21Z",
     "updated_at": "2026-08-09T00:31:59Z",
-    "scanned_at": "2026-08-09T11:00:29.707450+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347411+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000120",
     "title": "[BENZINA] App stazione - Rifornimento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/689",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2807,11 +2616,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:19Z",
     "updated_at": "2026-08-09T00:31:13Z",
-    "scanned_at": "2026-08-09T11:00:29.707475+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347432+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000121",
     "title": "[BENZINA] Pagamento - Benzina in MYZ",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/688",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2828,11 +2637,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:32:17Z",
     "updated_at": "2026-08-09T00:31:39Z",
-    "scanned_at": "2026-08-09T11:00:29.707502+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347454+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000093",
     "title": "[AUTO] Auto per famiglie - Spazio e comfort",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/687",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2849,11 +2658,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:31Z",
     "updated_at": "2026-08-09T10:11:24Z",
-    "scanned_at": "2026-08-09T10:59:31.880598+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727465+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000094",
     "title": "[AUTO] Auto per bambini - Sicurezza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/686",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2870,11 +2679,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:30Z",
     "updated_at": "2026-08-09T10:11:23Z",
-    "scanned_at": "2026-08-09T10:59:31.880620+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000095",
     "title": "[AUTO] Auto per anziani - Assistenza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/685",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2891,11 +2700,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:28Z",
     "updated_at": "2026-08-09T10:11:22Z",
-    "scanned_at": "2026-08-09T10:59:31.880641+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727509+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000096",
     "title": "[AUTO] Auto per disabili - Accessibilità",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/684",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2912,11 +2721,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:26Z",
     "updated_at": "2026-08-09T10:11:21Z",
-    "scanned_at": "2026-08-09T10:59:31.880663+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727530+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000097",
     "title": "[AUTO] Manutenzione - Predittiva",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/683",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2933,11 +2742,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:22Z",
     "updated_at": "2026-08-09T10:11:17Z",
-    "scanned_at": "2026-08-09T10:59:31.880685+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727552+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000098",
     "title": "[AUTO] Assicurazione - Pay-as-you-drive",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/682",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2954,11 +2763,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:20Z",
     "updated_at": "2026-08-09T10:11:16Z",
-    "scanned_at": "2026-08-09T10:59:31.880707+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727573+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000099",
     "title": "[AUTO] Stazioni di ricarica - Rete",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/681",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2975,11 +2784,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:18Z",
     "updated_at": "2026-08-09T10:11:15Z",
-    "scanned_at": "2026-08-09T10:59:31.880729+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727593+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000100",
     "title": "[AUTO] Flotta autonoma - Gestione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/680",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -2996,11 +2805,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:16Z",
     "updated_at": "2026-08-09T10:11:14Z",
-    "scanned_at": "2026-08-09T10:59:31.880751+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727613+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000101",
     "title": "[AUTO] Ride hailing - Taxi autonomi",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/679",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3017,11 +2826,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:14Z",
     "updated_at": "2026-08-09T10:11:13Z",
-    "scanned_at": "2026-08-09T11:00:29.707529+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727633+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000102",
     "title": "[AUTO] Car sharing - Auto condivise",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/678",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3038,11 +2847,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:12Z",
     "updated_at": "2026-08-09T10:11:12Z",
-    "scanned_at": "2026-08-09T11:00:29.707554+00:00",
+    "scanned_at": "2026-08-09T11:29:48.727655+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000122",
     "title": "[AUTO] App MyZubster - Controllo auto",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/677",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3059,11 +2868,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:08Z",
     "updated_at": "2026-08-09T10:11:11Z",
-    "scanned_at": "2026-08-09T11:00:29.707579+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347479+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000123",
     "title": "[AUTO] Sicurezza - Sistemi di sicurezza",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/676",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3080,11 +2889,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:07Z",
     "updated_at": "2026-08-09T10:11:10Z",
-    "scanned_at": "2026-08-09T11:00:29.707604+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347499+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000124",
     "title": "[AUTO] Connettività - IoT e cloud",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/675",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3101,11 +2910,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:05Z",
     "updated_at": "2026-08-09T10:10:54Z",
-    "scanned_at": "2026-08-09T11:00:29.707628+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000125",
     "title": "[AUTO] Infotainment - UI auto",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/674",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3122,11 +2931,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:03Z",
     "updated_at": "2026-08-09T10:10:53Z",
-    "scanned_at": "2026-08-09T11:00:29.707652+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347537+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000126",
     "title": "[AUTO] Batteria - Autonomia 500km",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/673",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3143,11 +2952,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:25:01Z",
     "updated_at": "2026-08-09T10:10:52Z",
-    "scanned_at": "2026-08-09T11:00:29.707676+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347556+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000127",
     "title": "[AUTO] Software - Guida autonoma",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/672",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3164,11 +2973,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:24:59Z",
     "updated_at": "2026-08-09T10:10:50Z",
-    "scanned_at": "2026-08-09T11:00:29.707701+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347575+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000128",
     "title": "[AUTO] Sensori - Lidar, radar, camera",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/671",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3185,11 +2994,11 @@
     "comments": 1,
     "created_at": "2026-08-06T10:24:57Z",
     "updated_at": "2026-08-09T10:10:49Z",
-    "scanned_at": "2026-08-09T11:00:29.707726+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347595+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000129",
     "title": "[AUTO] Navigazione autonoma - GPS e mapping",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/670",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3206,11 +3015,213 @@
     "comments": 1,
     "created_at": "2026-08-06T10:24:55Z",
     "updated_at": "2026-08-09T10:10:46Z",
-    "scanned_at": "2026-08-09T11:00:29.707751+00:00",
+    "scanned_at": "2026-08-09T11:30:45.347614+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000130",
+    "title": "[AUTO] Auto elettrica - IA per guida",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/669",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 669,
+    "labels": [
+      "bounty",
+      "robot",
+      "auto",
+      "veicoli-autonomi"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:24:54Z",
+    "updated_at": "2026-08-09T10:10:45Z",
+    "scanned_at": "2026-08-09T11:30:45.347635+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000131",
+    "title": "[AUTO] Auto autonoma L4 - Trasporto persone",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/668",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 668,
+    "labels": [
+      "bounty",
+      "robot",
+      "auto",
+      "veicoli-autonomi"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:24:52Z",
+    "updated_at": "2026-08-09T10:10:44Z",
+    "scanned_at": "2026-08-09T11:30:45.347657+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000132",
+    "title": "[RICERCA] Journal Robotica - MyZubster",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/667",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 667,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:53Z",
+    "updated_at": "2026-08-09T10:11:33Z",
+    "scanned_at": "2026-08-09T11:30:45.347674+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000133",
+    "title": "[RICERCA] Research Grants - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/666",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 666,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:51Z",
+    "updated_at": "2026-08-09T10:11:31Z",
+    "scanned_at": "2026-08-09T11:30:45.347692+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000134",
+    "title": "[RICERCA] Industrial Research - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/665",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 665,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:50Z",
+    "updated_at": "2026-08-09T10:11:28Z",
+    "scanned_at": "2026-08-09T11:30:45.347709+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000135",
+    "title": "[RICERCA] Academic Network - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/664",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 664,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:48Z",
+    "updated_at": "2026-08-09T10:11:27Z",
+    "scanned_at": "2026-08-09T11:30:45.347726+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000136",
+    "title": "[RICERCA] Crowdsourced Research - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/663",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 663,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:47Z",
+    "updated_at": "2026-08-09T10:11:26Z",
+    "scanned_at": "2026-08-09T11:30:45.347743+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000137",
+    "title": "[RICERCA] Open Research - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/662",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 662,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:45Z",
+    "updated_at": "2026-08-09T10:12:16Z",
+    "scanned_at": "2026-08-09T11:30:45.347761+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000138",
+    "title": "[RICERCA] Research Lab - Robotica",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/661",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 661,
+    "labels": [
+      "bounty",
+      "robot",
+      "ricerca"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:43Z",
+    "updated_at": "2026-08-09T10:11:25Z",
+    "scanned_at": "2026-08-09T11:30:45.347778+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000139",
+    "title": "[DOCUMENTAZIONE] Documentazione tecnica - Robot",
+    "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/660",
+    "repo": "MyZubster-Ecosystem/MyZubsterGateway",
+    "number": 660,
+    "labels": [
+      "bounty",
+      "robot",
+      "documentazione"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-08-06T10:16:39Z",
+    "updated_at": "2026-08-09T10:11:36Z",
+    "scanned_at": "2026-08-09T11:30:45.347795+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000203",
     "title": "[DOCUMENTAZIONE] Guide tecniche - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/657",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3226,11 +3237,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:34Z",
     "updated_at": "2026-08-06T10:16:34Z",
-    "scanned_at": "2026-08-09T11:00:40.724673+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405265+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000204",
     "title": "[DOCUMENTAZIONE] API reference - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/656",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3246,11 +3257,11 @@
     "comments": 2,
     "created_at": "2026-08-06T10:16:33Z",
     "updated_at": "2026-08-06T10:40:27Z",
-    "scanned_at": "2026-08-09T11:00:40.724697+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405305+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000204",
+    "id": "BH-000205",
     "title": "[DOCUMENTAZIONE] Wiki robot - MyZubster",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/655",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3266,11 +3277,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:31Z",
     "updated_at": "2026-08-06T10:16:31Z",
-    "scanned_at": "2026-08-09T11:00:40.724717+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405326+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000205",
+    "id": "BH-000206",
     "title": "[EDUCAZIONE] Community learning - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/654",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3286,11 +3297,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:03Z",
     "updated_at": "2026-08-06T10:16:03Z",
-    "scanned_at": "2026-08-09T11:00:40.724740+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405349+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000206",
+    "id": "BH-000207",
     "title": "[EDUCAZIONE] Certificazioni - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/653",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3306,11 +3317,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:02Z",
     "updated_at": "2026-08-06T10:16:02Z",
-    "scanned_at": "2026-08-09T11:00:40.724763+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405370+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000207",
+    "id": "BH-000208",
     "title": "[EDUCAZIONE] Hackathon educativo - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/652",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3326,11 +3337,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:16:00Z",
     "updated_at": "2026-08-06T10:16:00Z",
-    "scanned_at": "2026-08-09T11:00:40.724785+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405390+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000208",
+    "id": "BH-000209",
     "title": "[EDUCAZIONE] Tutorial interattivi - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/651",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3346,11 +3357,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:58Z",
     "updated_at": "2026-08-06T10:15:58Z",
-    "scanned_at": "2026-08-09T11:00:40.724807+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000209",
+    "id": "BH-000210",
     "title": "[EDUCAZIONE] Kit didattico - Scuole",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/650",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3366,11 +3377,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:57Z",
     "updated_at": "2026-08-06T10:15:57Z",
-    "scanned_at": "2026-08-09T11:00:40.724829+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405430+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000210",
+    "id": "BH-000211",
     "title": "[EDUCAZIONE] Corso robotica avanzata - Esperti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/649",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3386,11 +3397,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:55Z",
     "updated_at": "2026-08-06T10:15:55Z",
-    "scanned_at": "2026-08-09T11:00:40.724851+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405450+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000211",
+    "id": "BH-000212",
     "title": "[EDUCAZIONE] Corso robotica base - Principianti",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/648",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3406,11 +3417,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:54Z",
     "updated_at": "2026-08-06T10:15:54Z",
-    "scanned_at": "2026-08-09T11:00:40.724874+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000212",
+    "id": "BH-000213",
     "title": "[TOOLING] Package manager - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/647",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3426,11 +3437,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:51Z",
     "updated_at": "2026-08-06T10:15:51Z",
-    "scanned_at": "2026-08-09T11:00:40.724895+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405490+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000213",
+    "id": "BH-000214",
     "title": "[TOOLING] API Gateway - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/645",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3446,11 +3457,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:47Z",
     "updated_at": "2026-08-06T10:15:47Z",
-    "scanned_at": "2026-08-09T11:00:40.724916+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405509+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000214",
+    "id": "BH-000215",
     "title": "[TOOLING] CI/CD per robot - Sviluppo",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/644",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3466,11 +3477,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:46Z",
     "updated_at": "2026-08-06T10:15:46Z",
-    "scanned_at": "2026-08-09T11:00:40.724937+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405527+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000215",
+    "id": "BH-000216",
     "title": "[TOOLING] VS Code extension - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/643",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3486,11 +3497,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:44Z",
     "updated_at": "2026-08-06T10:15:44Z",
-    "scanned_at": "2026-08-09T11:00:40.724959+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405546+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000216",
+    "id": "BH-000217",
     "title": "[TOOLING] CLI per robot - Sviluppo",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/642",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3506,11 +3517,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:43Z",
     "updated_at": "2026-08-06T10:15:43Z",
-    "scanned_at": "2026-08-09T11:00:40.724979+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405565+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000217",
+    "id": "BH-000218",
     "title": "[TOOLING] Simulatore robot - Sviluppo",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/641",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3526,11 +3537,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:41Z",
     "updated_at": "2026-08-06T10:15:41Z",
-    "scanned_at": "2026-08-09T11:00:40.725016+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405584+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000218",
+    "id": "BH-000219",
     "title": "[TOOLING] SDK Robot - Sviluppo",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/640",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3546,11 +3557,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:39Z",
     "updated_at": "2026-08-06T10:15:39Z",
-    "scanned_at": "2026-08-09T11:00:40.725036+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405602+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000219",
+    "id": "BH-000220",
     "title": "[IOT] Integrazione Cloud - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/639",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3566,11 +3577,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:34Z",
     "updated_at": "2026-08-06T10:15:34Z",
-    "scanned_at": "2026-08-09T11:00:40.725057+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405621+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000220",
+    "id": "BH-000221",
     "title": "[IOT] Edge Computing - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/638",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3586,11 +3597,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:32Z",
     "updated_at": "2026-08-06T10:15:32Z",
-    "scanned_at": "2026-08-09T11:00:40.725076+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405640+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000221",
+    "id": "BH-000222",
     "title": "[IOT] Sicurezza IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/637",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3606,11 +3617,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:31Z",
     "updated_at": "2026-08-06T10:15:31Z",
-    "scanned_at": "2026-08-09T11:00:40.725096+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405658+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000222",
+    "id": "BH-000223",
     "title": "[IOT] Dashboard IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/636",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3626,11 +3637,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:29Z",
     "updated_at": "2026-08-06T10:15:29Z",
-    "scanned_at": "2026-08-09T11:00:40.725116+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405677+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000223",
+    "id": "BH-000224",
     "title": "[IOT] Gateway IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/635",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3646,11 +3657,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:27Z",
     "updated_at": "2026-08-06T10:15:27Z",
-    "scanned_at": "2026-08-09T11:00:40.725136+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405697+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000224",
+    "id": "BH-000225",
     "title": "[IOT] Sensori IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/634",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3666,11 +3677,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:26Z",
     "updated_at": "2026-08-06T10:15:26Z",
-    "scanned_at": "2026-08-09T11:00:40.725156+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405716+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000225",
+    "id": "BH-000226",
     "title": "[IOT] Protocolli IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/633",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3686,11 +3697,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:24Z",
     "updated_at": "2026-08-06T10:15:24Z",
-    "scanned_at": "2026-08-09T11:00:40.725174+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405735+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000226",
+    "id": "BH-000227",
     "title": "[IOT] Piattaforma IoT - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/632",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3706,11 +3717,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:23Z",
     "updated_at": "2026-08-06T10:15:23Z",
-    "scanned_at": "2026-08-09T11:00:40.725194+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405755+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000227",
+    "id": "BH-000228",
     "title": "[IA] AI per ottimizzazione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/631",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3726,11 +3737,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:17Z",
     "updated_at": "2026-08-06T10:15:17Z",
-    "scanned_at": "2026-08-09T11:00:40.725214+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405774+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000228",
+    "id": "BH-000229",
     "title": "[IA] AI per collaborazione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/630",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3746,11 +3757,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:15Z",
     "updated_at": "2026-08-06T10:15:15Z",
-    "scanned_at": "2026-08-09T11:00:40.725235+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405794+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000229",
+    "id": "BH-000230",
     "title": "[IA] AI per manutenzione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/629",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3766,11 +3777,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:13Z",
     "updated_at": "2026-08-06T10:15:13Z",
-    "scanned_at": "2026-08-09T11:00:40.725256+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405814+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000230",
+    "id": "BH-000231",
     "title": "[IA] Reinforcement Learning - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/628",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3786,11 +3797,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:12Z",
     "updated_at": "2026-08-06T10:15:12Z",
-    "scanned_at": "2026-08-09T11:00:40.725276+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405834+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000231",
+    "id": "BH-000232",
     "title": "[IA] Pianificazione automatica - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/627",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3806,11 +3817,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:10Z",
     "updated_at": "2026-08-06T10:15:10Z",
-    "scanned_at": "2026-08-09T11:00:40.725297+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405855+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000232",
+    "id": "BH-000233",
     "title": "[IA] NLP per robot - Comunicazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/626",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3826,11 +3837,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:09Z",
     "updated_at": "2026-08-06T10:15:09Z",
-    "scanned_at": "2026-08-09T11:00:40.725318+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405875+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000233",
+    "id": "BH-000234",
     "title": "[IA] Visione artificiale - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/625",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3846,11 +3857,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:07Z",
     "updated_at": "2026-08-06T10:15:07Z",
-    "scanned_at": "2026-08-09T11:00:40.725339+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405895+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000234",
+    "id": "BH-000235",
     "title": "[IA] AI per robot - Automazione",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/624",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3866,11 +3877,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:05Z",
     "updated_at": "2026-08-06T10:15:05Z",
-    "scanned_at": "2026-08-09T11:00:40.725360+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405929+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000235",
+    "id": "BH-000236",
     "title": "[MODULARE] Sistema di aggancio - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/623",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3886,11 +3897,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:02Z",
     "updated_at": "2026-08-06T10:15:02Z",
-    "scanned_at": "2026-08-09T11:00:40.725382+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405950+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000236",
+    "id": "BH-000237",
     "title": "[MODULARE] Modulo braccio - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/622",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3906,11 +3917,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:15:00Z",
     "updated_at": "2026-08-06T10:15:00Z",
-    "scanned_at": "2026-08-09T11:00:40.725403+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405970+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000237",
+    "id": "BH-000238",
     "title": "[MODULARE] Modulo visione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/621",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3926,11 +3937,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:59Z",
     "updated_at": "2026-08-06T10:14:59Z",
-    "scanned_at": "2026-08-09T11:00:40.725424+00:00",
+    "scanned_at": "2026-08-09T11:30:55.405990+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000238",
+    "id": "BH-000239",
     "title": "[MODULARE] Libreria moduli - Repository",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/620",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3946,11 +3957,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:57Z",
     "updated_at": "2026-08-06T10:14:57Z",
-    "scanned_at": "2026-08-09T11:00:40.725444+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406011+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000239",
+    "id": "BH-000240",
     "title": "[MODULARE] Framework modulare - Sviluppo",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/619",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3966,11 +3977,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:55Z",
     "updated_at": "2026-08-06T10:14:55Z",
-    "scanned_at": "2026-08-09T11:00:40.725464+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406030+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000240",
+    "id": "BH-000241",
     "title": "[MODULARE] Modulo comunicazione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/618",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -3986,11 +3997,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:54Z",
     "updated_at": "2026-08-06T10:14:54Z",
-    "scanned_at": "2026-08-09T11:00:40.725485+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406050+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000241",
+    "id": "BH-000242",
     "title": "[MODULARE] Modulo alimentazione - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/617",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4006,11 +4017,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:52Z",
     "updated_at": "2026-08-06T10:14:52Z",
-    "scanned_at": "2026-08-09T11:00:40.725506+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406071+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000242",
+    "id": "BH-000243",
     "title": "[MODULARE] Modulo attuatori - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/616",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4026,11 +4037,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:51Z",
     "updated_at": "2026-08-06T10:14:51Z",
-    "scanned_at": "2026-08-09T11:00:40.725528+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406091+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000243",
+    "id": "BH-000244",
     "title": "[MODULARE] Modulo sensori - Robot",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/615",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4046,11 +4057,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:49Z",
     "updated_at": "2026-08-06T10:14:49Z",
-    "scanned_at": "2026-08-09T11:00:40.725549+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406111+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000244",
+    "id": "BH-000245",
     "title": "[MODULARE] Architettura modulare - Robot componibili",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/614",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4066,11 +4077,11 @@
     "comments": 0,
     "created_at": "2026-08-06T10:14:47Z",
     "updated_at": "2026-08-06T10:14:47Z",
-    "scanned_at": "2026-08-09T11:00:40.725572+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406133+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000140",
     "title": "[bounty] Shared rate-limit middleware (hot-key correct)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/11",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4086,11 +4097,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-07T17:18:00Z",
-    "scanned_at": "2026-08-09T11:00:34.530590+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676082+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000141",
     "title": "[bounty] Preview-DB seeding + reset endpoint",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/10",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4106,11 +4117,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-08-09T11:00:34.530653+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676144+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000142",
     "title": "[bounty] Per-clone observability (logs + /metrics + middleware)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/9",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4126,11 +4137,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-08-07T16:58:41Z",
-    "scanned_at": "2026-08-09T11:00:34.530706+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676196+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000143",
     "title": "[bounty] Voucher clone (single-use redemption)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/8",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4146,11 +4157,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-07T16:39:41Z",
-    "scanned_at": "2026-08-09T11:00:34.530753+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676243+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000144",
     "title": "[bounty] Inventory / reservation clone (never oversell)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/7",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4166,11 +4177,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-07T17:17:59Z",
-    "scanned_at": "2026-08-09T11:00:34.530801+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676290+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000145",
     "title": "[bounty] Wallet clone (atomic transfers + ledger)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/6",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4186,11 +4197,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-08-09T11:00:34.530850+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676339+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000146",
     "title": "[bounty] Gallery: contributor credit + \"new since last visit\"",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/5",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4206,11 +4217,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-08-07T16:07:33Z",
-    "scanned_at": "2026-08-09T11:00:34.530899+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676387+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000147",
     "title": "[bounty] Paste clone (view-once)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/4",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4226,11 +4237,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-07T16:24:44Z",
-    "scanned_at": "2026-08-09T11:00:34.530947+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676433+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000148",
     "title": "[bounty] Shortlink clone",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/3",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4246,11 +4257,11 @@
     "comments": 3,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-08-07T16:39:40Z",
-    "scanned_at": "2026-08-09T11:00:34.531011+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676480+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000245",
+    "id": "BH-000246",
     "title": "[PORTALI] Rete di portali - Sistema solare",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/613",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4267,11 +4278,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:39Z",
     "updated_at": "2026-08-06T09:01:39Z",
-    "scanned_at": "2026-08-09T11:00:40.725594+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406154+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000246",
+    "id": "BH-000247",
     "title": "[PORTALI] Portale interstellare - Proxima Centauri",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/612",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4288,11 +4299,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:37Z",
     "updated_at": "2026-08-06T09:01:37Z",
-    "scanned_at": "2026-08-09T11:00:40.725616+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406176+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000247",
+    "id": "BH-000248",
     "title": "[PORTALI] Portale Marte-Terra - Collegamento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/611",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4309,11 +4320,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:35Z",
     "updated_at": "2026-08-06T09:01:35Z",
-    "scanned_at": "2026-08-09T11:00:40.725638+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406196+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000248",
+    "id": "BH-000249",
     "title": "[PORTALI] Portale Luna-Terra - Collegamento",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/610",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4330,11 +4341,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:34Z",
     "updated_at": "2026-08-06T09:01:34Z",
-    "scanned_at": "2026-08-09T11:00:40.725660+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406218+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000249",
+    "id": "BH-000250",
     "title": "[PORTALI] Portale spaziale - Installazione in orbita",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/609",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4351,11 +4362,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:32Z",
     "updated_at": "2026-08-06T09:01:32Z",
-    "scanned_at": "2026-08-09T11:00:40.725682+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406238+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000250",
+    "id": "BH-000251",
     "title": "[PORTALI] Wormhole - Prototipo di laboratorio",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/608",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4372,11 +4383,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:30Z",
     "updated_at": "2026-08-06T09:01:30Z",
-    "scanned_at": "2026-08-09T11:00:40.725704+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406260+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000251",
+    "id": "BH-000252",
     "title": "[PORTALI] Portale teletrasporto - Ricerca teorica",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/607",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4393,11 +4404,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:29Z",
     "updated_at": "2026-08-06T09:01:29Z",
-    "scanned_at": "2026-08-09T11:00:40.725726+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406281+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000252",
+    "id": "BH-000253",
     "title": "[NAVICELLE] Navicella auto-replicante - EVA IONI",
     "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/606",
     "repo": "MyZubster-Ecosystem/MyZubsterGateway",
@@ -4414,11 +4425,11 @@
     "comments": 0,
     "created_at": "2026-08-06T09:01:25Z",
     "updated_at": "2026-08-06T09:01:25Z",
-    "scanned_at": "2026-08-09T11:00:40.725748+00:00",
+    "scanned_at": "2026-08-09T11:30:55.406303+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000149",
     "title": "Bounty template for verified work",
     "url": "https://github.com/OxBenji/progress-ledger/issues/2",
     "repo": "OxBenji/progress-ledger",
@@ -4432,11 +4443,11 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-08-09T11:00:34.531039+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676509+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000151",
     "title": "[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/5",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4452,11 +4463,11 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-08-09T11:00:34.531107+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676580+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000152",
     "title": "[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/4",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4472,11 +4483,11 @@
     "comments": 25,
     "created_at": "2026-07-23T14:27:55Z",
     "updated_at": "2026-07-29T22:35:54Z",
-    "scanned_at": "2026-08-09T11:00:34.531156+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676628+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000153",
     "title": "[Bounty] 6-second AI receipt video loop - 150 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/3",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4491,11 +4502,11 @@
     "comments": 5,
     "created_at": "2026-07-23T14:27:54Z",
     "updated_at": "2026-07-29T22:35:29Z",
-    "scanned_at": "2026-08-09T11:00:34.531208+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676678+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000154",
     "title": "[Bounty] 1024px AI-work receipt image - 100 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/2",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4510,11 +4521,11 @@
     "comments": 6,
     "created_at": "2026-07-23T14:27:52Z",
     "updated_at": "2026-07-29T22:34:28Z",
-    "scanned_at": "2026-08-09T11:00:34.531257+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676726+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000155",
     "title": "Really important",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/45",
     "repo": "iii123iii/Crystal-PDF",
@@ -4534,11 +4545,11 @@
     "comments": 4,
     "created_at": "2026-07-16T07:21:53Z",
     "updated_at": "2026-07-29T19:06:14Z",
-    "scanned_at": "2026-08-09T11:00:34.531273+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676742+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000156",
     "title": "[50 MRG] Electron: auto-update stub wiring (electron-updater optional, off by default)",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/29",
     "repo": "mergeos-bounties/Gomi",
@@ -4553,14 +4564,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 11,
+    "comments": 12,
     "created_at": "2026-07-12T11:40:27Z",
-    "updated_at": "2026-08-08T12:54:38Z",
-    "scanned_at": "2026-08-09T11:00:34.531326+00:00",
+    "updated_at": "2026-08-09T11:17:53Z",
+    "scanned_at": "2026-08-09T11:30:49.676793+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000157",
     "title": "[100 MRG] Webview host bridge: versioned message validation + size limits",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/22",
     "repo": "mergeos-bounties/Gomi",
@@ -4578,11 +4589,11 @@
     "comments": 6,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-08-08T17:45:17Z",
-    "scanned_at": "2026-08-09T11:00:34.531402+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676868+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000158",
     "title": "Bug bounty 100 usd to whoever makes my landing page responsive for mobile",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/3",
     "repo": "iii123iii/Crystal-PDF",
@@ -4600,11 +4611,11 @@
     "comments": 42,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-08-07T19:30:22Z",
-    "scanned_at": "2026-08-09T11:00:34.531418+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676885+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000159",
     "title": "Fix speed",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/2",
     "repo": "iii123iii/Crystal-PDF",
@@ -4621,11 +4632,11 @@
     "comments": 10,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-07-29T19:20:05Z",
-    "scanned_at": "2026-08-09T11:00:34.531429+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000160",
     "title": "Add payout receipt export for community admins",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/28",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4639,11 +4650,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:34Z",
     "updated_at": "2026-07-13T12:05:56Z",
-    "scanned_at": "2026-08-09T11:00:34.531456+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676929+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000161",
     "title": "Audit the mobile join flow for accessibility",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/27",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4657,11 +4668,11 @@
     "comments": 5,
     "created_at": "2026-07-05T05:56:32Z",
     "updated_at": "2026-07-13T12:05:53Z",
-    "scanned_at": "2026-08-09T11:00:34.531477+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676950+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000162",
     "title": "Document the Solana devnet deployment and smoke test",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/26",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -4675,11 +4686,11 @@
     "comments": 13,
     "created_at": "2026-07-05T05:56:31Z",
     "updated_at": "2026-07-13T12:05:48Z",
-    "scanned_at": "2026-08-09T11:00:34.531499+00:00",
+    "scanned_at": "2026-08-09T11:30:49.676970+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000169",
     "title": "Fix: Offline sync queue not clearing after successful push",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/52",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4696,11 +4707,11 @@
     "comments": 13,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-20T09:57:09Z",
-    "scanned_at": "2026-08-09T11:00:34.531598+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677068+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000170",
     "title": "Fix: QR code scanner torch toggle broken on iOS",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/51",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4718,11 +4729,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-30T11:20:25Z",
-    "scanned_at": "2026-08-09T11:00:34.531628+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677099+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000171",
     "title": "Fix: SOS button not accessible on Android lock screen",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/50",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4740,11 +4751,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-30T11:20:22Z",
-    "scanned_at": "2026-08-09T11:00:34.531664+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677135+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000172",
     "title": "Appointment conflict detection - improve edge cases",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/49",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4760,11 +4771,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-29T04:29:10Z",
-    "scanned_at": "2026-08-09T11:00:34.531694+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000173",
     "title": "Detox E2E tests - QR scan and share flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/48",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4781,11 +4792,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:53Z",
     "updated_at": "2026-07-29T03:53:31Z",
-    "scanned_at": "2026-08-09T11:00:34.531722+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677195+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000172",
+    "id": "BH-000174",
     "title": "Detox E2E tests - medication flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/47",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4802,11 +4813,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:20:43Z",
     "updated_at": "2026-07-29T04:06:25Z",
-    "scanned_at": "2026-08-09T11:00:34.531752+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677224+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000175",
     "title": "Push notification deep-link routing - all notification types",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/46",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4822,11 +4833,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:33Z",
     "updated_at": "2026-07-30T11:20:28Z",
-    "scanned_at": "2026-08-09T11:00:34.531785+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677256+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000176",
     "title": "Health metrics export to PDF - vet-ready report",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/45",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4842,11 +4853,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:20:23Z",
     "updated_at": "2026-07-29T04:28:24Z",
-    "scanned_at": "2026-08-09T11:00:34.531819+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677288+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000177",
     "title": "Stellar trustline UI - PETC / VETH / PAWP token management",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/43",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4863,11 +4874,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:20:06Z",
     "updated_at": "2026-07-29T04:27:16Z",
-    "scanned_at": "2026-08-09T11:00:34.531851+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677319+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000178",
     "title": "Pet insurance claims - full submission flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/42",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4883,11 +4894,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:19:55Z",
     "updated_at": "2026-07-29T04:25:22Z",
-    "scanned_at": "2026-08-09T11:00:34.531883+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677351+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000179",
     "title": "Portuguese (BR) language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/41",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4905,11 +4916,11 @@
     "comments": 11,
     "created_at": "2026-07-02T11:19:45Z",
     "updated_at": "2026-07-27T08:55:33Z",
-    "scanned_at": "2026-08-09T11:00:34.531908+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677376+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000180",
     "title": "French language translation (i18n)",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/40",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4927,11 +4938,11 @@
     "comments": 12,
     "created_at": "2026-07-02T11:19:35Z",
     "updated_at": "2026-07-20T11:50:41Z",
-    "scanned_at": "2026-08-09T11:00:34.531934+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677400+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000179",
+    "id": "BH-000181",
     "title": "Dark mode - full app theming audit and fix",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/39",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4948,11 +4959,11 @@
     "comments": 5,
     "created_at": "2026-07-02T11:19:23Z",
     "updated_at": "2026-07-29T03:31:43Z",
-    "scanned_at": "2026-08-09T11:00:34.531966+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677432+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000180",
+    "id": "BH-000182",
     "title": "Apple Watch companion app - SwiftUI health widget",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/38",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4968,11 +4979,11 @@
     "comments": 6,
     "created_at": "2026-07-02T11:19:04Z",
     "updated_at": "2026-07-06T08:16:16Z",
-    "scanned_at": "2026-08-09T11:00:34.532013+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677465+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000181",
+    "id": "BH-000183",
     "title": "AI symptom checker backend - breed + symptoms to vet recommendation",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/31",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4989,11 +5000,11 @@
     "comments": 7,
     "created_at": "2026-07-02T11:11:20Z",
     "updated_at": "2026-07-07T08:15:36Z",
-    "scanned_at": "2026-08-09T11:00:34.532051+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677501+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000184",
     "title": "Telemedicine - WebRTC video consultation end-to-end flow",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/30",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -5009,11 +5020,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:11:02Z",
     "updated_at": "2026-07-07T08:11:29Z",
-    "scanned_at": "2026-08-09T11:00:34.532084+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677534+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000185",
     "title": "Wearable device sync - FitBark and Whistle API integration",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/29",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -5029,11 +5040,11 @@
     "comments": 9,
     "created_at": "2026-07-02T11:10:45Z",
     "updated_at": "2026-07-09T11:13:38Z",
-    "scanned_at": "2026-08-09T11:00:34.532115+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677565+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000186",
     "title": "Soroban smart contract - on-chain pet record registry",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/28",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -5050,11 +5061,11 @@
     "comments": 4,
     "created_at": "2026-07-02T11:10:25Z",
     "updated_at": "2026-08-06T13:53:27Z",
-    "scanned_at": "2026-08-09T11:00:34.532149+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677598+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000187",
     "title": "[Frontend] Implement member contribution form on the group detail page",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/12",
     "repo": "coopfinance/coopfin-frontend",
@@ -5069,11 +5080,11 @@
     "comments": 6,
     "created_at": "2026-06-29T12:29:35Z",
     "updated_at": "2026-07-09T20:17:03Z",
-    "scanned_at": "2026-08-09T11:00:34.532204+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677661+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000188",
     "title": "[Frontend] Build individual group detail page at /groups/[id]",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/9",
     "repo": "coopfinance/coopfin-frontend",
@@ -5088,11 +5099,11 @@
     "comments": 4,
     "created_at": "2026-06-29T12:14:26Z",
     "updated_at": "2026-07-29T06:54:16Z",
-    "scanned_at": "2026-08-09T11:00:34.532265+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677729+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000189",
     "title": "CPU mining capped at 64 threads on Windows machines with 64+ logical cores",
     "url": "https://github.com/tari-project/universe/issues/3299",
     "repo": "tari-project/universe",
@@ -5109,11 +5120,11 @@
     "comments": 2,
     "created_at": "2026-06-29T11:54:21Z",
     "updated_at": "2026-07-17T22:02:25Z",
-    "scanned_at": "2026-08-09T11:00:34.532457+00:00",
+    "scanned_at": "2026-08-09T11:30:49.677967+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000190",
     "title": "[Frontend] Implement RecentActivity feed on dashboard",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/2",
     "repo": "coopfinance/coopfin-frontend",
@@ -5129,11 +5140,11 @@
     "comments": 6,
     "created_at": "2026-06-29T11:08:01Z",
     "updated_at": "2026-08-06T17:50:46Z",
-    "scanned_at": "2026-08-09T11:00:34.532516+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678033+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000191",
     "title": "[Frontend] Implement TreasuryChart component with Recharts area chart",
     "url": "https://github.com/coopfinance/coopfin-frontend/issues/1",
     "repo": "coopfinance/coopfin-frontend",
@@ -5149,11 +5160,11 @@
     "comments": 6,
     "created_at": "2026-06-29T11:01:49Z",
     "updated_at": "2026-06-30T00:24:27Z",
-    "scanned_at": "2026-08-09T11:00:34.532585+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000190",
+    "id": "BH-000192",
     "title": "Resolve TS2307 akili module resolution failures in test imports",
     "url": "https://github.com/Build-Africa-DAO/baraza-protocol/issues/16",
     "repo": "Build-Africa-DAO/baraza-protocol",
@@ -5167,7 +5178,7 @@
     "comments": 5,
     "created_at": "2026-06-29T03:15:04Z",
     "updated_at": "2026-07-20T09:56:11Z",
-    "scanned_at": "2026-08-09T11:00:34.532624+00:00",
+    "scanned_at": "2026-08-09T11:30:49.678143+00:00",
     "status": "new"
   }
 ]
