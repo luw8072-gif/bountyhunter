@@ -17,7 +17,7 @@
     "comments": 13,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-08-02T21:06:55Z",
-    "scanned_at": "2026-08-09T21:33:49.029219+00:00",
+    "scanned_at": "2026-08-09T22:20:32.068165+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -40,7 +40,7 @@
     "comments": 22,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-28T13:04:45Z",
-    "scanned_at": "2026-08-09T21:33:49.029178+00:00",
+    "scanned_at": "2026-08-09T22:20:32.068131+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -63,7 +63,7 @@
     "comments": 33,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-28T08:31:40Z",
-    "scanned_at": "2026-08-09T21:33:49.029190+00:00",
+    "scanned_at": "2026-08-09T22:20:32.068140+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -92,7 +92,7 @@
     "comments": 16,
     "created_at": "2026-07-25T09:51:18Z",
     "updated_at": "2026-08-09T20:50:32Z",
-    "scanned_at": "2026-08-09T21:33:55.061246+00:00",
+    "scanned_at": "2026-08-09T22:20:38.202148+00:00",
     "status": "new",
     "_score": 56.2,
     "tier": "A"
@@ -113,7 +113,7 @@
     "comments": 4,
     "created_at": "2026-08-03T21:48:39Z",
     "updated_at": "2026-08-05T13:38:24Z",
-    "scanned_at": "2026-08-09T21:33:44.266231+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184214+00:00",
     "status": "new",
     "_score": 53.0,
     "tier": "A"
@@ -135,7 +135,7 @@
     "comments": 32,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-26T15:02:52Z",
-    "scanned_at": "2026-08-09T21:33:49.029166+00:00",
+    "scanned_at": "2026-08-09T22:20:32.068120+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
@@ -156,7 +156,7 @@
     "comments": 2,
     "created_at": "2026-07-25T10:47:28Z",
     "updated_at": "2026-08-03T18:40:58Z",
-    "scanned_at": "2026-08-09T21:33:44.267194+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184986+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -177,7 +177,7 @@
     "comments": 3,
     "created_at": "2026-07-29T21:38:52Z",
     "updated_at": "2026-08-03T18:40:30Z",
-    "scanned_at": "2026-08-09T21:33:44.266291+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184263+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -198,7 +198,7 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:07Z",
-    "scanned_at": "2026-08-09T21:33:44.268334+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185894+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -219,7 +219,7 @@
     "comments": 4,
     "created_at": "2026-07-26T18:40:49Z",
     "updated_at": "2026-08-03T18:41:12Z",
-    "scanned_at": "2026-08-09T21:33:44.267058+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184871+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -240,13 +240,13 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:57Z",
     "updated_at": "2026-07-26T14:18:09Z",
-    "scanned_at": "2026-08-09T21:33:44.268321+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185884+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000073",
     "title": "[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -261,13 +261,13 @@
     "comments": 28,
     "created_at": "2026-08-07T00:34:23Z",
     "updated_at": "2026-08-08T10:07:12Z",
-    "scanned_at": "2026-08-09T21:32:31.606330+00:00",
+    "scanned_at": "2026-08-09T22:19:13.722607+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000075",
     "title": "[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16",
     "url": "https://github.com/tenstorrent/tt-metal/issues/52328",
     "repo": "tenstorrent/tt-metal",
@@ -283,7 +283,7 @@
     "comments": 7,
     "created_at": "2026-08-06T15:43:20Z",
     "updated_at": "2026-08-08T05:14:00Z",
-    "scanned_at": "2026-08-09T21:32:31.606386+00:00",
+    "scanned_at": "2026-08-09T22:19:13.722651+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -304,7 +304,7 @@
     "comments": 18,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:48Z",
-    "scanned_at": "2026-08-09T21:33:44.267405+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185157+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -325,7 +325,7 @@
     "comments": 6,
     "created_at": "2026-07-29T06:16:50Z",
     "updated_at": "2026-08-04T05:56:41Z",
-    "scanned_at": "2026-08-09T21:33:44.266414+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184361+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -346,7 +346,7 @@
     "comments": 7,
     "created_at": "2026-07-29T06:16:49Z",
     "updated_at": "2026-08-04T06:01:06Z",
-    "scanned_at": "2026-08-09T21:33:44.266426+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184371+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -367,7 +367,7 @@
     "comments": 13,
     "created_at": "2026-07-28T17:54:05Z",
     "updated_at": "2026-08-07T04:06:41Z",
-    "scanned_at": "2026-08-09T21:33:44.266498+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184429+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -391,7 +391,7 @@
     "comments": 4,
     "created_at": "2026-07-27T05:53:02Z",
     "updated_at": "2026-08-03T18:43:01Z",
-    "scanned_at": "2026-08-09T21:33:44.267010+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184834+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -412,7 +412,7 @@
     "comments": 3,
     "created_at": "2026-08-05T21:53:04Z",
     "updated_at": "2026-08-08T11:14:30Z",
-    "scanned_at": "2026-08-09T21:33:44.265235+00:00",
+    "scanned_at": "2026-08-09T22:20:27.183402+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -433,7 +433,7 @@
     "comments": 2,
     "created_at": "2026-07-24T06:12:57Z",
     "updated_at": "2026-07-26T14:18:45Z",
-    "scanned_at": "2026-08-09T21:33:44.267843+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185504+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -454,7 +454,7 @@
     "comments": 3,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:10Z",
-    "scanned_at": "2026-08-09T21:33:44.268257+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185834+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -475,7 +475,7 @@
     "comments": 2,
     "created_at": "2026-07-22T22:56:58Z",
     "updated_at": "2026-07-26T14:18:12Z",
-    "scanned_at": "2026-08-09T21:33:44.268269+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185843+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -496,7 +496,7 @@
     "comments": 2,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-26T14:18:04Z",
-    "scanned_at": "2026-08-09T21:33:44.268346+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185905+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -517,7 +517,7 @@
     "comments": 2,
     "created_at": "2026-07-24T17:22:34Z",
     "updated_at": "2026-08-03T18:41:20Z",
-    "scanned_at": "2026-08-09T21:33:44.267355+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185118+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -538,7 +538,7 @@
     "comments": 1,
     "created_at": "2026-07-24T03:34:56Z",
     "updated_at": "2026-07-26T14:18:41Z",
-    "scanned_at": "2026-08-09T21:33:44.267918+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185565+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -559,13 +559,13 @@
     "comments": 1,
     "created_at": "2026-07-23T15:12:45Z",
     "updated_at": "2026-07-26T14:18:27Z",
-    "scanned_at": "2026-08-09T21:33:44.268112+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185718+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000047",
     "title": "[Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/807",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -580,7 +580,7 @@
     "comments": 3,
     "created_at": "2026-08-08T09:46:21Z",
     "updated_at": "2026-08-09T04:04:13Z",
-    "scanned_at": "2026-08-09T21:32:31.605102+00:00",
+    "scanned_at": "2026-08-09T22:19:13.721576+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -601,7 +601,7 @@
     "comments": 2,
     "created_at": "2026-07-23T15:12:46Z",
     "updated_at": "2026-07-29T12:36:22Z",
-    "scanned_at": "2026-08-09T21:33:44.268098+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185707+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -625,7 +625,7 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:00Z",
     "updated_at": "2026-08-03T18:41:24Z",
-    "scanned_at": "2026-08-09T21:33:44.267032+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184850+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -649,7 +649,7 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:47Z",
     "updated_at": "2026-08-03T18:41:26Z",
-    "scanned_at": "2026-08-09T21:33:44.267248+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185029+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -673,7 +673,7 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:03Z",
     "updated_at": "2026-08-05T05:53:57Z",
-    "scanned_at": "2026-08-09T21:33:44.266989+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184818+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -697,7 +697,7 @@
     "comments": 10,
     "created_at": "2026-07-26T05:34:33Z",
     "updated_at": "2026-08-03T18:43:03Z",
-    "scanned_at": "2026-08-09T21:33:44.267135+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184930+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -721,7 +721,7 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:45Z",
     "updated_at": "2026-08-03T18:43:05Z",
-    "scanned_at": "2026-08-09T21:33:44.267278+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185054+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -745,7 +745,7 @@
     "comments": 7,
     "created_at": "2026-07-26T11:20:45Z",
     "updated_at": "2026-08-03T18:43:09Z",
-    "scanned_at": "2026-08-09T21:33:44.267092+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184896+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -769,7 +769,7 @@
     "comments": 11,
     "created_at": "2026-07-26T11:20:43Z",
     "updated_at": "2026-08-03T18:43:11Z",
-    "scanned_at": "2026-08-09T21:33:44.267113+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184913+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -793,7 +793,7 @@
     "comments": 20,
     "created_at": "2026-07-25T05:16:48Z",
     "updated_at": "2026-08-03T18:43:13Z",
-    "scanned_at": "2026-08-09T21:33:44.267215+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185003+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -817,7 +817,7 @@
     "comments": 19,
     "created_at": "2026-07-25T05:16:44Z",
     "updated_at": "2026-08-03T18:43:15Z",
-    "scanned_at": "2026-08-09T21:33:44.267307+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185077+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -838,7 +838,7 @@
     "comments": 5,
     "created_at": "2026-07-27T18:06:58Z",
     "updated_at": "2026-08-03T18:41:18Z",
-    "scanned_at": "2026-08-09T21:33:44.266933+00:00",
+    "scanned_at": "2026-08-09T22:20:27.184770+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -859,7 +859,7 @@
     "comments": 6,
     "created_at": "2026-07-23T03:46:23Z",
     "updated_at": "2026-07-29T11:45:55Z",
-    "scanned_at": "2026-08-09T21:33:44.268124+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185728+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -880,7 +880,7 @@
     "comments": 20,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:49Z",
-    "scanned_at": "2026-08-09T21:33:44.267413+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185164+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -901,7 +901,7 @@
     "comments": 63,
     "created_at": "2026-07-23T19:45:46Z",
     "updated_at": "2026-07-26T14:18:32Z",
-    "scanned_at": "2026-08-09T21:33:44.268031+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185654+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -922,7 +922,7 @@
     "comments": 178,
     "created_at": "2026-07-23T16:49:39Z",
     "updated_at": "2026-07-26T14:18:31Z",
-    "scanned_at": "2026-08-09T21:33:44.268085+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185697+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -943,7 +943,7 @@
     "comments": 398,
     "created_at": "2026-07-22T20:47:49Z",
     "updated_at": "2026-07-28T15:11:48Z",
-    "scanned_at": "2026-08-09T21:33:44.268428+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185976+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -965,7 +965,7 @@
     "comments": 7,
     "created_at": "2026-07-24T06:13:35Z",
     "updated_at": "2026-07-26T15:34:51Z",
-    "scanned_at": "2026-08-09T21:33:44.267820+00:00",
+    "scanned_at": "2026-08-09T22:20:27.185485+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
