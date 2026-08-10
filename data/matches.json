@@ -17,7 +17,7 @@
     "comments": 13,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-08-02T21:06:55Z",
-    "scanned_at": "2026-08-10T23:04:31.873771+00:00",
+    "scanned_at": "2026-08-10T23:58:25.620445+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -40,7 +40,7 @@
     "comments": 22,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-07-28T13:04:45Z",
-    "scanned_at": "2026-08-10T23:04:31.873748+00:00",
+    "scanned_at": "2026-08-10T23:58:25.620413+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -63,9 +63,38 @@
     "comments": 33,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-07-28T08:31:40Z",
-    "scanned_at": "2026-08-10T23:04:31.873754+00:00",
+    "scanned_at": "2026-08-10T23:58:25.620422+00:00",
     "status": "new",
     "_score": 58.1,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000256",
+    "title": "Automate Bug Detection and Reviews",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/11398",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "number": 11398,
+    "labels": [
+      "bug",
+      "documentation",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "💎 Bounty",
+      "$780"
+    ],
+    "language": "unknown",
+    "amount_usd": 800,
+    "state": "open",
+    "comments": 16,
+    "created_at": "2026-07-25T09:51:18Z",
+    "updated_at": "2026-08-09T20:50:32Z",
+    "scanned_at": "2026-08-10T23:58:31.370599+00:00",
+    "status": "new",
+    "_score": 56.2,
     "tier": "A"
   },
   {
@@ -84,7 +113,7 @@
     "comments": 4,
     "created_at": "2026-08-03T21:48:39Z",
     "updated_at": "2026-08-05T13:38:24Z",
-    "scanned_at": "2026-08-10T23:04:27.176778+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279011+00:00",
     "status": "new",
     "_score": 53.0,
     "tier": "A"
@@ -106,7 +135,7 @@
     "comments": 32,
     "created_at": "2026-06-26T03:11:59Z",
     "updated_at": "2026-07-26T15:02:52Z",
-    "scanned_at": "2026-08-10T23:04:31.873739+00:00",
+    "scanned_at": "2026-08-10T23:58:25.620402+00:00",
     "status": "new",
     "_score": 44.5,
     "tier": "B"
@@ -127,7 +156,7 @@
     "comments": 2,
     "created_at": "2026-07-25T10:47:28Z",
     "updated_at": "2026-08-03T18:40:58Z",
-    "scanned_at": "2026-08-10T23:04:27.177447+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279969+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -148,7 +177,7 @@
     "comments": 3,
     "created_at": "2026-07-29T21:38:52Z",
     "updated_at": "2026-08-03T18:40:30Z",
-    "scanned_at": "2026-08-10T23:04:27.176821+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279069+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -169,7 +198,7 @@
     "comments": 4,
     "created_at": "2026-07-26T18:40:49Z",
     "updated_at": "2026-08-03T18:41:12Z",
-    "scanned_at": "2026-08-10T23:04:27.177358+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279838+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -190,7 +219,7 @@
     "comments": 28,
     "created_at": "2026-08-07T00:34:23Z",
     "updated_at": "2026-08-08T10:07:12Z",
-    "scanned_at": "2026-08-10T23:04:27.176057+00:00",
+    "scanned_at": "2026-08-10T23:58:21.277938+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -211,7 +240,7 @@
     "comments": 18,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:48Z",
-    "scanned_at": "2026-08-10T23:04:27.177617+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280194+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -232,7 +261,7 @@
     "comments": 6,
     "created_at": "2026-07-29T06:16:50Z",
     "updated_at": "2026-08-04T05:56:41Z",
-    "scanned_at": "2026-08-10T23:04:27.176899+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279182+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -253,7 +282,7 @@
     "comments": 7,
     "created_at": "2026-07-29T06:16:49Z",
     "updated_at": "2026-08-04T06:01:06Z",
-    "scanned_at": "2026-08-10T23:04:27.176909+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279193+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -274,7 +303,7 @@
     "comments": 13,
     "created_at": "2026-07-28T17:54:05Z",
     "updated_at": "2026-08-07T04:06:41Z",
-    "scanned_at": "2026-08-10T23:04:27.176964+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279266+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -298,7 +327,7 @@
     "comments": 4,
     "created_at": "2026-07-27T05:53:02Z",
     "updated_at": "2026-08-03T18:43:01Z",
-    "scanned_at": "2026-08-10T23:04:27.177327+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279793+00:00",
     "status": "new",
     "_score": 35.7,
     "tier": "B"
@@ -319,7 +348,7 @@
     "comments": 3,
     "created_at": "2026-08-05T21:53:04Z",
     "updated_at": "2026-08-08T11:14:30Z",
-    "scanned_at": "2026-08-10T23:04:27.176096+00:00",
+    "scanned_at": "2026-08-10T23:58:21.278001+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -340,7 +369,7 @@
     "comments": 2,
     "created_at": "2026-07-24T06:12:57Z",
     "updated_at": "2026-07-26T14:18:45Z",
-    "scanned_at": "2026-08-10T23:04:27.177928+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280601+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -361,7 +390,7 @@
     "comments": 2,
     "created_at": "2026-07-24T17:22:34Z",
     "updated_at": "2026-08-03T18:41:20Z",
-    "scanned_at": "2026-08-10T23:04:27.177585+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280143+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -382,7 +411,7 @@
     "comments": 1,
     "created_at": "2026-07-24T03:34:56Z",
     "updated_at": "2026-07-26T14:18:41Z",
-    "scanned_at": "2026-08-10T23:04:27.177991+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280682+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -403,7 +432,7 @@
     "comments": 1,
     "created_at": "2026-07-23T15:12:45Z",
     "updated_at": "2026-07-26T14:18:27Z",
-    "scanned_at": "2026-08-10T23:04:27.178125+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280887+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -424,7 +453,7 @@
     "comments": 3,
     "created_at": "2026-08-08T09:46:21Z",
     "updated_at": "2026-08-09T04:04:13Z",
-    "scanned_at": "2026-08-10T23:03:14.561071+00:00",
+    "scanned_at": "2026-08-10T23:57:09.688483+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -445,7 +474,7 @@
     "comments": 2,
     "created_at": "2026-07-23T15:12:46Z",
     "updated_at": "2026-07-29T12:36:22Z",
-    "scanned_at": "2026-08-10T23:04:27.178116+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280873+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -469,7 +498,7 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:00Z",
     "updated_at": "2026-08-03T18:41:24Z",
-    "scanned_at": "2026-08-10T23:04:27.177342+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279815+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -493,7 +522,7 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:47Z",
     "updated_at": "2026-08-03T18:41:26Z",
-    "scanned_at": "2026-08-10T23:04:27.177503+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280024+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -517,7 +546,7 @@
     "comments": 5,
     "created_at": "2026-07-27T05:53:03Z",
     "updated_at": "2026-08-05T05:53:57Z",
-    "scanned_at": "2026-08-10T23:04:27.177312+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279773+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -541,7 +570,7 @@
     "comments": 10,
     "created_at": "2026-07-26T05:34:33Z",
     "updated_at": "2026-08-03T18:43:03Z",
-    "scanned_at": "2026-08-10T23:04:27.177404+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279898+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -565,7 +594,7 @@
     "comments": 22,
     "created_at": "2026-07-25T05:16:45Z",
     "updated_at": "2026-08-03T18:43:05Z",
-    "scanned_at": "2026-08-10T23:04:27.177529+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280069+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -589,7 +618,7 @@
     "comments": 7,
     "created_at": "2026-07-26T11:20:45Z",
     "updated_at": "2026-08-03T18:43:09Z",
-    "scanned_at": "2026-08-10T23:04:27.177375+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279859+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -613,7 +642,7 @@
     "comments": 11,
     "created_at": "2026-07-26T11:20:43Z",
     "updated_at": "2026-08-03T18:43:11Z",
-    "scanned_at": "2026-08-10T23:04:27.177389+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279878+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -637,7 +666,7 @@
     "comments": 20,
     "created_at": "2026-07-25T05:16:48Z",
     "updated_at": "2026-08-03T18:43:13Z",
-    "scanned_at": "2026-08-10T23:04:27.177464+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279990+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -661,7 +690,7 @@
     "comments": 19,
     "created_at": "2026-07-25T05:16:44Z",
     "updated_at": "2026-08-03T18:43:15Z",
-    "scanned_at": "2026-08-10T23:04:27.177553+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280101+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
@@ -682,7 +711,7 @@
     "comments": 5,
     "created_at": "2026-07-27T18:06:58Z",
     "updated_at": "2026-08-03T18:41:18Z",
-    "scanned_at": "2026-08-10T23:04:27.177272+00:00",
+    "scanned_at": "2026-08-10T23:58:21.279718+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -703,7 +732,7 @@
     "comments": 6,
     "created_at": "2026-07-23T03:46:23Z",
     "updated_at": "2026-07-29T11:45:55Z",
-    "scanned_at": "2026-08-10T23:04:27.178132+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280899+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -724,7 +753,7 @@
     "comments": 20,
     "created_at": "2026-07-24T15:50:17Z",
     "updated_at": "2026-07-26T14:18:49Z",
-    "scanned_at": "2026-08-10T23:04:27.177623+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280202+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -745,7 +774,7 @@
     "comments": 63,
     "created_at": "2026-07-23T19:45:46Z",
     "updated_at": "2026-07-26T14:18:32Z",
-    "scanned_at": "2026-08-10T23:04:27.178074+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280804+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -766,7 +795,7 @@
     "comments": 178,
     "created_at": "2026-07-23T16:49:39Z",
     "updated_at": "2026-07-26T14:18:31Z",
-    "scanned_at": "2026-08-10T23:04:27.178109+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280861+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -788,7 +817,7 @@
     "comments": 7,
     "created_at": "2026-07-24T06:13:35Z",
     "updated_at": "2026-07-26T15:34:51Z",
-    "scanned_at": "2026-08-10T23:04:27.177908+00:00",
+    "scanned_at": "2026-08-10T23:58:21.280577+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
