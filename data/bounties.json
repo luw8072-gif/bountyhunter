@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000008",
+    "id": "BH-000009",
     "title": "[Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,11 +15,11 @@
     "comments": 1,
     "created_at": "2026-09-17T22:05:32Z",
     "updated_at": "2026-09-17T22:06:31Z",
-    "scanned_at": "2026-09-18T15:26:18.099321+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390586+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000010",
     "title": "[Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
     "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
     "repo": "tenstorrent/tt-metal",
@@ -34,11 +34,11 @@
     "comments": 6,
     "created_at": "2026-09-17T19:27:38Z",
     "updated_at": "2026-09-18T12:53:16Z",
-    "scanned_at": "2026-09-18T15:26:18.099334+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390598+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000002",
     "title": "[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -53,11 +53,11 @@
     "comments": 1,
     "created_at": "2026-09-18T13:45:12Z",
     "updated_at": "2026-09-18T13:46:48Z",
-    "scanned_at": "2026-09-18T15:26:18.098861+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390371+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000018",
     "title": "[Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1584",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -72,11 +72,11 @@
     "comments": 2,
     "created_at": "2026-09-17T10:10:06Z",
     "updated_at": "2026-09-18T14:50:19Z",
-    "scanned_at": "2026-09-18T15:26:18.099769+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390908+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000021",
     "title": "[BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO",
     "url": "https://github.com/OmniBlocks/bountyfarmer/issues/18",
     "repo": "OmniBlocks/bountyfarmer",
@@ -92,31 +92,7 @@
     "comments": 4,
     "created_at": "2026-09-17T05:20:39Z",
     "updated_at": "2026-09-17T19:17:31Z",
-    "scanned_at": "2026-09-18T15:26:18.100115+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000027",
-    "title": "[Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentation (Reciprocal fails 46/153 on Blackhole)",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/56751",
-    "repo": "tenstorrent/tt-metal",
-    "number": 56751,
-    "labels": [
-      "bug",
-      "LLK",
-      "blackhole",
-      "bounty",
-      "bounty_difficulty/medium",
-      "sfpi",
-      "llk:test-infra"
-    ],
-    "language": "unknown",
-    "amount_usd": 1500,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-16T12:22:28Z",
-    "updated_at": "2026-09-18T13:07:59Z",
-    "scanned_at": "2026-09-18T15:26:18.100457+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391142+00:00",
     "status": "new"
   },
   {
@@ -135,7 +111,7 @@
     "comments": 6,
     "created_at": "2026-09-09T21:13:10Z",
     "updated_at": "2026-09-11T09:34:45Z",
-    "scanned_at": "2026-09-18T15:27:30.482011+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312884+00:00",
     "status": "new"
   },
   {
@@ -154,7 +130,7 @@
     "comments": 6,
     "created_at": "2026-09-09T21:13:11Z",
     "updated_at": "2026-09-11T09:44:09Z",
-    "scanned_at": "2026-09-18T15:27:30.481999+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312875+00:00",
     "status": "new"
   },
   {
@@ -173,7 +149,7 @@
     "comments": 62,
     "created_at": "2026-09-10T06:04:26Z",
     "updated_at": "2026-09-12T10:44:00Z",
-    "scanned_at": "2026-09-18T15:26:18.101700+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392266+00:00",
     "status": "new"
   },
   {
@@ -193,7 +169,7 @@
     "comments": 7,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-09-12T10:24:04Z",
-    "scanned_at": "2026-09-18T15:27:32.949236+00:00",
+    "scanned_at": "2026-09-18T18:36:36.038998+00:00",
     "status": "new"
   },
   {
@@ -212,7 +188,7 @@
     "comments": 2,
     "created_at": "2026-09-09T21:13:09Z",
     "updated_at": "2026-09-10T05:23:29Z",
-    "scanned_at": "2026-09-18T15:27:30.482055+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312899+00:00",
     "status": "new"
   },
   {
@@ -231,7 +207,7 @@
     "comments": 5,
     "created_at": "2026-09-09T21:13:11Z",
     "updated_at": "2026-09-11T09:41:20Z",
-    "scanned_at": "2026-09-18T15:27:30.481987+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312867+00:00",
     "status": "new"
   },
   {
@@ -250,11 +226,11 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:28Z",
     "updated_at": "2026-09-08T13:57:46Z",
-    "scanned_at": "2026-09-18T15:27:30.483290+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313736+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000023",
     "title": "[Bounty] $999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1575",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -269,11 +245,11 @@
     "comments": 2,
     "created_at": "2026-09-16T19:04:35Z",
     "updated_at": "2026-09-18T14:56:33Z",
-    "scanned_at": "2026-09-18T15:26:18.100173+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391183+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000024",
     "title": "$999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS",
     "url": "https://github.com/OmniBlocks/bountyfarmer/issues/15",
     "repo": "OmniBlocks/bountyfarmer",
@@ -288,7 +264,7 @@
     "comments": 7,
     "created_at": "2026-09-16T16:21:08Z",
     "updated_at": "2026-09-16T17:49:31Z",
-    "scanned_at": "2026-09-18T15:26:18.100186+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391192+00:00",
     "status": "new"
   },
   {
@@ -307,7 +283,7 @@
     "comments": 30,
     "created_at": "2026-09-13T00:52:44Z",
     "updated_at": "2026-09-17T23:45:16Z",
-    "scanned_at": "2026-09-18T15:26:18.101182+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391887+00:00",
     "status": "new"
   },
   {
@@ -326,7 +302,7 @@
     "comments": 1,
     "created_at": "2026-09-16T01:18:47Z",
     "updated_at": "2026-09-16T01:19:30Z",
-    "scanned_at": "2026-09-18T15:26:18.100552+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391436+00:00",
     "status": "new"
   },
   {
@@ -345,7 +321,7 @@
     "comments": 2,
     "created_at": "2026-09-16T01:18:47Z",
     "updated_at": "2026-09-16T09:10:56Z",
-    "scanned_at": "2026-09-18T15:26:18.100540+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391427+00:00",
     "status": "new"
   },
   {
@@ -364,7 +340,7 @@
     "comments": 16,
     "created_at": "2026-09-15T23:37:03Z",
     "updated_at": "2026-09-16T15:32:59Z",
-    "scanned_at": "2026-09-18T15:26:18.100593+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391466+00:00",
     "status": "new"
   },
   {
@@ -383,7 +359,7 @@
     "comments": 5,
     "created_at": "2026-09-09T21:13:10Z",
     "updated_at": "2026-09-11T09:38:02Z",
-    "scanned_at": "2026-09-18T15:27:30.482025+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312892+00:00",
     "status": "new"
   },
   {
@@ -402,7 +378,7 @@
     "comments": 48,
     "created_at": "2026-09-10T06:04:25Z",
     "updated_at": "2026-09-12T10:44:24Z",
-    "scanned_at": "2026-09-18T15:26:18.101722+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392283+00:00",
     "status": "new"
   },
   {
@@ -421,7 +397,7 @@
     "comments": 12,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-09-12T10:23:24Z",
-    "scanned_at": "2026-09-18T15:27:32.949213+00:00",
+    "scanned_at": "2026-09-18T18:36:36.038981+00:00",
     "status": "new"
   },
   {
@@ -440,7 +416,7 @@
     "comments": 23,
     "created_at": "2026-09-10T01:13:56Z",
     "updated_at": "2026-09-11T05:57:17Z",
-    "scanned_at": "2026-09-18T15:27:30.481731+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312740+00:00",
     "status": "new"
   },
   {
@@ -459,7 +435,7 @@
     "comments": 25,
     "created_at": "2026-09-08T17:49:29Z",
     "updated_at": "2026-09-09T17:27:21Z",
-    "scanned_at": "2026-09-18T15:27:30.482670+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313326+00:00",
     "status": "new"
   },
   {
@@ -478,7 +454,7 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:26Z",
     "updated_at": "2026-09-09T00:16:25Z",
-    "scanned_at": "2026-09-18T15:27:30.483329+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313765+00:00",
     "status": "new"
   },
   {
@@ -497,7 +473,7 @@
     "comments": 5,
     "created_at": "2026-09-09T21:13:12Z",
     "updated_at": "2026-09-11T09:46:48Z",
-    "scanned_at": "2026-09-18T15:27:30.481973+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312857+00:00",
     "status": "new"
   },
   {
@@ -516,7 +492,7 @@
     "comments": 4,
     "created_at": "2026-09-11T18:24:11Z",
     "updated_at": "2026-09-16T00:53:57Z",
-    "scanned_at": "2026-09-18T15:26:18.101457+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392092+00:00",
     "status": "new"
   },
   {
@@ -536,7 +512,7 @@
     "comments": 18,
     "created_at": "2026-09-11T17:26:07Z",
     "updated_at": "2026-09-17T15:25:20Z",
-    "scanned_at": "2026-09-18T15:26:18.101489+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392113+00:00",
     "status": "new"
   },
   {
@@ -555,7 +531,7 @@
     "comments": 4,
     "created_at": "2026-09-09T21:13:14Z",
     "updated_at": "2026-09-10T08:08:27Z",
-    "scanned_at": "2026-09-18T15:27:30.481873+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312830+00:00",
     "status": "new"
   },
   {
@@ -574,7 +550,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:27Z",
     "updated_at": "2026-09-08T13:54:27Z",
-    "scanned_at": "2026-09-18T15:27:30.483303+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313746+00:00",
     "status": "new"
   },
   {
@@ -593,7 +569,7 @@
     "comments": 26,
     "created_at": "2026-09-10T06:04:23Z",
     "updated_at": "2026-09-12T10:45:33Z",
-    "scanned_at": "2026-09-18T15:27:30.481671+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312686+00:00",
     "status": "new"
   },
   {
@@ -613,7 +589,7 @@
     "comments": 30,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-09-12T10:22:42Z",
-    "scanned_at": "2026-09-18T15:27:32.949175+00:00",
+    "scanned_at": "2026-09-18T18:36:36.038946+00:00",
     "status": "new"
   },
   {
@@ -632,7 +608,7 @@
     "comments": 4,
     "created_at": "2026-09-10T01:13:53Z",
     "updated_at": "2026-09-10T09:08:09Z",
-    "scanned_at": "2026-09-18T15:27:30.481813+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312803+00:00",
     "status": "new"
   },
   {
@@ -651,7 +627,7 @@
     "comments": 45,
     "created_at": "2026-09-10T06:04:25Z",
     "updated_at": "2026-09-12T10:34:57Z",
-    "scanned_at": "2026-09-18T15:26:18.101711+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392274+00:00",
     "status": "new"
   },
   {
@@ -670,7 +646,7 @@
     "comments": 10,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-09-12T10:23:42Z",
-    "scanned_at": "2026-09-18T15:27:32.949225+00:00",
+    "scanned_at": "2026-09-18T18:36:36.038989+00:00",
     "status": "new"
   },
   {
@@ -689,7 +665,7 @@
     "comments": 8,
     "created_at": "2026-09-10T01:13:56Z",
     "updated_at": "2026-09-11T05:45:46Z",
-    "scanned_at": "2026-09-18T15:27:30.481744+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312750+00:00",
     "status": "new"
   },
   {
@@ -708,7 +684,7 @@
     "comments": 5,
     "created_at": "2026-09-09T21:13:15Z",
     "updated_at": "2026-09-10T05:26:58Z",
-    "scanned_at": "2026-09-18T15:27:30.481825+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312812+00:00",
     "status": "new"
   },
   {
@@ -727,7 +703,7 @@
     "comments": 25,
     "created_at": "2026-09-08T17:49:28Z",
     "updated_at": "2026-09-09T14:53:30Z",
-    "scanned_at": "2026-09-18T15:27:30.482683+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313335+00:00",
     "status": "new"
   },
   {
@@ -746,11 +722,11 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:24Z",
     "updated_at": "2026-09-09T03:14:05Z",
-    "scanned_at": "2026-09-18T15:27:30.483374+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000098",
     "title": "[Bounty] [Bounty: $600] Write Node.js Script to Programmatically Generate Ruby Toolset Te",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1321",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -765,7 +741,7 @@
     "comments": 5,
     "created_at": "2026-09-10T01:13:54Z",
     "updated_at": "2026-09-16T05:51:41Z",
-    "scanned_at": "2026-09-18T15:27:30.481791+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312778+00:00",
     "status": "new"
   },
   {
@@ -784,7 +760,7 @@
     "comments": 4,
     "created_at": "2026-09-09T21:13:12Z",
     "updated_at": "2026-09-11T09:49:47Z",
-    "scanned_at": "2026-09-18T15:27:30.481952+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312849+00:00",
     "status": "new"
   },
   {
@@ -803,7 +779,7 @@
     "comments": 28,
     "created_at": "2026-09-08T17:49:27Z",
     "updated_at": "2026-09-09T16:35:54Z",
-    "scanned_at": "2026-09-18T15:27:30.482717+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313360+00:00",
     "status": "new"
   },
   {
@@ -822,7 +798,7 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:22Z",
     "updated_at": "2026-09-09T05:14:07Z",
-    "scanned_at": "2026-09-18T15:27:30.483407+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313817+00:00",
     "status": "new"
   },
   {
@@ -841,7 +817,7 @@
     "comments": 5,
     "created_at": "2026-09-10T01:13:55Z",
     "updated_at": "2026-09-11T05:39:31Z",
-    "scanned_at": "2026-09-18T15:27:30.481756+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312759+00:00",
     "status": "new"
   },
   {
@@ -860,7 +836,7 @@
     "comments": 4,
     "created_at": "2026-09-09T21:13:13Z",
     "updated_at": "2026-09-11T09:52:54Z",
-    "scanned_at": "2026-09-18T15:27:30.481895+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312841+00:00",
     "status": "new"
   },
   {
@@ -879,7 +855,7 @@
     "comments": 31,
     "created_at": "2026-09-08T17:49:27Z",
     "updated_at": "2026-09-09T15:35:35Z",
-    "scanned_at": "2026-09-18T15:27:30.482706+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313351+00:00",
     "status": "new"
   },
   {
@@ -898,7 +874,7 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:23Z",
     "updated_at": "2026-09-09T07:13:49Z",
-    "scanned_at": "2026-09-18T15:27:30.483396+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313809+00:00",
     "status": "new"
   },
   {
@@ -917,7 +893,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:20Z",
     "updated_at": "2026-09-08T13:54:20Z",
-    "scanned_at": "2026-09-18T15:27:30.483443+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313840+00:00",
     "status": "new"
   },
   {
@@ -936,7 +912,7 @@
     "comments": 2,
     "created_at": "2026-09-15T22:57:39Z",
     "updated_at": "2026-09-16T00:24:08Z",
-    "scanned_at": "2026-09-18T15:26:18.100663+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391513+00:00",
     "status": "new"
   },
   {
@@ -954,7 +930,7 @@
     "comments": 36,
     "created_at": "2026-09-15T22:11:34Z",
     "updated_at": "2026-09-17T23:51:08Z",
-    "scanned_at": "2026-09-18T15:26:18.100695+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391535+00:00",
     "status": "new"
   },
   {
@@ -973,7 +949,7 @@
     "comments": 3,
     "created_at": "2026-09-11T21:09:44Z",
     "updated_at": "2026-09-16T11:20:47Z",
-    "scanned_at": "2026-09-18T15:26:18.101434+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392076+00:00",
     "status": "new"
   },
   {
@@ -993,7 +969,7 @@
     "comments": 14,
     "created_at": "2026-09-11T18:45:31Z",
     "updated_at": "2026-09-15T18:12:32Z",
-    "scanned_at": "2026-09-18T15:26:18.101445+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392084+00:00",
     "status": "new"
   },
   {
@@ -1012,7 +988,7 @@
     "comments": 35,
     "created_at": "2026-09-10T06:04:24Z",
     "updated_at": "2026-09-13T16:55:53Z",
-    "scanned_at": "2026-09-18T15:26:18.101732+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392289+00:00",
     "status": "new"
   },
   {
@@ -1031,7 +1007,7 @@
     "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-09-12T10:23:02Z",
-    "scanned_at": "2026-09-18T15:27:32.949201+00:00",
+    "scanned_at": "2026-09-18T18:36:36.038973+00:00",
     "status": "new"
   },
   {
@@ -1050,7 +1026,7 @@
     "comments": 8,
     "created_at": "2026-09-10T01:13:57Z",
     "updated_at": "2026-09-12T06:50:50Z",
-    "scanned_at": "2026-09-18T15:27:30.481703+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312717+00:00",
     "status": "new"
   },
   {
@@ -1069,7 +1045,7 @@
     "comments": 3,
     "created_at": "2026-09-09T21:13:14Z",
     "updated_at": "2026-09-11T10:09:34Z",
-    "scanned_at": "2026-09-18T15:27:30.481851+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312821+00:00",
     "status": "new"
   },
   {
@@ -1088,7 +1064,7 @@
     "comments": 28,
     "created_at": "2026-09-08T17:49:29Z",
     "updated_at": "2026-09-09T17:25:20Z",
-    "scanned_at": "2026-09-18T15:27:30.482658+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313316+00:00",
     "status": "new"
   },
   {
@@ -1107,7 +1083,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:28Z",
     "updated_at": "2026-09-08T13:54:28Z",
-    "scanned_at": "2026-09-18T15:27:30.483277+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313726+00:00",
     "status": "new"
   },
   {
@@ -1126,7 +1102,7 @@
     "comments": 2,
     "created_at": "2026-09-08T13:54:25Z",
     "updated_at": "2026-09-09T09:14:20Z",
-    "scanned_at": "2026-09-18T15:27:30.483349+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313775+00:00",
     "status": "new"
   },
   {
@@ -1145,11 +1121,11 @@
     "comments": 9,
     "created_at": "2026-09-10T01:13:57Z",
     "updated_at": "2026-09-12T06:47:12Z",
-    "scanned_at": "2026-09-18T15:27:30.481717+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312728+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000099",
     "title": "[Bounty] [Bounty: $450] Custom Humanoid NPC Texture Scrambled / Left Arm & Leg Mirrored I",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1320",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1164,7 +1140,7 @@
     "comments": 6,
     "created_at": "2026-09-10T01:13:54Z",
     "updated_at": "2026-09-11T13:08:55Z",
-    "scanned_at": "2026-09-18T15:27:30.481779+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312786+00:00",
     "status": "new"
   },
   {
@@ -1183,7 +1159,7 @@
     "comments": 60,
     "created_at": "2026-09-08T17:49:30Z",
     "updated_at": "2026-09-09T17:25:20Z",
-    "scanned_at": "2026-09-18T15:27:30.482646+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313307+00:00",
     "status": "new"
   },
   {
@@ -1202,7 +1178,7 @@
     "comments": 22,
     "created_at": "2026-09-08T17:49:26Z",
     "updated_at": "2026-09-09T14:16:48Z",
-    "scanned_at": "2026-09-18T15:27:30.482727+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313369+00:00",
     "status": "new"
   },
   {
@@ -1221,7 +1197,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:25Z",
     "updated_at": "2026-09-14T02:48:41Z",
-    "scanned_at": "2026-09-18T15:27:30.483362+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313784+00:00",
     "status": "new"
   },
   {
@@ -1240,7 +1216,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:22Z",
     "updated_at": "2026-09-08T13:54:22Z",
-    "scanned_at": "2026-09-18T15:27:30.483419+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313825+00:00",
     "status": "new"
   },
   {
@@ -1259,7 +1235,7 @@
     "comments": 8,
     "created_at": "2026-09-10T01:13:55Z",
     "updated_at": "2026-09-12T10:08:28Z",
-    "scanned_at": "2026-09-18T15:27:30.481768+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312768+00:00",
     "status": "new"
   },
   {
@@ -1278,7 +1254,7 @@
     "comments": 28,
     "created_at": "2026-09-08T17:49:28Z",
     "updated_at": "2026-09-14T02:47:23Z",
-    "scanned_at": "2026-09-18T15:27:30.482694+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313343+00:00",
     "status": "new"
   },
   {
@@ -1297,7 +1273,7 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:23Z",
     "updated_at": "2026-09-09T14:17:37Z",
-    "scanned_at": "2026-09-18T15:27:30.483385+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313801+00:00",
     "status": "new"
   },
   {
@@ -1316,7 +1292,7 @@
     "comments": 3,
     "created_at": "2026-09-10T01:13:53Z",
     "updated_at": "2026-09-10T05:29:12Z",
-    "scanned_at": "2026-09-18T15:27:30.481802+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312795+00:00",
     "status": "new"
   },
   {
@@ -1335,7 +1311,7 @@
     "comments": 19,
     "created_at": "2026-09-08T17:49:26Z",
     "updated_at": "2026-09-09T14:16:17Z",
-    "scanned_at": "2026-09-18T15:27:30.482741+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313376+00:00",
     "status": "new"
   },
   {
@@ -1354,7 +1330,7 @@
     "comments": 2,
     "created_at": "2026-09-08T13:54:27Z",
     "updated_at": "2026-09-15T04:46:19Z",
-    "scanned_at": "2026-09-18T15:27:30.483314+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313755+00:00",
     "status": "new"
   },
   {
@@ -1373,7 +1349,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:21Z",
     "updated_at": "2026-09-08T13:54:21Z",
-    "scanned_at": "2026-09-18T15:27:30.483431+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313832+00:00",
     "status": "new"
   },
   {
@@ -1392,11 +1368,11 @@
     "comments": 2,
     "created_at": "2026-09-08T13:54:29Z",
     "updated_at": "2026-09-15T14:24:32Z",
-    "scanned_at": "2026-09-18T15:27:30.483265+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313717+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000004",
     "title": "[Bounty] $239398281948585883* bounty",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1593",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1411,11 +1387,11 @@
     "comments": 2,
     "created_at": "2026-09-18T09:24:56Z",
     "updated_at": "2026-09-18T15:00:24Z",
-    "scanned_at": "2026-09-18T15:26:18.099097+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000005",
     "title": "$239398281948585883* bounty",
     "url": "https://github.com/OmniBlocks/bountyfarmer/issues/31",
     "repo": "OmniBlocks/bountyfarmer",
@@ -1429,11 +1405,11 @@
     "comments": 2,
     "created_at": "2026-09-18T07:44:06Z",
     "updated_at": "2026-09-18T07:45:56Z",
-    "scanned_at": "2026-09-18T15:26:18.099118+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390421+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000025",
     "title": "[Bounty] Bounty",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1448,11 +1424,11 @@
     "comments": 2,
     "created_at": "2026-09-16T15:35:15Z",
     "updated_at": "2026-09-18T14:59:59Z",
-    "scanned_at": "2026-09-18T15:26:18.100242+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391230+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000027",
     "title": "Bounty",
     "url": "https://github.com/OmniBlocks/Boxy-gh/issues/143",
     "repo": "OmniBlocks/Boxy-gh",
@@ -1466,7 +1442,7 @@
     "comments": 28,
     "created_at": "2026-09-16T12:58:44Z",
     "updated_at": "2026-09-16T18:32:08Z",
-    "scanned_at": "2026-09-18T15:26:18.100433+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391365+00:00",
     "status": "new"
   },
   {
@@ -1485,7 +1461,7 @@
     "comments": 13,
     "created_at": "2026-09-16T01:18:46Z",
     "updated_at": "2026-09-17T08:29:48Z",
-    "scanned_at": "2026-09-18T15:26:18.100564+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391447+00:00",
     "status": "new"
   },
   {
@@ -1504,7 +1480,7 @@
     "comments": 4,
     "created_at": "2026-09-16T00:18:29Z",
     "updated_at": "2026-09-16T10:13:16Z",
-    "scanned_at": "2026-09-18T15:26:18.100578+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391457+00:00",
     "status": "new"
   },
   {
@@ -1523,7 +1499,7 @@
     "comments": 3,
     "created_at": "2026-09-15T22:57:40Z",
     "updated_at": "2026-09-16T11:09:11Z",
-    "scanned_at": "2026-09-18T15:26:18.100618+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391482+00:00",
     "status": "new"
   },
   {
@@ -1542,7 +1518,7 @@
     "comments": 2,
     "created_at": "2026-09-15T17:07:57Z",
     "updated_at": "2026-09-16T00:23:26Z",
-    "scanned_at": "2026-09-18T15:26:18.100718+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391551+00:00",
     "status": "new"
   },
   {
@@ -1560,7 +1536,7 @@
     "comments": 9,
     "created_at": "2026-09-15T15:59:50Z",
     "updated_at": "2026-09-16T17:51:37Z",
-    "scanned_at": "2026-09-18T15:26:18.100727+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391558+00:00",
     "status": "new"
   },
   {
@@ -1579,7 +1555,7 @@
     "comments": 1,
     "created_at": "2026-09-16T11:47:00Z",
     "updated_at": "2026-09-16T11:47:21Z",
-    "scanned_at": "2026-09-18T15:26:18.100488+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391387+00:00",
     "status": "new"
   },
   {
@@ -1598,7 +1574,7 @@
     "comments": 14,
     "created_at": "2026-09-09T15:09:56Z",
     "updated_at": "2026-09-09T19:34:43Z",
-    "scanned_at": "2026-09-18T15:27:30.482287+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313064+00:00",
     "status": "new"
   },
   {
@@ -1617,7 +1593,7 @@
     "comments": 9,
     "created_at": "2026-09-09T15:09:55Z",
     "updated_at": "2026-09-09T19:05:20Z",
-    "scanned_at": "2026-09-18T15:27:30.482403+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313143+00:00",
     "status": "new"
   },
   {
@@ -1636,7 +1612,7 @@
     "comments": 8,
     "created_at": "2026-09-09T15:09:54Z",
     "updated_at": "2026-09-09T19:05:23Z",
-    "scanned_at": "2026-09-18T15:27:30.482517+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313219+00:00",
     "status": "new"
   },
   {
@@ -1655,7 +1631,7 @@
     "comments": 8,
     "created_at": "2026-09-09T15:09:54Z",
     "updated_at": "2026-09-09T19:05:22Z",
-    "scanned_at": "2026-09-18T15:27:30.482632+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313297+00:00",
     "status": "new"
   },
   {
@@ -1674,7 +1650,7 @@
     "comments": 2,
     "created_at": "2026-09-08T13:54:31Z",
     "updated_at": "2026-09-08T16:48:03Z",
-    "scanned_at": "2026-09-18T15:27:30.482858+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313460+00:00",
     "status": "new"
   },
   {
@@ -1693,7 +1669,7 @@
     "comments": 3,
     "created_at": "2026-09-08T13:54:31Z",
     "updated_at": "2026-09-08T17:03:38Z",
-    "scanned_at": "2026-09-18T15:27:30.483002+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313536+00:00",
     "status": "new"
   },
   {
@@ -1712,7 +1688,7 @@
     "comments": 1,
     "created_at": "2026-09-08T13:54:30Z",
     "updated_at": "2026-09-08T13:57:11Z",
-    "scanned_at": "2026-09-18T15:27:30.483119+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313615+00:00",
     "status": "new"
   },
   {
@@ -1731,7 +1707,7 @@
     "comments": 0,
     "created_at": "2026-09-08T13:54:29Z",
     "updated_at": "2026-09-08T13:54:29Z",
-    "scanned_at": "2026-09-18T15:27:30.483234+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313692+00:00",
     "status": "new"
   },
   {
@@ -1750,7 +1726,7 @@
     "comments": 16,
     "created_at": "2026-09-09T15:09:56Z",
     "updated_at": "2026-09-09T19:05:16Z",
-    "scanned_at": "2026-09-18T15:27:30.482169+00:00",
+    "scanned_at": "2026-09-18T18:36:33.312974+00:00",
     "status": "new"
   },
   {
@@ -1769,7 +1745,7 @@
     "comments": 112,
     "created_at": "2026-09-07T22:13:53Z",
     "updated_at": "2026-09-08T13:36:20Z",
-    "scanned_at": "2026-09-18T15:27:30.483676+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313993+00:00",
     "status": "new"
   },
   {
@@ -1788,7 +1764,7 @@
     "comments": 7,
     "created_at": "2026-09-12T13:43:16Z",
     "updated_at": "2026-09-16T10:01:42Z",
-    "scanned_at": "2026-09-18T15:26:18.101282+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391959+00:00",
     "status": "new"
   },
   {
@@ -1806,7 +1782,7 @@
     "comments": 16,
     "created_at": "2026-09-12T11:27:20Z",
     "updated_at": "2026-09-14T20:55:16Z",
-    "scanned_at": "2026-09-18T15:26:18.101292+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391966+00:00",
     "status": "new"
   },
   {
@@ -1827,7 +1803,7 @@
     "comments": 97,
     "created_at": "2026-07-24T08:17:43Z",
     "updated_at": "2026-09-18T07:20:54Z",
-    "scanned_at": "2026-09-18T15:27:32.951612+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040793+00:00",
     "status": "new"
   },
   {
@@ -1848,7 +1824,7 @@
     "comments": 24,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-09-17T00:35:24Z",
-    "scanned_at": "2026-09-18T15:27:32.951922+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041027+00:00",
     "status": "new"
   },
   {
@@ -1869,7 +1845,7 @@
     "comments": 33,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-09-17T02:59:58Z",
-    "scanned_at": "2026-09-18T15:27:32.951894+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041004+00:00",
     "status": "new"
   },
   {
@@ -1887,10 +1863,10 @@
     "language": "unknown",
     "amount_usd": 10,
     "state": "open",
-    "comments": 24,
+    "comments": 26,
     "created_at": "2026-07-03T14:30:52Z",
-    "updated_at": "2026-09-17T19:49:12Z",
-    "scanned_at": "2026-09-18T15:27:32.951903+00:00",
+    "updated_at": "2026-09-18T18:26:28Z",
+    "scanned_at": "2026-09-18T18:36:36.041012+00:00",
     "status": "new"
   },
   {
@@ -1911,7 +1887,7 @@
     "comments": 23,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-09-11T08:47:31Z",
-    "scanned_at": "2026-09-18T15:27:32.951911+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041018+00:00",
     "status": "new"
   },
   {
@@ -1931,7 +1907,7 @@
     "comments": 78,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-09-17T23:02:06Z",
-    "scanned_at": "2026-09-18T15:27:32.951885+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040997+00:00",
     "status": "new"
   },
   {
@@ -1950,11 +1926,30 @@
     "comments": 15,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-08-20T01:22:05Z",
-    "scanned_at": "2026-09-18T15:27:32.951930+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041033+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000001",
+    "title": "$∞ BOUNTY",
+    "url": "https://github.com/OmniBlocks/bountyfarmer/issues/36",
+    "repo": "OmniBlocks/bountyfarmer",
+    "number": 36,
+    "labels": [
+      "bounty",
+      "meme"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 6,
+    "created_at": "2026-09-18T16:22:46Z",
+    "updated_at": "2026-09-18T16:27:38Z",
+    "scanned_at": "2026-09-18T18:35:20.390336+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
     "title": "CLAIM YOUR REWARD HERE",
     "url": "https://github.com/OmniBlocks/bountyfarmer/issues/35",
     "repo": "OmniBlocks/bountyfarmer",
@@ -1967,14 +1962,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-09-18T13:23:10Z",
-    "updated_at": "2026-09-18T13:30:17Z",
-    "scanned_at": "2026-09-18T15:26:18.099054+00:00",
+    "updated_at": "2026-09-18T17:41:46Z",
+    "scanned_at": "2026-09-18T18:35:20.390395+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000006",
     "title": "Bounty:give boxy its own bitcoin wallet",
     "url": "https://github.com/OmniBlocks/bountyfarmer/issues/30",
     "repo": "OmniBlocks/bountyfarmer",
@@ -1990,11 +1985,11 @@
     "comments": 4,
     "created_at": "2026-09-18T07:05:59Z",
     "updated_at": "2026-09-18T15:08:01Z",
-    "scanned_at": "2026-09-18T15:26:18.099138+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390434+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000007",
     "title": "🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage` is 0",
     "url": "https://github.com/sharmiaalono/go-github/issues/5",
     "repo": "sharmiaalono/go-github",
@@ -2007,14 +2002,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "created_at": "2026-09-18T05:13:31Z",
-    "updated_at": "2026-09-18T12:04:55Z",
-    "scanned_at": "2026-09-18T15:26:18.099271+00:00",
+    "updated_at": "2026-09-18T15:59:04Z",
+    "scanned_at": "2026-09-18T18:35:20.390548+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000008",
     "title": "Claim: May Flowers Star Pack — Blackcode-cmd",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/16984",
     "repo": "Scottcjn/rustchain-bounties",
@@ -2025,14 +2020,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-09-18T00:06:02Z",
-    "updated_at": "2026-09-18T15:11:06Z",
-    "scanned_at": "2026-09-18T15:26:18.099306+00:00",
+    "updated_at": "2026-09-18T17:20:43Z",
+    "scanned_at": "2026-09-18T18:35:20.390564+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000011",
     "title": "[bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志）",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
     "repo": "Ikalus1988/MisakaNet",
@@ -2049,11 +2044,11 @@
     "comments": 3,
     "created_at": "2026-09-17T18:42:33Z",
     "updated_at": "2026-09-18T09:05:44Z",
-    "scanned_at": "2026-09-18T15:26:18.099481+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390700+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000012",
     "title": "Bounty:give boxy its own bitcoin wallet",
     "url": "https://github.com/OmniBlocks/Boxy-gh/issues/147",
     "repo": "OmniBlocks/Boxy-gh",
@@ -2069,11 +2064,11 @@
     "comments": 1,
     "created_at": "2026-09-17T15:24:02Z",
     "updated_at": "2026-09-17T15:24:27Z",
-    "scanned_at": "2026-09-18T15:26:18.099498+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390711+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000013",
     "title": "Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process",
     "url": "https://github.com/auscaster/frantic-board/issues/432",
     "repo": "auscaster/frantic-board",
@@ -2082,20 +2077,19 @@
       "bounty",
       "funded",
       "available",
-      "claimed",
       "delivered"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 14,
+    "comments": 15,
     "created_at": "2026-09-17T10:29:14Z",
-    "updated_at": "2026-09-18T14:14:19Z",
-    "scanned_at": "2026-09-18T15:26:18.099551+00:00",
+    "updated_at": "2026-09-18T17:16:17Z",
+    "scanned_at": "2026-09-18T18:35:20.390750+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000014",
     "title": "Frantic bounty #134: Run an Ausca Browser Session end to end and report the process",
     "url": "https://github.com/auscaster/frantic-board/issues/431",
     "repo": "auscaster/frantic-board",
@@ -2112,11 +2106,11 @@
     "comments": 19,
     "created_at": "2026-09-17T10:27:52Z",
     "updated_at": "2026-09-18T14:53:04Z",
-    "scanned_at": "2026-09-18T15:26:18.099602+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390787+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000015",
     "title": "Frantic bounty #133: Run Ausca Media Transcription end to end and report the process",
     "url": "https://github.com/auscaster/frantic-board/issues/430",
     "repo": "auscaster/frantic-board",
@@ -2132,11 +2126,11 @@
     "comments": 10,
     "created_at": "2026-09-17T10:27:27Z",
     "updated_at": "2026-09-18T14:50:10Z",
-    "scanned_at": "2026-09-18T15:26:18.099652+00:00",
+    "scanned_at": "2026-09-18T18:35:20.390823+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000016",
     "title": "Frantic bounty #132: Run Ausca Document Analysis end to end and report the process",
     "url": "https://github.com/auscaster/frantic-board/issues/429",
     "repo": "auscaster/frantic-board",
@@ -2144,19 +2138,20 @@
     "labels": [
       "bounty",
       "funded",
-      "available"
+      "available",
+      "claimed"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-09-17T10:27:22Z",
-    "updated_at": "2026-09-18T14:48:32Z",
-    "scanned_at": "2026-09-18T15:26:18.099701+00:00",
+    "updated_at": "2026-09-18T15:28:37Z",
+    "scanned_at": "2026-09-18T18:35:20.390863+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000017",
     "title": "Frantic bounty #131: Run Ausca Document OCR end to end and report the process",
     "url": "https://github.com/auscaster/frantic-board/issues/428",
     "repo": "auscaster/frantic-board",
@@ -2165,20 +2160,19 @@
       "bounty",
       "funded",
       "available",
-      "delivered",
-      "needs-work"
+      "delivered"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 14,
+    "comments": 15,
     "created_at": "2026-09-17T10:27:16Z",
-    "updated_at": "2026-09-18T14:53:26Z",
-    "scanned_at": "2026-09-18T15:26:18.099751+00:00",
+    "updated_at": "2026-09-18T15:52:51Z",
+    "scanned_at": "2026-09-18T18:35:20.390898+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000019",
     "title": "🎯 Fix pagination inconsistency when ListOptions.PerPage is zero",
     "url": "https://github.com/sharmiaalono/go-github/issues/1",
     "repo": "sharmiaalono/go-github",
@@ -2194,11 +2188,11 @@
     "comments": 5,
     "created_at": "2026-09-17T08:58:35Z",
     "updated_at": "2026-09-18T14:52:37Z",
-    "scanned_at": "2026-09-18T15:26:18.099922+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391018+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000020",
     "title": "Debug bounty from VS Code (Zimb/zimb)",
     "url": "https://github.com/Zimb/zimb/issues/6",
     "repo": "Zimb/zimb",
@@ -2214,11 +2208,11 @@
     "comments": 4,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-09-18T14:58:17Z",
-    "scanned_at": "2026-09-18T15:26:18.100093+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391132+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000022",
     "title": "test issue",
     "url": "https://github.com/Zimb/zimb/issues/1",
     "repo": "Zimb/zimb",
@@ -2234,11 +2228,11 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-09-18T15:26:18.100159+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391173+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000026",
     "title": "🎯 Bug: Middleware from nested route group leaks into sibling routes",
     "url": "https://github.com/NilaVinti095284/chi/issues/1",
     "repo": "NilaVinti095284/chi",
@@ -2254,7 +2248,7 @@
     "comments": 4,
     "created_at": "2026-09-16T14:26:45Z",
     "updated_at": "2026-09-18T14:58:31Z",
-    "scanned_at": "2026-09-18T15:26:18.100421+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391357+00:00",
     "status": "new"
   },
   {
@@ -2278,7 +2272,7 @@
     "comments": 7,
     "created_at": "2026-09-16T09:03:44Z",
     "updated_at": "2026-09-18T08:38:32Z",
-    "scanned_at": "2026-09-18T15:26:18.100514+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391408+00:00",
     "status": "new"
   },
   {
@@ -2296,7 +2290,7 @@
     "comments": 7,
     "created_at": "2026-09-16T06:50:58Z",
     "updated_at": "2026-09-17T22:24:13Z",
-    "scanned_at": "2026-09-18T15:26:18.100525+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391416+00:00",
     "status": "new"
   },
   {
@@ -2315,7 +2309,7 @@
     "comments": 2,
     "created_at": "2026-09-15T23:25:17Z",
     "updated_at": "2026-09-15T23:26:05Z",
-    "scanned_at": "2026-09-18T15:26:18.100607+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391476+00:00",
     "status": "new"
   },
   {
@@ -2335,7 +2329,7 @@
     "comments": 4,
     "created_at": "2026-09-15T11:37:05Z",
     "updated_at": "2026-09-15T14:05:31Z",
-    "scanned_at": "2026-09-18T15:26:18.100746+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391572+00:00",
     "status": "new"
   },
   {
@@ -2355,7 +2349,7 @@
     "comments": 6,
     "created_at": "2026-09-14T19:16:18Z",
     "updated_at": "2026-09-15T13:05:46Z",
-    "scanned_at": "2026-09-18T15:26:18.100767+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391587+00:00",
     "status": "new"
   },
   {
@@ -2375,7 +2369,7 @@
     "comments": 4,
     "created_at": "2026-09-14T13:54:35Z",
     "updated_at": "2026-09-14T23:47:44Z",
-    "scanned_at": "2026-09-18T15:26:18.100787+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391602+00:00",
     "status": "new"
   },
   {
@@ -2395,7 +2389,7 @@
     "comments": 4,
     "created_at": "2026-09-14T12:34:58Z",
     "updated_at": "2026-09-14T23:50:22Z",
-    "scanned_at": "2026-09-18T15:26:18.100806+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391616+00:00",
     "status": "new"
   },
   {
@@ -2415,7 +2409,7 @@
     "comments": 2,
     "created_at": "2026-09-14T06:07:22Z",
     "updated_at": "2026-09-14T20:49:37Z",
-    "scanned_at": "2026-09-18T15:26:18.100827+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391630+00:00",
     "status": "new"
   },
   {
@@ -2435,7 +2429,7 @@
     "comments": 2,
     "created_at": "2026-09-14T00:58:13Z",
     "updated_at": "2026-09-14T22:31:38Z",
-    "scanned_at": "2026-09-18T15:26:18.100849+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391646+00:00",
     "status": "new"
   },
   {
@@ -2459,7 +2453,7 @@
     "comments": 5,
     "created_at": "2026-09-13T22:43:43Z",
     "updated_at": "2026-09-17T17:06:18Z",
-    "scanned_at": "2026-09-18T15:26:18.100872+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391666+00:00",
     "status": "new"
   },
   {
@@ -2483,7 +2477,7 @@
     "comments": 6,
     "created_at": "2026-09-13T22:41:57Z",
     "updated_at": "2026-09-17T17:06:05Z",
-    "scanned_at": "2026-09-18T15:26:18.100893+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391683+00:00",
     "status": "new"
   },
   {
@@ -2503,7 +2497,7 @@
     "comments": 1,
     "created_at": "2026-09-13T22:21:16Z",
     "updated_at": "2026-09-13T22:21:54Z",
-    "scanned_at": "2026-09-18T15:26:18.100914+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391698+00:00",
     "status": "new"
   },
   {
@@ -2523,7 +2517,7 @@
     "comments": 2,
     "created_at": "2026-09-13T19:22:24Z",
     "updated_at": "2026-09-13T19:23:09Z",
-    "scanned_at": "2026-09-18T15:26:18.100936+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391713+00:00",
     "status": "new"
   },
   {
@@ -2546,7 +2540,7 @@
     "comments": 5,
     "created_at": "2026-09-13T17:02:03Z",
     "updated_at": "2026-09-16T00:53:51Z",
-    "scanned_at": "2026-09-18T15:26:18.100976+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391729+00:00",
     "status": "new"
   },
   {
@@ -2569,7 +2563,7 @@
     "comments": 5,
     "created_at": "2026-09-13T17:02:02Z",
     "updated_at": "2026-09-16T00:48:51Z",
-    "scanned_at": "2026-09-18T15:26:18.100995+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391745+00:00",
     "status": "new"
   },
   {
@@ -2589,7 +2583,7 @@
     "comments": 3,
     "created_at": "2026-09-13T16:09:11Z",
     "updated_at": "2026-09-14T12:28:56Z",
-    "scanned_at": "2026-09-18T15:26:18.101073+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391807+00:00",
     "status": "new"
   },
   {
@@ -2613,7 +2607,7 @@
     "comments": 6,
     "created_at": "2026-09-13T13:29:14Z",
     "updated_at": "2026-09-17T17:06:15Z",
-    "scanned_at": "2026-09-18T15:26:18.101096+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391824+00:00",
     "status": "new"
   },
   {
@@ -2636,7 +2630,7 @@
     "comments": 7,
     "created_at": "2026-09-13T11:56:41Z",
     "updated_at": "2026-09-17T17:06:09Z",
-    "scanned_at": "2026-09-18T15:26:18.101113+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391838+00:00",
     "status": "new"
   },
   {
@@ -2659,7 +2653,7 @@
     "comments": 10,
     "created_at": "2026-09-13T11:55:59Z",
     "updated_at": "2026-09-18T01:16:21Z",
-    "scanned_at": "2026-09-18T15:26:18.101133+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391850+00:00",
     "status": "new"
   },
   {
@@ -2682,7 +2676,7 @@
     "comments": 8,
     "created_at": "2026-09-13T11:55:56Z",
     "updated_at": "2026-09-15T05:51:32Z",
-    "scanned_at": "2026-09-18T15:26:18.101150+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391863+00:00",
     "status": "new"
   },
   {
@@ -2705,7 +2699,7 @@
     "comments": 7,
     "created_at": "2026-09-13T11:55:54Z",
     "updated_at": "2026-09-17T17:06:11Z",
-    "scanned_at": "2026-09-18T15:26:18.101166+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391877+00:00",
     "status": "new"
   },
   {
@@ -2725,7 +2719,7 @@
     "comments": 2,
     "created_at": "2026-09-12T22:12:20Z",
     "updated_at": "2026-09-13T14:31:30Z",
-    "scanned_at": "2026-09-18T15:26:18.101204+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391903+00:00",
     "status": "new"
   },
   {
@@ -2745,7 +2739,7 @@
     "comments": 1,
     "created_at": "2026-09-12T19:13:12Z",
     "updated_at": "2026-09-12T19:13:50Z",
-    "scanned_at": "2026-09-18T15:26:18.101225+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391920+00:00",
     "status": "new"
   },
   {
@@ -2765,7 +2759,7 @@
     "comments": 1,
     "created_at": "2026-09-12T17:00:36Z",
     "updated_at": "2026-09-12T18:52:04Z",
-    "scanned_at": "2026-09-18T15:26:18.101249+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391936+00:00",
     "status": "new"
   },
   {
@@ -2785,7 +2779,7 @@
     "comments": 1,
     "created_at": "2026-09-12T14:01:52Z",
     "updated_at": "2026-09-12T18:52:22Z",
-    "scanned_at": "2026-09-18T15:26:18.101271+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391951+00:00",
     "status": "new"
   },
   {
@@ -2805,7 +2799,7 @@
     "comments": 1,
     "created_at": "2026-09-12T10:38:34Z",
     "updated_at": "2026-09-12T18:54:04Z",
-    "scanned_at": "2026-09-18T15:26:18.101322+00:00",
+    "scanned_at": "2026-09-18T18:35:20.391986+00:00",
     "status": "new"
   },
   {
@@ -2825,7 +2819,7 @@
     "comments": 1,
     "created_at": "2026-09-12T10:38:14Z",
     "updated_at": "2026-09-12T14:31:21Z",
-    "scanned_at": "2026-09-18T15:26:18.101343+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392000+00:00",
     "status": "new"
   },
   {
@@ -2845,7 +2839,7 @@
     "comments": 1,
     "created_at": "2026-09-12T05:39:31Z",
     "updated_at": "2026-09-12T18:54:27Z",
-    "scanned_at": "2026-09-18T15:26:18.101365+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392018+00:00",
     "status": "new"
   },
   {
@@ -2865,7 +2859,7 @@
     "comments": 6,
     "created_at": "2026-09-12T00:10:50Z",
     "updated_at": "2026-09-12T10:37:22Z",
-    "scanned_at": "2026-09-18T15:26:18.101395+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392038+00:00",
     "status": "new"
   },
   {
@@ -2885,7 +2879,7 @@
     "comments": 6,
     "created_at": "2026-09-11T21:40:37Z",
     "updated_at": "2026-09-12T10:37:44Z",
-    "scanned_at": "2026-09-18T15:26:18.101422+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392066+00:00",
     "status": "new"
   },
   {
@@ -2905,7 +2899,7 @@
     "comments": 6,
     "created_at": "2026-09-11T18:24:05Z",
     "updated_at": "2026-09-12T10:39:30Z",
-    "scanned_at": "2026-09-18T15:26:18.101474+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392105+00:00",
     "status": "new"
   },
   {
@@ -2925,7 +2919,7 @@
     "comments": 18,
     "created_at": "2026-09-11T14:20:17Z",
     "updated_at": "2026-09-12T10:40:28Z",
-    "scanned_at": "2026-09-18T15:26:18.101510+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392128+00:00",
     "status": "new"
   },
   {
@@ -2945,7 +2939,7 @@
     "comments": 27,
     "created_at": "2026-09-11T11:10:08Z",
     "updated_at": "2026-09-12T10:40:49Z",
-    "scanned_at": "2026-09-18T15:26:18.101527+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392141+00:00",
     "status": "new"
   },
   {
@@ -2965,7 +2959,7 @@
     "comments": 30,
     "created_at": "2026-09-11T09:33:28Z",
     "updated_at": "2026-09-12T10:32:49Z",
-    "scanned_at": "2026-09-18T15:26:18.101543+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392155+00:00",
     "status": "new"
   },
   {
@@ -2985,7 +2979,7 @@
     "comments": 39,
     "created_at": "2026-09-11T04:28:43Z",
     "updated_at": "2026-09-12T10:41:26Z",
-    "scanned_at": "2026-09-18T15:26:18.101562+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392167+00:00",
     "status": "new"
   },
   {
@@ -3005,7 +2999,7 @@
     "comments": 48,
     "created_at": "2026-09-11T00:02:24Z",
     "updated_at": "2026-09-12T10:41:46Z",
-    "scanned_at": "2026-09-18T15:26:18.101586+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392185+00:00",
     "status": "new"
   },
   {
@@ -3025,7 +3019,7 @@
     "comments": 48,
     "created_at": "2026-09-10T21:34:14Z",
     "updated_at": "2026-09-12T10:42:09Z",
-    "scanned_at": "2026-09-18T15:26:18.101609+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392202+00:00",
     "status": "new"
   },
   {
@@ -3045,7 +3039,7 @@
     "comments": 49,
     "created_at": "2026-09-10T18:20:22Z",
     "updated_at": "2026-09-12T10:42:31Z",
-    "scanned_at": "2026-09-18T15:26:18.101632+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392221+00:00",
     "status": "new"
   },
   {
@@ -3065,7 +3059,7 @@
     "comments": 59,
     "created_at": "2026-09-10T14:19:21Z",
     "updated_at": "2026-09-12T10:42:53Z",
-    "scanned_at": "2026-09-18T15:26:18.101649+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392233+00:00",
     "status": "new"
   },
   {
@@ -3085,7 +3079,7 @@
     "comments": 66,
     "created_at": "2026-09-10T11:09:37Z",
     "updated_at": "2026-09-12T10:43:16Z",
-    "scanned_at": "2026-09-18T15:26:18.101668+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392246+00:00",
     "status": "new"
   },
   {
@@ -3105,7 +3099,7 @@
     "comments": 64,
     "created_at": "2026-09-10T09:36:09Z",
     "updated_at": "2026-09-12T10:43:37Z",
-    "scanned_at": "2026-09-18T15:26:18.101685+00:00",
+    "scanned_at": "2026-09-18T18:35:20.392259+00:00",
     "status": "new"
   },
   {
@@ -3125,7 +3119,7 @@
     "comments": 25,
     "created_at": "2026-09-10T04:35:14Z",
     "updated_at": "2026-09-12T10:45:54Z",
-    "scanned_at": "2026-09-18T15:27:38.584612+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016055+00:00",
     "status": "new"
   },
   {
@@ -3145,7 +3139,7 @@
     "comments": 1,
     "created_at": "2026-09-10T00:06:47Z",
     "updated_at": "2026-09-10T00:07:55Z",
-    "scanned_at": "2026-09-18T15:27:38.584649+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016103+00:00",
     "status": "new"
   },
   {
@@ -3165,7 +3159,7 @@
     "comments": 3,
     "created_at": "2026-09-09T21:38:58Z",
     "updated_at": "2026-09-09T23:08:27Z",
-    "scanned_at": "2026-09-18T15:27:38.584670+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016119+00:00",
     "status": "new"
   },
   {
@@ -3185,7 +3179,7 @@
     "comments": 2,
     "created_at": "2026-09-09T18:30:08Z",
     "updated_at": "2026-09-09T19:05:13Z",
-    "scanned_at": "2026-09-18T15:27:38.584690+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016135+00:00",
     "status": "new"
   },
   {
@@ -3205,7 +3199,7 @@
     "comments": 4,
     "created_at": "2026-09-09T14:27:54Z",
     "updated_at": "2026-09-09T17:25:19Z",
-    "scanned_at": "2026-09-18T15:27:38.584710+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016150+00:00",
     "status": "new"
   },
   {
@@ -3225,7 +3219,7 @@
     "comments": 18,
     "created_at": "2026-09-09T11:13:28Z",
     "updated_at": "2026-09-09T17:25:19Z",
-    "scanned_at": "2026-09-18T15:27:38.584727+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016163+00:00",
     "status": "new"
   },
   {
@@ -3249,7 +3243,7 @@
     "comments": 23,
     "created_at": "2026-09-08T06:56:44Z",
     "updated_at": "2026-09-11T13:29:37Z",
-    "scanned_at": "2026-09-18T15:27:30.483564+00:00",
+    "scanned_at": "2026-09-18T18:36:33.313920+00:00",
     "status": "new"
   },
   {
@@ -3269,7 +3263,7 @@
     "comments": 2,
     "created_at": "2026-09-05T12:37:04Z",
     "updated_at": "2026-09-08T09:43:35Z",
-    "scanned_at": "2026-09-18T15:27:38.584746+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016180+00:00",
     "status": "new"
   },
   {
@@ -3289,7 +3283,7 @@
     "comments": 2,
     "created_at": "2026-09-05T10:29:00Z",
     "updated_at": "2026-09-08T10:34:54Z",
-    "scanned_at": "2026-09-18T15:27:38.584769+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016198+00:00",
     "status": "new"
   },
   {
@@ -3309,7 +3303,7 @@
     "comments": 2,
     "created_at": "2026-09-05T08:58:32Z",
     "updated_at": "2026-09-08T10:34:58Z",
-    "scanned_at": "2026-09-18T15:27:38.584792+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016211+00:00",
     "status": "new"
   },
   {
@@ -3329,7 +3323,7 @@
     "comments": 2,
     "created_at": "2026-09-05T04:16:47Z",
     "updated_at": "2026-09-08T10:33:48Z",
-    "scanned_at": "2026-09-18T15:27:38.584819+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016223+00:00",
     "status": "new"
   },
   {
@@ -3349,7 +3343,7 @@
     "comments": 2,
     "created_at": "2026-09-04T23:57:47Z",
     "updated_at": "2026-09-08T10:33:49Z",
-    "scanned_at": "2026-09-18T15:27:38.584862+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016236+00:00",
     "status": "new"
   },
   {
@@ -3369,7 +3363,7 @@
     "comments": 2,
     "created_at": "2026-09-04T21:22:53Z",
     "updated_at": "2026-09-08T10:34:01Z",
-    "scanned_at": "2026-09-18T15:27:38.584888+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016248+00:00",
     "status": "new"
   },
   {
@@ -3389,7 +3383,7 @@
     "comments": 1,
     "created_at": "2026-09-04T18:18:54Z",
     "updated_at": "2026-09-07T14:10:01Z",
-    "scanned_at": "2026-09-18T15:27:38.584921+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016261+00:00",
     "status": "new"
   },
   {
@@ -3409,7 +3403,7 @@
     "comments": 2,
     "created_at": "2026-09-04T14:15:59Z",
     "updated_at": "2026-09-07T14:09:57Z",
-    "scanned_at": "2026-09-18T15:27:38.584961+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016273+00:00",
     "status": "new"
   },
   {
@@ -3429,7 +3423,7 @@
     "comments": 2,
     "created_at": "2026-09-04T11:09:22Z",
     "updated_at": "2026-09-07T14:09:49Z",
-    "scanned_at": "2026-09-18T15:27:38.584991+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016285+00:00",
     "status": "new"
   },
   {
@@ -3449,7 +3443,7 @@
     "comments": 1,
     "created_at": "2026-09-04T09:31:57Z",
     "updated_at": "2026-09-07T14:09:31Z",
-    "scanned_at": "2026-09-18T15:27:38.585007+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016297+00:00",
     "status": "new"
   },
   {
@@ -3469,7 +3463,7 @@
     "comments": 2,
     "created_at": "2026-09-04T04:20:50Z",
     "updated_at": "2026-09-07T14:09:27Z",
-    "scanned_at": "2026-09-18T15:27:38.585023+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016310+00:00",
     "status": "new"
   },
   {
@@ -3489,7 +3483,7 @@
     "comments": 1,
     "created_at": "2026-09-02T14:22:14Z",
     "updated_at": "2026-09-07T14:07:53Z",
-    "scanned_at": "2026-09-18T15:27:38.585041+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016324+00:00",
     "status": "new"
   },
   {
@@ -3509,7 +3503,7 @@
     "comments": 1,
     "created_at": "2026-09-02T11:10:05Z",
     "updated_at": "2026-09-07T14:07:20Z",
-    "scanned_at": "2026-09-18T15:27:38.585059+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016337+00:00",
     "status": "new"
   },
   {
@@ -3529,7 +3523,7 @@
     "comments": 1,
     "created_at": "2026-09-02T09:30:08Z",
     "updated_at": "2026-09-07T14:07:24Z",
-    "scanned_at": "2026-09-18T15:27:38.585076+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016350+00:00",
     "status": "new"
   },
   {
@@ -3549,7 +3543,7 @@
     "comments": 1,
     "created_at": "2026-09-02T04:20:03Z",
     "updated_at": "2026-09-07T14:07:28Z",
-    "scanned_at": "2026-09-18T15:27:38.585094+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016363+00:00",
     "status": "new"
   },
   {
@@ -3569,7 +3563,7 @@
     "comments": 1,
     "created_at": "2026-09-02T00:02:02Z",
     "updated_at": "2026-09-07T14:07:46Z",
-    "scanned_at": "2026-09-18T15:27:38.585111+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016376+00:00",
     "status": "new"
   },
   {
@@ -3589,7 +3583,7 @@
     "comments": 1,
     "created_at": "2026-09-01T21:43:04Z",
     "updated_at": "2026-09-07T14:07:32Z",
-    "scanned_at": "2026-09-18T15:27:38.585128+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016390+00:00",
     "status": "new"
   },
   {
@@ -3609,7 +3603,7 @@
     "comments": 1,
     "created_at": "2026-09-01T18:23:44Z",
     "updated_at": "2026-09-07T14:07:01Z",
-    "scanned_at": "2026-09-18T15:27:38.585145+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016402+00:00",
     "status": "new"
   },
   {
@@ -3629,7 +3623,7 @@
     "comments": 1,
     "created_at": "2026-09-01T14:46:05Z",
     "updated_at": "2026-09-07T14:07:16Z",
-    "scanned_at": "2026-09-18T15:27:38.585163+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016416+00:00",
     "status": "new"
   },
   {
@@ -3649,7 +3643,7 @@
     "comments": 1,
     "created_at": "2026-09-01T11:33:27Z",
     "updated_at": "2026-09-07T14:06:46Z",
-    "scanned_at": "2026-09-18T15:27:38.585187+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016434+00:00",
     "status": "new"
   },
   {
@@ -3669,7 +3663,7 @@
     "comments": 5,
     "created_at": "2026-09-01T09:58:25Z",
     "updated_at": "2026-09-07T14:08:31Z",
-    "scanned_at": "2026-09-18T15:27:38.585204+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016449+00:00",
     "status": "new"
   },
   {
@@ -3689,7 +3683,7 @@
     "comments": 1,
     "created_at": "2026-09-01T04:56:59Z",
     "updated_at": "2026-09-07T13:23:20Z",
-    "scanned_at": "2026-09-18T15:27:38.585227+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016467+00:00",
     "status": "new"
   },
   {
@@ -3709,7 +3703,7 @@
     "comments": 1,
     "created_at": "2026-08-31T23:45:32Z",
     "updated_at": "2026-09-07T13:23:27Z",
-    "scanned_at": "2026-09-18T15:27:38.585243+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016479+00:00",
     "status": "new"
   },
   {
@@ -3729,7 +3723,7 @@
     "comments": 1,
     "created_at": "2026-08-31T19:57:54Z",
     "updated_at": "2026-09-07T13:24:05Z",
-    "scanned_at": "2026-09-18T15:27:38.585268+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016498+00:00",
     "status": "new"
   },
   {
@@ -3749,7 +3743,7 @@
     "comments": 1,
     "created_at": "2026-08-31T13:34:08Z",
     "updated_at": "2026-09-07T13:24:09Z",
-    "scanned_at": "2026-09-18T15:27:38.585297+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016521+00:00",
     "status": "new"
   },
   {
@@ -3769,7 +3763,7 @@
     "comments": 1,
     "created_at": "2026-08-31T13:33:33Z",
     "updated_at": "2026-09-07T14:04:53Z",
-    "scanned_at": "2026-09-18T15:27:38.585320+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016539+00:00",
     "status": "new"
   },
   {
@@ -3789,7 +3783,7 @@
     "comments": 1,
     "created_at": "2026-08-31T05:22:33Z",
     "updated_at": "2026-09-07T14:06:50Z",
-    "scanned_at": "2026-09-18T15:27:38.585343+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016557+00:00",
     "status": "new"
   },
   {
@@ -3809,7 +3803,7 @@
     "comments": 1,
     "created_at": "2026-08-30T23:25:06Z",
     "updated_at": "2026-09-07T14:06:58Z",
-    "scanned_at": "2026-09-18T15:27:38.585366+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016575+00:00",
     "status": "new"
   },
   {
@@ -3829,7 +3823,7 @@
     "comments": 0,
     "created_at": "2026-08-30T20:58:33Z",
     "updated_at": "2026-08-30T23:00:15Z",
-    "scanned_at": "2026-09-18T15:27:38.585390+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016592+00:00",
     "status": "new"
   },
   {
@@ -3849,7 +3843,7 @@
     "comments": 12,
     "created_at": "2026-08-30T17:22:14Z",
     "updated_at": "2026-09-10T20:07:15Z",
-    "scanned_at": "2026-09-18T15:27:38.585409+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016607+00:00",
     "status": "new"
   },
   {
@@ -3869,7 +3863,7 @@
     "comments": 0,
     "created_at": "2026-08-30T12:47:34Z",
     "updated_at": "2026-08-30T20:00:23Z",
-    "scanned_at": "2026-09-18T15:27:38.585429+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016622+00:00",
     "status": "new"
   },
   {
@@ -3889,7 +3883,7 @@
     "comments": 0,
     "created_at": "2026-08-30T11:49:16Z",
     "updated_at": "2026-08-30T12:00:20Z",
-    "scanned_at": "2026-09-18T15:27:38.585449+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016637+00:00",
     "status": "new"
   },
   {
@@ -3909,7 +3903,7 @@
     "comments": 1,
     "created_at": "2026-08-29T12:38:13Z",
     "updated_at": "2026-08-29T12:46:34Z",
-    "scanned_at": "2026-09-18T15:27:38.585466+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016650+00:00",
     "status": "new"
   },
   {
@@ -3929,7 +3923,7 @@
     "comments": 9,
     "created_at": "2026-08-28T18:35:06Z",
     "updated_at": "2026-09-01T01:01:01Z",
-    "scanned_at": "2026-09-18T15:27:38.585489+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016668+00:00",
     "status": "new"
   },
   {
@@ -3950,7 +3944,7 @@
     "comments": 26,
     "created_at": "2026-08-25T13:07:33Z",
     "updated_at": "2026-09-07T23:31:57Z",
-    "scanned_at": "2026-09-18T15:27:38.585610+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016770+00:00",
     "status": "new"
   },
   {
@@ -3971,7 +3965,7 @@
     "comments": 7,
     "created_at": "2026-08-25T13:07:11Z",
     "updated_at": "2026-08-26T14:28:24Z",
-    "scanned_at": "2026-09-18T15:27:38.585694+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016837+00:00",
     "status": "new"
   },
   {
@@ -3991,7 +3985,7 @@
     "comments": 17,
     "created_at": "2026-08-24T20:41:47Z",
     "updated_at": "2026-08-26T14:33:53Z",
-    "scanned_at": "2026-09-18T15:27:38.585717+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016852+00:00",
     "status": "new"
   },
   {
@@ -4011,7 +4005,7 @@
     "comments": 1,
     "created_at": "2026-08-24T19:37:28Z",
     "updated_at": "2026-08-24T19:48:08Z",
-    "scanned_at": "2026-09-18T15:27:38.585736+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016866+00:00",
     "status": "new"
   },
   {
@@ -4031,7 +4025,7 @@
     "comments": 1,
     "created_at": "2026-08-24T18:53:26Z",
     "updated_at": "2026-08-24T18:54:26Z",
-    "scanned_at": "2026-09-18T15:27:38.585755+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016880+00:00",
     "status": "new"
   },
   {
@@ -4051,7 +4045,7 @@
     "comments": 15,
     "created_at": "2026-08-24T17:39:09Z",
     "updated_at": "2026-08-26T09:36:43Z",
-    "scanned_at": "2026-09-18T15:27:38.585773+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016893+00:00",
     "status": "new"
   },
   {
@@ -4071,7 +4065,7 @@
     "comments": 19,
     "created_at": "2026-08-24T16:50:12Z",
     "updated_at": "2026-08-26T09:36:25Z",
-    "scanned_at": "2026-09-18T15:27:38.585791+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016907+00:00",
     "status": "new"
   },
   {
@@ -4091,7 +4085,7 @@
     "comments": 24,
     "created_at": "2026-08-24T15:50:22Z",
     "updated_at": "2026-08-26T09:36:24Z",
-    "scanned_at": "2026-09-18T15:27:38.585809+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016921+00:00",
     "status": "new"
   },
   {
@@ -4111,7 +4105,7 @@
     "comments": 23,
     "created_at": "2026-08-24T14:53:41Z",
     "updated_at": "2026-08-26T09:36:10Z",
-    "scanned_at": "2026-09-18T15:27:38.585827+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016936+00:00",
     "status": "new"
   },
   {
@@ -4131,7 +4125,7 @@
     "comments": 25,
     "created_at": "2026-08-24T13:07:32Z",
     "updated_at": "2026-08-26T09:36:21Z",
-    "scanned_at": "2026-09-18T15:27:38.585845+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016950+00:00",
     "status": "new"
   },
   {
@@ -4151,7 +4145,7 @@
     "comments": 1,
     "created_at": "2026-08-24T11:37:37Z",
     "updated_at": "2026-08-24T11:40:24Z",
-    "scanned_at": "2026-09-18T15:27:38.585863+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016963+00:00",
     "status": "new"
   },
   {
@@ -4171,7 +4165,7 @@
     "comments": 2,
     "created_at": "2026-08-24T10:48:19Z",
     "updated_at": "2026-08-24T11:40:29Z",
-    "scanned_at": "2026-09-18T15:27:38.585881+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016978+00:00",
     "status": "new"
   },
   {
@@ -4191,7 +4185,7 @@
     "comments": 3,
     "created_at": "2026-08-24T09:57:44Z",
     "updated_at": "2026-08-24T11:41:17Z",
-    "scanned_at": "2026-09-18T15:27:38.585900+00:00",
+    "scanned_at": "2026-09-18T18:36:42.016992+00:00",
     "status": "new"
   },
   {
@@ -4211,7 +4205,7 @@
     "comments": 3,
     "created_at": "2026-08-24T08:58:46Z",
     "updated_at": "2026-08-24T11:41:22Z",
-    "scanned_at": "2026-09-18T15:27:38.585919+00:00",
+    "scanned_at": "2026-09-18T18:36:42.017007+00:00",
     "status": "new"
   },
   {
@@ -4231,7 +4225,7 @@
     "comments": 5,
     "created_at": "2026-08-24T07:14:37Z",
     "updated_at": "2026-08-24T11:41:41Z",
-    "scanned_at": "2026-09-18T15:27:38.585955+00:00",
+    "scanned_at": "2026-09-18T18:36:42.017021+00:00",
     "status": "new"
   },
   {
@@ -4251,7 +4245,7 @@
     "comments": 6,
     "created_at": "2026-08-24T05:47:49Z",
     "updated_at": "2026-08-24T11:06:21Z",
-    "scanned_at": "2026-09-18T15:27:38.585975+00:00",
+    "scanned_at": "2026-09-18T18:36:42.017034+00:00",
     "status": "new"
   },
   {
@@ -4277,7 +4271,7 @@
     "comments": 12,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-09-18T08:59:01Z",
-    "scanned_at": "2026-09-18T15:27:32.949321+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039080+00:00",
     "status": "new"
   },
   {
@@ -4303,7 +4297,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-09-14T05:48:45Z",
-    "scanned_at": "2026-09-18T15:27:32.949421+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039160+00:00",
     "status": "new"
   },
   {
@@ -4329,7 +4323,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-08-19T04:41:55Z",
-    "scanned_at": "2026-09-18T15:27:32.949523+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039238+00:00",
     "status": "new"
   },
   {
@@ -4355,7 +4349,7 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-09-18T15:27:32.949651+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039346+00:00",
     "status": "new"
   },
   {
@@ -4380,7 +4374,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-09-09T01:31:25Z",
-    "scanned_at": "2026-09-18T15:27:32.949754+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039431+00:00",
     "status": "new"
   },
   {
@@ -4405,7 +4399,7 @@
     "comments": 18,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-09-16T20:39:03Z",
-    "scanned_at": "2026-09-18T15:27:32.949837+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039502+00:00",
     "status": "new"
   },
   {
@@ -4430,7 +4424,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-09-16T18:28:31Z",
-    "scanned_at": "2026-09-18T15:27:32.949920+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039568+00:00",
     "status": "new"
   },
   {
@@ -4457,7 +4451,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-09-18T13:50:35Z",
-    "scanned_at": "2026-09-18T15:27:32.950080+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039633+00:00",
     "status": "new"
   },
   {
@@ -4483,7 +4477,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-09-16T15:57:40Z",
-    "scanned_at": "2026-09-18T15:27:32.950168+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039698+00:00",
     "status": "new"
   },
   {
@@ -4509,7 +4503,7 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-09-18T15:27:32.950238+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039754+00:00",
     "status": "new"
   },
   {
@@ -4535,7 +4529,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-09-17T21:14:05Z",
-    "scanned_at": "2026-09-18T15:27:32.950316+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039820+00:00",
     "status": "new"
   },
   {
@@ -4561,7 +4555,7 @@
     "comments": 6,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-09-16T15:37:15Z",
-    "scanned_at": "2026-09-18T15:27:32.950378+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039869+00:00",
     "status": "new"
   },
   {
@@ -4587,7 +4581,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-09-18T15:27:32.950452+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039930+00:00",
     "status": "new"
   },
   {
@@ -4613,7 +4607,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-08-24T18:19:43Z",
-    "scanned_at": "2026-09-18T15:27:32.950526+00:00",
+    "scanned_at": "2026-09-18T18:36:36.039988+00:00",
     "status": "new"
   },
   {
@@ -4639,7 +4633,7 @@
     "comments": 10,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-09-16T18:00:01Z",
-    "scanned_at": "2026-09-18T15:27:32.950604+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040061+00:00",
     "status": "new"
   },
   {
@@ -4665,7 +4659,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-09-17T10:35:52Z",
-    "scanned_at": "2026-09-18T15:27:32.950666+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040110+00:00",
     "status": "new"
   },
   {
@@ -4691,7 +4685,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:03Z",
     "updated_at": "2026-09-16T15:37:02Z",
-    "scanned_at": "2026-09-18T15:27:32.950758+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040182+00:00",
     "status": "new"
   },
   {
@@ -4714,7 +4708,7 @@
     "comments": 6,
     "created_at": "2026-08-16T16:52:31Z",
     "updated_at": "2026-09-17T22:21:27Z",
-    "scanned_at": "2026-09-18T15:27:32.950887+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040285+00:00",
     "status": "new"
   },
   {
@@ -4733,7 +4727,7 @@
     "comments": 30,
     "created_at": "2026-08-09T14:50:40Z",
     "updated_at": "2026-08-26T09:35:07Z",
-    "scanned_at": "2026-09-18T15:27:32.950922+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040310+00:00",
     "status": "new"
   },
   {
@@ -4754,7 +4748,7 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:48Z",
     "updated_at": "2026-08-08T18:55:11Z",
-    "scanned_at": "2026-09-18T15:27:32.950967+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040329+00:00",
     "status": "new"
   },
   {
@@ -4775,7 +4769,7 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:45Z",
     "updated_at": "2026-08-12T11:53:13Z",
-    "scanned_at": "2026-09-18T15:27:32.950998+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040349+00:00",
     "status": "new"
   },
   {
@@ -4796,7 +4790,7 @@
     "comments": 3,
     "created_at": "2026-08-08T10:26:10Z",
     "updated_at": "2026-08-11T09:00:52Z",
-    "scanned_at": "2026-09-18T15:27:32.951075+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040406+00:00",
     "status": "new"
   },
   {
@@ -4817,7 +4811,7 @@
     "comments": 4,
     "created_at": "2026-08-08T10:23:21Z",
     "updated_at": "2026-09-09T10:19:38Z",
-    "scanned_at": "2026-09-18T15:27:32.951129+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040444+00:00",
     "status": "new"
   },
   {
@@ -4838,7 +4832,7 @@
     "comments": 9,
     "created_at": "2026-08-08T08:48:25Z",
     "updated_at": "2026-09-06T01:09:49Z",
-    "scanned_at": "2026-09-18T15:27:32.951193+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040493+00:00",
     "status": "new"
   },
   {
@@ -4858,7 +4852,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-07T17:18:00Z",
-    "scanned_at": "2026-09-18T15:27:32.951233+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040522+00:00",
     "status": "new"
   },
   {
@@ -4878,7 +4872,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-09-18T15:27:32.951275+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040552+00:00",
     "status": "new"
   },
   {
@@ -4898,7 +4892,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-09-05T19:28:52Z",
-    "scanned_at": "2026-09-18T15:27:32.951320+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040584+00:00",
     "status": "new"
   },
   {
@@ -4918,7 +4912,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-07T16:39:41Z",
-    "scanned_at": "2026-09-18T15:27:32.951360+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040613+00:00",
     "status": "new"
   },
   {
@@ -4938,7 +4932,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-07T17:17:59Z",
-    "scanned_at": "2026-09-18T15:27:32.951401+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040643+00:00",
     "status": "new"
   },
   {
@@ -4958,7 +4952,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-09-18T15:27:32.951446+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040673+00:00",
     "status": "new"
   },
   {
@@ -4978,7 +4972,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-09-05T16:10:29Z",
-    "scanned_at": "2026-09-18T15:27:32.951488+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040703+00:00",
     "status": "new"
   },
   {
@@ -4998,7 +4992,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-07T16:24:44Z",
-    "scanned_at": "2026-09-18T15:27:32.951530+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040733+00:00",
     "status": "new"
   },
   {
@@ -5018,7 +5012,7 @@
     "comments": 7,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-09-17T18:54:56Z",
-    "scanned_at": "2026-09-18T15:27:32.951572+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040763+00:00",
     "status": "new"
   },
   {
@@ -5036,7 +5030,7 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-09-18T15:27:32.951599+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040783+00:00",
     "status": "new"
   },
   {
@@ -5056,7 +5050,7 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-09-18T15:27:32.951665+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040832+00:00",
     "status": "new"
   },
   {
@@ -5076,7 +5070,7 @@
     "comments": 25,
     "created_at": "2026-07-23T14:27:55Z",
     "updated_at": "2026-07-29T22:35:54Z",
-    "scanned_at": "2026-09-18T15:27:32.951715+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040869+00:00",
     "status": "new"
   },
   {
@@ -5100,7 +5094,7 @@
     "comments": 4,
     "created_at": "2026-07-16T07:21:53Z",
     "updated_at": "2026-07-29T19:06:14Z",
-    "scanned_at": "2026-09-18T15:27:32.951729+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040881+00:00",
     "status": "new"
   },
   {
@@ -5122,7 +5116,7 @@
     "comments": 13,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-08-09T21:42:33Z",
-    "scanned_at": "2026-09-18T15:27:32.951783+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040921+00:00",
     "status": "new"
   },
   {
@@ -5144,7 +5138,7 @@
     "comments": 7,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-08-09T21:42:34Z",
-    "scanned_at": "2026-09-18T15:27:32.951850+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040969+00:00",
     "status": "new"
   },
   {
@@ -5166,7 +5160,7 @@
     "comments": 52,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-09-18T05:39:44Z",
-    "scanned_at": "2026-09-18T15:27:32.951866+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040981+00:00",
     "status": "new"
   },
   {
@@ -5187,7 +5181,7 @@
     "comments": 12,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-08-25T16:43:50Z",
-    "scanned_at": "2026-09-18T15:27:32.951876+00:00",
+    "scanned_at": "2026-09-18T18:36:36.040989+00:00",
     "status": "new"
   },
   {
@@ -5208,7 +5202,7 @@
     "comments": 13,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-07-20T09:57:09Z",
-    "scanned_at": "2026-09-18T15:27:32.951995+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041074+00:00",
     "status": "new"
   },
   {
@@ -5230,7 +5224,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-30T11:20:25Z",
-    "scanned_at": "2026-09-18T15:27:32.952030+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041100+00:00",
     "status": "new"
   },
   {
@@ -5252,7 +5246,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:13Z",
     "updated_at": "2026-07-30T11:20:22Z",
-    "scanned_at": "2026-09-18T15:27:32.952067+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041134+00:00",
     "status": "new"
   },
   {
@@ -5272,7 +5266,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:04Z",
     "updated_at": "2026-07-29T04:29:10Z",
-    "scanned_at": "2026-09-18T15:27:32.952098+00:00",
+    "scanned_at": "2026-09-18T18:36:36.041157+00:00",
     "status": "new"
   }
 ]
