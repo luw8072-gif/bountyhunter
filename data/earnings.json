@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-21T15:14:15.353673+00:00",
+  "updated": "2026-09-21T20:04:48.520413+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-09-21T15:14:08.728279+00:00",
+    "checked_at": "2026-09-21T20:04:43.351124+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
     "total_prs": 6,
-    "open_prs": 5,
+    "open_prs": 2,
     "merged_prs": 0,
     "closed_not_merged": 1,
     "total_claimed_usd": 902,
@@ -30,7 +30,7 @@
       "closed_at": "2026-07-14T18:58:37Z",
       "mergeable": "blocked",
       "reviews": 9,
-      "checked_at": "2026-09-21T15:14:09.508280+00:00"
+      "checked_at": "2026-09-21T20:04:43.989952+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -38,13 +38,8 @@
       "bounty": 150,
       "issue": "6/9/12",
       "title": "Validation + Tests + Body Limit",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "unknown",
-      "reviews": 0,
-      "checked_at": "2026-09-21T15:14:10.538895+00:00"
+      "state": "error",
+      "error": "HTTP 404"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -52,13 +47,8 @@
       "bounty": 250,
       "issue": "7/8/10/11/13",
       "title": "Error Handler + Routes + Tests",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "clean",
-      "reviews": 0,
-      "checked_at": "2026-09-21T15:14:11.595538+00:00"
+      "state": "error",
+      "error": "HTTP 404"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -66,13 +56,8 @@
       "bounty": 400,
       "issue": "1-5/14/15/17",
       "title": "JSDoc + Types + Env + Prisma + PI + Sequences",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "closed_at": null,
-      "mergeable": "unknown",
-      "reviews": 0,
-      "checked_at": "2026-09-21T15:14:12.555987+00:00"
+      "state": "error",
+      "error": "HTTP 404"
     },
     {
       "repo": "ritik4ever/stellar-bounty-board",
@@ -86,7 +71,7 @@
       "closed_at": null,
       "mergeable": "dirty",
       "reviews": 6,
-      "checked_at": "2026-09-21T15:14:13.726472+00:00"
+      "checked_at": "2026-09-21T20:04:46.928252+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -100,7 +85,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-09-21T15:14:14.852489+00:00"
+      "checked_at": "2026-09-21T20:04:48.020084+00:00"
     }
   ],
   "history": [
