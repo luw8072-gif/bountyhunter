@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T08:06:46.788169+00:00",
+  "updated": "2026-09-25T14:00:45.120672+00:00",
   "wallet": {
     "address": "0x76485924c7CA4EFcC03e622441fF3ab633c86143",
     "eth_balance": 0,
     "usdc_balance": 0,
     "transactions": [],
-    "checked_at": "2026-09-25T08:06:41.688188+00:00",
+    "checked_at": "2026-09-25T14:00:39.217173+00:00",
     "error": "No Etherscan API key configured"
   },
   "summary": {
@@ -30,7 +30,7 @@
       "closed_at": "2026-07-14T18:58:37Z",
       "mergeable": "blocked",
       "reviews": 9,
-      "checked_at": "2026-09-25T08:06:42.282203+00:00"
+      "checked_at": "2026-09-25T14:00:40.125718+00:00"
     },
     {
       "repo": "xevrion-v2/agent-playground",
@@ -69,9 +69,9 @@
       "merged": false,
       "merged_at": null,
       "closed_at": null,
-      "mergeable": "dirty",
+      "mergeable": "unknown",
       "reviews": 6,
-      "checked_at": "2026-09-25T08:06:45.248269+00:00"
+      "checked_at": "2026-09-25T14:00:43.543609+00:00"
     },
     {
       "repo": "promptpolish-ai/git-context",
@@ -85,7 +85,7 @@
       "closed_at": null,
       "mergeable": "clean",
       "reviews": 0,
-      "checked_at": "2026-09-25T08:06:46.287093+00:00"
+      "checked_at": "2026-09-25T14:00:44.619365+00:00"
     }
   ],
   "history": [
