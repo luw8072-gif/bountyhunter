@@ -1,82 +1,6 @@
 [
   {
-    "id": "BH-000107",
-    "title": "[Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1589,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 3000,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-09-17T22:05:32Z",
-    "updated_at": "2026-09-24T21:23:23Z",
-    "scanned_at": "2026-10-05T09:19:24.752428+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000108",
-    "title": "[Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
-    "repo": "tenstorrent/tt-metal",
-    "number": 56908,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/hard"
-    ],
-    "language": "unknown",
-    "amount_usd": 3000,
-    "state": "open",
-    "comments": 15,
-    "created_at": "2026-09-17T19:27:38Z",
-    "updated_at": "2026-10-01T17:43:25Z",
-    "scanned_at": "2026-10-05T09:19:24.752438+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000104",
-    "title": "[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1596,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 1500,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-18T13:45:12Z",
-    "updated_at": "2026-09-19T10:00:07Z",
-    "scanned_at": "2026-10-05T09:19:24.752327+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000110",
-    "title": "[Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1584",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1584,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 1500,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-17T10:10:06Z",
-    "updated_at": "2026-09-21T17:31:46Z",
-    "scanned_at": "2026-10-05T09:19:24.752564+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000128",
+    "id": "BH-000119",
     "title": "[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/1",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -92,11 +16,11 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-05T09:19:27.239477+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074976+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000083",
     "title": "[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -111,11 +35,11 @@
     "comments": 5,
     "created_at": "2026-10-02T18:20:01Z",
     "updated_at": "2026-10-04T12:33:27Z",
-    "scanned_at": "2026-10-05T09:18:12.178665+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997139+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000086",
     "title": "[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow",
     "url": "https://github.com/tenstorrent/tt-metal/issues/58986",
     "repo": "tenstorrent/tt-metal",
@@ -127,71 +51,14 @@
     "language": "unknown",
     "amount_usd": 1000,
     "state": "open",
-    "comments": 3,
+    "comments": 1,
     "created_at": "2026-10-02T14:34:03Z",
-    "updated_at": "2026-10-04T11:15:31Z",
-    "scanned_at": "2026-10-05T09:18:12.178700+00:00",
+    "updated_at": "2026-10-05T13:37:01Z",
+    "scanned_at": "2026-10-05T18:38:10.997185+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
-    "title": "[Bounty] $999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1575",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1575,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 999,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-16T19:04:35Z",
-    "updated_at": "2026-10-03T20:46:18Z",
-    "scanned_at": "2026-10-05T09:19:24.752591+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000115",
-    "title": "[Bounty] $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1562",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1562,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 982,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-16T01:18:47Z",
-    "updated_at": "2026-10-03T20:47:44Z",
-    "scanned_at": "2026-10-05T09:19:24.752694+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000116",
-    "title": "[Bounty] $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1561",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1561,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 974,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-16T01:18:47Z",
-    "updated_at": "2026-10-03T20:48:11Z",
-    "scanned_at": "2026-10-05T09:19:24.752705+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000127",
+    "id": "BH-000118",
     "title": "[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/2",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -206,49 +73,11 @@
     "comments": 12,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-03T10:23:11Z",
-    "scanned_at": "2026-10-05T09:19:27.239468+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074966+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
-    "title": "[Bounty] [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1703",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1703,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-29T22:37:03Z",
-    "updated_at": "2026-10-01T13:46:25Z",
-    "scanned_at": "2026-10-05T09:18:12.182513+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000085",
-    "title": "[Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/58495",
-    "repo": "tenstorrent/tt-metal",
-    "number": 58495,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/easy"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-09-29T20:22:48Z",
-    "updated_at": "2026-10-03T21:37:35Z",
-    "scanned_at": "2026-10-05T09:18:12.182523+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000124",
+    "id": "BH-000115",
     "title": "[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/5",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -264,11 +93,11 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-09-30T23:13:50Z",
-    "scanned_at": "2026-10-05T09:19:27.239443+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074937+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000117",
     "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -283,30 +112,11 @@
     "comments": 10,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-03T10:23:08Z",
-    "scanned_at": "2026-10-05T09:19:27.239461+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074958+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
-    "title": "[Bounty] Reverse bounty",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1558,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 500,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-15T22:57:39Z",
-    "updated_at": "2026-09-22T12:28:38Z",
-    "scanned_at": "2026-10-05T09:19:24.752760+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000125",
+    "id": "BH-000116",
     "title": "[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/4",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -321,220 +131,11 @@
     "comments": 21,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-03T10:23:04Z",
-    "scanned_at": "2026-10-05T09:19:27.239453+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
-    "title": "[Bounty] Record the real network fee in the ledger, not only the capped estimate",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1660,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 400,
-    "state": "open",
-    "comments": 13,
-    "created_at": "2026-09-25T17:23:04Z",
-    "updated_at": "2026-10-01T14:53:31Z",
-    "scanned_at": "2026-10-05T09:19:24.751840+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000105",
-    "title": "[Bounty] $239398281948585883* bounty",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1593",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1593,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 239,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-09-18T09:24:56Z",
-    "updated_at": "2026-09-21T17:29:52Z",
-    "scanned_at": "2026-10-05T09:19:24.752338+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000095",
-    "title": "[Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1647",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1647,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 15,
-    "created_at": "2026-09-24T20:28:07Z",
-    "updated_at": "2026-09-26T12:48:54Z",
-    "scanned_at": "2026-10-05T09:19:24.751851+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000112",
-    "title": "[Bounty] Bounty",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1573,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-16T15:35:15Z",
-    "updated_at": "2026-09-22T12:28:35Z",
-    "scanned_at": "2026-10-05T09:19:24.752635+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000117",
-    "title": "[Bounty] $100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1560",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1560,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 13,
-    "created_at": "2026-09-16T01:18:46Z",
-    "updated_at": "2026-09-17T08:29:48Z",
-    "scanned_at": "2026-10-05T09:19:24.752716+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000118",
-    "title": "[Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1559",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1559,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-15T22:57:40Z",
-    "updated_at": "2026-09-16T11:09:11Z",
-    "scanned_at": "2026-10-05T09:19:24.752724+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000079",
-    "title": "[Bounty] [Bounty] Fix one deterministic agent-card discovery regression",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1715",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1715,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 99,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-30T19:23:25Z",
-    "updated_at": "2026-10-04T11:22:46Z",
-    "scanned_at": "2026-10-05T09:18:12.182099+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000096",
-    "title": "[Bounty] [Bounty] Fix one deterministic RPC failover regression",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1635",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1635,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 99,
-    "state": "open",
-    "comments": 25,
-    "created_at": "2026-09-23T17:06:28Z",
-    "updated_at": "2026-10-01T14:53:44Z",
-    "scanned_at": "2026-10-05T09:19:24.751937+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000097",
-    "title": "[Bounty] [Bounty] Fix one deterministic agent-card discovery regression",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1634",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1634,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 99,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-09-23T17:06:27Z",
-    "updated_at": "2026-10-03T21:16:56Z",
-    "scanned_at": "2026-10-05T09:19:24.752021+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000113",
-    "title": "[Bounty] bitcoin bounty",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1570",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1570,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 99,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-16T11:47:00Z",
-    "updated_at": "2026-10-03T20:46:28Z",
-    "scanned_at": "2026-10-05T09:19:24.752660+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000098",
-    "title": "[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1633",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1633,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 68,
-    "state": "open",
-    "comments": 6,
-    "created_at": "2026-09-23T17:06:26Z",
-    "updated_at": "2026-10-04T14:40:46Z",
-    "scanned_at": "2026-10-05T09:19:24.752112+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000234",
+    "id": "BH-000231",
     "title": "[Bounty: $50] slugify() leaves double and trailing hyphens",
     "url": "https://github.com/maaltarifi97-maker/aioa-playground/issues/1",
     "repo": "maaltarifi97-maker/aioa-playground",
@@ -548,11 +149,11 @@
     "comments": 16,
     "created_at": "2026-09-12T11:27:20Z",
     "updated_at": "2026-09-14T20:55:16Z",
-    "scanned_at": "2026-10-05T09:19:33.117380+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182950+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000154",
     "title": "Bounty: end-to-end test copperhead create (brief → clean full run) + findings report",
     "url": "https://github.com/copperheadhq/copperhead/issues/66",
     "repo": "copperheadhq/copperhead",
@@ -569,11 +170,11 @@
     "comments": 105,
     "created_at": "2026-07-24T08:17:43Z",
     "updated_at": "2026-10-04T23:18:34Z",
-    "scanned_at": "2026-10-05T09:19:27.241501+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000166",
     "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
     "repo": "Nexussyn/ai-growth-engine",
@@ -590,30 +191,11 @@
     "comments": 38,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-09-29T19:19:25Z",
-    "scanned_at": "2026-10-05T09:19:27.241751+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077835+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
-    "title": "[Bounty] EKEODKDE9DKE9DO BOUNTY",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1602",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1602,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 10,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-09-18T21:56:35Z",
-    "updated_at": "2026-09-21T17:28:47Z",
-    "scanned_at": "2026-10-05T09:19:24.752316+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000172",
+    "id": "BH-000163",
     "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
     "repo": "Nexussyn/ai-growth-engine",
@@ -630,11 +212,11 @@
     "comments": 46,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-10-04T19:04:25Z",
-    "scanned_at": "2026-10-05T09:19:27.241728+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077808+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000164",
     "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
     "repo": "Nexussyn/ai-growth-engine",
@@ -651,11 +233,11 @@
     "comments": 42,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-10-04T18:11:45Z",
-    "scanned_at": "2026-10-05T09:19:27.241734+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077816+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000165",
     "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
     "repo": "Nexussyn/ai-growth-engine",
@@ -672,11 +254,11 @@
     "comments": 37,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-09-29T19:19:27Z",
-    "scanned_at": "2026-10-05T09:19:27.241743+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000162",
     "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
     "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
     "repo": "Nexussyn/ai-growth-engine",
@@ -692,11 +274,11 @@
     "comments": 98,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-10-05T06:12:16Z",
-    "scanned_at": "2026-10-05T09:19:27.241721+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077798+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000167",
     "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
     "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
     "repo": "Nexussyn/ai-growth-platform",
@@ -711,11 +293,1433 @@
     "comments": 22,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-10-04T15:29:10Z",
-    "scanned_at": "2026-10-05T09:19:27.241758+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077844+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[radar] SN open bounty 2026-10-05T15:54",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1256",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1256,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 4,
+    "created_at": "2026-10-05T15:54:25Z",
+    "updated_at": "2026-10-05T18:37:12Z",
+    "scanned_at": "2026-10-05T18:38:10.988329+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2875",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 2875,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 6,
+    "created_at": "2026-10-05T15:13:33Z",
+    "updated_at": "2026-10-05T18:37:14Z",
+    "scanned_at": "2026-10-05T18:38:10.988526+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[Bounty] Answer 3 linked question(s) as a lesson",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2874",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 2874,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-10-05T15:13:30Z",
+    "updated_at": "2026-10-05T18:37:16Z",
+    "scanned_at": "2026-10-05T18:38:10.988688+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "Guide first client connection and configured-service verification",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/295",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 295,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-10-05T14:42:49Z",
+    "updated_at": "2026-10-05T18:37:18Z",
+    "scanned_at": "2026-10-05T18:38:10.988809+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000005",
+    "title": "Support interrupted installation, upgrade and safe removal",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/294",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 294,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 4,
+    "created_at": "2026-10-05T14:42:47Z",
+    "updated_at": "2026-10-05T18:37:20Z",
+    "scanned_at": "2026-10-05T18:38:10.988925+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "Bootstrap a valid production deployment safely",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/293",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 293,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:45Z",
+    "updated_at": "2026-10-05T14:42:45Z",
+    "scanned_at": "2026-10-05T18:38:10.989039+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "Add a read-only installation and readiness doctor",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/292",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 292,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:42Z",
+    "updated_at": "2026-10-05T14:42:42Z",
+    "scanned_at": "2026-10-05T18:38:10.989149+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "Propagate emergency stop and fence mesh peers on reconnect",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/291",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 291,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:40Z",
+    "updated_at": "2026-10-05T14:42:40Z",
+    "scanned_at": "2026-10-05T18:38:10.989265+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
+    "title": "Expose emergency stop and explicit resume in shared UI and CLI",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/290",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 290,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:39Z",
+    "updated_at": "2026-10-05T14:42:39Z",
+    "scanned_at": "2026-10-05T18:38:10.989391+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000010",
+    "title": "Enforce a persistent owner-scoped local emergency stop",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/289",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 289,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:37Z",
+    "updated_at": "2026-10-05T14:42:37Z",
+    "scanned_at": "2026-10-05T18:38:10.989520+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000011",
+    "title": "Persist emergency-stop epochs and bounded peer acknowledgments",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/70",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 70,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:35Z",
+    "updated_at": "2026-10-05T14:42:35Z",
+    "scanned_at": "2026-10-05T18:38:10.989645+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000012",
+    "title": "Add shared selective A2A publication controls",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/288",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 288,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:33Z",
+    "updated_at": "2026-10-05T14:42:33Z",
+    "scanned_at": "2026-10-05T18:38:10.989754+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000013",
+    "title": "Enforce owner-managed A2A publication and withdrawal",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/287",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 287,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:32Z",
+    "updated_at": "2026-10-05T14:42:32Z",
+    "scanned_at": "2026-10-05T18:38:10.989877+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000014",
+    "title": "Store fenced owner capability-publication records",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/69",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 69,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:30Z",
+    "updated_at": "2026-10-05T14:42:30Z",
+    "scanned_at": "2026-10-05T18:38:10.989996+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000015",
+    "title": "Recover orchestrator and client work continuity after node loss",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/286",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 286,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:28Z",
+    "updated_at": "2026-10-05T14:42:28Z",
+    "scanned_at": "2026-10-05T18:38:10.990115+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000016",
+    "title": "Reconcile ambiguous cross-node execution results",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/285",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 285,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:26Z",
+    "updated_at": "2026-10-05T14:42:26Z",
+    "scanned_at": "2026-10-05T18:38:10.990226+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000017",
+    "title": "Recover fenced work after an executor node fails",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/284",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 284,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:24Z",
+    "updated_at": "2026-10-05T14:42:24Z",
+    "scanned_at": "2026-10-05T18:38:10.990338+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000018",
+    "title": "Qualify externally managed endpoint failover readiness",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/68",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 68,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:22Z",
+    "updated_at": "2026-10-05T14:42:22Z",
+    "scanned_at": "2026-10-05T18:38:10.990467+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000019",
+    "title": "Select a bounded personal-mesh availability topology",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/283",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 283,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:20Z",
+    "updated_at": "2026-10-05T14:42:20Z",
+    "scanned_at": "2026-10-05T18:38:10.990587+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000020",
+    "title": "Dispatch authorized work to an approved Cresco target",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/282",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 282,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:18Z",
+    "updated_at": "2026-10-05T14:42:18Z",
+    "scanned_at": "2026-10-05T18:38:10.990705+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000021",
+    "title": "Resolve enrolled mesh targets and current presence",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/281",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 281,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:17Z",
+    "updated_at": "2026-10-05T14:42:17Z",
+    "scanned_at": "2026-10-05T18:38:10.990823+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000022",
+    "title": "Add bounded read-only Cresco topology tools",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/280",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 280,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:15Z",
+    "updated_at": "2026-10-05T14:42:15Z",
+    "scanned_at": "2026-10-05T18:38:10.990937+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000023",
+    "title": "Reconcile and bound the general Cresco bridge contract",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/279",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 279,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:13Z",
+    "updated_at": "2026-10-05T14:42:13Z",
+    "scanned_at": "2026-10-05T18:38:10.991055+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000024",
+    "title": "Add shared mesh enrollment and member-management controls",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/278",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 278,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:11Z",
+    "updated_at": "2026-10-05T14:42:11Z",
+    "scanned_at": "2026-10-05T18:38:10.991170+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000025",
+    "title": "Implement one-time owner-confirmed mesh enrollment",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/277",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 277,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:09Z",
+    "updated_at": "2026-10-05T14:42:09Z",
+    "scanned_at": "2026-10-05T18:38:10.991287+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000026",
+    "title": "Enforce unique mesh member identity and revocation at admission",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/276",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 276,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:07Z",
+    "updated_at": "2026-10-05T14:42:07Z",
+    "scanned_at": "2026-10-05T18:38:10.991405+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000027",
+    "title": "Store neutral mesh membership, enrollment and revocation records",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/67",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 67,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:interoperability",
+      "track:security",
+      "priority:P1"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:05Z",
+    "updated_at": "2026-10-05T14:42:05Z",
+    "scanned_at": "2026-10-05T18:38:10.991547+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000028",
+    "title": "Select qualified harness profiles and roll back new-work rollout",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/275",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 275,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:03Z",
+    "updated_at": "2026-10-05T14:42:03Z",
+    "scanned_at": "2026-10-05T18:38:10.991667+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000029",
+    "title": "Bind operations to immutable harness profile identities",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/66",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 66,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:42:01Z",
+    "updated_at": "2026-10-05T14:42:01Z",
+    "scanned_at": "2026-10-05T18:38:10.991793+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000030",
+    "title": "Adapt existing runners to a versioned harness contract",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/274",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 274,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:59Z",
+    "updated_at": "2026-10-05T14:41:59Z",
+    "scanned_at": "2026-10-05T18:38:10.991911+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000031",
+    "title": "Produce candidate-bound context adoption evidence",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/273",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 273,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:57Z",
+    "updated_at": "2026-10-05T14:41:57Z",
+    "scanned_at": "2026-10-05T18:38:10.992035+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000032",
+    "title": "Ship failure-preserving transactional context compaction",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/272",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 272,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:55Z",
+    "updated_at": "2026-10-05T14:41:55Z",
+    "scanned_at": "2026-10-05T18:38:10.992151+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000033",
+    "title": "Capture, pack and recall exact tool observations under feature 093",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/271",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 271,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:53Z",
+    "updated_at": "2026-10-05T14:41:53Z",
+    "scanned_at": "2026-10-05T18:38:10.992273+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000034",
+    "title": "Implement feature-093 opaque observation retention and paged recall contracts",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/65",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 65,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:51Z",
+    "updated_at": "2026-10-05T14:41:51Z",
+    "scanned_at": "2026-10-05T18:38:10.992401+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000035",
+    "title": "Integrate owner-bound mobile notifications and authorized source navigation",
+    "url": "https://github.com/AstralDeep/AstralProjection/issues/52",
+    "repo": "AstralDeep/AstralProjection",
+    "number": 52,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:49Z",
+    "updated_at": "2026-10-05T14:41:49Z",
+    "scanned_at": "2026-10-05T18:38:10.992541+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000036",
+    "title": "Implement the complete iOS notification adapter",
+    "url": "https://github.com/AstralDeep/AstralProjection/issues/51",
+    "repo": "AstralDeep/AstralProjection",
+    "number": 51,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:47Z",
+    "updated_at": "2026-10-05T14:41:47Z",
+    "scanned_at": "2026-10-05T18:38:10.992650+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000037",
+    "title": "Implement the complete Android notification adapter",
+    "url": "https://github.com/AstralDeep/AstralProjection/issues/50",
+    "repo": "AstralDeep/AstralProjection",
+    "number": 50,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:45Z",
+    "updated_at": "2026-10-05T14:41:45Z",
+    "scanned_at": "2026-10-05T18:38:10.992761+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000038",
+    "title": "Deliver owner-bound mobile notifications through bounded provider adapters",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/270",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 270,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:43Z",
+    "updated_at": "2026-10-05T14:41:43Z",
+    "scanned_at": "2026-10-05T18:38:10.992880+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000039",
+    "title": "Store opaque device destinations and claimed push deliveries",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/63",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 63,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:41Z",
+    "updated_at": "2026-10-05T14:41:41Z",
+    "scanned_at": "2026-10-05T18:38:10.993001+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000040",
+    "title": "Route foreground notifications and expose a durable inbox",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/268",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 268,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:39Z",
+    "updated_at": "2026-10-05T14:41:39Z",
+    "scanned_at": "2026-10-05T18:38:10.993114+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000041",
+    "title": "Store notification preferences, inbox records and delivery identities",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/62",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 62,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:37Z",
+    "updated_at": "2026-10-05T14:41:37Z",
+    "scanned_at": "2026-10-05T18:38:10.993230+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000042",
+    "title": "Expose completion subscriptions to attenuated SDK and framework callers",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/267",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 267,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:36Z",
+    "updated_at": "2026-10-05T14:41:36Z",
+    "scanned_at": "2026-10-05T18:38:10.993346+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000043",
+    "title": "Connect tracked remote-job completion to authorized wakeups",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/266",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 266,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:34Z",
+    "updated_at": "2026-10-05T14:41:34Z",
+    "scanned_at": "2026-10-05T18:38:10.993470+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000044",
+    "title": "Resume authorized waiting work when an internal operation finishes",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/265",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 265,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:32Z",
+    "updated_at": "2026-10-05T14:41:32Z",
+    "scanned_at": "2026-10-05T18:38:10.993595+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000045",
+    "title": "Persist completion subscriptions and deduplicated wake receipts",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/61",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 61,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:30Z",
+    "updated_at": "2026-10-05T14:41:30Z",
+    "scanned_at": "2026-10-05T18:38:10.993720+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000046",
+    "title": "Add shared source-linked search controls",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/264",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 264,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:28Z",
+    "updated_at": "2026-10-05T14:41:28Z",
+    "scanned_at": "2026-10-05T18:38:10.993837+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000047",
+    "title": "Federate authorized knowledge and conversation search results",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/263",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 263,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:50",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:25Z",
+    "updated_at": "2026-10-05T14:41:25Z",
+    "scanned_at": "2026-10-05T18:38:10.993959+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000048",
+    "title": "Search private notes beyond the first storage page",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/262",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 262,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:23Z",
+    "updated_at": "2026-10-05T14:41:23Z",
+    "scanned_at": "2026-10-05T18:38:10.994076+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000049",
+    "title": "Promote notes and memories into Atlas with explicit reconciliation",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/261",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 261,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:21Z",
+    "updated_at": "2026-10-05T14:41:21Z",
+    "scanned_at": "2026-10-05T18:38:10.994197+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000050",
+    "title": "Add shared Atlas browsing, editing and source navigation",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/260",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 260,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:19Z",
+    "updated_at": "2026-10-05T14:41:19Z",
+    "scanned_at": "2026-10-05T18:38:10.994317+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000051",
+    "title": "Provide authorized Atlas page lifecycle APIs",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/259",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 259,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:18Z",
+    "updated_at": "2026-10-05T14:41:18Z",
+    "scanned_at": "2026-10-05T18:38:10.994441+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000052",
+    "title": "Add interactive terminal controls across supported clients",
+    "url": "https://github.com/AstralDeep/AstralProjection/issues/49",
+    "repo": "AstralDeep/AstralProjection",
+    "number": 49,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:16Z",
+    "updated_at": "2026-10-05T14:41:16Z",
+    "scanned_at": "2026-10-05T18:38:10.994554+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000053",
+    "title": "Render a read-only terminal monitor across supported clients",
+    "url": "https://github.com/AstralDeep/AstralProjection/issues/48",
+    "repo": "AstralDeep/AstralProjection",
+    "number": 48,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:14Z",
+    "updated_at": "2026-10-05T14:41:14Z",
+    "scanned_at": "2026-10-05T18:38:10.994670+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000054",
+    "title": "Add terminal session commands to the SDK and CLI",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/258",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 258,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:12Z",
+    "updated_at": "2026-10-05T14:41:12Z",
+    "scanned_at": "2026-10-05T18:38:10.994777+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000055",
+    "title": "Expose terminal operations through governed agent tools",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/257",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 257,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:11Z",
+    "updated_at": "2026-10-05T14:41:11Z",
+    "scanned_at": "2026-10-05T18:38:10.994883+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000056",
+    "title": "Implement owner-scoped terminal APIs and bounded process lifecycle",
+    "url": "https://github.com/AstralDeep/AstralDeep/issues/256",
+    "repo": "AstralDeep/AstralDeep",
+    "number": 256,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:08Z",
+    "updated_at": "2026-10-05T14:41:08Z",
+    "scanned_at": "2026-10-05T18:38:10.995015+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000057",
+    "title": "Qualify coordinated restore and session retirement",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/60",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 60,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:06Z",
+    "updated_at": "2026-10-05T14:41:06Z",
+    "scanned_at": "2026-10-05T18:38:10.995130+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000058",
+    "title": "Qualify connection-loss and uncertain transaction outcomes",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/59",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 59,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:04Z",
+    "updated_at": "2026-10-05T14:41:04Z",
+    "scanned_at": "2026-10-05T18:38:10.995243+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000059",
+    "title": "Define neutral recovery and writable-readiness preconditions",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/58",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 58,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:security",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:02Z",
+    "updated_at": "2026-10-05T14:41:02Z",
+    "scanned_at": "2026-10-05T18:38:10.995368+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000060",
+    "title": "Add bounded Atlas links and backlinks",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/57",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 57,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:41:01Z",
+    "updated_at": "2026-10-05T14:41:01Z",
+    "scanned_at": "2026-10-05T18:38:10.995501+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000061",
+    "title": "Add immutable Atlas revisions and fenced page edits",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/56",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 56,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:200",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:40:59Z",
+    "updated_at": "2026-10-05T14:40:59Z",
+    "scanned_at": "2026-10-05T18:38:10.995624+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000062",
+    "title": "Store opaque owner- and project-scoped Atlas pages",
+    "url": "https://github.com/AstralDeep/AstralPlane/issues/55",
+    "repo": "AstralDeep/AstralPlane",
+    "number": 55,
+    "labels": [
+      "enhancement",
+      "bounty",
+      "points:100",
+      "track:reusability",
+      "priority:P2"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-05T14:40:57Z",
+    "updated_at": "2026-10-05T14:40:57Z",
+    "scanned_at": "2026-10-05T18:38:10.995744+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000063",
+    "title": "[radar] SN open bounty 2026-10-05T14:25",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1255",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1255,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-10-05T14:25:47Z",
+    "updated_at": "2026-10-05T14:33:05Z",
+    "scanned_at": "2026-10-05T18:38:10.995765+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000064",
     "title": "[radar] SN open bounty 2026-10-05T06:54",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1254",
     "repo": "relayhop/sn-monetization-runtime",
@@ -728,14 +1732,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 3,
     "created_at": "2026-10-05T06:54:13Z",
-    "updated_at": "2026-10-05T06:54:13Z",
-    "scanned_at": "2026-10-05T09:18:12.177489+00:00",
+    "updated_at": "2026-10-05T14:01:59Z",
+    "scanned_at": "2026-10-05T18:38:10.995785+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000065",
     "title": "[radar] SN open bounty 2026-10-05T00:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1253",
     "repo": "relayhop/sn-monetization-runtime",
@@ -748,14 +1752,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 3,
     "created_at": "2026-10-05T00:47:52Z",
-    "updated_at": "2026-10-05T00:47:52Z",
-    "scanned_at": "2026-10-05T09:18:12.177527+00:00",
+    "updated_at": "2026-10-05T14:02:10Z",
+    "scanned_at": "2026-10-05T18:38:10.995804+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000066",
     "title": "[radar] SN open bounty 2026-10-04T21:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1252",
     "repo": "relayhop/sn-monetization-runtime",
@@ -768,14 +1772,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 3,
     "created_at": "2026-10-04T21:17:43Z",
-    "updated_at": "2026-10-04T21:17:43Z",
-    "scanned_at": "2026-10-05T09:18:12.177546+00:00",
+    "updated_at": "2026-10-05T14:02:21Z",
+    "scanned_at": "2026-10-05T18:38:10.995824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000067",
     "title": "Inflation Sprites and SFX",
     "url": "https://github.com/sheepishgoat/GS13-Blubberstation/issues/616",
     "repo": "sheepishgoat/GS13-Blubberstation",
@@ -789,11 +1793,11 @@
     "comments": 0,
     "created_at": "2026-10-04T18:59:11Z",
     "updated_at": "2026-10-04T23:35:35Z",
-    "scanned_at": "2026-10-05T09:18:12.177570+00:00",
+    "scanned_at": "2026-10-05T18:38:10.995850+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000068",
     "title": "[radar] SN open bounty 2026-10-04T18:05",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1251",
     "repo": "relayhop/sn-monetization-runtime",
@@ -809,11 +1813,11 @@
     "comments": 0,
     "created_at": "2026-10-04T18:05:39Z",
     "updated_at": "2026-10-04T18:05:39Z",
-    "scanned_at": "2026-10-05T09:18:12.177587+00:00",
+    "scanned_at": "2026-10-05T18:38:10.995869+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000069",
     "title": "[radar] SN open bounty 2026-10-04T13:08",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1250",
     "repo": "relayhop/sn-monetization-runtime",
@@ -829,11 +1833,11 @@
     "comments": 2,
     "created_at": "2026-10-04T13:08:36Z",
     "updated_at": "2026-10-04T15:20:32Z",
-    "scanned_at": "2026-10-05T09:18:12.177602+00:00",
+    "scanned_at": "2026-10-05T18:38:10.995891+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000070",
     "title": "[Bounty] Answer 2 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2840",
     "repo": "Ikalus1988/MisakaNet",
@@ -848,11 +1852,11 @@
     "comments": 4,
     "created_at": "2026-10-04T12:49:57Z",
     "updated_at": "2026-10-05T03:33:20Z",
-    "scanned_at": "2026-10-05T09:18:12.177739+00:00",
+    "scanned_at": "2026-10-05T18:38:10.996045+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000071",
     "title": "[Bounty] Answer 2 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2839",
     "repo": "Ikalus1988/MisakaNet",
@@ -866,12 +1870,12 @@
     "state": "open",
     "comments": 5,
     "created_at": "2026-10-04T12:49:55Z",
-    "updated_at": "2026-10-05T03:32:53Z",
-    "scanned_at": "2026-10-05T09:18:12.177930+00:00",
+    "updated_at": "2026-10-05T15:13:32Z",
+    "scanned_at": "2026-10-05T18:38:10.996203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000072",
     "title": "[Bounty] Answer 2 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2838",
     "repo": "Ikalus1988/MisakaNet",
@@ -886,11 +1890,11 @@
     "comments": 3,
     "created_at": "2026-10-04T12:49:53Z",
     "updated_at": "2026-10-05T03:16:50Z",
-    "scanned_at": "2026-10-05T09:18:12.178054+00:00",
+    "scanned_at": "2026-10-05T18:38:10.996357+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000073",
     "title": "[Bounty] Answer 3 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2837",
     "repo": "Ikalus1988/MisakaNet",
@@ -904,12 +1908,12 @@
     "state": "open",
     "comments": 3,
     "created_at": "2026-10-04T12:49:52Z",
-    "updated_at": "2026-10-05T03:16:18Z",
-    "scanned_at": "2026-10-05T09:18:12.178176+00:00",
+    "updated_at": "2026-10-05T15:13:35Z",
+    "scanned_at": "2026-10-05T18:38:10.996524+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000074",
     "title": "[Bounty] Answer 3 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2836",
     "repo": "Ikalus1988/MisakaNet",
@@ -924,11 +1928,11 @@
     "comments": 5,
     "created_at": "2026-10-04T12:49:50Z",
     "updated_at": "2026-10-05T03:15:42Z",
-    "scanned_at": "2026-10-05T09:18:12.178308+00:00",
+    "scanned_at": "2026-10-05T18:38:10.996682+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000075",
     "title": "[Bounty] Answer 5 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2835",
     "repo": "Ikalus1988/MisakaNet",
@@ -943,11 +1947,11 @@
     "comments": 5,
     "created_at": "2026-10-04T12:49:49Z",
     "updated_at": "2026-10-05T03:12:37Z",
-    "scanned_at": "2026-10-05T09:18:12.178432+00:00",
+    "scanned_at": "2026-10-05T18:38:10.996842+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000076",
     "title": "[radar] SN open bounty 2026-10-04T12:14",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1249",
     "repo": "relayhop/sn-monetization-runtime",
@@ -963,11 +1967,11 @@
     "comments": 2,
     "created_at": "2026-10-04T12:14:48Z",
     "updated_at": "2026-10-04T12:24:20Z",
-    "scanned_at": "2026-10-05T09:18:12.178450+00:00",
+    "scanned_at": "2026-10-05T18:38:10.996866+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000077",
     "title": "[Bounty] Answer 4 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2757",
     "repo": "Ikalus1988/MisakaNet",
@@ -982,11 +1986,11 @@
     "comments": 7,
     "created_at": "2026-10-03T11:58:48Z",
     "updated_at": "2026-10-05T03:12:01Z",
-    "scanned_at": "2026-10-05T09:18:12.178572+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997024+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000078",
     "title": "[radar] SN open bounty 2026-10-03T11:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1241",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1002,11 +2006,11 @@
     "comments": 3,
     "created_at": "2026-10-03T11:33:18Z",
     "updated_at": "2026-10-04T12:30:31Z",
-    "scanned_at": "2026-10-05T09:18:12.178588+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997044+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000079",
     "title": "Dry-run verification: automate JSON export",
     "url": "https://github.com/ysyhlly/basedagents-issue-workflow/issues/1",
     "repo": "ysyhlly/basedagents-issue-workflow",
@@ -1021,11 +2025,11 @@
     "comments": 1,
     "created_at": "2026-10-03T03:03:31Z",
     "updated_at": "2026-10-04T09:32:37Z",
-    "scanned_at": "2026-10-05T09:18:12.178611+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000080",
     "title": "[radar] SN open bounty 2026-10-02T23:37",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1240",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1041,11 +2045,11 @@
     "comments": 3,
     "created_at": "2026-10-02T23:37:41Z",
     "updated_at": "2026-10-04T12:31:06Z",
-    "scanned_at": "2026-10-05T09:18:12.178623+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997093+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000081",
     "title": "[radar] SN open bounty 2026-10-02T21:16",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1238",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1061,11 +2065,11 @@
     "comments": 3,
     "created_at": "2026-10-02T21:16:46Z",
     "updated_at": "2026-10-04T12:31:38Z",
-    "scanned_at": "2026-10-05T09:18:12.178635+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997107+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000082",
     "title": "[radar] SN open bounty 2026-10-02T19:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1237",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1081,11 +2085,11 @@
     "comments": 1,
     "created_at": "2026-10-02T19:52:04Z",
     "updated_at": "2026-10-04T13:35:22Z",
-    "scanned_at": "2026-10-05T09:18:12.178651+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997122+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000084",
     "title": "[radar] SN open bounty 2026-10-02T16:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1235",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1101,11 +2105,11 @@
     "comments": 1,
     "created_at": "2026-10-02T16:13:34Z",
     "updated_at": "2026-10-04T10:55:59Z",
-    "scanned_at": "2026-10-05T09:18:12.178677+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997154+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000085",
     "title": "[radar] SN open bounty 2026-10-02T15:02",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1233",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1121,11 +2125,11 @@
     "comments": 1,
     "created_at": "2026-10-02T15:02:03Z",
     "updated_at": "2026-10-04T10:57:00Z",
-    "scanned_at": "2026-10-05T09:18:12.178688+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997169+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000087",
     "title": "[radar] SN open bounty 2026-10-02T12:23",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1231",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1141,11 +2145,11 @@
     "comments": 1,
     "created_at": "2026-10-02T12:23:05Z",
     "updated_at": "2026-10-04T15:20:59Z",
-    "scanned_at": "2026-10-05T09:18:12.178713+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997201+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000088",
     "title": "[radar] SN open bounty 2026-10-02T09:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1230",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1161,11 +2165,11 @@
     "comments": 1,
     "created_at": "2026-10-02T09:38:35Z",
     "updated_at": "2026-10-04T15:21:22Z",
-    "scanned_at": "2026-10-05T09:18:12.178725+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997216+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000089",
     "title": "[radar] SN open bounty 2026-10-02T08:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1228",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1181,11 +2185,11 @@
     "comments": 1,
     "created_at": "2026-10-02T08:38:36Z",
     "updated_at": "2026-10-04T15:21:45Z",
-    "scanned_at": "2026-10-05T09:18:12.178736+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997235+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000090",
     "title": "[radar] SN open bounty 2026-10-02T02:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1226",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1201,11 +2205,11 @@
     "comments": 1,
     "created_at": "2026-10-02T02:17:14Z",
     "updated_at": "2026-10-04T15:22:24Z",
-    "scanned_at": "2026-10-05T09:18:12.178748+00:00",
+    "scanned_at": "2026-10-05T18:38:10.997250+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000170",
     "title": "[radar] SN open bounty 2026-10-02T02:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1225",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1221,11 +2225,11 @@
     "comments": 1,
     "created_at": "2026-10-02T02:11:01Z",
     "updated_at": "2026-10-04T15:23:05Z",
-    "scanned_at": "2026-10-05T09:18:12.178760+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000171",
     "title": "[radar] SN open bounty 2026-10-01T23:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1224",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1241,11 +2245,11 @@
     "comments": 1,
     "created_at": "2026-10-01T23:13:25Z",
     "updated_at": "2026-10-04T15:23:22Z",
-    "scanned_at": "2026-10-05T09:18:12.178773+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181802+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000172",
     "title": "[radar] SN open bounty 2026-10-01T23:06",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1223",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1261,11 +2265,11 @@
     "comments": 2,
     "created_at": "2026-10-01T23:06:11Z",
     "updated_at": "2026-10-04T15:23:43Z",
-    "scanned_at": "2026-10-05T09:18:12.178785+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181828+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000173",
     "title": "[radar] SN open bounty 2026-10-01T19:03",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1222",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1281,11 +2285,11 @@
     "comments": 1,
     "created_at": "2026-10-01T19:03:43Z",
     "updated_at": "2026-10-04T15:24:03Z",
-    "scanned_at": "2026-10-05T09:18:12.178798+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181846+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000174",
     "title": "[radar] SN open bounty 2026-10-01T18:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1221",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1301,47 +2305,11 @@
     "comments": 1,
     "created_at": "2026-10-01T18:48:38Z",
     "updated_at": "2026-10-04T15:24:18Z",
-    "scanned_at": "2026-10-05T09:18:12.178810+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181863+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
-    "title": "[BOUNTY] Suggestion #1248",
-    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1271",
-    "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-    "number": 1271,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-10-01T16:00:08Z",
-    "updated_at": "2026-10-04T15:25:21Z",
-    "scanned_at": "2026-10-05T09:18:12.178838+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000034",
-    "title": "[BOUNTY] Suggestion #1250",
-    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1270",
-    "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-    "number": 1270,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-10-01T15:59:42Z",
-    "updated_at": "2026-10-04T15:25:39Z",
-    "scanned_at": "2026-10-05T09:18:12.178864+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000035",
+    "id": "BH-000175",
     "title": "[radar] SN open bounty 2026-10-01T13:46",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1220",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1357,11 +2325,11 @@
     "comments": 1,
     "created_at": "2026-10-01T13:46:08Z",
     "updated_at": "2026-10-04T15:24:36Z",
-    "scanned_at": "2026-10-05T09:18:12.178876+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181878+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000091",
     "title": "[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/2593",
     "repo": "Ikalus1988/MisakaNet",
@@ -1378,11 +2346,11 @@
     "comments": 4,
     "created_at": "2026-10-01T08:12:07Z",
     "updated_at": "2026-10-02T02:34:37Z",
-    "scanned_at": "2026-10-05T09:18:12.178903+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365116+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000092",
     "title": "Replace client deadline performance assertions with deterministic contract tests",
     "url": "https://github.com/AstralDeep/LETS/issues/73",
     "repo": "AstralDeep/LETS",
@@ -1399,11 +2367,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:32Z",
     "updated_at": "2026-10-03T09:18:52Z",
-    "scanned_at": "2026-10-05T09:18:12.178976+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365234+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000093",
     "title": "Provide a thin, tested MCP integration profile for protected tool execution",
     "url": "https://github.com/AstralDeep/LETS/issues/71",
     "repo": "AstralDeep/LETS",
@@ -1422,11 +2390,11 @@
     "comments": 4,
     "created_at": "2026-10-01T04:54:29Z",
     "updated_at": "2026-10-02T11:21:54Z",
-    "scanned_at": "2026-10-05T09:18:12.179055+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365337+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000094",
     "title": "Include serialized-client admission wait in the advertised total deadline",
     "url": "https://github.com/AstralDeep/LETS/issues/68",
     "repo": "AstralDeep/LETS",
@@ -1444,11 +2412,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:24Z",
     "updated_at": "2026-10-01T04:54:24Z",
-    "scanned_at": "2026-10-05T09:18:12.179121+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365421+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000095",
     "title": "Preserve ownership of injected HTTP clients when total deadlines expire",
     "url": "https://github.com/AstralDeep/LETS/issues/67",
     "repo": "AstralDeep/LETS",
@@ -1465,11 +2433,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:23Z",
     "updated_at": "2026-10-01T04:54:23Z",
-    "scanned_at": "2026-10-05T09:18:12.179196+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365523+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000096",
     "title": "Qualify source-distribution installs as independent consumer artifacts",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/14",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1486,11 +2454,11 @@
     "comments": 6,
     "created_at": "2026-10-01T04:54:20Z",
     "updated_at": "2026-10-04T00:00:06Z",
-    "scanned_at": "2026-10-05T09:18:12.179265+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365601+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000097",
     "title": "Make the exported ChartDataset helper directly usable by chart constructors",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/13",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1507,32 +2475,11 @@
     "comments": 4,
     "created_at": "2026-10-01T04:54:19Z",
     "updated_at": "2026-10-04T05:16:25Z",
-    "scanned_at": "2026-10-05T09:18:12.179333+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365688+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
-    "title": "Run a complete public-vocabulary serialization and round-trip contract matrix",
-    "url": "https://github.com/AstralDeep/AstralPrimitives/issues/12",
-    "repo": "AstralDeep/AstralPrimitives",
-    "number": 12,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-10-01T04:54:17Z",
-    "updated_at": "2026-10-04T04:34:45Z",
-    "scanned_at": "2026-10-05T09:18:12.179400+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000044",
+    "id": "BH-000098",
     "title": "Expose a useful machine-readable schema for serialized primitive artifacts",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/11",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1549,11 +2496,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:16Z",
     "updated_at": "2026-10-01T04:54:16Z",
-    "scanned_at": "2026-10-05T09:18:12.179474+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365780+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000099",
     "title": "Define and enforce JSON-native values in arbitrary primitive payloads",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/9",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1570,11 +2517,11 @@
     "comments": 2,
     "created_at": "2026-10-01T04:54:13Z",
     "updated_at": "2026-10-03T00:17:48Z",
-    "scanned_at": "2026-10-05T09:18:12.179538+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365864+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000100",
     "title": "Keep non-finite numeric values out of primitive wire JSON",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/8",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1591,11 +2538,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:11Z",
     "updated_at": "2026-10-01T04:54:11Z",
-    "scanned_at": "2026-10-05T09:18:12.179594+00:00",
+    "scanned_at": "2026-10-05T18:39:24.365936+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000101",
     "title": "Validate fluent add operations before mutating component trees",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/7",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1612,11 +2559,11 @@
     "comments": 5,
     "created_at": "2026-10-01T04:54:10Z",
     "updated_at": "2026-10-03T14:51:37Z",
-    "scanned_at": "2026-10-05T09:18:12.179654+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366014+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000102",
     "title": "Reject child dictionaries without a concrete primitive type",
     "url": "https://github.com/AstralDeep/AstralPrimitives/issues/6",
     "repo": "AstralDeep/AstralPrimitives",
@@ -1633,11 +2580,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:09Z",
     "updated_at": "2026-10-01T04:54:09Z",
-    "scanned_at": "2026-10-05T09:18:12.179713+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366091+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000103",
     "title": "Add real-PostgreSQL voice reconnect and duplicate-turn conformance scenarios",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/23",
     "repo": "AstralDeep/AstralPlane",
@@ -1654,11 +2601,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:06Z",
     "updated_at": "2026-10-01T04:54:06Z",
-    "scanned_at": "2026-10-05T09:18:12.179802+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366206+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000104",
     "title": "Qualify a standalone external-host example using only Plane's public facade",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/22",
     "repo": "AstralDeep/AstralPlane",
@@ -1675,11 +2622,11 @@
     "comments": 4,
     "created_at": "2026-10-01T04:54:05Z",
     "updated_at": "2026-10-02T14:37:35Z",
-    "scanned_at": "2026-10-05T09:18:12.179876+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366301+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000105",
     "title": "Add an explicit async shutdown drain contract for embedded protocol servers",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/21",
     "repo": "AstralDeep/AstralPlane",
@@ -1697,11 +2644,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:03Z",
     "updated_at": "2026-10-01T04:54:03Z",
-    "scanned_at": "2026-10-05T09:18:12.179944+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366388+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000106",
     "title": "Give cyclic and over-deep JSON inputs bounded typed failures",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/19",
     "repo": "AstralDeep/AstralPlane",
@@ -1718,11 +2665,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:01Z",
     "updated_at": "2026-10-01T04:54:01Z",
-    "scanned_at": "2026-10-05T09:18:12.180015+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366489+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000107",
     "title": "Reject fractional and non-finite revision fences without lossy int coercion",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/18",
     "repo": "AstralDeep/AstralPlane",
@@ -1739,11 +2686,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:54:00Z",
     "updated_at": "2026-10-01T04:54:00Z",
-    "scanned_at": "2026-10-05T09:18:12.180080+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366573+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000108",
     "title": "Reject canonical-JSON key collisions instead of silently rewriting durable payloads",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/17",
     "repo": "AstralDeep/AstralPlane",
@@ -1760,11 +2707,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:53:58Z",
     "updated_at": "2026-10-01T04:53:58Z",
-    "scanned_at": "2026-10-05T09:18:12.180140+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366652+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000109",
     "title": "Bound and validate public PlaneError diagnostic metadata",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/16",
     "repo": "AstralDeep/AstralPlane",
@@ -1782,11 +2729,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:53:57Z",
     "updated_at": "2026-10-01T04:53:57Z",
-    "scanned_at": "2026-10-05T09:18:12.180203+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366733+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000110",
     "title": "Preserve recoverable shutdown state when driver closeall fails",
     "url": "https://github.com/AstralDeep/AstralPlane/issues/15",
     "repo": "AstralDeep/AstralPlane",
@@ -1803,652 +2750,11 @@
     "comments": 0,
     "created_at": "2026-10-01T04:53:55Z",
     "updated_at": "2026-10-01T04:53:55Z",
-    "scanned_at": "2026-10-05T09:18:12.180268+00:00",
+    "scanned_at": "2026-10-05T18:39:24.366809+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
-    "title": "Reject awaitable callbacks before an async Plane transaction reports success",
-    "url": "https://github.com/AstralDeep/AstralPlane/issues/14",
-    "repo": "AstralDeep/AstralPlane",
-    "number": 14,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:interoperability",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:54Z",
-    "updated_at": "2026-10-01T04:53:54Z",
-    "scanned_at": "2026-10-05T09:18:12.180344+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000058",
-    "title": "Preserve balanced parentheses in rendered Markdown link destinations",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/37",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 37,
-    "labels": [
-      "bounty",
-      "points:50",
-      "track:reusability",
-      "priority:P3"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-10-01T04:53:53Z",
-    "updated_at": "2026-10-03T21:06:42Z",
-    "scanned_at": "2026-10-05T09:18:12.180401+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000059",
-    "title": "Include form submissions in ROTE read-only and action-budget adaptation",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/36",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 36,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:security",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:52Z",
-    "updated_at": "2026-10-01T04:53:52Z",
-    "scanned_at": "2026-10-05T09:18:12.180475+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000060",
-    "title": "Reject oversized Windows downloads instead of saving a truncated success",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/35",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 35,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:50Z",
-    "updated_at": "2026-10-01T04:53:50Z",
-    "scanned_at": "2026-10-05T09:18:12.180539+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000061",
-    "title": "Publish an installed-wheel host example for MCP and A2A presentation interoperability",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/34",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 34,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:interoperability",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:49Z",
-    "updated_at": "2026-10-01T04:53:49Z",
-    "scanned_at": "2026-10-05T09:18:12.180623+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000062",
-    "title": "Bound MCP output by UTF-8 bytes, total blocks and recursive work",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/33",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 33,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:interoperability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:47Z",
-    "updated_at": "2026-10-01T04:53:47Z",
-    "scanned_at": "2026-10-05T09:18:12.180694+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000063",
-    "title": "Extend mobile voice qualification with short interruption and recovery evidence",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/32",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 32,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:voice",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:45Z",
-    "updated_at": "2026-10-01T04:53:45Z",
-    "scanned_at": "2026-10-05T09:18:12.180773+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000064",
-    "title": "Fence Android voice across audio-focus and route changes",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/31",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 31,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:voice",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:44Z",
-    "updated_at": "2026-10-01T04:53:44Z",
-    "scanned_at": "2026-10-05T09:18:12.180862+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000065",
-    "title": "Use Unicode scalar counts consistently for local voice final limits",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/30",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 30,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:voice",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:43Z",
-    "updated_at": "2026-10-01T04:53:43Z",
-    "scanned_at": "2026-10-05T09:18:12.180928+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000066",
-    "title": "Implement iOS client-local speech with on-device guarantees and lifecycle fencing",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/29",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 29,
-    "labels": [
-      "bounty",
-      "points:400",
-      "track:voice",
-      "priority:P1"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:41Z",
-    "updated_at": "2026-10-01T04:53:41Z",
-    "scanned_at": "2026-10-05T09:18:12.181010+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000067",
-    "title": "Implement Android client-local ASR/TTS through the existing server-selected voice contract",
-    "url": "https://github.com/AstralDeep/AstralProjection/issues/28",
-    "repo": "AstralDeep/AstralProjection",
-    "number": 28,
-    "labels": [
-      "bounty",
-      "points:400",
-      "track:voice",
-      "priority:P1"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:39Z",
-    "updated_at": "2026-10-01T04:53:39Z",
-    "scanned_at": "2026-10-05T09:18:12.181097+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000068",
-    "title": "Qualify mobile voice reconnect and foreground transitions across the composed server routes",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/221",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 221,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:voice",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:38Z",
-    "updated_at": "2026-10-01T04:53:38Z",
-    "scanned_at": "2026-10-05T09:18:12.181194+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000069",
-    "title": "Exercise LETS receipt enforcement through real MCP, A2A and voice entry routes",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/220",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 220,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:interoperability",
-      "track:voice",
-      "track:security",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:36Z",
-    "updated_at": "2026-10-01T04:53:36Z",
-    "scanned_at": "2026-10-05T09:18:12.181301+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000070",
-    "title": "Validate or explicitly reject MCP x-mcp-header annotations at projection and invocation",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/219",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 219,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:interoperability",
-      "track:security",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:35Z",
-    "updated_at": "2026-10-01T04:53:35Z",
-    "scanned_at": "2026-10-05T09:18:12.181389+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000071",
-    "title": "Expire device-login state before it blocks native session admission",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/218",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 218,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:voice",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:34Z",
-    "updated_at": "2026-10-01T04:53:34Z",
-    "scanned_at": "2026-10-05T09:18:12.181475+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000072",
-    "title": "Serialize concurrent polling of the same non-custody device-login handle",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/217",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 217,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:voice",
-      "track:security",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:33Z",
-    "updated_at": "2026-10-01T04:53:33Z",
-    "scanned_at": "2026-10-05T09:18:12.181553+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000073",
-    "title": "Make the documented SDK MCP bridge module launch an actual stdio server",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/216",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 216,
-    "labels": [
-      "bounty",
-      "points:50",
-      "track:reusability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:31Z",
-    "updated_at": "2026-10-01T04:53:31Z",
-    "scanned_at": "2026-10-05T09:18:12.181615+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000074",
-    "title": "Make the reusable SDK stdio bridge conform to its declared MCP version",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/215",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 215,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:interoperability",
-      "track:reusability",
-      "priority:P1"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:29Z",
-    "updated_at": "2026-10-01T04:53:29Z",
-    "scanned_at": "2026-10-05T09:18:12.181709+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000075",
-    "title": "Preserve all A2A artifacts and message parts during response conversion",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/214",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 214,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:interoperability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:28Z",
-    "updated_at": "2026-10-01T04:53:28Z",
-    "scanned_at": "2026-10-05T09:18:12.181778+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000076",
-    "title": "Preserve pending, input-required and unsuccessful A2A task states in the MCP bridge",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/213",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 213,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:interoperability",
-      "priority:P1"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:27Z",
-    "updated_at": "2026-10-01T04:53:27Z",
-    "scanned_at": "2026-10-05T09:18:12.181847+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000077",
-    "title": "Honor the selected A2A AgentInterface URL and tenant when dispatching",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/212",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 212,
-    "labels": [
-      "bounty",
-      "points:100",
-      "track:interoperability",
-      "priority:P2"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:26Z",
-    "updated_at": "2026-10-01T04:53:26Z",
-    "scanned_at": "2026-10-05T09:18:12.181917+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000078",
-    "title": "Make outbound A2A calls and advertised cards consistently negotiate protocol 1.0",
-    "url": "https://github.com/AstralDeep/AstralDeep/issues/211",
-    "repo": "AstralDeep/AstralDeep",
-    "number": 211,
-    "labels": [
-      "bounty",
-      "points:200",
-      "track:interoperability",
-      "priority:P1"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-01T04:53:24Z",
-    "updated_at": "2026-10-01T04:53:24Z",
-    "scanned_at": "2026-10-05T09:18:12.182012+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000080",
-    "title": "[Bounty] Answer 2 linked question(s) as a lesson",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2525",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 2525,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-30T12:58:27Z",
-    "updated_at": "2026-10-01T13:50:57Z",
-    "scanned_at": "2026-10-05T09:18:12.182220+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000081",
-    "title": "[Bounty] Answer 2 linked question(s) as a lesson",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2524",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 2524,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-30T12:58:25Z",
-    "updated_at": "2026-10-01T13:50:56Z",
-    "scanned_at": "2026-10-05T09:18:12.182345+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000082",
-    "title": "[Bounty] Answer 2 linked question(s) as a lesson",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2523",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 2523,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-30T12:58:22Z",
-    "updated_at": "2026-10-01T13:50:54Z",
-    "scanned_at": "2026-10-05T09:18:12.182462+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000083",
-    "title": "Frantic bounty #136: Add a newly launched startup to Stompstart",
-    "url": "https://github.com/auscaster/frantic-board/issues/476",
-    "repo": "auscaster/frantic-board",
-    "number": 476,
-    "labels": [
-      "bounty",
-      "funded",
-      "delivered",
-      "accepted",
-      "paid"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 231,
-    "created_at": "2026-09-30T07:06:58Z",
-    "updated_at": "2026-10-04T07:00:46Z",
-    "scanned_at": "2026-10-05T09:18:12.182502+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000086",
-    "title": "[BOUNTY] Suggestion #1247",
-    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1261",
-    "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-    "number": 1261,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-09-29T17:35:20Z",
-    "updated_at": "2026-09-29T18:16:03Z",
-    "scanned_at": "2026-10-05T09:18:12.182553+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000087",
-    "title": "[BOUNTY] Suggestion #1232",
-    "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1258",
-    "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-    "number": 1258,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-09-29T02:33:33Z",
-    "updated_at": "2026-09-30T06:44:23Z",
-    "scanned_at": "2026-10-05T09:18:12.182580+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000088",
-    "title": "Bug: add() subtracts instead of adding",
-    "url": "https://github.com/UniversalAviator420/bounty-sandbox/issues/5",
-    "repo": "UniversalAviator420/bounty-sandbox",
-    "number": 5,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-29T00:56:47Z",
-    "updated_at": "2026-09-29T17:27:06Z",
-    "scanned_at": "2026-10-05T09:18:12.182591+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000089",
-    "title": "[Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1698",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1698,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-29T00:37:17Z",
-    "updated_at": "2026-10-04T03:56:18Z",
-    "scanned_at": "2026-10-05T09:18:12.182608+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000090",
-    "title": "[Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1697",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1697,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-09-29T00:37:16Z",
-    "updated_at": "2026-10-01T13:46:17Z",
-    "scanned_at": "2026-10-05T09:18:12.182621+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000179",
+    "id": "BH-000176",
     "title": "[radar] SN open bounty 2026-09-28T21:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1218",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2464,67 +2770,11 @@
     "comments": 0,
     "created_at": "2026-09-28T21:51:52Z",
     "updated_at": "2026-09-28T21:51:52Z",
-    "scanned_at": "2026-10-05T09:19:33.116442+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181902+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
-    "title": "Bug: greet() crashes with AttributeError when name is None",
-    "url": "https://github.com/UniversalAviator420/bounty-sandbox/issues/3",
-    "repo": "UniversalAviator420/bounty-sandbox",
-    "number": 3,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-09-28T21:49:31Z",
-    "updated_at": "2026-09-28T21:49:31Z",
-    "scanned_at": "2026-10-05T09:19:24.751701+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000092",
-    "title": "[Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/58228",
-    "repo": "tenstorrent/tt-metal",
-    "number": 58228,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/medium"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-09-28T21:27:15Z",
-    "updated_at": "2026-09-28T21:50:28Z",
-    "scanned_at": "2026-10-05T09:19:24.751741+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000093",
-    "title": "[Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/58227",
-    "repo": "tenstorrent/tt-metal",
-    "number": 58227,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/medium"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-28T21:27:00Z",
-    "updated_at": "2026-09-28T21:50:11Z",
-    "scanned_at": "2026-10-05T09:19:24.751756+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000180",
+    "id": "BH-000177",
     "title": "[radar] SN open bounty 2026-09-28T15:19",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1217",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2540,11 +2790,11 @@
     "comments": 0,
     "created_at": "2026-09-28T15:19:23Z",
     "updated_at": "2026-09-28T15:19:23Z",
-    "scanned_at": "2026-10-05T09:19:33.116477+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181921+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000181",
+    "id": "BH-000178",
     "title": "[radar] SN open bounty 2026-09-28T13:43",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1216",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2560,11 +2810,11 @@
     "comments": 0,
     "created_at": "2026-09-28T13:43:48Z",
     "updated_at": "2026-09-28T13:43:48Z",
-    "scanned_at": "2026-10-05T09:19:33.116493+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181940+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000179",
     "title": "[radar] SN open bounty 2026-09-28T06:42",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1212",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2580,11 +2830,11 @@
     "comments": 0,
     "created_at": "2026-09-28T06:42:31Z",
     "updated_at": "2026-09-28T06:42:31Z",
-    "scanned_at": "2026-10-05T09:19:33.116511+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181960+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000180",
     "title": "[radar] SN open bounty 2026-09-28T00:35",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1211",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2600,11 +2850,11 @@
     "comments": 0,
     "created_at": "2026-09-28T00:35:03Z",
     "updated_at": "2026-09-28T00:35:03Z",
-    "scanned_at": "2026-10-05T09:19:33.116526+00:00",
+    "scanned_at": "2026-10-05T18:39:33.181979+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000181",
     "title": "[radar] SN open bounty 2026-09-27T22:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1210",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2620,11 +2870,11 @@
     "comments": 0,
     "created_at": "2026-09-27T22:01:55Z",
     "updated_at": "2026-09-27T22:01:55Z",
-    "scanned_at": "2026-10-05T09:19:33.116542+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182000+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000182",
     "title": "[radar] SN open bounty 2026-09-27T18:17",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1209",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2640,11 +2890,11 @@
     "comments": 0,
     "created_at": "2026-09-27T18:17:30Z",
     "updated_at": "2026-09-27T18:17:30Z",
-    "scanned_at": "2026-10-05T09:19:33.116558+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182019+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000183",
     "title": "[radar] SN open bounty 2026-09-27T13:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1208",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2660,11 +2910,11 @@
     "comments": 0,
     "created_at": "2026-09-27T13:52:03Z",
     "updated_at": "2026-09-27T13:52:03Z",
-    "scanned_at": "2026-10-05T09:19:33.116574+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182038+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000184",
     "title": "[radar] SN open bounty 2026-09-27T11:55",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1207",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2680,11 +2930,11 @@
     "comments": 0,
     "created_at": "2026-09-27T11:55:11Z",
     "updated_at": "2026-09-27T11:55:11Z",
-    "scanned_at": "2026-10-05T09:19:33.116589+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182058+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000185",
     "title": "[radar] SN open bounty 2026-09-27T01:20",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1206",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2700,11 +2950,11 @@
     "comments": 0,
     "created_at": "2026-09-27T01:20:02Z",
     "updated_at": "2026-09-27T01:20:02Z",
-    "scanned_at": "2026-10-05T09:19:33.116605+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182078+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000186",
     "title": "[radar] SN open bounty 2026-09-26T22:41",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1205",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2720,11 +2970,11 @@
     "comments": 0,
     "created_at": "2026-09-26T22:41:08Z",
     "updated_at": "2026-09-26T22:41:08Z",
-    "scanned_at": "2026-10-05T09:19:33.116620+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182098+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000190",
+    "id": "BH-000187",
     "title": "[radar] SN open bounty 2026-09-26T19:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1204",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2740,11 +2990,11 @@
     "comments": 0,
     "created_at": "2026-09-26T19:47:43Z",
     "updated_at": "2026-09-26T19:47:43Z",
-    "scanned_at": "2026-10-05T09:19:33.116635+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182117+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000188",
     "title": "[radar] SN open bounty 2026-09-26T17:05",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1203",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2760,11 +3010,11 @@
     "comments": 0,
     "created_at": "2026-09-26T17:05:07Z",
     "updated_at": "2026-09-26T17:05:07Z",
-    "scanned_at": "2026-10-05T09:19:33.116652+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182136+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000189",
     "title": "[radar] SN open bounty 2026-09-26T12:59",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1200",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2780,11 +3030,11 @@
     "comments": 0,
     "created_at": "2026-09-26T12:59:46Z",
     "updated_at": "2026-09-26T12:59:46Z",
-    "scanned_at": "2026-10-05T09:19:33.116668+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182157+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000190",
     "title": "[radar] SN open bounty 2026-09-26T11:16",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1199",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2800,11 +3050,11 @@
     "comments": 0,
     "created_at": "2026-09-26T11:16:11Z",
     "updated_at": "2026-09-26T11:16:11Z",
-    "scanned_at": "2026-10-05T09:19:33.116685+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182175+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000191",
     "title": "[radar] SN open bounty 2026-09-26T07:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1196",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2820,11 +3070,11 @@
     "comments": 2,
     "created_at": "2026-09-26T07:33:04Z",
     "updated_at": "2026-09-26T08:29:04Z",
-    "scanned_at": "2026-10-05T09:19:33.116701+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182197+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000192",
     "title": "[radar] SN open bounty 2026-09-26T01:27",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1195",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2840,11 +3090,11 @@
     "comments": 2,
     "created_at": "2026-09-26T01:27:56Z",
     "updated_at": "2026-09-26T04:36:49Z",
-    "scanned_at": "2026-10-05T09:19:33.116719+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182217+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000193",
     "title": "[radar] SN open bounty 2026-09-23T10:00",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1188",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2860,11 +3110,11 @@
     "comments": 1,
     "created_at": "2026-09-23T10:00:44Z",
     "updated_at": "2026-09-23T10:01:59Z",
-    "scanned_at": "2026-10-05T09:19:33.116733+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182236+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000194",
     "title": "[radar] SN open bounty 2026-09-23T05:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1184",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2880,11 +3130,11 @@
     "comments": 1,
     "created_at": "2026-09-23T05:52:02Z",
     "updated_at": "2026-09-23T05:55:37Z",
-    "scanned_at": "2026-10-05T09:19:33.116747+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182253+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000195",
     "title": "[radar] SN open bounty 2026-09-23T05:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1183",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2900,11 +3150,11 @@
     "comments": 1,
     "created_at": "2026-09-23T05:13:40Z",
     "updated_at": "2026-09-23T05:55:50Z",
-    "scanned_at": "2026-10-05T09:19:33.116761+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182271+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000196",
     "title": "[radar] SN open bounty 2026-09-23T00:35",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1181",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2920,11 +3170,11 @@
     "comments": 1,
     "created_at": "2026-09-23T00:35:49Z",
     "updated_at": "2026-09-23T05:55:57Z",
-    "scanned_at": "2026-10-05T09:19:33.116775+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182289+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000197",
     "title": "[radar] SN open bounty 2026-09-23T00:22",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1179",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2940,11 +3190,11 @@
     "comments": 2,
     "created_at": "2026-09-23T00:22:08Z",
     "updated_at": "2026-09-23T05:56:49Z",
-    "scanned_at": "2026-10-05T09:19:33.116789+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182306+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000198",
     "title": "[radar] SN open bounty 2026-09-22T22:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1178",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2960,11 +3210,11 @@
     "comments": 1,
     "created_at": "2026-09-22T22:11:14Z",
     "updated_at": "2026-09-22T22:12:42Z",
-    "scanned_at": "2026-10-05T09:19:33.116803+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182325+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000199",
     "title": "[radar] SN open bounty 2026-09-22T21:59",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1177",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2980,11 +3230,11 @@
     "comments": 1,
     "created_at": "2026-09-22T21:59:58Z",
     "updated_at": "2026-09-22T22:01:34Z",
-    "scanned_at": "2026-10-05T09:19:33.116818+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182343+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000200",
     "title": "[radar] SN open bounty 2026-09-22T19:03",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1175",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3000,11 +3250,11 @@
     "comments": 1,
     "created_at": "2026-09-22T19:04:00Z",
     "updated_at": "2026-09-22T22:00:10Z",
-    "scanned_at": "2026-10-05T09:19:33.116832+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182360+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000204",
+    "id": "BH-000201",
     "title": "[radar] SN open bounty 2026-09-22T18:47",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1174",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3020,11 +3270,11 @@
     "comments": 1,
     "created_at": "2026-09-22T18:47:29Z",
     "updated_at": "2026-09-22T21:11:12Z",
-    "scanned_at": "2026-10-05T09:19:33.116846+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182377+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000205",
+    "id": "BH-000202",
     "title": "[radar] SN open bounty 2026-09-22T15:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1172",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3040,11 +3290,11 @@
     "comments": 1,
     "created_at": "2026-09-22T15:31:45Z",
     "updated_at": "2026-09-22T21:12:02Z",
-    "scanned_at": "2026-10-05T09:19:33.116859+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182395+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000206",
+    "id": "BH-000203",
     "title": "[radar] SN open bounty 2026-09-22T14:43",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1169",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3060,11 +3310,11 @@
     "comments": 2,
     "created_at": "2026-09-22T14:43:08Z",
     "updated_at": "2026-09-22T21:12:25Z",
-    "scanned_at": "2026-10-05T09:19:33.116873+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182413+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000207",
+    "id": "BH-000204",
     "title": "[radar] SN open bounty 2026-09-22T11:27",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1165",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3080,11 +3330,11 @@
     "comments": 2,
     "created_at": "2026-09-22T11:27:37Z",
     "updated_at": "2026-09-22T13:43:35Z",
-    "scanned_at": "2026-10-05T09:19:33.116895+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182452+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000208",
+    "id": "BH-000205",
     "title": "[radar] SN open bounty 2026-09-22T11:14",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1162",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3100,11 +3350,11 @@
     "comments": 2,
     "created_at": "2026-09-22T11:14:44Z",
     "updated_at": "2026-09-22T13:43:58Z",
-    "scanned_at": "2026-10-05T09:19:33.116909+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182470+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000209",
+    "id": "BH-000206",
     "title": "[radar] SN open bounty 2026-09-22T09:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1157",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3120,11 +3370,11 @@
     "comments": 1,
     "created_at": "2026-09-22T09:51:47Z",
     "updated_at": "2026-09-22T11:00:07Z",
-    "scanned_at": "2026-10-05T09:19:33.116924+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000210",
+    "id": "BH-000207",
     "title": "[radar] SN open bounty 2026-09-22T05:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1153",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3140,11 +3390,11 @@
     "comments": 1,
     "created_at": "2026-09-22T05:56:46Z",
     "updated_at": "2026-09-22T10:02:42Z",
-    "scanned_at": "2026-10-05T09:19:33.116938+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182506+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000211",
+    "id": "BH-000208",
     "title": "[radar] SN open bounty 2026-09-22T04:43",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1150",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3160,11 +3410,11 @@
     "comments": 1,
     "created_at": "2026-09-22T04:43:51Z",
     "updated_at": "2026-09-22T10:02:52Z",
-    "scanned_at": "2026-10-05T09:19:33.116953+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182523+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000212",
+    "id": "BH-000209",
     "title": "[radar] SN open bounty 2026-09-22T00:53",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1148",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3180,11 +3430,11 @@
     "comments": 1,
     "created_at": "2026-09-22T00:53:39Z",
     "updated_at": "2026-09-22T10:03:00Z",
-    "scanned_at": "2026-10-05T09:19:33.116968+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182542+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000213",
+    "id": "BH-000210",
     "title": "[radar] SN open bounty 2026-09-21T23:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1146",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3200,11 +3450,11 @@
     "comments": 1,
     "created_at": "2026-09-21T23:12:29Z",
     "updated_at": "2026-09-22T10:03:11Z",
-    "scanned_at": "2026-10-05T09:19:33.116983+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182560+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000214",
+    "id": "BH-000211",
     "title": "[radar] SN open bounty 2026-09-21T06:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1135",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3220,11 +3470,11 @@
     "comments": 5,
     "created_at": "2026-09-21T06:11:55Z",
     "updated_at": "2026-09-23T00:45:14Z",
-    "scanned_at": "2026-10-05T09:19:33.117061+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182579+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000215",
+    "id": "BH-000212",
     "title": "[radar] SN open bounty 2026-09-21T00:09",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1130",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3240,11 +3490,11 @@
     "comments": 3,
     "created_at": "2026-09-21T00:09:45Z",
     "updated_at": "2026-09-21T23:00:11Z",
-    "scanned_at": "2026-10-05T09:19:33.117077+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182597+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000216",
+    "id": "BH-000213",
     "title": "[radar] SN open bounty 2026-09-20T21:28",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1129",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3260,11 +3510,11 @@
     "comments": 3,
     "created_at": "2026-09-20T21:28:24Z",
     "updated_at": "2026-09-21T10:32:41Z",
-    "scanned_at": "2026-10-05T09:19:33.117092+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182616+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000111",
     "title": "Bug: vista deploy still breaks static hosts and platform adapters",
     "url": "https://github.com/Mantitup-Org/vista/issues/62",
     "repo": "Mantitup-Org/vista",
@@ -3280,11 +3530,11 @@
     "comments": 13,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-10-04T08:18:49Z",
-    "scanned_at": "2026-10-05T09:19:27.239215+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074660+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000112",
     "title": "Bounty: hunt bugs across the entire Vista framework",
     "url": "https://github.com/Mantitup-Org/vista/issues/61",
     "repo": "Mantitup-Org/vista",
@@ -3296,14 +3546,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 13,
+    "comments": 14,
     "created_at": "2026-09-20T18:51:05Z",
-    "updated_at": "2026-10-04T10:24:57Z",
-    "scanned_at": "2026-10-05T09:19:27.239285+00:00",
+    "updated_at": "2026-10-05T10:56:15Z",
+    "scanned_at": "2026-10-05T18:39:27.074737+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000217",
+    "id": "BH-000214",
     "title": "[radar] SN open bounty 2026-09-20T18:42",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1128",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3319,11 +3569,11 @@
     "comments": 2,
     "created_at": "2026-09-20T18:42:26Z",
     "updated_at": "2026-09-21T10:32:33Z",
-    "scanned_at": "2026-10-05T09:19:33.117111+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182633+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000218",
+    "id": "BH-000215",
     "title": "[radar] SN open bounty 2026-09-20T15:58",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1127",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3339,91 +3589,11 @@
     "comments": 4,
     "created_at": "2026-09-20T15:58:20Z",
     "updated_at": "2026-09-21T10:33:57Z",
-    "scanned_at": "2026-10-05T09:19:33.117127+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182651+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
-    "title": "Epic: 5% maintenance treasury and miner bounty operations",
-    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2054",
-    "repo": "ditto-assistant/ditto-subnet",
-    "number": 2054,
-    "labels": [
-      "epic",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 8,
-    "created_at": "2026-09-20T14:23:55Z",
-    "updated_at": "2026-09-30T21:23:22Z",
-    "scanned_at": "2026-10-05T09:19:24.752142+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000100",
-    "title": "Publish a GitHub-backed SN118 bounty board and contributor guide",
-    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2047",
-    "repo": "ditto-assistant/ditto-subnet",
-    "number": 2047,
-    "labels": [
-      "documentation",
-      "good first issue",
-      "help wanted",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 12,
-    "created_at": "2026-09-20T14:22:57Z",
-    "updated_at": "2026-09-30T21:23:26Z",
-    "scanned_at": "2026-10-05T09:19:24.752180+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000101",
-    "title": "Implement bounty acceptance, payout proof, disputes, and public accounting",
-    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2046",
-    "repo": "ditto-assistant/ditto-subnet",
-    "number": 2046,
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 11,
-    "created_at": "2026-09-20T14:22:55Z",
-    "updated_at": "2026-09-30T21:23:31Z",
-    "scanned_at": "2026-10-05T09:19:24.752217+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000102",
-    "title": "Specify the 5% SN118 maintenance treasury and governance contract",
-    "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2044",
-    "repo": "ditto-assistant/ditto-subnet",
-    "number": 2044,
-    "labels": [
-      "documentation",
-      "enhancement",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 11,
-    "created_at": "2026-09-20T14:22:53Z",
-    "updated_at": "2026-09-30T21:23:35Z",
-    "scanned_at": "2026-10-05T09:19:24.752276+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000219",
+    "id": "BH-000216",
     "title": "[radar] SN open bounty 2026-09-20T11:15",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1124",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3439,11 +3609,11 @@
     "comments": 2,
     "created_at": "2026-09-20T11:15:41Z",
     "updated_at": "2026-09-21T17:01:49Z",
-    "scanned_at": "2026-10-05T09:19:33.117141+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182669+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000220",
+    "id": "BH-000217",
     "title": "[radar] SN open bounty 2026-09-19T10:50",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1122",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3459,50 +3629,11 @@
     "comments": 3,
     "created_at": "2026-09-19T10:50:38Z",
     "updated_at": "2026-09-19T18:13:13Z",
-    "scanned_at": "2026-10-05T09:19:33.117155+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182686+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
-    "title": "Claim: May Flowers Star Pack — Blackcode-cmd",
-    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/16984",
-    "repo": "Scottcjn/rustchain-bounties",
-    "number": 16984,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 6,
-    "created_at": "2026-09-18T00:06:02Z",
-    "updated_at": "2026-10-04T11:05:11Z",
-    "scanned_at": "2026-10-05T09:19:24.752415+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000109",
-    "title": "[bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志）",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 1819,
-    "labels": [
-      "area:tests",
-      "needs-ac",
-      "bounty",
-      "core-bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 10,
-    "created_at": "2026-09-17T18:42:33Z",
-    "updated_at": "2026-10-04T07:37:13Z",
-    "scanned_at": "2026-10-05T09:19:24.752552+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000122",
+    "id": "BH-000113",
     "title": "Debug bounty from VS Code (Zimb/zimb)",
     "url": "https://github.com/Zimb/zimb/issues/6",
     "repo": "Zimb/zimb",
@@ -3518,11 +3649,11 @@
     "comments": 4,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-09-18T14:58:17Z",
-    "scanned_at": "2026-10-05T09:19:27.239395+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000114",
     "title": "test issue",
     "url": "https://github.com/Zimb/zimb/issues/1",
     "repo": "Zimb/zimb",
@@ -3538,35 +3669,11 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-10-05T09:19:27.239429+00:00",
+    "scanned_at": "2026-10-05T18:39:27.074920+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
-    "title": "[Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言）",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1753",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 1753,
-    "labels": [
-      "help wanted",
-      "status: competition",
-      "ready",
-      "area:scripts",
-      "bounty",
-      "agent-friendly",
-      "zero-bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 17,
-    "created_at": "2026-09-16T09:03:44Z",
-    "updated_at": "2026-10-01T07:30:55Z",
-    "scanned_at": "2026-10-05T09:19:24.752685+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000221",
+    "id": "BH-000218",
     "title": "[radar] SN open bounty 2026-09-15T11:37",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1120",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3582,11 +3689,11 @@
     "comments": 4,
     "created_at": "2026-09-15T11:37:05Z",
     "updated_at": "2026-09-15T14:05:31Z",
-    "scanned_at": "2026-10-05T09:19:33.117168+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182703+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000222",
+    "id": "BH-000219",
     "title": "[radar] SN open bounty 2026-09-14T19:16",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1116",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3602,11 +3709,11 @@
     "comments": 7,
     "created_at": "2026-09-14T19:16:18Z",
     "updated_at": "2026-09-23T21:09:13Z",
-    "scanned_at": "2026-10-05T09:19:33.117183+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182721+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000223",
+    "id": "BH-000220",
     "title": "[radar] SN open bounty 2026-09-14T13:54",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1115",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3622,11 +3729,11 @@
     "comments": 5,
     "created_at": "2026-09-14T13:54:35Z",
     "updated_at": "2026-09-23T21:09:26Z",
-    "scanned_at": "2026-10-05T09:19:33.117197+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182739+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000224",
+    "id": "BH-000221",
     "title": "[radar] SN open bounty 2026-09-14T12:34",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1113",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3642,11 +3749,11 @@
     "comments": 4,
     "created_at": "2026-09-14T12:34:58Z",
     "updated_at": "2026-09-14T23:50:22Z",
-    "scanned_at": "2026-10-05T09:19:33.117212+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182757+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000225",
+    "id": "BH-000222",
     "title": "[radar] SN open bounty 2026-09-14T06:07",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1105",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3662,11 +3769,11 @@
     "comments": 2,
     "created_at": "2026-09-14T06:07:22Z",
     "updated_at": "2026-09-14T20:49:37Z",
-    "scanned_at": "2026-10-05T09:19:33.117227+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182775+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000226",
+    "id": "BH-000223",
     "title": "[radar] SN open bounty 2026-09-14T00:58",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1103",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3682,11 +3789,11 @@
     "comments": 2,
     "created_at": "2026-09-14T00:58:13Z",
     "updated_at": "2026-09-14T22:31:38Z",
-    "scanned_at": "2026-10-05T09:19:33.117244+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182794+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000227",
+    "id": "BH-000224",
     "title": "[radar] SN open bounty 2026-09-13T22:21",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1101",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3702,11 +3809,11 @@
     "comments": 1,
     "created_at": "2026-09-13T22:21:16Z",
     "updated_at": "2026-09-13T22:21:54Z",
-    "scanned_at": "2026-10-05T09:19:33.117268+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182813+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000228",
+    "id": "BH-000225",
     "title": "[radar] SN open bounty 2026-09-13T19:22",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1099",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3722,11 +3829,11 @@
     "comments": 2,
     "created_at": "2026-09-13T19:22:24Z",
     "updated_at": "2026-09-13T19:23:09Z",
-    "scanned_at": "2026-10-05T09:19:33.117285+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182833+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000229",
+    "id": "BH-000226",
     "title": "[radar] SN open bounty 2026-09-13T16:09",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1097",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3742,11 +3849,11 @@
     "comments": 3,
     "created_at": "2026-09-13T16:09:11Z",
     "updated_at": "2026-09-14T12:28:56Z",
-    "scanned_at": "2026-10-05T09:19:33.117301+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182851+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000230",
+    "id": "BH-000227",
     "title": "[radar] SN open bounty 2026-09-12T22:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1091",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3762,11 +3869,11 @@
     "comments": 2,
     "created_at": "2026-09-12T22:12:20Z",
     "updated_at": "2026-09-13T14:31:30Z",
-    "scanned_at": "2026-10-05T09:19:33.117316+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182871+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000231",
+    "id": "BH-000228",
     "title": "[radar] SN open bounty 2026-09-12T19:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1064",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3782,11 +3889,11 @@
     "comments": 1,
     "created_at": "2026-09-12T19:13:12Z",
     "updated_at": "2026-09-12T19:13:50Z",
-    "scanned_at": "2026-10-05T09:19:33.117332+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182891+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000232",
+    "id": "BH-000229",
     "title": "[radar] SN open bounty 2026-09-12T17:00",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1063",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3802,11 +3909,11 @@
     "comments": 1,
     "created_at": "2026-09-12T17:00:36Z",
     "updated_at": "2026-09-12T18:52:04Z",
-    "scanned_at": "2026-10-05T09:19:33.117348+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182912+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000233",
+    "id": "BH-000230",
     "title": "[radar] SN open bounty 2026-09-12T14:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1061",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3822,11 +3929,11 @@
     "comments": 1,
     "created_at": "2026-09-12T14:01:52Z",
     "updated_at": "2026-09-12T18:52:22Z",
-    "scanned_at": "2026-10-05T09:19:33.117364+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182931+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000235",
+    "id": "BH-000232",
     "title": "[radar] SN open bounty 2026-09-12T10:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1058",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3842,11 +3949,11 @@
     "comments": 1,
     "created_at": "2026-09-12T10:38:34Z",
     "updated_at": "2026-09-12T18:54:04Z",
-    "scanned_at": "2026-10-05T09:19:33.117401+00:00",
+    "scanned_at": "2026-10-05T18:39:33.182979+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000236",
+    "id": "BH-000233",
     "title": "[radar] SN open bounty 2026-09-12T10:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1057",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3862,11 +3969,11 @@
     "comments": 2,
     "created_at": "2026-09-12T10:38:14Z",
     "updated_at": "2026-09-23T00:54:59Z",
-    "scanned_at": "2026-10-05T09:19:33.117418+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000237",
+    "id": "BH-000234",
     "title": "[radar] SN open bounty 2026-09-12T05:39",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1054",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3882,11 +3989,11 @@
     "comments": 1,
     "created_at": "2026-09-12T05:39:31Z",
     "updated_at": "2026-09-12T18:54:27Z",
-    "scanned_at": "2026-10-05T09:19:33.117435+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183022+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000238",
+    "id": "BH-000235",
     "title": "[radar] SN open bounty 2026-09-12T00:10",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1053",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3902,11 +4009,11 @@
     "comments": 6,
     "created_at": "2026-09-12T00:10:50Z",
     "updated_at": "2026-09-12T10:37:22Z",
-    "scanned_at": "2026-10-05T09:19:33.117454+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183049+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000239",
+    "id": "BH-000236",
     "title": "[radar] SN open bounty 2026-09-11T21:40",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1052",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3922,11 +4029,11 @@
     "comments": 6,
     "created_at": "2026-09-11T21:40:37Z",
     "updated_at": "2026-09-12T10:37:44Z",
-    "scanned_at": "2026-10-05T09:19:33.117475+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183076+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000240",
+    "id": "BH-000237",
     "title": "[radar] SN open bounty 2026-09-11T18:24",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/922",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3942,11 +4049,11 @@
     "comments": 6,
     "created_at": "2026-09-11T18:24:05Z",
     "updated_at": "2026-09-12T10:39:30Z",
-    "scanned_at": "2026-10-05T09:19:33.117489+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183092+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000241",
+    "id": "BH-000238",
     "title": "[radar] SN open bounty 2026-09-11T14:20",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/909",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3962,11 +4069,11 @@
     "comments": 18,
     "created_at": "2026-09-11T14:20:17Z",
     "updated_at": "2026-09-12T10:40:28Z",
-    "scanned_at": "2026-10-05T09:19:33.117513+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183109+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000242",
+    "id": "BH-000239",
     "title": "[radar] SN open bounty 2026-09-11T11:10",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/905",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3982,11 +4089,11 @@
     "comments": 27,
     "created_at": "2026-09-11T11:10:08Z",
     "updated_at": "2026-09-12T10:40:49Z",
-    "scanned_at": "2026-10-05T09:19:33.117526+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183124+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000243",
+    "id": "BH-000240",
     "title": "[radar] SN open bounty 2026-09-11T09:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/903",
     "repo": "relayhop/sn-monetization-runtime",
@@ -4002,51 +4109,11 @@
     "comments": 30,
     "created_at": "2026-09-11T09:33:28Z",
     "updated_at": "2026-09-12T10:32:49Z",
-    "scanned_at": "2026-10-05T09:19:33.117539+00:00",
+    "scanned_at": "2026-10-05T18:39:33.183141+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000244",
-    "title": "[radar] SN open bounty 2026-09-11T04:28",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/895",
-    "repo": "relayhop/sn-monetization-runtime",
-    "number": 895,
-    "labels": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 39,
-    "created_at": "2026-09-11T04:28:43Z",
-    "updated_at": "2026-09-12T10:41:26Z",
-    "scanned_at": "2026-10-05T09:19:33.117551+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000245",
-    "title": "[radar] SN open bounty 2026-09-11T00:02",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/894",
-    "repo": "relayhop/sn-monetization-runtime",
-    "number": 894,
-    "labels": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 44,
-    "created_at": "2026-09-11T00:02:24Z",
-    "updated_at": "2026-09-21T16:54:42Z",
-    "scanned_at": "2026-10-05T09:19:33.117570+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000129",
+    "id": "BH-000120",
     "title": "Etapa 5: flujo de propuesta y moderacion de mapas de usuario",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/25",
     "repo": "Bitcoindefi/OpenAO",
@@ -4068,11 +4135,11 @@
     "comments": 15,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-10-04T10:25:52Z",
-    "scanned_at": "2026-10-05T09:19:27.239546+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075061+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000121",
     "title": "Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/24",
     "repo": "Bitcoindefi/OpenAO",
@@ -4094,11 +4161,11 @@
     "comments": 7,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-09-14T05:48:45Z",
-    "scanned_at": "2026-10-05T09:19:27.239680+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075179+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000122",
     "title": "Etapa 2: importar y exportar mapas del editor oficial de escritorio",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/23",
     "repo": "Bitcoindefi/OpenAO",
@@ -4120,11 +4187,11 @@
     "comments": 4,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-08-19T04:41:55Z",
-    "scanned_at": "2026-10-05T09:19:27.239769+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075286+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000123",
     "title": "Soporte mobile: hoy el juego no se puede jugar desde un celular",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/21",
     "repo": "Bitcoindefi/OpenAO",
@@ -4146,11 +4213,11 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-10-05T09:19:27.239891+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075476+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000124",
     "title": "Rendimiento del cliente: mapa completo en memoria, sin limite de FPS y prefetch sin tope",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/20",
     "repo": "Bitcoindefi/OpenAO",
@@ -4171,11 +4238,11 @@
     "comments": 4,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-09-09T01:31:25Z",
-    "scanned_at": "2026-10-05T09:19:27.239990+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075604+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000125",
     "title": "El build de Docker produce un frontend sin mapas: el mundo no se dibuja",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/19",
     "repo": "Bitcoindefi/OpenAO",
@@ -4196,11 +4263,11 @@
     "comments": 18,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-09-16T20:39:03Z",
-    "scanned_at": "2026-10-05T09:19:27.240069+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075705+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000126",
     "title": "No hay reconexion automatica: si se corta la conexion hay que recargar la pagina",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/18",
     "repo": "Bitcoindefi/OpenAO",
@@ -4221,11 +4288,11 @@
     "comments": 7,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-09-16T18:28:31Z",
-    "scanned_at": "2026-10-05T09:19:27.240139+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075795+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000127",
     "title": "Research: como editan mapas los otros proyectos de Argentum Online",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/14",
     "repo": "Bitcoindefi/OpenAO",
@@ -4248,11 +4315,11 @@
     "comments": 6,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-09-30T02:20:48Z",
-    "scanned_at": "2026-10-05T09:19:27.240214+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075892+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000128",
     "title": "Etapa 4: editor visual de mapas dentro del juego",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/13",
     "repo": "Bitcoindefi/OpenAO",
@@ -4274,11 +4341,11 @@
     "comments": 9,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-09-16T15:57:40Z",
-    "scanned_at": "2026-10-05T09:19:27.240304+00:00",
+    "scanned_at": "2026-10-05T18:39:27.075987+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000129",
     "title": "Etapa 3: log de auditoria, deshacer y rollback de mapas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/12",
     "repo": "Bitcoindefi/OpenAO",
@@ -4300,11 +4367,11 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-10-05T09:19:27.240369+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076068+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000130",
     "title": "Etapa 3: publicar mapas en vivo sin reiniciar el server",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/11",
     "repo": "Bitcoindefi/OpenAO",
@@ -4326,11 +4393,11 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-09-17T21:14:05Z",
-    "scanned_at": "2026-10-05T09:19:27.240442+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000131",
     "title": "Etapa 2: edicion de salidas entre mapas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/10",
     "repo": "Bitcoindefi/OpenAO",
@@ -4352,11 +4419,11 @@
     "comments": 6,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-09-16T15:37:15Z",
-    "scanned_at": "2026-10-05T09:19:27.240500+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076235+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000132",
     "title": "Etapa 2: colocacion de objetos, estructuras y puertas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/9",
     "repo": "Bitcoindefi/OpenAO",
@@ -4378,11 +4445,11 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-10-05T09:19:27.240569+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076320+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000133",
     "title": "Etapa 1: API para pintar el piso del mapa",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/7",
     "repo": "Bitcoindefi/OpenAO",
@@ -4404,11 +4471,11 @@
     "comments": 7,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-08-24T18:19:43Z",
-    "scanned_at": "2026-10-05T09:19:27.240638+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076407+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000134",
     "title": "Etapa 1: registrar PNG subidos como graficos del motor y extender la paleta",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/6",
     "repo": "Bitcoindefi/OpenAO",
@@ -4430,11 +4497,11 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-10-05T09:19:27.240713+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076509+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000135",
     "title": "Etapa 0: permisos y atribucion para edicion de mapas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/4",
     "repo": "Bitcoindefi/OpenAO",
@@ -4456,11 +4523,11 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-09-17T10:35:52Z",
-    "scanned_at": "2026-10-05T09:19:27.240774+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076585+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000136",
     "title": "Etapa 0: capa de persistencia de ediciones de mapa",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/3",
     "repo": "Bitcoindefi/OpenAO",
@@ -4482,11 +4549,11 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:03Z",
     "updated_at": "2026-09-16T15:37:02Z",
-    "scanned_at": "2026-10-05T09:19:27.240862+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076696+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000137",
     "title": "Recuperacion de contrasena falla en produccion: Amazon SES sin configurar ni documentado",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/1",
     "repo": "Bitcoindefi/OpenAO",
@@ -4505,11 +4572,11 @@
     "comments": 6,
     "created_at": "2026-08-16T16:52:31Z",
     "updated_at": "2026-09-17T22:21:27Z",
-    "scanned_at": "2026-10-05T09:19:27.240970+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076832+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000138",
     "title": "[medium] [bounty] Implement load balancing across multiple providers",
     "url": "https://github.com/mallonepay/pay-per-token-llm-gateway/issues/3",
     "repo": "mallonepay/pay-per-token-llm-gateway",
@@ -4524,11 +4591,11 @@
     "comments": 32,
     "created_at": "2026-08-09T14:50:40Z",
     "updated_at": "2026-10-03T20:32:53Z",
-    "scanned_at": "2026-10-05T09:19:27.240999+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076870+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000139",
     "title": "[FEAT] Implement on-chain subscription analytics and event history viewer",
     "url": "https://github.com/bodycount0/stellar-drips-protocol/issues/4",
     "repo": "bodycount0/stellar-drips-protocol",
@@ -4545,11 +4612,11 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:48Z",
     "updated_at": "2026-08-08T18:55:11Z",
-    "scanned_at": "2026-10-05T09:19:27.241022+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076897+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000140",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/bodycount0/soroban-defi-analytics/issues/4",
     "repo": "bodycount0/soroban-defi-analytics",
@@ -4566,11 +4633,11 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:45Z",
     "updated_at": "2026-08-12T11:53:13Z",
-    "scanned_at": "2026-10-05T09:19:27.241042+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076923+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000141",
     "title": "[FEAT] Implement on-chain subscription analytics and event history viewer",
     "url": "https://github.com/AbleeGod/stellar-drips-protocol/issues/4",
     "repo": "AbleeGod/stellar-drips-protocol",
@@ -4587,11 +4654,11 @@
     "comments": 8,
     "created_at": "2026-08-08T10:26:10Z",
     "updated_at": "2026-09-21T15:05:57Z",
-    "scanned_at": "2026-10-05T09:19:27.241096+00:00",
+    "scanned_at": "2026-10-05T18:39:27.076993+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000142",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/AbleeGod/soroban-defi-analytics/issues/4",
     "repo": "AbleeGod/soroban-defi-analytics",
@@ -4608,11 +4675,11 @@
     "comments": 4,
     "created_at": "2026-08-08T10:23:21Z",
     "updated_at": "2026-09-09T10:19:38Z",
-    "scanned_at": "2026-10-05T09:19:27.241134+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077044+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000143",
     "title": "[FEAT] Implement CSV export functionality for historical pool TVL data",
     "url": "https://github.com/Bigg770/soroban-defi-analytics/issues/4",
     "repo": "Bigg770/soroban-defi-analytics",
@@ -4629,11 +4696,11 @@
     "comments": 11,
     "created_at": "2026-08-08T08:48:25Z",
     "updated_at": "2026-09-20T14:55:51Z",
-    "scanned_at": "2026-10-05T09:19:27.241184+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000144",
     "title": "[bounty] Shared rate-limit middleware (hot-key correct)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/11",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4649,11 +4716,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-07T17:18:00Z",
-    "scanned_at": "2026-10-05T09:19:27.241214+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077145+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000145",
     "title": "[bounty] Preview-DB seeding + reset endpoint",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/10",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4669,11 +4736,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-05T09:19:27.241244+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000146",
     "title": "[bounty] Per-clone observability (logs + /metrics + middleware)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/9",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4689,11 +4756,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-09-05T19:28:52Z",
-    "scanned_at": "2026-10-05T09:19:27.241285+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077226+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000147",
     "title": "[bounty] Voucher clone (single-use redemption)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/8",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4709,11 +4776,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-07T16:39:41Z",
-    "scanned_at": "2026-10-05T09:19:27.241315+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077264+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000148",
     "title": "[bounty] Inventory / reservation clone (never oversell)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/7",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4729,11 +4796,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-07T17:17:59Z",
-    "scanned_at": "2026-10-05T09:19:27.241345+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077302+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000149",
     "title": "[bounty] Wallet clone (atomic transfers + ledger)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/6",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4749,11 +4816,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-05T09:19:27.241377+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077343+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000150",
     "title": "[bounty] Gallery: contributor credit + \"new since last visit\"",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/5",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4769,11 +4836,11 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-09-05T16:10:29Z",
-    "scanned_at": "2026-10-05T09:19:27.241407+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077383+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000151",
     "title": "[bounty] Paste clone (view-once)",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/4",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4789,11 +4856,11 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-07T16:24:44Z",
-    "scanned_at": "2026-10-05T09:19:27.241438+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077422+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000152",
     "title": "[bounty] Shortlink clone",
     "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/3",
     "repo": "quicksilverj2/openbuild-gallery",
@@ -4809,11 +4876,11 @@
     "comments": 7,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-09-17T18:54:56Z",
-    "scanned_at": "2026-10-05T09:19:27.241469+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077472+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000153",
     "title": "Bounty template for verified work",
     "url": "https://github.com/OxBenji/progress-ledger/issues/2",
     "repo": "OxBenji/progress-ledger",
@@ -4827,11 +4894,11 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-10-05T09:19:27.241491+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077501+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000155",
     "title": "[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/5",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4847,11 +4914,11 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-10-05T09:19:27.241546+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077571+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000156",
     "title": "[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU",
     "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/4",
     "repo": "0xddneto/AI-Proof-of-Us",
@@ -4867,11 +4934,11 @@
     "comments": 25,
     "created_at": "2026-07-23T14:27:55Z",
     "updated_at": "2026-07-29T22:35:54Z",
-    "scanned_at": "2026-10-05T09:19:27.241588+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077625+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000157",
     "title": "Really important",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/45",
     "repo": "iii123iii/Crystal-PDF",
@@ -4891,11 +4958,11 @@
     "comments": 4,
     "created_at": "2026-07-16T07:21:53Z",
     "updated_at": "2026-07-29T19:06:14Z",
-    "scanned_at": "2026-10-05T09:19:27.241599+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077639+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000158",
     "title": "[50 MRG] Electron: auto-update stub wiring (electron-updater optional, off by default)",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/29",
     "repo": "mergeos-bounties/Gomi",
@@ -4913,11 +4980,11 @@
     "comments": 13,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-08-09T21:42:33Z",
-    "scanned_at": "2026-10-05T09:19:27.241645+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077699+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000159",
     "title": "[100 MRG] Webview host bridge: versioned message validation + size limits",
     "url": "https://github.com/mergeos-bounties/Gomi/issues/22",
     "repo": "mergeos-bounties/Gomi",
@@ -4935,11 +5002,11 @@
     "comments": 7,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-08-09T21:42:34Z",
-    "scanned_at": "2026-10-05T09:19:27.241694+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077762+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000160",
     "title": "Bug bounty 100 usd to whoever makes my landing page responsive for mobile",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/3",
     "repo": "iii123iii/Crystal-PDF",
@@ -4957,11 +5024,11 @@
     "comments": 55,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-10-05T02:32:31Z",
-    "scanned_at": "2026-10-05T09:19:27.241706+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077779+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000161",
     "title": "Fix speed",
     "url": "https://github.com/iii123iii/Crystal-PDF/issues/2",
     "repo": "iii123iii/Crystal-PDF",
@@ -4978,11 +5045,11 @@
     "comments": 12,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-08-25T16:43:50Z",
-    "scanned_at": "2026-10-05T09:19:27.241714+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077788+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000168",
     "title": "Fix: Offline sync queue not clearing after successful push",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/52",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -4999,11 +5066,11 @@
     "comments": 16,
     "created_at": "2026-07-02T11:23:44Z",
     "updated_at": "2026-10-03T21:58:14Z",
-    "scanned_at": "2026-10-05T09:19:27.241788+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077884+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000169",
     "title": "Fix: QR code scanner torch toggle broken on iOS",
     "url": "https://github.com/cocohub-mobileapp/cocohub-main/issues/51",
     "repo": "cocohub-mobileapp/cocohub-main",
@@ -5021,7 +5088,7 @@
     "comments": 7,
     "created_at": "2026-07-02T11:21:25Z",
     "updated_at": "2026-07-30T11:20:25Z",
-    "scanned_at": "2026-10-05T09:19:27.241814+00:00",
+    "scanned_at": "2026-10-05T18:39:27.077918+00:00",
     "status": "new"
   }
 ]
