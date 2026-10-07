@@ -1,6 +1,27 @@
 [
   {
-    "id": "BH-000006",
+    "id": "BH-000001",
+    "title": "[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+    "repo": "tenstorrent/tt-metal",
+    "number": 59732,
+    "labels": [
+      "bounty",
+      "bounty_difficulty/medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 3000,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-07T21:34:17Z",
+    "updated_at": "2026-10-07T21:56:07Z",
+    "scanned_at": "2026-10-07T22:06:53.833008+00:00",
+    "status": "new",
+    "_score": 53.0,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000007",
     "title": "💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
     "url": "https://github.com/quantumchain-core/velodag-core/issues/2",
     "repo": "quantumchain-core/velodag-core",
@@ -16,10 +37,10 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-10-07T05:25:07Z",
-    "updated_at": "2026-10-07T15:57:20Z",
-    "scanned_at": "2026-10-07T17:05:28.803197+00:00",
+    "updated_at": "2026-10-07T21:37:01Z",
+    "scanned_at": "2026-10-07T22:06:53.833468+00:00",
     "status": "new",
     "_score": 46.8,
     "tier": "A"
@@ -41,7 +62,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-07T17:06:47.937730+00:00",
+    "scanned_at": "2026-10-07T22:08:10.342606+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -63,7 +84,7 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-09-30T23:13:50Z",
-    "scanned_at": "2026-10-07T17:06:47.937689+00:00",
+    "scanned_at": "2026-10-07T22:08:10.342568+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -84,7 +105,7 @@
     "comments": 10,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-03T10:23:08Z",
-    "scanned_at": "2026-10-07T17:06:47.937710+00:00",
+    "scanned_at": "2026-10-07T22:08:10.342588+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -105,7 +126,7 @@
     "comments": 12,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-03T10:23:11Z",
-    "scanned_at": "2026-10-07T17:06:47.937719+00:00",
+    "scanned_at": "2026-10-07T22:08:10.342596+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -123,16 +144,16 @@
     "language": "unknown",
     "amount_usd": 500,
     "state": "open",
-    "comments": 21,
+    "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
-    "updated_at": "2026-10-03T10:23:04Z",
-    "scanned_at": "2026-10-07T17:06:47.937701+00:00",
+    "updated_at": "2026-10-07T20:06:38Z",
+    "scanned_at": "2026-10-07T22:08:10.342577+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000006",
     "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -147,7 +168,7 @@
     "comments": 1,
     "created_at": "2026-10-07T08:52:34Z",
     "updated_at": "2026-10-07T09:20:57Z",
-    "scanned_at": "2026-10-07T17:05:28.803184+00:00",
+    "scanned_at": "2026-10-07T22:06:53.833460+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
