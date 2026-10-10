@@ -1,27 +1,6 @@
 [
   {
     "id": "BH-000006",
-    "title": "[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
-    "repo": "tenstorrent/tt-metal",
-    "number": 59732,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/medium"
-    ],
-    "language": "unknown",
-    "amount_usd": 3000,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-10-07T21:34:17Z",
-    "updated_at": "2026-10-10T12:08:06Z",
-    "scanned_at": "2026-10-10T20:52:16.615755+00:00",
-    "status": "new",
-    "_score": 53.0,
-    "tier": "A"
-  },
-  {
-    "id": "BH-000005",
     "title": "[Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1836",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -36,7 +15,28 @@
     "comments": 20,
     "created_at": "2026-10-08T01:05:18Z",
     "updated_at": "2026-10-09T22:55:02Z",
-    "scanned_at": "2026-10-10T20:52:16.615740+00:00",
+    "scanned_at": "2026-10-10T23:57:55.067379+00:00",
+    "status": "new",
+    "_score": 50.0,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/59732",
+    "repo": "tenstorrent/tt-metal",
+    "number": 59732,
+    "labels": [
+      "bounty",
+      "bounty_difficulty/medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 3000,
+    "state": "open",
+    "comments": 22,
+    "created_at": "2026-10-07T21:34:17Z",
+    "updated_at": "2026-10-10T22:01:26Z",
+    "scanned_at": "2026-10-10T23:57:55.067396+00:00",
     "status": "new",
     "_score": 50.0,
     "tier": "A"
@@ -58,7 +58,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-10T20:53:31.262122+00:00",
+    "scanned_at": "2026-10-10T23:59:09.832703+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -80,7 +80,7 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-09-30T23:13:50Z",
-    "scanned_at": "2026-10-10T20:53:31.262090+00:00",
+    "scanned_at": "2026-10-10T23:59:09.832661+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -101,7 +101,7 @@
     "comments": 10,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-10T03:29:42Z",
-    "scanned_at": "2026-10-10T20:53:31.262106+00:00",
+    "scanned_at": "2026-10-10T23:59:09.832682+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -122,7 +122,7 @@
     "comments": 12,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-03T10:23:11Z",
-    "scanned_at": "2026-10-10T20:53:31.262114+00:00",
+    "scanned_at": "2026-10-10T23:59:09.832692+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -143,13 +143,13 @@
     "comments": 22,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-09T15:18:15Z",
-    "scanned_at": "2026-10-10T20:53:31.262098+00:00",
+    "scanned_at": "2026-10-10T23:59:09.832672+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000012",
     "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -164,7 +164,7 @@
     "comments": 5,
     "created_at": "2026-10-07T08:52:34Z",
     "updated_at": "2026-10-09T20:21:31Z",
-    "scanned_at": "2026-10-10T20:52:16.616216+00:00",
+    "scanned_at": "2026-10-10T23:57:55.068117+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
