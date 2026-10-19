@@ -1,6 +1,29 @@
 [
   {
-    "id": "BH-000003",
+    "id": "BH-000008",
+    "title": "[Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON key spoofing in cbor.rs, and COSE/DER parsing bugs",
+    "url": "https://github.com/Neziahtech/streampay/issues/300",
+    "repo": "Neziahtech/streampay",
+    "number": 300,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:contract",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": 80000,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-19T05:03:06Z",
+    "updated_at": "2026-10-19T05:07:50Z",
+    "scanned_at": "2026-10-19T10:32:00.122669+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000011",
     "title": "[Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::transfer, enabling prior spender to seize or burn new holder's NFT",
     "url": "https://github.com/Neziahtech/streampay/issues/295",
     "repo": "Neziahtech/streampay",
@@ -16,14 +39,14 @@
     "language": "unknown",
     "amount_usd": 80000,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-10-19T03:35:48Z",
-    "updated_at": "2026-10-19T04:39:10Z",
-    "scanned_at": "2026-10-19T04:58:55.488707+00:00",
+    "updated_at": "2026-10-19T10:08:05Z",
+    "scanned_at": "2026-10-19T10:32:00.122768+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000012",
     "title": "[Security]: Signed i128 underflow in cancel_amounts_at and unguarded past timestamp in submit_oracle_time over-refunds creator on cancellation",
     "url": "https://github.com/Neziahtech/streampay/issues/294",
     "repo": "Neziahtech/streampay",
@@ -39,14 +62,14 @@
     "language": "unknown",
     "amount_usd": 80000,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-10-19T03:34:14Z",
-    "updated_at": "2026-10-19T03:47:21Z",
-    "scanned_at": "2026-10-19T04:58:55.488718+00:00",
+    "updated_at": "2026-10-19T05:24:25Z",
+    "scanned_at": "2026-10-19T10:32:00.122801+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000021",
     "title": "[Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execute_scheduled skip check_asset_allowed and validate_stream_args",
     "url": "https://github.com/Neziahtech/streampay/issues/249",
     "repo": "Neziahtech/streampay",
@@ -65,7 +88,7 @@
     "comments": 2,
     "created_at": "2026-10-18T15:16:24Z",
     "updated_at": "2026-10-19T00:46:06Z",
-    "scanned_at": "2026-10-19T04:58:55.489085+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123529+00:00",
     "status": "new"
   },
   {
@@ -84,7 +107,7 @@
     "comments": 20,
     "created_at": "2026-10-08T01:05:18Z",
     "updated_at": "2026-10-09T22:55:02Z",
-    "scanned_at": "2026-10-19T05:00:08.603132+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970245+00:00",
     "status": "new"
   },
   {
@@ -103,7 +126,7 @@
     "comments": 10,
     "created_at": "2026-10-07T21:34:17Z",
     "updated_at": "2026-10-18T05:42:49Z",
-    "scanned_at": "2026-10-19T05:00:08.603142+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970262+00:00",
     "status": "new"
   },
   {
@@ -123,7 +146,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-19T05:00:11.562450+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800226+00:00",
     "status": "new"
   },
   {
@@ -142,7 +165,7 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-19T05:00:11.562437+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800206+00:00",
     "status": "new"
   },
   {
@@ -162,7 +185,7 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-12T19:52:18Z",
-    "scanned_at": "2026-10-19T05:00:11.562425+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800185+00:00",
     "status": "new"
   },
   {
@@ -181,7 +204,7 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T17:56:47Z",
-    "scanned_at": "2026-10-19T05:00:11.562443+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800215+00:00",
     "status": "new"
   },
   {
@@ -200,11 +223,11 @@
     "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-19T05:00:11.562432+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800197+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000070",
     "title": "[Bounty] 📋 2 open bounties right now",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -219,11 +242,11 @@
     "comments": 7,
     "created_at": "2026-10-13T23:57:04Z",
     "updated_at": "2026-10-17T22:24:26Z",
-    "scanned_at": "2026-10-19T04:58:55.490718+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126530+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000071",
     "title": "📋 2 open bounties right now",
     "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
     "repo": "habibdxb01/bounty-watcher",
@@ -238,11 +261,11 @@
     "comments": 0,
     "created_at": "2026-10-13T21:40:05Z",
     "updated_at": "2026-10-13T22:47:59Z",
-    "scanned_at": "2026-10-19T04:58:55.490737+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126645+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000042",
     "title": "[Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -257,11 +280,11 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-17T22:24:16Z",
-    "scanned_at": "2026-10-19T04:58:55.489768+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125045+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000044",
     "title": "[Bounty] [Bounty: $125] Add structured progress callbacks to transfer()",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -276,11 +299,11 @@
     "comments": 8,
     "created_at": "2026-10-15T21:54:21Z",
     "updated_at": "2026-10-18T14:25:38Z",
-    "scanned_at": "2026-10-19T04:58:55.489784+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125071+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000038",
     "title": "[Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -295,11 +318,11 @@
     "comments": 9,
     "created_at": "2026-10-15T21:54:24Z",
     "updated_at": "2026-10-18T02:06:25Z",
-    "scanned_at": "2026-10-19T04:58:55.489736+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124990+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000039",
     "title": "[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -314,11 +337,11 @@
     "comments": 9,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-18T02:12:27Z",
-    "scanned_at": "2026-10-19T04:58:55.489744+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125003+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000040",
     "title": "[Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -333,11 +356,11 @@
     "comments": 6,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-16T16:06:23Z",
-    "scanned_at": "2026-10-19T04:58:55.489752+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125019+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000041",
     "title": "[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -352,7 +375,7 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-17T22:24:13Z",
-    "scanned_at": "2026-10-19T04:58:55.489760+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125032+00:00",
     "status": "new"
   },
   {
@@ -371,11 +394,11 @@
     "comments": 5,
     "created_at": "2026-10-07T08:52:34Z",
     "updated_at": "2026-10-09T20:21:31Z",
-    "scanned_at": "2026-10-19T05:00:08.603284+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970611+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000043",
     "title": "[Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -390,30 +413,11 @@
     "comments": 3,
     "created_at": "2026-10-15T21:54:21Z",
     "updated_at": "2026-10-17T22:24:20Z",
-    "scanned_at": "2026-10-19T04:58:55.489776+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125058+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
-    "title": "[Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1907,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 90,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-10-15T21:54:20Z",
-    "updated_at": "2026-10-17T22:24:22Z",
-    "scanned_at": "2026-10-19T04:58:55.489792+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000038",
+    "id": "BH-000045",
     "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -428,11 +432,30 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:20Z",
     "updated_at": "2026-10-17T22:24:19Z",
-    "scanned_at": "2026-10-19T04:58:55.489800+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125083+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000046",
+    "title": "[Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 1907,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 90,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-10-15T21:54:20Z",
+    "updated_at": "2026-10-17T22:24:22Z",
+    "scanned_at": "2026-10-19T10:32:00.125095+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000047",
     "title": "[Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -447,11 +470,11 @@
     "comments": 6,
     "created_at": "2026-10-15T21:54:19Z",
     "updated_at": "2026-10-17T22:24:10Z",
-    "scanned_at": "2026-10-19T04:58:55.489808+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125108+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000048",
     "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -466,11 +489,34 @@
     "comments": 3,
     "created_at": "2026-10-15T21:54:19Z",
     "updated_at": "2026-10-17T22:24:23Z",
-    "scanned_at": "2026-10-19T04:58:55.489816+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125124+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000005",
+    "title": "[Security]: Front-runnable unauthenticated policy_init allows arbitrary caller to hijack PolicyDataKey::Admin, set zero timelock, and blacklist all stream assets",
+    "url": "https://github.com/Neziahtech/streampay/issues/312",
+    "repo": "Neziahtech/streampay",
+    "number": 312,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:contract",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": 80,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-10-19T06:16:36Z",
+    "updated_at": "2026-10-19T06:16:51Z",
+    "scanned_at": "2026-10-19T10:32:00.122467+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000020",
     "title": "[Security]: freeze-logic trigger",
     "url": "https://github.com/Neziahtech/streampay/issues/255",
     "repo": "Neziahtech/streampay",
@@ -489,11 +535,11 @@
     "comments": 5,
     "created_at": "2026-10-18T15:25:45Z",
     "updated_at": "2026-10-18T22:12:20Z",
-    "scanned_at": "2026-10-19T04:58:55.489001+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123364+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000049",
     "title": "[Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -508,11 +554,11 @@
     "comments": 4,
     "created_at": "2026-10-15T21:54:18Z",
     "updated_at": "2026-10-17T22:24:12Z",
-    "scanned_at": "2026-10-19T04:58:55.489822+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125137+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000050",
     "title": "[Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1904",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -527,11 +573,11 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:18Z",
     "updated_at": "2026-10-16T09:06:43Z",
-    "scanned_at": "2026-10-19T04:58:55.489830+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125151+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000051",
     "title": "[Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1901",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -546,11 +592,11 @@
     "comments": 4,
     "created_at": "2026-10-15T21:54:17Z",
     "updated_at": "2026-10-15T23:20:25Z",
-    "scanned_at": "2026-10-19T04:58:55.489837+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125163+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000052",
     "title": "[Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -565,11 +611,11 @@
     "comments": 0,
     "created_at": "2026-10-15T21:54:17Z",
     "updated_at": "2026-10-15T21:54:17Z",
-    "scanned_at": "2026-10-19T04:58:55.489843+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125175+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000054",
     "title": "[Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for the landing",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -584,11 +630,11 @@
     "comments": 6,
     "created_at": "2026-10-15T21:54:16Z",
     "updated_at": "2026-10-17T22:24:13Z",
-    "scanned_at": "2026-10-19T04:58:55.489857+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000063",
     "title": "[Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -603,11 +649,11 @@
     "comments": 1,
     "created_at": "2026-10-15T18:51:20Z",
     "updated_at": "2026-10-15T20:19:59Z",
-    "scanned_at": "2026-10-19T04:58:55.490220+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125870+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000053",
     "title": "[Bounty] [Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -622,11 +668,11 @@
     "comments": 0,
     "created_at": "2026-10-15T21:54:16Z",
     "updated_at": "2026-10-15T21:54:16Z",
-    "scanned_at": "2026-10-19T04:58:55.489850+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125187+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000055",
     "title": "[Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -641,11 +687,11 @@
     "comments": 0,
     "created_at": "2026-10-15T21:54:15Z",
     "updated_at": "2026-10-15T21:54:15Z",
-    "scanned_at": "2026-10-19T04:58:55.489863+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125215+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000079",
     "title": "[Bounty] Bounty $50: recipe for Intel Arc B580 12 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -660,11 +706,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:50Z",
     "updated_at": "2026-10-12T18:26:19Z",
-    "scanned_at": "2026-10-19T04:58:55.491054+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127352+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000080",
     "title": "[Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -679,11 +725,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:49Z",
     "updated_at": "2026-10-12T18:34:51Z",
-    "scanned_at": "2026-10-19T04:58:55.491060+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127367+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000081",
     "title": "[Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -698,11 +744,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T19:28:18Z",
-    "scanned_at": "2026-10-19T04:58:55.491074+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127378+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000082",
     "title": "[Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -717,11 +763,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T19:11:10Z",
-    "scanned_at": "2026-10-19T04:58:55.491080+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127389+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000083",
     "title": "[Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -736,11 +782,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T18:53:15Z",
-    "scanned_at": "2026-10-19T04:58:55.491086+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127400+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000084",
     "title": "[Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -755,11 +801,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:47Z",
     "updated_at": "2026-10-12T19:48:07Z",
-    "scanned_at": "2026-10-19T04:58:55.491092+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127414+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000085",
     "title": "[Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -774,11 +820,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:46Z",
     "updated_at": "2026-10-12T20:05:11Z",
-    "scanned_at": "2026-10-19T04:58:55.491098+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127426+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000086",
     "title": "[Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -793,11 +839,11 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:46Z",
     "updated_at": "2026-10-12T20:23:12Z",
-    "scanned_at": "2026-10-19T04:58:55.491105+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127436+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000090",
     "title": "Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)",
     "url": "https://github.com/sybil-solutions/local-ai-registry/issues/223",
     "repo": "sybil-solutions/local-ai-registry",
@@ -814,27 +860,7 @@
     "comments": 7,
     "created_at": "2026-10-12T13:07:34Z",
     "updated_at": "2026-10-18T07:35:40Z",
-    "scanned_at": "2026-10-19T04:58:55.491155+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000090",
-    "title": "Bounty $50: recipe for RX 7900 XTX 24 GB",
-    "url": "https://github.com/sybil-solutions/local-ai-registry/issues/219",
-    "repo": "sybil-solutions/local-ai-registry",
-    "number": 219,
-    "labels": [
-      "bounty",
-      "bounty: $50",
-      "recipe"
-    ],
-    "language": "unknown",
-    "amount_usd": 50,
-    "state": "open",
-    "comments": 8,
-    "created_at": "2026-10-12T13:07:25Z",
-    "updated_at": "2026-10-17T13:38:16Z",
-    "scanned_at": "2026-10-19T04:58:55.491162+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127542+00:00",
     "status": "new"
   },
   {
@@ -855,11 +881,11 @@
     "comments": 110,
     "created_at": "2026-07-24T08:17:43Z",
     "updated_at": "2026-10-18T08:09:10Z",
-    "scanned_at": "2026-10-19T05:00:11.563568+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802534+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000056",
     "title": "[Bounty] [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -874,11 +900,11 @@
     "comments": 2,
     "created_at": "2026-10-15T21:54:14Z",
     "updated_at": "2026-10-16T09:05:50Z",
-    "scanned_at": "2026-10-19T04:58:55.489870+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125227+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000057",
     "title": "[Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -893,11 +919,11 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:14Z",
     "updated_at": "2026-10-17T22:26:04Z",
-    "scanned_at": "2026-10-19T04:58:55.489932+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125238+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000067",
     "title": "[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -912,11 +938,11 @@
     "comments": 2,
     "created_at": "2026-10-15T05:09:29Z",
     "updated_at": "2026-10-15T12:05:24Z",
-    "scanned_at": "2026-10-19T04:58:55.490473+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126410+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000069",
     "title": "[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)",
     "url": "https://github.com/verdikta/verdikta-applications/issues/76",
     "repo": "verdikta/verdikta-applications",
@@ -930,11 +956,150 @@
     "comments": 9,
     "created_at": "2026-10-15T00:58:41Z",
     "updated_at": "2026-10-18T14:51:15Z",
-    "scanned_at": "2026-10-19T04:58:55.490580+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126469+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[Security] contracts/streampay: missing admin/recipient/registrant authorization in set_governance_caps, add_agent/remove_agent, and set_refill_rule + unvalidated negative/zero parameters",
+    "url": "https://github.com/Neziahtech/streampay/issues/318",
+    "repo": "Neziahtech/streampay",
+    "number": 318,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:critical",
+      "scope:other",
+      "repro-missing",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-19T06:47:10Z",
+    "updated_at": "2026-10-19T07:46:25Z",
+    "scanned_at": "2026-10-19T10:32:00.121984+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[Security] oracle::resolve_stream_time upper-median index (n / 2) lets 1 rogue publisher in 2-of-3 quorum fast-forward stream time + sponsor initial-window double-spend & i128 overflow",
+    "url": "https://github.com/Neziahtech/streampay/issues/317",
+    "repo": "Neziahtech/streampay",
+    "number": 317,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:other",
+      "repro-missing",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-19T06:47:09Z",
+    "updated_at": "2026-10-19T08:48:43Z",
+    "scanned_at": "2026-10-19T10:32:00.122097+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[Security] streaming-payments: Out-of-order start_id in migrate_storage permanently skips unmigrated streams while locking SchemaVersion = v2, and set_stream_policy accepts inverted/negative bounds",
+    "url": "https://github.com/Neziahtech/streampay/issues/314",
+    "repo": "Neziahtech/streampay",
+    "number": 314,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:other",
+      "repro-missing",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-10-19T06:31:48Z",
+    "updated_at": "2026-10-19T06:34:43Z",
+    "scanned_at": "2026-10-19T10:32:00.122181+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "[Security] stream-nft: withdraw and withdraw_max fail to route stream payouts to the current NFT owner after transfer and approve accepts expired live_until_ledger",
+    "url": "https://github.com/Neziahtech/streampay/issues/313",
+    "repo": "Neziahtech/streampay",
+    "number": 313,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:other",
+      "repro-missing",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-19T06:31:48Z",
+    "updated_at": "2026-10-19T09:50:29Z",
+    "scanned_at": "2026-10-19T10:32:00.122287+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "[radar] SN open bounty 2026-10-19T06:08",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1310",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1310,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-19T06:08:07Z",
+    "updated_at": "2026-10-19T10:10:08Z",
+    "scanned_at": "2026-10-19T10:32:00.122493+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[Security]: RpcManager fails to record network errors (breaking failover & 3 unit tests) + streampay-state rejects Paused streams and JSON-RPC error objects",
+    "url": "https://github.com/Neziahtech/streampay/issues/302",
+    "repo": "Neziahtech/streampay",
+    "number": 302,
+    "labels": [
+      "security",
+      "needs-triage",
+      "bounty",
+      "severity:high",
+      "scope:infra",
+      "possible-duplicate"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-10-19T05:09:04Z",
+    "updated_at": "2026-10-19T10:10:13Z",
+    "scanned_at": "2026-10-19T10:32:00.122654+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
     "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
     "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
     "repo": "patrickkellyyoung-ai/swarm-agora-mcp",
@@ -951,11 +1116,11 @@
     "comments": 3,
     "created_at": "2026-10-19T04:11:43Z",
     "updated_at": "2026-10-19T04:13:53Z",
-    "scanned_at": "2026-10-19T04:58:55.488647+00:00",
+    "scanned_at": "2026-10-19T10:32:00.122704+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000010",
     "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
     "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
     "repo": "patrickkellyyoung-ai/swarm-agora-mcp",
@@ -972,11 +1137,11 @@
     "comments": 3,
     "created_at": "2026-10-19T04:11:40Z",
     "updated_at": "2026-10-19T04:14:13Z",
-    "scanned_at": "2026-10-19T04:58:55.488687+00:00",
+    "scanned_at": "2026-10-19T10:32:00.122751+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000013",
     "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Projections",
     "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
     "repo": "patrickkellyyoung-ai/swarm-agora-mcp",
@@ -993,11 +1158,11 @@
     "comments": 1,
     "created_at": "2026-10-19T02:57:25Z",
     "updated_at": "2026-10-19T02:59:22Z",
-    "scanned_at": "2026-10-19T04:58:55.488740+00:00",
+    "scanned_at": "2026-10-19T10:32:00.122847+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000014",
     "title": "[Security]: relayer routines ignore circuit-breaker pause guards and drop settlement telemetry",
     "url": "https://github.com/Neziahtech/streampay/issues/292",
     "repo": "Neziahtech/streampay",
@@ -1012,14 +1177,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 3,
     "created_at": "2026-10-19T02:09:29Z",
-    "updated_at": "2026-10-19T04:27:54Z",
-    "scanned_at": "2026-10-19T04:58:55.488803+00:00",
+    "updated_at": "2026-10-19T05:02:05Z",
+    "scanned_at": "2026-10-19T10:32:00.122956+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000015",
     "title": "[Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKey validation and misclassify funding debits",
     "url": "https://github.com/Neziahtech/streampay/issues/291",
     "repo": "Neziahtech/streampay",
@@ -1034,14 +1199,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 3,
     "created_at": "2026-10-19T02:08:37Z",
-    "updated_at": "2026-10-19T04:27:57Z",
-    "scanned_at": "2026-10-19T04:58:55.488862+00:00",
+    "updated_at": "2026-10-19T04:59:14Z",
+    "scanned_at": "2026-10-19T10:32:00.123083+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000016",
     "title": "[radar] SN open bounty 2026-10-19T01:06",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1309",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1056,12 +1221,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-10-19T01:06:42Z",
-    "updated_at": "2026-10-19T04:33:39Z",
-    "scanned_at": "2026-10-19T04:58:55.488874+00:00",
+    "updated_at": "2026-10-19T10:09:24Z",
+    "scanned_at": "2026-10-19T10:32:00.123119+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000017",
     "title": "[radar] SN open bounty 2026-10-18T23:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1308",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1077,11 +1242,11 @@
     "comments": 0,
     "created_at": "2026-10-18T23:01:41Z",
     "updated_at": "2026-10-18T23:09:23Z",
-    "scanned_at": "2026-10-19T04:58:55.488884+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123140+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000018",
     "title": "[radar] SN open bounty 2026-10-18T20:33",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1306",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1094,14 +1259,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-10-18T20:33:00Z",
-    "updated_at": "2026-10-18T23:09:10Z",
-    "scanned_at": "2026-10-19T04:58:55.488906+00:00",
+    "updated_at": "2026-10-19T05:41:07Z",
+    "scanned_at": "2026-10-19T10:32:00.123160+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000019",
     "title": "[radar] SN open bounty 2026-10-18T18:00",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1302",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1117,11 +1282,11 @@
     "comments": 1,
     "created_at": "2026-10-18T18:00:54Z",
     "updated_at": "2026-10-18T23:09:03Z",
-    "scanned_at": "2026-10-19T04:58:55.488917+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123181+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000022",
     "title": "[radar] SN open bounty 2026-10-18T14:30",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1301",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1137,11 +1302,11 @@
     "comments": 4,
     "created_at": "2026-10-18T14:30:21Z",
     "updated_at": "2026-10-18T16:53:57Z",
-    "scanned_at": "2026-10-19T04:58:55.489097+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123550+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000023",
     "title": "Add rate limiting to /api/v1/artifacts endpoint",
     "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
     "repo": "mozzimorzam-sudo/project100-mcp",
@@ -1156,11 +1321,11 @@
     "comments": 3,
     "created_at": "2026-10-18T09:10:42Z",
     "updated_at": "2026-10-18T16:56:23Z",
-    "scanned_at": "2026-10-19T04:58:55.489114+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123581+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000024",
     "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]",
     "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
     "repo": "MicahHeneveld/bros-analysis",
@@ -1174,11 +1339,11 @@
     "comments": 0,
     "created_at": "2026-10-18T01:07:06Z",
     "updated_at": "2026-10-18T17:03:19Z",
-    "scanned_at": "2026-10-19T04:58:55.489139+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123634+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000025",
     "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]",
     "url": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
     "repo": "MicahHeneveld/bros-analysis",
@@ -1192,11 +1357,11 @@
     "comments": 0,
     "created_at": "2026-10-18T01:07:01Z",
     "updated_at": "2026-10-18T17:03:18Z",
-    "scanned_at": "2026-10-19T04:58:55.489163+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123690+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000026",
     "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]",
     "url": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
     "repo": "MicahHeneveld/bros-analysis",
@@ -1210,11 +1375,11 @@
     "comments": 0,
     "created_at": "2026-10-18T01:06:56Z",
     "updated_at": "2026-10-18T17:03:17Z",
-    "scanned_at": "2026-10-19T04:58:55.489189+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123744+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000027",
     "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6]",
     "url": "https://github.com/MicahHeneveld/bros-analysis/issues/3",
     "repo": "MicahHeneveld/bros-analysis",
@@ -1228,11 +1393,11 @@
     "comments": 0,
     "created_at": "2026-10-18T01:06:51Z",
     "updated_at": "2026-10-18T17:03:16Z",
-    "scanned_at": "2026-10-19T04:58:55.489214+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123812+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000028",
     "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6]",
     "url": "https://github.com/MicahHeneveld/bros-analysis/issues/2",
     "repo": "MicahHeneveld/bros-analysis",
@@ -1247,11 +1412,11 @@
     "comments": 1,
     "created_at": "2026-10-18T01:06:46Z",
     "updated_at": "2026-10-19T03:32:13Z",
-    "scanned_at": "2026-10-19T04:58:55.489239+00:00",
+    "scanned_at": "2026-10-19T10:32:00.123867+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000029",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/3431",
     "repo": "Ikalus1988/MisakaNet",
@@ -1266,11 +1431,11 @@
     "comments": 3,
     "created_at": "2026-10-17T11:07:54Z",
     "updated_at": "2026-10-18T13:43:01Z",
-    "scanned_at": "2026-10-19T04:58:55.489301+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000030",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/3430",
     "repo": "Ikalus1988/MisakaNet",
@@ -1285,11 +1450,11 @@
     "comments": 3,
     "created_at": "2026-10-17T11:07:53Z",
     "updated_at": "2026-10-18T11:48:25Z",
-    "scanned_at": "2026-10-19T04:58:55.489362+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124142+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000031",
     "title": "[radar] SN open bounty 2026-10-17T10:32",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1300",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1305,11 +1470,11 @@
     "comments": 3,
     "created_at": "2026-10-17T10:32:49Z",
     "updated_at": "2026-10-18T11:50:16Z",
-    "scanned_at": "2026-10-19T04:58:55.489376+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124169+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000032",
     "title": "Attack the reentrancy guard, do not just trust it",
     "url": "https://github.com/odiseo159-beep/mergit/issues/2",
     "repo": "odiseo159-beep/mergit",
@@ -1323,11 +1488,11 @@
     "comments": 5,
     "created_at": "2026-10-17T03:50:50Z",
     "updated_at": "2026-10-18T11:46:29Z",
-    "scanned_at": "2026-10-19T04:58:55.489422+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124273+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000033",
     "title": "Prove the race between challenging and refunding",
     "url": "https://github.com/odiseo159-beep/mergit/issues/1",
     "repo": "odiseo159-beep/mergit",
@@ -1341,11 +1506,11 @@
     "comments": 4,
     "created_at": "2026-10-17T03:50:49Z",
     "updated_at": "2026-10-18T11:55:12Z",
-    "scanned_at": "2026-10-19T04:58:55.489471+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124384+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000034",
     "title": "[Bounty] Answer 2 linked question(s) as a lesson",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/3332",
     "repo": "Ikalus1988/MisakaNet",
@@ -1360,11 +1525,11 @@
     "comments": 3,
     "created_at": "2026-10-16T11:51:11Z",
     "updated_at": "2026-10-18T13:42:58Z",
-    "scanned_at": "2026-10-19T04:58:55.489532+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124519+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000035",
     "title": "[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it (bond + flake ladder: adversary net -6 cr when reviews happen)",
     "url": "https://github.com/Uuriko/project-room/issues/3709",
     "repo": "Uuriko/project-room",
@@ -1379,11 +1544,11 @@
     "comments": 4,
     "created_at": "2026-10-16T03:06:03Z",
     "updated_at": "2026-10-18T02:52:56Z",
-    "scanned_at": "2026-10-19T04:58:55.489602+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124675+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000036",
     "title": "[launch-readiness] Rotation caps exist nowhere in code, and even perfectly enforced they leak: collusion ring extracted 31.6 cr (44% of float) at 17x the honest rate",
     "url": "https://github.com/Uuriko/project-room/issues/3708",
     "repo": "Uuriko/project-room",
@@ -1398,11 +1563,11 @@
     "comments": 4,
     "created_at": "2026-10-16T03:06:01Z",
     "updated_at": "2026-10-18T23:10:01Z",
-    "scanned_at": "2026-10-19T04:58:55.489678+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124866+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000037",
     "title": "[launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does not make FS-14 established-lane-only as the packet claims",
     "url": "https://github.com/Uuriko/project-room/issues/3704",
     "repo": "Uuriko/project-room",
@@ -1417,11 +1582,11 @@
     "comments": 4,
     "created_at": "2026-10-16T03:04:29Z",
     "updated_at": "2026-10-18T02:52:52Z",
-    "scanned_at": "2026-10-19T04:58:55.489726+00:00",
+    "scanned_at": "2026-10-19T10:32:00.124974+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000058",
     "title": "[Slice E] Comparative real-world traces: retired engines under one method",
     "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
     "repo": "Element-Ventures-Canada-Ltd/openchokepoint",
@@ -1435,11 +1600,11 @@
     "comments": 2,
     "created_at": "2026-10-15T19:27:24Z",
     "updated_at": "2026-10-17T22:41:13Z",
-    "scanned_at": "2026-10-19T04:58:55.489974+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125329+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000059",
     "title": "[Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 10303-242)",
     "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
     "repo": "Element-Ventures-Canada-Ltd/openchokepoint",
@@ -1454,11 +1619,11 @@
     "comments": 6,
     "created_at": "2026-10-15T19:26:59Z",
     "updated_at": "2026-10-18T23:10:13Z",
-    "scanned_at": "2026-10-19T04:58:55.490018+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125424+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000060",
     "title": "[Slice C] Red-team the hard boundaries: try to get technical data past the validator",
     "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18",
     "repo": "Element-Ventures-Canada-Ltd/openchokepoint",
@@ -1473,11 +1638,11 @@
     "comments": 2,
     "created_at": "2026-10-15T19:26:34Z",
     "updated_at": "2026-10-19T02:34:26Z",
-    "scanned_at": "2026-10-19T04:58:55.490064+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125528+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000061",
     "title": "[Slice B] Verifiable evidence pointers: prove a record exists without disclosing it",
     "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17",
     "repo": "Element-Ventures-Canada-Ltd/openchokepoint",
@@ -1493,11 +1658,11 @@
     "comments": 2,
     "created_at": "2026-10-15T19:26:09Z",
     "updated_at": "2026-10-16T17:05:15Z",
-    "scanned_at": "2026-10-19T04:58:55.490118+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125634+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000062",
     "title": "[Slice A] Public-evidence coverage score and gap atlas",
     "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
     "repo": "Element-Ventures-Canada-Ltd/openchokepoint",
@@ -1512,11 +1677,11 @@
     "comments": 1,
     "created_at": "2026-10-15T19:25:35Z",
     "updated_at": "2026-10-15T21:12:37Z",
-    "scanned_at": "2026-10-19T04:58:55.490165+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125738+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000064",
     "title": "Evaluate one scoped build-bounty pilot against an internal build",
     "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
     "repo": "ditto-assistant/ditto-subnet",
@@ -1531,11 +1696,11 @@
     "comments": 3,
     "created_at": "2026-10-15T16:55:25Z",
     "updated_at": "2026-10-17T22:15:34Z",
-    "scanned_at": "2026-10-19T04:58:55.490276+00:00",
+    "scanned_at": "2026-10-19T10:32:00.125990+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000065",
     "title": "Add bounty operator controls and gate funded activation",
     "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
     "repo": "ditto-assistant/ditto-subnet",
@@ -1550,11 +1715,11 @@
     "comments": 2,
     "created_at": "2026-10-15T16:55:24Z",
     "updated_at": "2026-10-17T22:15:35Z",
-    "scanned_at": "2026-10-19T04:58:55.490361+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000066",
     "title": "Implement the scoped build-bounty system on top of miner identity and CLA",
     "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
     "repo": "ditto-assistant/ditto-subnet",
@@ -1569,33 +1734,11 @@
     "comments": 1,
     "created_at": "2026-10-15T16:55:23Z",
     "updated_at": "2026-10-17T22:15:36Z",
-    "scanned_at": "2026-10-19T04:58:55.490466+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126396+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
-    "title": "Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1416",
-    "repo": "OphirPay/OphirPay",
-    "number": 1416,
-    "labels": [
-      "documentation",
-      "frontend",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 13,
-    "created_at": "2026-10-15T01:45:34Z",
-    "updated_at": "2026-10-18T10:53:46Z",
-    "scanned_at": "2026-10-19T04:58:55.490501+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000061",
+    "id": "BH-000068",
     "title": "Add end-to-end test suite for escrow dispute and resolution flow",
     "url": "https://github.com/OphirPay/OphirPay/issues/1405",
     "repo": "OphirPay/OphirPay",
@@ -1610,146 +1753,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 9,
+    "comments": 10,
     "created_at": "2026-10-15T01:34:38Z",
-    "updated_at": "2026-10-18T04:42:10Z",
-    "scanned_at": "2026-10-19T04:58:55.490523+00:00",
+    "updated_at": "2026-10-19T07:02:58Z",
+    "scanned_at": "2026-10-19T10:32:00.126457+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
-    "title": "Add drag-and-drop CSV batch upload zone with visual upload progress feedback",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1378",
-    "repo": "OphirPay/OphirPay",
-    "number": 1378,
-    "labels": [
-      "enhancement",
-      "frontend",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 12,
-    "created_at": "2026-10-15T01:13:31Z",
-    "updated_at": "2026-10-18T22:42:05Z",
-    "scanned_at": "2026-10-19T04:58:55.490549+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000063",
-    "title": "Add cursor-based pagination and sorting to /api/audit-log route",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1361",
-    "repo": "OphirPay/OphirPay",
-    "number": 1361,
-    "labels": [
-      "enhancement",
-      "backend",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 15,
-    "created_at": "2026-10-15T00:59:53Z",
-    "updated_at": "2026-10-18T22:48:54Z",
-    "scanned_at": "2026-10-19T04:58:55.490572+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000065",
-    "title": "Add stream cancellation pro-rata refund verification for partial elapsed periods",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1357",
-    "repo": "OphirPay/OphirPay",
-    "number": 1357,
-    "labels": [
-      "enhancement",
-      "contracts",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-10-15T00:56:56Z",
-    "updated_at": "2026-10-18T22:58:39Z",
-    "scanned_at": "2026-10-19T04:58:55.490606+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000066",
-    "title": "Validate dispute timeout window in resolve_dispute to prevent premature resolution",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1353",
-    "repo": "OphirPay/OphirPay",
-    "number": 1353,
-    "labels": [
-      "bug",
-      "contracts",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 6,
-    "created_at": "2026-10-15T00:53:56Z",
-    "updated_at": "2026-10-18T22:58:27Z",
-    "scanned_at": "2026-10-19T04:58:55.490632+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000067",
-    "title": "Enforce minimum and maximum duration bounds on payment streams in create_stream",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1350",
-    "repo": "OphirPay/OphirPay",
-    "number": 1350,
-    "labels": [
-      "enhancement",
-      "contracts",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 8,
-    "created_at": "2026-10-15T00:51:58Z",
-    "updated_at": "2026-10-18T23:02:25Z",
-    "scanned_at": "2026-10-19T04:58:55.490658+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000068",
-    "title": "Add validation for token decimal precision mismatch in record_payment",
-    "url": "https://github.com/OphirPay/OphirPay/issues/1347",
-    "repo": "OphirPay/OphirPay",
-    "number": 1347,
-    "labels": [
-      "enhancement",
-      "contracts",
-      "difficulty: medium",
-      "bounty",
-      "Stellar Wave"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-10-15T00:50:09Z",
-    "updated_at": "2026-10-18T23:03:17Z",
-    "scanned_at": "2026-10-19T04:58:55.490685+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000071",
+    "id": "BH-000072",
     "title": "Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey",
     "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
     "repo": "ditto-assistant/ditto-subnet",
@@ -1765,11 +1776,11 @@
     "comments": 5,
     "created_at": "2026-10-13T18:19:24Z",
     "updated_at": "2026-10-17T22:14:46Z",
-    "scanned_at": "2026-10-19T04:58:55.490851+00:00",
+    "scanned_at": "2026-10-19T10:32:00.126921+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000073",
     "title": "Miner CLI: attest a GitHub account and link it to the miner hotkey",
     "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
     "repo": "ditto-assistant/ditto-subnet",
@@ -1785,11 +1796,11 @@
     "comments": 4,
     "created_at": "2026-10-13T18:18:59Z",
     "updated_at": "2026-10-17T22:14:47Z",
-    "scanned_at": "2026-10-19T04:58:55.490948+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127123+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000074",
     "title": "[BOUNTY] Suggestion #1286",
     "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
     "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
@@ -1803,11 +1814,11 @@
     "comments": 6,
     "created_at": "2026-10-13T14:33:46Z",
     "updated_at": "2026-10-14T15:13:52Z",
-    "scanned_at": "2026-10-19T04:58:55.490965+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127158+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000075",
     "title": "[BOUNTY] Suggestion #1285",
     "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
     "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
@@ -1821,11 +1832,11 @@
     "comments": 1,
     "created_at": "2026-10-13T14:33:04Z",
     "updated_at": "2026-10-14T15:49:22Z",
-    "scanned_at": "2026-10-19T04:58:55.490982+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127189+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000076",
     "title": "[radar] SN open bounty 2026-10-13T07:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1287",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1841,11 +1852,11 @@
     "comments": 2,
     "created_at": "2026-10-13T07:38:23Z",
     "updated_at": "2026-10-17T22:40:57Z",
-    "scanned_at": "2026-10-19T04:58:55.490992+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127209+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000077",
     "title": "Capture bounties: help Lockpick learn the game",
     "url": "https://github.com/mscrnt/lockpick/issues/7",
     "repo": "mscrnt/lockpick",
@@ -1861,11 +1872,11 @@
     "comments": 3,
     "created_at": "2026-10-13T07:14:25Z",
     "updated_at": "2026-10-13T14:59:48Z",
-    "scanned_at": "2026-10-19T04:58:55.491037+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127310+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000078",
     "title": "[radar] SN open bounty 2026-10-13T00:32",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1286",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1881,11 +1892,11 @@
     "comments": 0,
     "created_at": "2026-10-13T00:32:57Z",
     "updated_at": "2026-10-13T00:32:57Z",
-    "scanned_at": "2026-10-19T04:58:55.491047+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127330+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000087",
     "title": "[radar] SN open bounty 2026-10-12T17:46",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1284",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1901,11 +1912,11 @@
     "comments": 0,
     "created_at": "2026-10-12T17:46:29Z",
     "updated_at": "2026-10-12T17:52:32Z",
-    "scanned_at": "2026-10-19T04:58:55.491117+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127461+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000088",
     "title": "[radar] SN open bounty 2026-10-12T15:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1283",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1921,11 +1932,11 @@
     "comments": 0,
     "created_at": "2026-10-12T15:12:22Z",
     "updated_at": "2026-10-12T15:12:22Z",
-    "scanned_at": "2026-10-19T04:58:55.491125+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127479+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000089",
     "title": "[悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」）",
     "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/71",
     "repo": "FuRongJun-1999/dsh-bounty",
@@ -1941,7 +1952,7 @@
     "comments": 11,
     "created_at": "2026-10-12T14:48:03Z",
     "updated_at": "2026-10-18T13:17:20Z",
-    "scanned_at": "2026-10-19T04:58:55.491149+00:00",
+    "scanned_at": "2026-10-19T10:32:00.127528+00:00",
     "status": "new"
   },
   {
@@ -1961,7 +1972,7 @@
     "comments": 0,
     "created_at": "2026-10-12T07:16:26Z",
     "updated_at": "2026-10-12T07:25:15Z",
-    "scanned_at": "2026-10-19T05:00:17.689295+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892303+00:00",
     "status": "new"
   },
   {
@@ -1980,7 +1991,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:57Z",
     "updated_at": "2026-10-17T22:08:20Z",
-    "scanned_at": "2026-10-19T05:00:08.603025+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970121+00:00",
     "status": "new"
   },
   {
@@ -1999,7 +2010,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:56Z",
     "updated_at": "2026-10-17T22:08:19Z",
-    "scanned_at": "2026-10-19T05:00:08.603062+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970168+00:00",
     "status": "new"
   },
   {
@@ -2018,7 +2029,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:56Z",
     "updated_at": "2026-10-17T22:08:18Z",
-    "scanned_at": "2026-10-19T05:00:08.603088+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970185+00:00",
     "status": "new"
   },
   {
@@ -2037,7 +2048,7 @@
     "comments": 4,
     "created_at": "2026-10-12T03:00:55Z",
     "updated_at": "2026-10-17T22:42:00Z",
-    "scanned_at": "2026-10-19T05:00:08.603098+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970203+00:00",
     "status": "new"
   },
   {
@@ -2056,7 +2067,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:55Z",
     "updated_at": "2026-10-17T22:08:17Z",
-    "scanned_at": "2026-10-19T05:00:08.603109+00:00",
+    "scanned_at": "2026-10-19T10:33:12.970221+00:00",
     "status": "new"
   },
   {
@@ -2076,7 +2087,7 @@
     "comments": 0,
     "created_at": "2026-10-12T00:27:27Z",
     "updated_at": "2026-10-12T00:29:48Z",
-    "scanned_at": "2026-10-19T05:00:17.689326+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892344+00:00",
     "status": "new"
   },
   {
@@ -2096,7 +2107,7 @@
     "comments": 2,
     "created_at": "2026-10-11T20:11:16Z",
     "updated_at": "2026-10-11T20:33:35Z",
-    "scanned_at": "2026-10-19T05:00:17.689338+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892373+00:00",
     "status": "new"
   },
   {
@@ -2116,7 +2127,7 @@
     "comments": 2,
     "created_at": "2026-10-11T15:34:42Z",
     "updated_at": "2026-10-11T19:46:06Z",
-    "scanned_at": "2026-10-19T05:00:17.689350+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892395+00:00",
     "status": "new"
   },
   {
@@ -2136,7 +2147,7 @@
     "comments": 2,
     "created_at": "2026-10-10T12:22:28Z",
     "updated_at": "2026-10-11T15:20:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689363+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892416+00:00",
     "status": "new"
   },
   {
@@ -2154,10 +2165,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 18,
+    "comments": 19,
     "created_at": "2026-10-07T18:03:49Z",
-    "updated_at": "2026-10-17T22:41:11Z",
-    "scanned_at": "2026-10-19T05:00:08.603278+00:00",
+    "updated_at": "2026-10-19T07:05:35Z",
+    "scanned_at": "2026-10-19T10:33:12.970600+00:00",
     "status": "new"
   },
   {
@@ -2180,7 +2191,7 @@
     "comments": 4,
     "created_at": "2026-10-07T03:32:29Z",
     "updated_at": "2026-10-11T04:42:36Z",
-    "scanned_at": "2026-10-19T05:00:08.603436+00:00",
+    "scanned_at": "2026-10-19T10:33:12.971014+00:00",
     "status": "new"
   },
   {
@@ -2203,7 +2214,7 @@
     "comments": 3,
     "created_at": "2026-10-07T03:32:25Z",
     "updated_at": "2026-10-10T20:11:35Z",
-    "scanned_at": "2026-10-19T05:00:08.603593+00:00",
+    "scanned_at": "2026-10-19T10:33:12.971366+00:00",
     "status": "new"
   },
   {
@@ -2226,7 +2237,7 @@
     "comments": 4,
     "created_at": "2026-10-07T03:30:22Z",
     "updated_at": "2026-10-11T15:21:36Z",
-    "scanned_at": "2026-10-19T05:00:08.603733+00:00",
+    "scanned_at": "2026-10-19T10:33:12.971678+00:00",
     "status": "new"
   },
   {
@@ -2249,7 +2260,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:48:47Z",
     "updated_at": "2026-10-09T23:36:21Z",
-    "scanned_at": "2026-10-19T05:00:08.603875+00:00",
+    "scanned_at": "2026-10-19T10:33:12.972007+00:00",
     "status": "new"
   },
   {
@@ -2271,7 +2282,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:48:47Z",
     "updated_at": "2026-10-11T15:21:40Z",
-    "scanned_at": "2026-10-19T05:00:08.604005+00:00",
+    "scanned_at": "2026-10-19T10:33:12.972273+00:00",
     "status": "new"
   },
   {
@@ -2294,7 +2305,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:46Z",
     "updated_at": "2026-10-11T15:21:57Z",
-    "scanned_at": "2026-10-19T05:00:08.604156+00:00",
+    "scanned_at": "2026-10-19T10:33:12.972585+00:00",
     "status": "new"
   },
   {
@@ -2317,7 +2328,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:46Z",
     "updated_at": "2026-10-17T22:14:48Z",
-    "scanned_at": "2026-10-19T05:00:08.604265+00:00",
+    "scanned_at": "2026-10-19T10:33:12.972845+00:00",
     "status": "new"
   },
   {
@@ -2341,7 +2352,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:45Z",
     "updated_at": "2026-10-17T22:14:49Z",
-    "scanned_at": "2026-10-19T05:00:08.604370+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973075+00:00",
     "status": "new"
   },
   {
@@ -2365,7 +2376,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:44Z",
     "updated_at": "2026-10-11T15:22:15Z",
-    "scanned_at": "2026-10-19T05:00:08.604467+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973261+00:00",
     "status": "new"
   },
   {
@@ -2388,7 +2399,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:44Z",
     "updated_at": "2026-10-11T15:22:11Z",
-    "scanned_at": "2026-10-19T05:00:08.604541+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973425+00:00",
     "status": "new"
   },
   {
@@ -2410,7 +2421,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:20Z",
     "updated_at": "2026-10-10T02:08:28Z",
-    "scanned_at": "2026-10-19T05:00:08.604597+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973549+00:00",
     "status": "new"
   },
   {
@@ -2433,7 +2444,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:20Z",
     "updated_at": "2026-10-17T22:14:55Z",
-    "scanned_at": "2026-10-19T05:00:08.604664+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973691+00:00",
     "status": "new"
   },
   {
@@ -2455,7 +2466,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:19Z",
     "updated_at": "2026-10-17T22:14:54Z",
-    "scanned_at": "2026-10-19T05:00:08.604724+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973834+00:00",
     "status": "new"
   },
   {
@@ -2478,7 +2489,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:27:18Z",
     "updated_at": "2026-10-10T02:58:59Z",
-    "scanned_at": "2026-10-19T05:00:08.604791+00:00",
+    "scanned_at": "2026-10-19T10:33:12.973977+00:00",
     "status": "new"
   },
   {
@@ -2501,7 +2512,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:18Z",
     "updated_at": "2026-10-10T20:48:01Z",
-    "scanned_at": "2026-10-19T05:00:08.604857+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974118+00:00",
     "status": "new"
   },
   {
@@ -2524,7 +2535,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:27:17Z",
     "updated_at": "2026-10-17T22:14:53Z",
-    "scanned_at": "2026-10-19T05:00:08.604927+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974271+00:00",
     "status": "new"
   },
   {
@@ -2546,7 +2557,7 @@
     "comments": 2,
     "created_at": "2026-10-07T02:27:16Z",
     "updated_at": "2026-10-10T04:16:52Z",
-    "scanned_at": "2026-10-19T05:00:08.604982+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974390+00:00",
     "status": "new"
   },
   {
@@ -2568,7 +2579,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:15Z",
     "updated_at": "2026-10-10T20:57:04Z",
-    "scanned_at": "2026-10-19T05:00:08.605049+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974544+00:00",
     "status": "new"
   },
   {
@@ -2590,7 +2601,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:14Z",
     "updated_at": "2026-10-10T20:56:53Z",
-    "scanned_at": "2026-10-19T05:00:08.605117+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974677+00:00",
     "status": "new"
   },
   {
@@ -2613,7 +2624,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:14Z",
     "updated_at": "2026-10-10T20:56:48Z",
-    "scanned_at": "2026-10-19T05:00:08.605230+00:00",
+    "scanned_at": "2026-10-19T10:33:12.974934+00:00",
     "status": "new"
   },
   {
@@ -2636,7 +2647,7 @@
     "comments": 2,
     "created_at": "2026-10-07T02:26:46Z",
     "updated_at": "2026-10-17T22:14:50Z",
-    "scanned_at": "2026-10-19T05:00:08.605290+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975063+00:00",
     "status": "new"
   },
   {
@@ -2656,7 +2667,7 @@
     "comments": 13,
     "created_at": "2026-10-06T13:13:22Z",
     "updated_at": "2026-10-07T19:17:56Z",
-    "scanned_at": "2026-10-19T05:00:17.689375+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892437+00:00",
     "status": "new"
   },
   {
@@ -2676,7 +2687,7 @@
     "comments": 13,
     "created_at": "2026-10-06T10:06:39Z",
     "updated_at": "2026-10-17T22:40:56Z",
-    "scanned_at": "2026-10-19T05:00:17.689385+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892457+00:00",
     "status": "new"
   },
   {
@@ -2698,7 +2709,7 @@
     "comments": 3,
     "created_at": "2026-10-06T04:35:43Z",
     "updated_at": "2026-10-17T22:10:09Z",
-    "scanned_at": "2026-10-19T05:00:08.605364+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975225+00:00",
     "status": "new"
   },
   {
@@ -2718,7 +2729,7 @@
     "comments": 230,
     "created_at": "2026-10-06T02:53:50Z",
     "updated_at": "2026-10-07T19:20:41Z",
-    "scanned_at": "2026-10-19T05:00:17.689395+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892477+00:00",
     "status": "new"
   },
   {
@@ -2738,7 +2749,7 @@
     "comments": 312,
     "created_at": "2026-10-05T22:33:06Z",
     "updated_at": "2026-10-07T19:22:24Z",
-    "scanned_at": "2026-10-19T05:00:17.689406+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892498+00:00",
     "status": "new"
   },
   {
@@ -2758,7 +2769,7 @@
     "comments": 518,
     "created_at": "2026-10-05T15:54:25Z",
     "updated_at": "2026-10-07T19:24:10Z",
-    "scanned_at": "2026-10-19T05:00:17.689420+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892526+00:00",
     "status": "new"
   },
   {
@@ -2777,7 +2788,7 @@
     "comments": 479,
     "created_at": "2026-10-05T15:13:33Z",
     "updated_at": "2026-10-07T02:35:33Z",
-    "scanned_at": "2026-10-19T05:00:08.605440+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975393+00:00",
     "status": "new"
   },
   {
@@ -2796,7 +2807,7 @@
     "comments": 430,
     "created_at": "2026-10-05T15:13:30Z",
     "updated_at": "2026-10-07T02:33:21Z",
-    "scanned_at": "2026-10-19T05:00:08.605516+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975560+00:00",
     "status": "new"
   },
   {
@@ -2819,7 +2830,7 @@
     "comments": 47,
     "created_at": "2026-10-05T14:42:49Z",
     "updated_at": "2026-10-08T05:03:41Z",
-    "scanned_at": "2026-10-19T05:00:08.605569+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975675+00:00",
     "status": "new"
   },
   {
@@ -2842,7 +2853,7 @@
     "comments": 46,
     "created_at": "2026-10-05T14:42:47Z",
     "updated_at": "2026-10-07T03:36:43Z",
-    "scanned_at": "2026-10-19T05:00:08.605619+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975799+00:00",
     "status": "new"
   },
   {
@@ -2865,7 +2876,7 @@
     "comments": 2,
     "created_at": "2026-10-05T14:42:45Z",
     "updated_at": "2026-10-09T22:55:13Z",
-    "scanned_at": "2026-10-19T05:00:08.605672+00:00",
+    "scanned_at": "2026-10-19T10:33:12.975910+00:00",
     "status": "new"
   },
   {
@@ -2888,7 +2899,7 @@
     "comments": 3,
     "created_at": "2026-10-05T14:42:42Z",
     "updated_at": "2026-10-09T23:08:45Z",
-    "scanned_at": "2026-10-19T05:00:08.605722+00:00",
+    "scanned_at": "2026-10-19T10:33:12.976019+00:00",
     "status": "new"
   },
   {
@@ -2910,7 +2921,7 @@
     "comments": 3,
     "created_at": "2026-10-05T14:42:40Z",
     "updated_at": "2026-10-09T23:08:41Z",
-    "scanned_at": "2026-10-19T05:00:08.605776+00:00",
+    "scanned_at": "2026-10-19T10:33:12.976133+00:00",
     "status": "new"
   },
   {
@@ -2932,7 +2943,7 @@
     "comments": 3,
     "created_at": "2026-10-05T14:42:37Z",
     "updated_at": "2026-10-09T23:10:58Z",
-    "scanned_at": "2026-10-19T05:00:08.605829+00:00",
+    "scanned_at": "2026-10-19T10:33:12.976248+00:00",
     "status": "new"
   },
   {
@@ -2955,7 +2966,7 @@
     "comments": 2,
     "created_at": "2026-10-05T14:42:33Z",
     "updated_at": "2026-10-09T23:36:07Z",
-    "scanned_at": "2026-10-19T05:00:08.605889+00:00",
+    "scanned_at": "2026-10-19T10:33:12.976377+00:00",
     "status": "new"
   },
   {
@@ -2975,7 +2986,7 @@
     "comments": 4,
     "created_at": "2026-10-05T14:25:47Z",
     "updated_at": "2026-10-07T19:37:55Z",
-    "scanned_at": "2026-10-19T05:00:17.689431+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892547+00:00",
     "status": "new"
   },
   {
@@ -2995,7 +3006,7 @@
     "comments": 5,
     "created_at": "2026-10-05T06:54:13Z",
     "updated_at": "2026-10-07T19:39:19Z",
-    "scanned_at": "2026-10-19T05:00:17.689442+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892569+00:00",
     "status": "new"
   },
   {
@@ -3015,7 +3026,7 @@
     "comments": 5,
     "created_at": "2026-10-05T00:47:52Z",
     "updated_at": "2026-10-07T19:39:06Z",
-    "scanned_at": "2026-10-19T05:00:17.689453+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892590+00:00",
     "status": "new"
   },
   {
@@ -3035,7 +3046,7 @@
     "comments": 6,
     "created_at": "2026-10-04T21:17:43Z",
     "updated_at": "2026-10-11T04:32:06Z",
-    "scanned_at": "2026-10-19T05:00:17.689464+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892611+00:00",
     "status": "new"
   },
   {
@@ -3055,7 +3066,7 @@
     "comments": 2,
     "created_at": "2026-10-04T18:05:39Z",
     "updated_at": "2026-10-07T19:40:55Z",
-    "scanned_at": "2026-10-19T05:00:17.689475+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892632+00:00",
     "status": "new"
   },
   {
@@ -3075,7 +3086,7 @@
     "comments": 23,
     "created_at": "2026-10-04T13:08:36Z",
     "updated_at": "2026-10-11T04:15:05Z",
-    "scanned_at": "2026-10-19T05:00:17.689486+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892653+00:00",
     "status": "new"
   },
   {
@@ -3095,7 +3106,7 @@
     "comments": 4,
     "created_at": "2026-10-04T12:14:48Z",
     "updated_at": "2026-10-10T20:45:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689498+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892674+00:00",
     "status": "new"
   },
   {
@@ -3115,7 +3126,7 @@
     "comments": 3,
     "created_at": "2026-10-03T11:33:18Z",
     "updated_at": "2026-10-04T12:30:31Z",
-    "scanned_at": "2026-10-19T05:00:17.689508+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892692+00:00",
     "status": "new"
   },
   {
@@ -3134,7 +3145,7 @@
     "comments": 1,
     "created_at": "2026-10-03T03:03:31Z",
     "updated_at": "2026-10-04T09:32:37Z",
-    "scanned_at": "2026-10-19T05:00:17.689523+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892721+00:00",
     "status": "new"
   },
   {
@@ -3154,7 +3165,7 @@
     "comments": 3,
     "created_at": "2026-10-02T23:37:41Z",
     "updated_at": "2026-10-07T19:26:03Z",
-    "scanned_at": "2026-10-19T05:00:17.689533+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892737+00:00",
     "status": "new"
   },
   {
@@ -3174,7 +3185,7 @@
     "comments": 3,
     "created_at": "2026-10-02T21:16:46Z",
     "updated_at": "2026-10-07T19:31:07Z",
-    "scanned_at": "2026-10-19T05:00:17.689542+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892751+00:00",
     "status": "new"
   },
   {
@@ -3194,7 +3205,7 @@
     "comments": 2,
     "created_at": "2026-10-02T19:52:04Z",
     "updated_at": "2026-10-07T19:30:00Z",
-    "scanned_at": "2026-10-19T05:00:17.689550+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892766+00:00",
     "status": "new"
   },
   {
@@ -3214,7 +3225,7 @@
     "comments": 2,
     "created_at": "2026-10-02T16:13:34Z",
     "updated_at": "2026-10-07T19:31:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689558+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892799+00:00",
     "status": "new"
   },
   {
@@ -3234,7 +3245,7 @@
     "comments": 3,
     "created_at": "2026-10-02T15:02:03Z",
     "updated_at": "2026-10-11T04:13:31Z",
-    "scanned_at": "2026-10-19T05:00:17.689566+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892815+00:00",
     "status": "new"
   },
   {
@@ -3254,7 +3265,7 @@
     "comments": 2,
     "created_at": "2026-10-02T12:23:05Z",
     "updated_at": "2026-10-07T19:33:54Z",
-    "scanned_at": "2026-10-19T05:00:17.689575+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892831+00:00",
     "status": "new"
   },
   {
@@ -3274,7 +3285,7 @@
     "comments": 2,
     "created_at": "2026-10-02T09:38:35Z",
     "updated_at": "2026-10-07T19:34:46Z",
-    "scanned_at": "2026-10-19T05:00:17.689583+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892846+00:00",
     "status": "new"
   },
   {
@@ -3294,7 +3305,7 @@
     "comments": 2,
     "created_at": "2026-10-02T08:38:36Z",
     "updated_at": "2026-10-07T19:36:18Z",
-    "scanned_at": "2026-10-19T05:00:17.689592+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892862+00:00",
     "status": "new"
   },
   {
@@ -3314,7 +3325,7 @@
     "comments": 2,
     "created_at": "2026-10-02T02:17:14Z",
     "updated_at": "2026-10-07T19:36:46Z",
-    "scanned_at": "2026-10-19T05:00:17.689600+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892877+00:00",
     "status": "new"
   },
   {
@@ -3334,7 +3345,7 @@
     "comments": 2,
     "created_at": "2026-10-02T02:11:01Z",
     "updated_at": "2026-10-07T19:37:34Z",
-    "scanned_at": "2026-10-19T05:00:17.689608+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892891+00:00",
     "status": "new"
   },
   {
@@ -3354,7 +3365,7 @@
     "comments": 1,
     "created_at": "2026-10-01T23:13:25Z",
     "updated_at": "2026-10-04T15:23:22Z",
-    "scanned_at": "2026-10-19T05:00:17.689618+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892907+00:00",
     "status": "new"
   },
   {
@@ -3374,7 +3385,7 @@
     "comments": 2,
     "created_at": "2026-10-01T23:06:11Z",
     "updated_at": "2026-10-04T15:23:43Z",
-    "scanned_at": "2026-10-19T05:00:17.689627+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892921+00:00",
     "status": "new"
   },
   {
@@ -3394,7 +3405,7 @@
     "comments": 1,
     "created_at": "2026-10-01T19:03:43Z",
     "updated_at": "2026-10-04T15:24:03Z",
-    "scanned_at": "2026-10-19T05:00:17.689636+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892936+00:00",
     "status": "new"
   },
   {
@@ -3414,7 +3425,7 @@
     "comments": 1,
     "created_at": "2026-10-01T18:48:38Z",
     "updated_at": "2026-10-04T15:24:18Z",
-    "scanned_at": "2026-10-19T05:00:17.689645+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892950+00:00",
     "status": "new"
   },
   {
@@ -3434,7 +3445,7 @@
     "comments": 1,
     "created_at": "2026-10-01T13:46:08Z",
     "updated_at": "2026-10-04T15:24:36Z",
-    "scanned_at": "2026-10-19T05:00:17.689654+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892965+00:00",
     "status": "new"
   },
   {
@@ -3454,7 +3465,7 @@
     "comments": 3,
     "created_at": "2026-09-28T21:51:52Z",
     "updated_at": "2026-10-10T20:40:51Z",
-    "scanned_at": "2026-10-19T05:00:17.689665+00:00",
+    "scanned_at": "2026-10-19T10:33:21.892984+00:00",
     "status": "new"
   },
   {
@@ -3474,7 +3485,7 @@
     "comments": 3,
     "created_at": "2026-09-28T15:19:23Z",
     "updated_at": "2026-10-10T20:41:07Z",
-    "scanned_at": "2026-10-19T05:00:17.689675+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893002+00:00",
     "status": "new"
   },
   {
@@ -3494,7 +3505,7 @@
     "comments": 3,
     "created_at": "2026-09-28T13:43:48Z",
     "updated_at": "2026-10-10T20:41:01Z",
-    "scanned_at": "2026-10-19T05:00:17.689685+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893021+00:00",
     "status": "new"
   },
   {
@@ -3514,7 +3525,7 @@
     "comments": 2,
     "created_at": "2026-09-28T06:42:31Z",
     "updated_at": "2026-10-07T19:46:25Z",
-    "scanned_at": "2026-10-19T05:00:17.689696+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893041+00:00",
     "status": "new"
   },
   {
@@ -3534,7 +3545,7 @@
     "comments": 2,
     "created_at": "2026-09-28T00:35:03Z",
     "updated_at": "2026-10-07T19:47:13Z",
-    "scanned_at": "2026-10-19T05:00:17.689706+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893062+00:00",
     "status": "new"
   },
   {
@@ -3554,7 +3565,7 @@
     "comments": 3,
     "created_at": "2026-09-27T22:01:55Z",
     "updated_at": "2026-10-10T20:41:18Z",
-    "scanned_at": "2026-10-19T05:00:17.689717+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893082+00:00",
     "status": "new"
   },
   {
@@ -3574,7 +3585,7 @@
     "comments": 2,
     "created_at": "2026-09-27T18:17:30Z",
     "updated_at": "2026-10-10T19:59:44Z",
-    "scanned_at": "2026-10-19T05:00:17.689728+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893103+00:00",
     "status": "new"
   },
   {
@@ -3594,7 +3605,7 @@
     "comments": 1,
     "created_at": "2026-09-27T13:52:03Z",
     "updated_at": "2026-10-10T20:43:37Z",
-    "scanned_at": "2026-10-19T05:00:17.689739+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893124+00:00",
     "status": "new"
   },
   {
@@ -3614,7 +3625,7 @@
     "comments": 1,
     "created_at": "2026-09-27T11:55:11Z",
     "updated_at": "2026-10-10T20:43:31Z",
-    "scanned_at": "2026-10-19T05:00:17.689750+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893143+00:00",
     "status": "new"
   },
   {
@@ -3634,7 +3645,7 @@
     "comments": 0,
     "created_at": "2026-09-27T01:20:02Z",
     "updated_at": "2026-09-27T01:20:02Z",
-    "scanned_at": "2026-10-19T05:00:17.689760+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893163+00:00",
     "status": "new"
   },
   {
@@ -3654,7 +3665,7 @@
     "comments": 1,
     "created_at": "2026-09-26T22:41:08Z",
     "updated_at": "2026-10-10T20:43:09Z",
-    "scanned_at": "2026-10-19T05:00:17.689771+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893184+00:00",
     "status": "new"
   },
   {
@@ -3674,7 +3685,7 @@
     "comments": 1,
     "created_at": "2026-09-26T19:47:43Z",
     "updated_at": "2026-10-10T20:42:54Z",
-    "scanned_at": "2026-10-19T05:00:17.689782+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893203+00:00",
     "status": "new"
   },
   {
@@ -3694,7 +3705,7 @@
     "comments": 1,
     "created_at": "2026-09-26T17:05:07Z",
     "updated_at": "2026-10-10T20:41:24Z",
-    "scanned_at": "2026-10-19T05:00:17.689792+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893224+00:00",
     "status": "new"
   },
   {
@@ -3714,7 +3725,7 @@
     "comments": 0,
     "created_at": "2026-09-26T12:59:46Z",
     "updated_at": "2026-09-26T12:59:46Z",
-    "scanned_at": "2026-10-19T05:00:17.689804+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893245+00:00",
     "status": "new"
   },
   {
@@ -3734,7 +3745,7 @@
     "comments": 1,
     "created_at": "2026-09-26T11:16:11Z",
     "updated_at": "2026-10-10T20:43:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689814+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893261+00:00",
     "status": "new"
   },
   {
@@ -3754,7 +3765,7 @@
     "comments": 2,
     "created_at": "2026-09-26T07:33:04Z",
     "updated_at": "2026-09-26T08:29:04Z",
-    "scanned_at": "2026-10-19T05:00:17.689824+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893283+00:00",
     "status": "new"
   },
   {
@@ -3774,7 +3785,7 @@
     "comments": 2,
     "created_at": "2026-09-26T01:27:56Z",
     "updated_at": "2026-09-26T04:36:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689835+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893304+00:00",
     "status": "new"
   },
   {
@@ -3794,7 +3805,7 @@
     "comments": 1,
     "created_at": "2026-09-23T10:00:44Z",
     "updated_at": "2026-09-23T10:01:59Z",
-    "scanned_at": "2026-10-19T05:00:17.689845+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893321+00:00",
     "status": "new"
   },
   {
@@ -3814,7 +3825,7 @@
     "comments": 1,
     "created_at": "2026-09-23T05:52:02Z",
     "updated_at": "2026-09-23T05:55:37Z",
-    "scanned_at": "2026-10-19T05:00:17.689856+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893339+00:00",
     "status": "new"
   },
   {
@@ -3834,7 +3845,7 @@
     "comments": 1,
     "created_at": "2026-09-23T05:13:40Z",
     "updated_at": "2026-09-23T05:55:50Z",
-    "scanned_at": "2026-10-19T05:00:17.689867+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893355+00:00",
     "status": "new"
   },
   {
@@ -3854,7 +3865,7 @@
     "comments": 1,
     "created_at": "2026-09-23T00:35:49Z",
     "updated_at": "2026-09-23T05:55:57Z",
-    "scanned_at": "2026-10-19T05:00:17.689876+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893372+00:00",
     "status": "new"
   },
   {
@@ -3874,7 +3885,7 @@
     "comments": 2,
     "created_at": "2026-09-23T00:22:08Z",
     "updated_at": "2026-09-23T05:56:49Z",
-    "scanned_at": "2026-10-19T05:00:17.689887+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893390+00:00",
     "status": "new"
   },
   {
@@ -3894,7 +3905,7 @@
     "comments": 1,
     "created_at": "2026-09-22T22:11:14Z",
     "updated_at": "2026-09-22T22:12:42Z",
-    "scanned_at": "2026-10-19T05:00:17.689898+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893407+00:00",
     "status": "new"
   },
   {
@@ -3914,7 +3925,7 @@
     "comments": 1,
     "created_at": "2026-09-22T21:59:58Z",
     "updated_at": "2026-09-22T22:01:34Z",
-    "scanned_at": "2026-10-19T05:00:17.689908+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893425+00:00",
     "status": "new"
   },
   {
@@ -3934,7 +3945,7 @@
     "comments": 1,
     "created_at": "2026-09-22T19:04:00Z",
     "updated_at": "2026-09-22T22:00:10Z",
-    "scanned_at": "2026-10-19T05:00:17.689917+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893442+00:00",
     "status": "new"
   },
   {
@@ -3954,7 +3965,7 @@
     "comments": 1,
     "created_at": "2026-09-22T18:47:29Z",
     "updated_at": "2026-09-22T21:11:12Z",
-    "scanned_at": "2026-10-19T05:00:17.689927+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893459+00:00",
     "status": "new"
   },
   {
@@ -3974,7 +3985,7 @@
     "comments": 3,
     "created_at": "2026-09-22T15:31:45Z",
     "updated_at": "2026-10-07T19:07:59Z",
-    "scanned_at": "2026-10-19T05:00:17.689936+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893475+00:00",
     "status": "new"
   },
   {
@@ -3994,7 +4005,7 @@
     "comments": 2,
     "created_at": "2026-09-22T14:43:08Z",
     "updated_at": "2026-09-22T21:12:25Z",
-    "scanned_at": "2026-10-19T05:00:17.689945+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893492+00:00",
     "status": "new"
   },
   {
@@ -4014,7 +4025,7 @@
     "comments": 2,
     "created_at": "2026-09-22T11:27:37Z",
     "updated_at": "2026-09-22T13:43:35Z",
-    "scanned_at": "2026-10-19T05:00:17.689962+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893521+00:00",
     "status": "new"
   },
   {
@@ -4034,7 +4045,7 @@
     "comments": 2,
     "created_at": "2026-09-22T11:14:44Z",
     "updated_at": "2026-09-22T13:43:58Z",
-    "scanned_at": "2026-10-19T05:00:17.689972+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893538+00:00",
     "status": "new"
   },
   {
@@ -4054,7 +4065,7 @@
     "comments": 1,
     "created_at": "2026-09-22T09:51:47Z",
     "updated_at": "2026-09-22T11:00:07Z",
-    "scanned_at": "2026-10-19T05:00:17.689982+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893556+00:00",
     "status": "new"
   },
   {
@@ -4074,7 +4085,7 @@
     "comments": 1,
     "created_at": "2026-09-22T05:56:46Z",
     "updated_at": "2026-09-22T10:02:42Z",
-    "scanned_at": "2026-10-19T05:00:17.689991+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893573+00:00",
     "status": "new"
   },
   {
@@ -4094,7 +4105,7 @@
     "comments": 1,
     "created_at": "2026-09-22T04:43:51Z",
     "updated_at": "2026-09-22T10:02:52Z",
-    "scanned_at": "2026-10-19T05:00:17.690001+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893590+00:00",
     "status": "new"
   },
   {
@@ -4114,7 +4125,7 @@
     "comments": 1,
     "created_at": "2026-09-22T00:53:39Z",
     "updated_at": "2026-09-22T10:03:00Z",
-    "scanned_at": "2026-10-19T05:00:17.690011+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893608+00:00",
     "status": "new"
   },
   {
@@ -4134,7 +4145,7 @@
     "comments": 1,
     "created_at": "2026-09-21T23:12:29Z",
     "updated_at": "2026-09-22T10:03:11Z",
-    "scanned_at": "2026-10-19T05:00:17.690021+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893625+00:00",
     "status": "new"
   },
   {
@@ -4154,27 +4165,7 @@
     "comments": 5,
     "created_at": "2026-09-21T06:11:55Z",
     "updated_at": "2026-09-23T00:45:14Z",
-    "scanned_at": "2026-10-19T05:00:17.690032+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000246",
-    "title": "[radar] SN open bounty 2026-09-21T00:09",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1130",
-    "repo": "relayhop/sn-monetization-runtime",
-    "number": 1130,
-    "labels": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-09-21T00:09:45Z",
-    "updated_at": "2026-09-21T23:00:11Z",
-    "scanned_at": "2026-10-19T05:00:17.690041+00:00",
+    "scanned_at": "2026-10-19T10:33:21.893644+00:00",
     "status": "new"
   },
   {
@@ -4194,7 +4185,7 @@
     "comments": 18,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-10-18T03:48:53Z",
-    "scanned_at": "2026-10-19T05:00:11.562273+00:00",
+    "scanned_at": "2026-10-19T10:33:15.799880+00:00",
     "status": "new"
   },
   {
@@ -4212,8 +4203,8 @@
     "state": "open",
     "comments": 18,
     "created_at": "2026-09-20T18:51:05Z",
-    "updated_at": "2026-10-11T08:24:05Z",
-    "scanned_at": "2026-10-19T05:00:11.562325+00:00",
+    "updated_at": "2026-10-19T06:32:11Z",
+    "scanned_at": "2026-10-19T10:33:15.799966+00:00",
     "status": "new"
   },
   {
@@ -4233,7 +4224,7 @@
     "comments": 5,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-10-11T15:46:09Z",
-    "scanned_at": "2026-10-19T05:00:11.562392+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800122+00:00",
     "status": "new"
   },
   {
@@ -4253,7 +4244,7 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-10-19T05:00:11.562413+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800169+00:00",
     "status": "new"
   },
   {
@@ -4279,7 +4270,7 @@
     "comments": 16,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-10-06T14:59:43Z",
-    "scanned_at": "2026-10-19T05:00:11.562496+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800328+00:00",
     "status": "new"
   },
   {
@@ -4305,7 +4296,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-10-11T15:46:21Z",
-    "scanned_at": "2026-10-19T05:00:11.562544+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800421+00:00",
     "status": "new"
   },
   {
@@ -4331,7 +4322,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-10-11T15:46:26Z",
-    "scanned_at": "2026-10-19T05:00:11.562588+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800503+00:00",
     "status": "new"
   },
   {
@@ -4357,7 +4348,7 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-10-19T05:00:11.562649+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800623+00:00",
     "status": "new"
   },
   {
@@ -4382,7 +4373,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-10-11T15:46:39Z",
-    "scanned_at": "2026-10-19T05:00:11.562698+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800718+00:00",
     "status": "new"
   },
   {
@@ -4407,7 +4398,7 @@
     "comments": 19,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-10-11T15:46:44Z",
-    "scanned_at": "2026-10-19T05:00:11.562738+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800838+00:00",
     "status": "new"
   },
   {
@@ -4432,7 +4423,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-09-16T18:28:31Z",
-    "scanned_at": "2026-10-19T05:00:11.562807+00:00",
+    "scanned_at": "2026-10-19T10:33:15.800946+00:00",
     "status": "new"
   },
   {
@@ -4459,7 +4450,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-10-17T21:59:25Z",
-    "scanned_at": "2026-10-19T05:00:11.562845+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801020+00:00",
     "status": "new"
   },
   {
@@ -4485,7 +4476,7 @@
     "comments": 10,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-10-11T15:47:43Z",
-    "scanned_at": "2026-10-19T05:00:11.562882+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801093+00:00",
     "status": "new"
   },
   {
@@ -4511,7 +4502,7 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-10-19T05:00:11.562917+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801156+00:00",
     "status": "new"
   },
   {
@@ -4537,7 +4528,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-10-11T15:48:05Z",
-    "scanned_at": "2026-10-19T05:00:11.562953+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801227+00:00",
     "status": "new"
   },
   {
@@ -4563,7 +4554,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-10-11T15:48:09Z",
-    "scanned_at": "2026-10-19T05:00:11.562982+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801283+00:00",
     "status": "new"
   },
   {
@@ -4589,7 +4580,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-10-19T05:00:11.563015+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801361+00:00",
     "status": "new"
   },
   {
@@ -4615,7 +4606,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-10-11T15:48:29Z",
-    "scanned_at": "2026-10-19T05:00:11.563048+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801430+00:00",
     "status": "new"
   },
   {
@@ -4641,7 +4632,7 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-10-19T05:00:11.563091+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801501+00:00",
     "status": "new"
   },
   {
@@ -4667,7 +4658,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-10-11T15:48:34Z",
-    "scanned_at": "2026-10-19T05:00:11.563121+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801558+00:00",
     "status": "new"
   },
   {
@@ -4693,7 +4684,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:03Z",
     "updated_at": "2026-09-16T15:37:02Z",
-    "scanned_at": "2026-10-19T05:00:11.563163+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801642+00:00",
     "status": "new"
   },
   {
@@ -4716,7 +4707,7 @@
     "comments": 7,
     "created_at": "2026-08-16T16:52:31Z",
     "updated_at": "2026-10-11T15:48:47Z",
-    "scanned_at": "2026-10-19T05:00:11.563234+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801816+00:00",
     "status": "new"
   },
   {
@@ -4735,7 +4726,7 @@
     "comments": 34,
     "created_at": "2026-08-09T14:50:40Z",
     "updated_at": "2026-10-11T08:05:49Z",
-    "scanned_at": "2026-10-19T05:00:11.563249+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801846+00:00",
     "status": "new"
   },
   {
@@ -4756,7 +4747,7 @@
     "comments": 4,
     "created_at": "2026-08-08T11:36:48Z",
     "updated_at": "2026-10-11T15:48:52Z",
-    "scanned_at": "2026-10-19T05:00:11.563260+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801867+00:00",
     "status": "new"
   },
   {
@@ -4777,7 +4768,7 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:45Z",
     "updated_at": "2026-08-12T11:53:13Z",
-    "scanned_at": "2026-10-19T05:00:11.563274+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801894+00:00",
     "status": "new"
   },
   {
@@ -4798,7 +4789,7 @@
     "comments": 8,
     "created_at": "2026-08-08T10:26:10Z",
     "updated_at": "2026-09-21T15:05:57Z",
-    "scanned_at": "2026-10-19T05:00:11.563307+00:00",
+    "scanned_at": "2026-10-19T10:33:15.801970+00:00",
     "status": "new"
   },
   {
@@ -4819,7 +4810,7 @@
     "comments": 4,
     "created_at": "2026-08-08T10:23:21Z",
     "updated_at": "2026-09-09T10:19:38Z",
-    "scanned_at": "2026-10-19T05:00:11.563331+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802025+00:00",
     "status": "new"
   },
   {
@@ -4840,7 +4831,7 @@
     "comments": 11,
     "created_at": "2026-08-08T08:48:25Z",
     "updated_at": "2026-09-20T14:55:51Z",
-    "scanned_at": "2026-10-19T05:00:11.563359+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802091+00:00",
     "status": "new"
   },
   {
@@ -4860,7 +4851,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-07T17:18:00Z",
-    "scanned_at": "2026-10-19T05:00:11.563380+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802135+00:00",
     "status": "new"
   },
   {
@@ -4880,7 +4871,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-19T05:00:11.563400+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802179+00:00",
     "status": "new"
   },
   {
@@ -4900,7 +4891,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-09-05T19:28:52Z",
-    "scanned_at": "2026-10-19T05:00:11.563423+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802227+00:00",
     "status": "new"
   },
   {
@@ -4920,7 +4911,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-07T16:39:41Z",
-    "scanned_at": "2026-10-19T05:00:11.563443+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802270+00:00",
     "status": "new"
   },
   {
@@ -4940,7 +4931,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-07T17:17:59Z",
-    "scanned_at": "2026-10-19T05:00:11.563463+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802315+00:00",
     "status": "new"
   },
   {
@@ -4960,7 +4951,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-19T05:00:11.563485+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802361+00:00",
     "status": "new"
   },
   {
@@ -4980,7 +4971,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-09-05T16:10:29Z",
-    "scanned_at": "2026-10-19T05:00:11.563506+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802407+00:00",
     "status": "new"
   },
   {
@@ -5000,7 +4991,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-07T16:24:44Z",
-    "scanned_at": "2026-10-19T05:00:11.563527+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802452+00:00",
     "status": "new"
   },
   {
@@ -5020,7 +5011,7 @@
     "comments": 22,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-10-10T22:01:41Z",
-    "scanned_at": "2026-10-19T05:00:11.563548+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802498+00:00",
     "status": "new"
   },
   {
@@ -5038,7 +5029,7 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-10-19T05:00:11.563561+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802521+00:00",
     "status": "new"
   },
   {
@@ -5058,7 +5049,7 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-10-19T05:00:11.563592+00:00",
+    "scanned_at": "2026-10-19T10:33:15.802580+00:00",
     "status": "new"
   }
 ]
