@@ -15,7 +15,7 @@
     "comments": 20,
     "created_at": "2026-10-08T01:05:18Z",
     "updated_at": "2026-10-09T22:55:02Z",
-    "scanned_at": "2026-10-21T22:54:30.679951+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254442+00:00",
     "status": "new",
     "_score": 50.0,
     "tier": "A"
@@ -36,7 +36,7 @@
     "comments": 10,
     "created_at": "2026-10-07T21:34:17Z",
     "updated_at": "2026-10-18T05:42:49Z",
-    "scanned_at": "2026-10-21T22:54:30.679967+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254471+00:00",
     "status": "new",
     "_score": 50.0,
     "tier": "A"
@@ -58,7 +58,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-21T22:54:33.662124+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065225+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -80,7 +80,7 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-12T19:52:18Z",
-    "scanned_at": "2026-10-21T22:54:33.662098+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065201+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -101,7 +101,7 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T17:56:47Z",
-    "scanned_at": "2026-10-21T22:54:33.662117+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065219+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -122,7 +122,7 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-21T22:54:33.662111+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065213+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -143,7 +143,7 @@
     "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-21T22:54:33.662105+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065208+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -164,7 +164,7 @@
     "comments": 0,
     "created_at": "2026-10-13T21:40:05Z",
     "updated_at": "2026-10-13T22:47:59Z",
-    "scanned_at": "2026-10-21T22:54:40.086318+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432644+00:00",
     "status": "new",
     "_score": 35.0,
     "tier": "B"
@@ -185,13 +185,13 @@
     "comments": 7,
     "created_at": "2026-10-13T23:57:04Z",
     "updated_at": "2026-10-17T22:24:26Z",
-    "scanned_at": "2026-10-21T22:54:30.679575+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254064+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000103",
     "title": "[Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -203,16 +203,16 @@
     "language": "unknown",
     "amount_usd": 125,
     "state": "open",
-    "comments": 5,
+    "comments": 9,
     "created_at": "2026-10-15T21:54:22Z",
-    "updated_at": "2026-10-17T22:24:16Z",
-    "scanned_at": "2026-10-21T22:54:30.678965+00:00",
+    "updated_at": "2026-10-22T00:13:46Z",
+    "scanned_at": "2026-10-22T01:06:11.253396+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000104",
     "title": "[Bounty] [Bounty: $125] Add structured progress callbacks to transfer()",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -227,7 +227,7 @@
     "comments": 8,
     "created_at": "2026-10-15T21:54:21Z",
     "updated_at": "2026-10-18T14:25:38Z",
-    "scanned_at": "2026-10-21T22:54:30.678988+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253405+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -248,34 +248,13 @@
     "comments": 11,
     "created_at": "2026-10-15T21:54:24Z",
     "updated_at": "2026-10-21T11:24:18Z",
-    "scanned_at": "2026-10-21T22:54:30.678940+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253362+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
     "id": "BH-000100",
-    "title": "[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1914,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 105,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-10-15T21:54:23Z",
-    "updated_at": "2026-10-18T02:12:27Z",
-    "scanned_at": "2026-10-21T22:54:30.678949+00:00",
-    "status": "new",
-    "_score": 30.0,
-    "tier": "B"
-  },
-  {
-    "id": "BH-000101",
     "title": "[Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -290,13 +269,34 @@
     "comments": 6,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-16T16:06:23Z",
-    "scanned_at": "2026-10-21T22:54:30.678957+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253371+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000101",
+    "title": "[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 1914,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 105,
+    "state": "open",
+    "comments": 13,
+    "created_at": "2026-10-15T21:54:23Z",
+    "updated_at": "2026-10-22T00:06:39Z",
+    "scanned_at": "2026-10-22T01:06:11.253379+00:00",
+    "status": "new",
+    "_score": 30.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000102",
     "title": "[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -311,7 +311,7 @@
     "comments": 7,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-21T11:35:52Z",
-    "scanned_at": "2026-10-21T22:54:30.678973+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253387+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -332,7 +332,7 @@
     "comments": 5,
     "created_at": "2026-10-07T08:52:34Z",
     "updated_at": "2026-10-09T20:21:31Z",
-    "scanned_at": "2026-10-21T22:54:30.679973+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254478+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"

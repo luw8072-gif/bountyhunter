@@ -15,7 +15,7 @@
     "comments": 20,
     "created_at": "2026-10-08T01:05:18Z",
     "updated_at": "2026-10-09T22:55:02Z",
-    "scanned_at": "2026-10-21T22:54:30.679951+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254442+00:00",
     "status": "new"
   },
   {
@@ -34,7 +34,7 @@
     "comments": 10,
     "created_at": "2026-10-07T21:34:17Z",
     "updated_at": "2026-10-18T05:42:49Z",
-    "scanned_at": "2026-10-21T22:54:30.679967+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254471+00:00",
     "status": "new"
   },
   {
@@ -54,7 +54,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-21T22:54:33.662124+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065225+00:00",
     "status": "new"
   },
   {
@@ -73,7 +73,7 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-21T22:54:33.662111+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065213+00:00",
     "status": "new"
   },
   {
@@ -93,7 +93,7 @@
     "comments": 29,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-12T19:52:18Z",
-    "scanned_at": "2026-10-21T22:54:33.662098+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065201+00:00",
     "status": "new"
   },
   {
@@ -112,7 +112,7 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T17:56:47Z",
-    "scanned_at": "2026-10-21T22:54:33.662117+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065219+00:00",
     "status": "new"
   },
   {
@@ -131,7 +131,7 @@
     "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-21T22:54:33.662105+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065208+00:00",
     "status": "new"
   },
   {
@@ -150,7 +150,7 @@
     "comments": 7,
     "created_at": "2026-10-13T23:57:04Z",
     "updated_at": "2026-10-17T22:24:26Z",
-    "scanned_at": "2026-10-21T22:54:30.679575+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254064+00:00",
     "status": "new"
   },
   {
@@ -169,11 +169,11 @@
     "comments": 0,
     "created_at": "2026-10-13T21:40:05Z",
     "updated_at": "2026-10-13T22:47:59Z",
-    "scanned_at": "2026-10-21T22:54:40.086318+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432644+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000103",
     "title": "[Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -185,14 +185,14 @@
     "language": "unknown",
     "amount_usd": 125,
     "state": "open",
-    "comments": 5,
+    "comments": 9,
     "created_at": "2026-10-15T21:54:22Z",
-    "updated_at": "2026-10-17T22:24:16Z",
-    "scanned_at": "2026-10-21T22:54:30.678965+00:00",
+    "updated_at": "2026-10-22T00:13:46Z",
+    "scanned_at": "2026-10-22T01:06:11.253396+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000104",
     "title": "[Bounty] [Bounty: $125] Add structured progress callbacks to transfer()",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -207,7 +207,7 @@
     "comments": 8,
     "created_at": "2026-10-15T21:54:21Z",
     "updated_at": "2026-10-18T14:25:38Z",
-    "scanned_at": "2026-10-21T22:54:30.678988+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253405+00:00",
     "status": "new"
   },
   {
@@ -226,30 +226,11 @@
     "comments": 11,
     "created_at": "2026-10-15T21:54:24Z",
     "updated_at": "2026-10-21T11:24:18Z",
-    "scanned_at": "2026-10-21T22:54:30.678940+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253362+00:00",
     "status": "new"
   },
   {
     "id": "BH-000100",
-    "title": "[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1914,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 105,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-10-15T21:54:23Z",
-    "updated_at": "2026-10-18T02:12:27Z",
-    "scanned_at": "2026-10-21T22:54:30.678949+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000101",
     "title": "[Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -264,11 +245,30 @@
     "comments": 6,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-16T16:06:23Z",
-    "scanned_at": "2026-10-21T22:54:30.678957+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253371+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000101",
+    "title": "[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 1914,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 105,
+    "state": "open",
+    "comments": 13,
+    "created_at": "2026-10-15T21:54:23Z",
+    "updated_at": "2026-10-22T00:06:39Z",
+    "scanned_at": "2026-10-22T01:06:11.253379+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000102",
     "title": "[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -283,7 +283,7 @@
     "comments": 7,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-21T11:35:52Z",
-    "scanned_at": "2026-10-21T22:54:30.678973+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253387+00:00",
     "status": "new"
   },
   {
@@ -302,11 +302,11 @@
     "comments": 5,
     "created_at": "2026-10-07T08:52:34Z",
     "updated_at": "2026-10-09T20:21:31Z",
-    "scanned_at": "2026-10-21T22:54:30.679973+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254478+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000105",
     "title": "[Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -318,33 +318,14 @@
     "language": "unknown",
     "amount_usd": 90,
     "state": "open",
-    "comments": 3,
+    "comments": 6,
     "created_at": "2026-10-15T21:54:21Z",
-    "updated_at": "2026-10-17T22:24:20Z",
-    "scanned_at": "2026-10-21T22:54:30.678981+00:00",
+    "updated_at": "2026-10-22T01:02:48Z",
+    "scanned_at": "2026-10-22T01:06:11.253413+00:00",
     "status": "new"
   },
   {
     "id": "BH-000106",
-    "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1908,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 90,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-10-15T21:54:20Z",
-    "updated_at": "2026-10-17T22:24:19Z",
-    "scanned_at": "2026-10-21T22:54:30.678996+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000107",
     "title": "[Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1907",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -359,15 +340,15 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:20Z",
     "updated_at": "2026-10-17T22:24:22Z",
-    "scanned_at": "2026-10-21T22:54:30.679005+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253422+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
-    "title": "[Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
+    "id": "BH-000107",
+    "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 1905,
+    "number": 1908,
     "labels": [
       "bounty",
       "real"
@@ -375,14 +356,14 @@
     "language": "unknown",
     "amount_usd": 90,
     "state": "open",
-    "comments": 6,
-    "created_at": "2026-10-15T21:54:19Z",
-    "updated_at": "2026-10-17T22:24:10Z",
-    "scanned_at": "2026-10-21T22:54:30.679013+00:00",
+    "comments": 10,
+    "created_at": "2026-10-15T21:54:20Z",
+    "updated_at": "2026-10-22T01:03:08Z",
+    "scanned_at": "2026-10-22T01:06:11.253429+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000108",
     "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -397,7 +378,26 @@
     "comments": 3,
     "created_at": "2026-10-15T21:54:19Z",
     "updated_at": "2026-10-17T22:24:23Z",
-    "scanned_at": "2026-10-21T22:54:30.679021+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253437+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000109",
+    "title": "[Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1905",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 1905,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 90,
+    "state": "open",
+    "comments": 9,
+    "created_at": "2026-10-15T21:54:19Z",
+    "updated_at": "2026-10-22T01:00:05Z",
+    "scanned_at": "2026-10-22T01:06:11.253445+00:00",
     "status": "new"
   },
   {
@@ -416,7 +416,7 @@
     "comments": 4,
     "created_at": "2026-10-15T21:54:18Z",
     "updated_at": "2026-10-17T22:24:12Z",
-    "scanned_at": "2026-10-21T22:54:30.679028+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253453+00:00",
     "status": "new"
   },
   {
@@ -435,7 +435,7 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:18Z",
     "updated_at": "2026-10-16T09:06:43Z",
-    "scanned_at": "2026-10-21T22:54:30.679036+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253461+00:00",
     "status": "new"
   },
   {
@@ -454,7 +454,7 @@
     "comments": 4,
     "created_at": "2026-10-15T21:54:17Z",
     "updated_at": "2026-10-15T23:20:25Z",
-    "scanned_at": "2026-10-21T22:54:30.679044+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253487+00:00",
     "status": "new"
   },
   {
@@ -473,7 +473,7 @@
     "comments": 0,
     "created_at": "2026-10-15T21:54:17Z",
     "updated_at": "2026-10-15T21:54:17Z",
-    "scanned_at": "2026-10-21T22:54:30.679052+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253496+00:00",
     "status": "new"
   },
   {
@@ -492,7 +492,7 @@
     "comments": 7,
     "created_at": "2026-10-15T21:54:16Z",
     "updated_at": "2026-10-20T04:50:03Z",
-    "scanned_at": "2026-10-21T22:54:30.679068+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253512+00:00",
     "status": "new"
   },
   {
@@ -511,7 +511,7 @@
     "comments": 1,
     "created_at": "2026-10-15T18:51:20Z",
     "updated_at": "2026-10-15T20:19:59Z",
-    "scanned_at": "2026-10-21T22:54:30.679394+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253868+00:00",
     "status": "new"
   },
   {
@@ -530,7 +530,7 @@
     "comments": 3,
     "created_at": "2026-10-15T21:54:16Z",
     "updated_at": "2026-10-19T10:57:54Z",
-    "scanned_at": "2026-10-21T22:54:30.679060+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253504+00:00",
     "status": "new"
   },
   {
@@ -549,7 +549,7 @@
     "comments": 0,
     "created_at": "2026-10-15T21:54:15Z",
     "updated_at": "2026-10-15T21:54:15Z",
-    "scanned_at": "2026-10-21T22:54:30.679076+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253520+00:00",
     "status": "new"
   },
   {
@@ -565,10 +565,10 @@
     "language": "unknown",
     "amount_usd": 50,
     "state": "open",
-    "comments": 3,
+    "comments": 7,
     "created_at": "2026-10-20T22:25:17Z",
-    "updated_at": "2026-10-21T03:53:27Z",
-    "scanned_at": "2026-10-21T22:53:16.668298+00:00",
+    "updated_at": "2026-10-22T01:03:05Z",
+    "scanned_at": "2026-10-22T01:04:56.949634+00:00",
     "status": "new"
   },
   {
@@ -587,7 +587,7 @@
     "comments": 3,
     "created_at": "2026-10-20T20:46:34Z",
     "updated_at": "2026-10-21T16:10:25Z",
-    "scanned_at": "2026-10-21T22:53:16.668306+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949643+00:00",
     "status": "new"
   },
   {
@@ -606,7 +606,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:50Z",
     "updated_at": "2026-10-12T18:26:19Z",
-    "scanned_at": "2026-10-21T22:54:30.679817+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254299+00:00",
     "status": "new"
   },
   {
@@ -625,7 +625,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:49Z",
     "updated_at": "2026-10-12T18:34:51Z",
-    "scanned_at": "2026-10-21T22:54:30.679825+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254306+00:00",
     "status": "new"
   },
   {
@@ -644,7 +644,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T19:28:18Z",
-    "scanned_at": "2026-10-21T22:54:30.679831+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254314+00:00",
     "status": "new"
   },
   {
@@ -663,7 +663,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T19:11:10Z",
-    "scanned_at": "2026-10-21T22:54:30.679838+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254321+00:00",
     "status": "new"
   },
   {
@@ -682,7 +682,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:48Z",
     "updated_at": "2026-10-12T18:53:15Z",
-    "scanned_at": "2026-10-21T22:54:30.679845+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254329+00:00",
     "status": "new"
   },
   {
@@ -701,7 +701,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:47Z",
     "updated_at": "2026-10-12T19:48:07Z",
-    "scanned_at": "2026-10-21T22:54:30.679853+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254336+00:00",
     "status": "new"
   },
   {
@@ -720,7 +720,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:46Z",
     "updated_at": "2026-10-12T20:05:11Z",
-    "scanned_at": "2026-10-21T22:54:30.679860+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254344+00:00",
     "status": "new"
   },
   {
@@ -739,7 +739,7 @@
     "comments": 1,
     "created_at": "2026-10-12T18:14:46Z",
     "updated_at": "2026-10-12T20:23:12Z",
-    "scanned_at": "2026-10-21T22:54:30.679867+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254352+00:00",
     "status": "new"
   },
   {
@@ -760,7 +760,7 @@
     "comments": 110,
     "created_at": "2026-07-24T08:17:43Z",
     "updated_at": "2026-10-18T08:09:10Z",
-    "scanned_at": "2026-10-21T22:54:33.663247+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066415+00:00",
     "status": "new"
   },
   {
@@ -779,7 +779,7 @@
     "comments": 5,
     "created_at": "2026-10-15T21:54:14Z",
     "updated_at": "2026-10-17T22:26:04Z",
-    "scanned_at": "2026-10-21T22:54:30.679084+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253530+00:00",
     "status": "new"
   },
   {
@@ -798,7 +798,7 @@
     "comments": 2,
     "created_at": "2026-10-15T21:54:14Z",
     "updated_at": "2026-10-16T09:05:50Z",
-    "scanned_at": "2026-10-21T22:54:30.679092+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253539+00:00",
     "status": "new"
   },
   {
@@ -817,7 +817,7 @@
     "comments": 2,
     "created_at": "2026-10-15T05:09:29Z",
     "updated_at": "2026-10-15T12:05:24Z",
-    "scanned_at": "2026-10-21T22:54:30.679543+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254029+00:00",
     "status": "new"
   },
   {
@@ -835,7 +835,7 @@
     "comments": 9,
     "created_at": "2026-10-15T00:58:41Z",
     "updated_at": "2026-10-18T14:51:15Z",
-    "scanned_at": "2026-10-21T22:54:40.086295+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432620+00:00",
     "status": "new"
   },
   {
@@ -856,7 +856,7 @@
     "comments": 38,
     "created_at": "2026-07-03T14:29:56Z",
     "updated_at": "2026-09-29T19:19:25Z",
-    "scanned_at": "2026-10-21T22:54:33.663399+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066583+00:00",
     "status": "new"
   },
   {
@@ -877,7 +877,7 @@
     "comments": 46,
     "created_at": "2026-07-03T14:32:41Z",
     "updated_at": "2026-10-11T15:37:04Z",
-    "scanned_at": "2026-10-21T22:54:33.663384+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066568+00:00",
     "status": "new"
   },
   {
@@ -898,7 +898,7 @@
     "comments": 52,
     "created_at": "2026-07-03T14:30:52Z",
     "updated_at": "2026-10-18T01:46:11Z",
-    "scanned_at": "2026-10-21T22:54:33.663389+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066573+00:00",
     "status": "new"
   },
   {
@@ -919,7 +919,7 @@
     "comments": 37,
     "created_at": "2026-07-03T14:30:40Z",
     "updated_at": "2026-09-29T19:19:27Z",
-    "scanned_at": "2026-10-21T22:54:33.663393+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066577+00:00",
     "status": "new"
   },
   {
@@ -939,7 +939,7 @@
     "comments": 8,
     "created_at": "2026-10-19T10:36:17Z",
     "updated_at": "2026-10-21T12:00:08Z",
-    "scanned_at": "2026-10-21T22:54:33.661894+00:00",
+    "scanned_at": "2026-10-22T01:06:15.064990+00:00",
     "status": "new"
   },
   {
@@ -959,7 +959,7 @@
     "comments": 98,
     "created_at": "2026-07-03T14:32:57Z",
     "updated_at": "2026-10-05T06:12:16Z",
-    "scanned_at": "2026-10-21T22:54:33.663379+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066563+00:00",
     "status": "new"
   },
   {
@@ -978,7 +978,7 @@
     "comments": 25,
     "created_at": "2026-07-03T14:00:07Z",
     "updated_at": "2026-10-20T17:09:38Z",
-    "scanned_at": "2026-10-21T22:54:33.663404+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066588+00:00",
     "status": "new"
   },
   {
@@ -996,7 +996,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:21Z",
     "updated_at": "2026-10-21T16:02:21Z",
-    "scanned_at": "2026-10-21T22:53:16.667587+00:00",
+    "scanned_at": "2026-10-22T01:04:56.948932+00:00",
     "status": "new"
   },
   {
@@ -1014,7 +1014,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:20Z",
     "updated_at": "2026-10-21T16:02:20Z",
-    "scanned_at": "2026-10-21T22:53:16.667648+00:00",
+    "scanned_at": "2026-10-22T01:04:56.948994+00:00",
     "status": "new"
   },
   {
@@ -1032,7 +1032,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:19Z",
     "updated_at": "2026-10-21T16:02:19Z",
-    "scanned_at": "2026-10-21T22:53:16.667699+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949036+00:00",
     "status": "new"
   },
   {
@@ -1050,7 +1050,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:17Z",
     "updated_at": "2026-10-21T16:02:17Z",
-    "scanned_at": "2026-10-21T22:53:16.667735+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949069+00:00",
     "status": "new"
   },
   {
@@ -1068,7 +1068,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:16Z",
     "updated_at": "2026-10-21T16:02:16Z",
-    "scanned_at": "2026-10-21T22:53:16.667774+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949105+00:00",
     "status": "new"
   },
   {
@@ -1086,7 +1086,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:14Z",
     "updated_at": "2026-10-21T16:02:14Z",
-    "scanned_at": "2026-10-21T22:53:16.667810+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949140+00:00",
     "status": "new"
   },
   {
@@ -1104,7 +1104,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:13Z",
     "updated_at": "2026-10-21T16:02:13Z",
-    "scanned_at": "2026-10-21T22:53:16.667843+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949172+00:00",
     "status": "new"
   },
   {
@@ -1122,7 +1122,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:11Z",
     "updated_at": "2026-10-21T16:02:11Z",
-    "scanned_at": "2026-10-21T22:53:16.667884+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949210+00:00",
     "status": "new"
   },
   {
@@ -1140,7 +1140,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:10Z",
     "updated_at": "2026-10-21T16:02:10Z",
-    "scanned_at": "2026-10-21T22:53:16.667917+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949239+00:00",
     "status": "new"
   },
   {
@@ -1158,7 +1158,7 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:08Z",
     "updated_at": "2026-10-21T22:15:17Z",
-    "scanned_at": "2026-10-21T22:53:16.667978+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949295+00:00",
     "status": "new"
   },
   {
@@ -1176,7 +1176,7 @@
     "comments": 0,
     "created_at": "2026-10-21T16:02:07Z",
     "updated_at": "2026-10-21T16:02:07Z",
-    "scanned_at": "2026-10-21T22:53:16.668014+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949330+00:00",
     "status": "new"
   },
   {
@@ -1194,7 +1194,7 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:06Z",
     "updated_at": "2026-10-21T17:09:05Z",
-    "scanned_at": "2026-10-21T22:53:16.668049+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949363+00:00",
     "status": "new"
   },
   {
@@ -1213,7 +1213,7 @@
     "comments": 4,
     "created_at": "2026-10-21T12:18:23Z",
     "updated_at": "2026-10-21T12:47:51Z",
-    "scanned_at": "2026-10-21T22:53:16.668124+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949435+00:00",
     "status": "new"
   },
   {
@@ -1232,7 +1232,7 @@
     "comments": 3,
     "created_at": "2026-10-21T12:18:22Z",
     "updated_at": "2026-10-21T12:42:39Z",
-    "scanned_at": "2026-10-21T22:53:16.668192+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949525+00:00",
     "status": "new"
   },
   {
@@ -1251,7 +1251,7 @@
     "comments": 2,
     "created_at": "2026-10-21T12:18:20Z",
     "updated_at": "2026-10-21T12:54:14Z",
-    "scanned_at": "2026-10-21T22:53:16.668257+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949590+00:00",
     "status": "new"
   },
   {
@@ -1275,7 +1275,7 @@
     "comments": 2,
     "created_at": "2026-10-21T10:12:07Z",
     "updated_at": "2026-10-21T10:23:02Z",
-    "scanned_at": "2026-10-21T22:53:16.668282+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949619+00:00",
     "status": "new"
   },
   {
@@ -1293,7 +1293,7 @@
     "comments": 6,
     "created_at": "2026-10-20T11:39:18Z",
     "updated_at": "2026-10-21T22:15:23Z",
-    "scanned_at": "2026-10-21T22:53:16.668331+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949667+00:00",
     "status": "new"
   },
   {
@@ -1313,7 +1313,7 @@
     "comments": 1,
     "created_at": "2026-10-20T11:24:51Z",
     "updated_at": "2026-10-20T16:21:15Z",
-    "scanned_at": "2026-10-21T22:53:16.668344+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949681+00:00",
     "status": "new"
   },
   {
@@ -1333,33 +1333,11 @@
     "comments": 2,
     "created_at": "2026-10-20T05:55:15Z",
     "updated_at": "2026-10-20T18:09:31Z",
-    "scanned_at": "2026-10-21T22:53:16.668356+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949693+00:00",
     "status": "new"
   },
   {
     "id": "BH-000022",
-    "title": "Frantic bounty #143: Write and validate your own MAP description with the mailschema package",
-    "url": "https://github.com/auscaster/frantic-board/issues/541",
-    "repo": "auscaster/frantic-board",
-    "number": 541,
-    "labels": [
-      "bounty",
-      "funded",
-      "delivered",
-      "accepted",
-      "paid"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 184,
-    "created_at": "2026-10-20T04:15:53Z",
-    "updated_at": "2026-10-21T13:43:20Z",
-    "scanned_at": "2026-10-21T22:53:16.668384+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000023",
     "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
     "url": "https://github.com/auscaster/frantic-board/issues/540",
     "repo": "auscaster/frantic-board",
@@ -1370,19 +1348,20 @@
       "available",
       "claimed",
       "delivered",
-      "needs-work"
+      "needs-work",
+      "paid"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
     "comments": 50,
     "created_at": "2026-10-20T04:15:47Z",
-    "updated_at": "2026-10-21T19:31:00Z",
-    "scanned_at": "2026-10-21T22:53:16.668414+00:00",
+    "updated_at": "2026-10-22T01:01:38Z",
+    "scanned_at": "2026-10-22T01:04:56.949722+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000023",
     "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
     "url": "https://github.com/auscaster/frantic-board/issues/539",
     "repo": "auscaster/frantic-board",
@@ -1394,6 +1373,7 @@
       "claimed",
       "delivered",
       "accepted",
+      "needs-work",
       "paid"
     ],
     "language": "unknown",
@@ -1401,12 +1381,12 @@
     "state": "open",
     "comments": 157,
     "created_at": "2026-10-20T04:15:41Z",
-    "updated_at": "2026-10-21T21:12:55Z",
-    "scanned_at": "2026-10-21T22:53:16.668450+00:00",
+    "updated_at": "2026-10-22T00:58:12Z",
+    "scanned_at": "2026-10-22T01:04:56.949750+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000024",
     "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
     "url": "https://github.com/auscaster/frantic-board/issues/538",
     "repo": "auscaster/frantic-board",
@@ -1418,19 +1398,20 @@
       "claimed",
       "delivered",
       "accepted",
+      "needs-work",
       "paid"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 185,
+    "comments": 186,
     "created_at": "2026-10-20T04:15:36Z",
-    "updated_at": "2026-10-21T22:36:53Z",
-    "scanned_at": "2026-10-21T22:53:16.668483+00:00",
+    "updated_at": "2026-10-22T00:52:34Z",
+    "scanned_at": "2026-10-22T01:04:56.949778+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000025",
     "title": "[radar] SN open bounty 2026-10-20T00:14",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1446,11 +1427,11 @@
     "comments": 3,
     "created_at": "2026-10-20T00:14:57Z",
     "updated_at": "2026-10-21T06:59:54Z",
-    "scanned_at": "2026-10-21T22:53:16.668497+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949792+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000026",
     "title": "[radar] SN open bounty 2026-10-19T20:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1466,11 +1447,11 @@
     "comments": 2,
     "created_at": "2026-10-19T20:31:57Z",
     "updated_at": "2026-10-21T01:16:00Z",
-    "scanned_at": "2026-10-21T22:53:16.668510+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949806+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000027",
     "title": "[opt-out check] RocketReach: find a no-account opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1486,11 +1467,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:31Z",
     "updated_at": "2026-10-20T07:47:48Z",
-    "scanned_at": "2026-10-21T22:53:16.668549+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949844+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000028",
     "title": "[opt-out check] PrivateEye: which brokers are behind its search results?",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1506,11 +1487,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:26Z",
     "updated_at": "2026-10-20T08:48:54Z",
-    "scanned_at": "2026-10-21T22:53:16.668590+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949883+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000029",
     "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1527,11 +1508,11 @@
     "comments": 3,
     "created_at": "2026-10-19T17:09:22Z",
     "updated_at": "2026-10-20T09:50:50Z",
-    "scanned_at": "2026-10-21T22:53:16.668632+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949923+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000030",
     "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1547,11 +1528,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:09:18Z",
     "updated_at": "2026-10-20T13:17:36Z",
-    "scanned_at": "2026-10-21T22:53:16.668688+00:00",
+    "scanned_at": "2026-10-22T01:04:56.949968+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000031",
     "title": "[opt-out check] TruePeopleSearch: test the removal flow end to end",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/415",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1567,11 +1548,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:14Z",
     "updated_at": "2026-10-20T18:20:35Z",
-    "scanned_at": "2026-10-21T22:53:16.668735+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950014+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000032",
     "title": "[find opt-out] Xactus, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/414",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1587,11 +1568,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:09Z",
     "updated_at": "2026-10-20T22:11:57Z",
-    "scanned_at": "2026-10-21T22:53:16.668787+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950064+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000033",
     "title": "[find opt-out] Vintel AI: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/413",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1607,11 +1588,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:09:04Z",
     "updated_at": "2026-10-19T17:09:04Z",
-    "scanned_at": "2026-10-21T22:53:16.668837+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950112+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000034",
     "title": "[find opt-out] United One Resources, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/412",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1627,11 +1608,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:59Z",
     "updated_at": "2026-10-19T17:08:59Z",
-    "scanned_at": "2026-10-21T22:53:16.668887+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000035",
     "title": "[find opt-out] Statara Solutuions LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/411",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1647,11 +1628,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:55Z",
     "updated_at": "2026-10-19T17:08:55Z",
-    "scanned_at": "2026-10-21T22:53:16.668939+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950212+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000036",
     "title": "[find opt-out] SalesTech, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/410",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1667,11 +1648,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:51Z",
     "updated_at": "2026-10-19T17:08:51Z",
-    "scanned_at": "2026-10-21T22:53:16.668990+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950261+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000037",
     "title": "[find opt-out] SageStream LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/409",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1687,11 +1668,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:46Z",
     "updated_at": "2026-10-19T17:08:46Z",
-    "scanned_at": "2026-10-21T22:53:16.669040+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950309+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000038",
     "title": "[find opt-out] Safety Holdings Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1707,11 +1688,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:42Z",
     "updated_at": "2026-10-19T17:08:42Z",
-    "scanned_at": "2026-10-21T22:53:16.669092+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950361+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000039",
     "title": "[find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/407",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1727,11 +1708,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:37Z",
     "updated_at": "2026-10-19T17:08:37Z",
-    "scanned_at": "2026-10-21T22:53:16.669146+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950409+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000040",
     "title": "[find opt-out] RP On-Site LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/406",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1747,11 +1728,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:33Z",
     "updated_at": "2026-10-19T17:08:33Z",
-    "scanned_at": "2026-10-21T22:53:16.669197+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950460+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000041",
     "title": "[find opt-out] Roq.ad GmbH: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/405",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1767,11 +1748,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:16Z",
     "updated_at": "2026-10-19T17:08:16Z",
-    "scanned_at": "2026-10-21T22:53:16.669246+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950518+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000042",
     "title": "[find opt-out] Riv Data Corp: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/404",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1787,11 +1768,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:12Z",
     "updated_at": "2026-10-19T17:08:12Z",
-    "scanned_at": "2026-10-21T22:53:16.669295+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950569+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000043",
     "title": "[find opt-out] Quality Planning Corporation: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/403",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1807,11 +1788,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:07Z",
     "updated_at": "2026-10-19T17:08:07Z",
-    "scanned_at": "2026-10-21T22:53:16.669353+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950617+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000044",
     "title": "[find opt-out] Partners Credit and Verification Solutions: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/402",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1827,11 +1808,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:08:03Z",
     "updated_at": "2026-10-19T17:08:03Z",
-    "scanned_at": "2026-10-21T22:53:16.669403+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950668+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000045",
     "title": "[find opt-out] Nielsen Marketing Cloud: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/401",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1847,11 +1828,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:59Z",
     "updated_at": "2026-10-19T17:07:59Z",
-    "scanned_at": "2026-10-21T22:53:16.669450+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950717+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000046",
     "title": "[find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/400",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1867,11 +1848,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:54Z",
     "updated_at": "2026-10-19T17:07:54Z",
-    "scanned_at": "2026-10-21T22:53:16.669505+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950767+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000047",
     "title": "[find opt-out] MCH Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/399",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1887,11 +1868,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:50Z",
     "updated_at": "2026-10-19T17:07:50Z",
-    "scanned_at": "2026-10-21T22:53:16.669556+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950814+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000048",
     "title": "[find opt-out] LexisNexis: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/398",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1907,11 +1888,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:46Z",
     "updated_at": "2026-10-19T17:07:46Z",
-    "scanned_at": "2026-10-21T22:53:16.669605+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950861+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000049",
     "title": "[find opt-out] lempire: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/397",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1927,11 +1908,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:41Z",
     "updated_at": "2026-10-19T17:07:41Z",
-    "scanned_at": "2026-10-21T22:53:16.669654+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950909+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000050",
     "title": "[find opt-out] Kontext: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/396",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1947,11 +1928,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:37Z",
     "updated_at": "2026-10-19T17:07:37Z",
-    "scanned_at": "2026-10-21T22:53:16.669708+00:00",
+    "scanned_at": "2026-10-22T01:04:56.950965+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000051",
     "title": "[find opt-out] ISO Services, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/395",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1967,11 +1948,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:33Z",
     "updated_at": "2026-10-19T17:07:33Z",
-    "scanned_at": "2026-10-21T22:53:16.669757+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951014+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000052",
     "title": "[find opt-out] ISO Claims Services, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/394",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -1987,11 +1968,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:28Z",
     "updated_at": "2026-10-19T17:07:28Z",
-    "scanned_at": "2026-10-21T22:53:16.669806+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951063+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000053",
     "title": "[find opt-out] Insurance Services Office, Inc. (“ISO”): find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/393",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2007,11 +1988,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:24Z",
     "updated_at": "2026-10-19T17:07:24Z",
-    "scanned_at": "2026-10-21T22:53:16.669872+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951122+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000054",
     "title": "[find opt-out] HomeData: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/392",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2027,11 +2008,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:19Z",
     "updated_at": "2026-10-19T17:07:19Z",
-    "scanned_at": "2026-10-21T22:53:16.669921+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951169+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000055",
     "title": "[find opt-out] HireRight, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/391",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2047,11 +2028,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:15Z",
     "updated_at": "2026-10-19T17:07:15Z",
-    "scanned_at": "2026-10-21T22:53:16.669971+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951216+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000056",
     "title": "[find opt-out] General Information Solutions LLC (\"GIS\"): find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/390",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2067,11 +2048,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:10Z",
     "updated_at": "2026-10-19T17:07:10Z",
-    "scanned_at": "2026-10-21T22:53:16.670021+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951266+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000057",
     "title": "[find opt-out] G2 Bankruptcy Risk Solutions, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/389",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2087,11 +2068,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:06Z",
     "updated_at": "2026-10-19T17:07:06Z",
-    "scanned_at": "2026-10-21T22:53:16.670070+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951316+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000058",
     "title": "[find opt-out] Frontline eSolutions, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/388",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2107,11 +2088,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:07:02Z",
     "updated_at": "2026-10-19T17:07:45Z",
-    "scanned_at": "2026-10-21T22:53:16.670119+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951367+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000059",
     "title": "[find opt-out] First Direct, Inc. and its subsidiaries/affiliates: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/387",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2127,11 +2108,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:57Z",
     "updated_at": "2026-10-19T17:06:57Z",
-    "scanned_at": "2026-10-21T22:53:16.670170+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951417+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000060",
     "title": "[find opt-out] First American Data Tree LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/386",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2147,11 +2128,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:53Z",
     "updated_at": "2026-10-19T17:06:53Z",
-    "scanned_at": "2026-10-21T22:53:16.670220+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951474+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000061",
     "title": "[find opt-out] Factual Data, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/385",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2167,11 +2148,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:48Z",
     "updated_at": "2026-10-19T17:06:48Z",
-    "scanned_at": "2026-10-21T22:53:16.670270+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951523+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000062",
     "title": "[find opt-out] Factori Technologies LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/384",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2187,11 +2168,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:44Z",
     "updated_at": "2026-10-19T17:06:44Z",
-    "scanned_at": "2026-10-21T22:53:16.670369+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951573+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000063",
     "title": "[find opt-out] Experian Fraud Prevention Solutions, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/383",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2207,11 +2188,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:40Z",
     "updated_at": "2026-10-19T17:06:40Z",
-    "scanned_at": "2026-10-21T22:53:16.670421+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951672+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000064",
     "title": "[find opt-out] Experian Employer Services, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/382",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2227,11 +2208,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:35Z",
     "updated_at": "2026-10-19T17:06:35Z",
-    "scanned_at": "2026-10-21T22:53:16.670472+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951723+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000065",
     "title": "[find opt-out] Experian Data Corp: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/381",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2247,11 +2228,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:30Z",
     "updated_at": "2026-10-19T17:06:30Z",
-    "scanned_at": "2026-10-21T22:53:16.670521+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951772+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000066",
     "title": "[find opt-out] Equifax Data Services LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/380",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2267,11 +2248,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:26Z",
     "updated_at": "2026-10-19T17:06:26Z",
-    "scanned_at": "2026-10-21T22:53:16.670570+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951820+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000067",
     "title": "[find opt-out] Equifax Apprise Solutions LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/379",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2287,11 +2268,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:21Z",
     "updated_at": "2026-10-19T17:06:21Z",
-    "scanned_at": "2026-10-21T22:53:16.670618+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951869+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000068",
     "title": "[find opt-out] Employment Tax Servicing, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/378",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2307,11 +2288,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:17Z",
     "updated_at": "2026-10-19T17:06:17Z",
-    "scanned_at": "2026-10-21T22:53:16.670667+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951917+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000069",
     "title": "[find opt-out] eFunds: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/377",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2327,11 +2308,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:13Z",
     "updated_at": "2026-10-19T17:06:13Z",
-    "scanned_at": "2026-10-21T22:53:16.670739+00:00",
+    "scanned_at": "2026-10-22T01:04:56.951964+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000070",
     "title": "[find opt-out] Early Warning Services, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/376",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2347,11 +2328,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:07Z",
     "updated_at": "2026-10-19T17:06:07Z",
-    "scanned_at": "2026-10-21T22:53:16.670788+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952015+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000071",
     "title": "[find opt-out] Deluxe Corporation: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/375",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2367,11 +2348,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:06:03Z",
     "updated_at": "2026-10-19T17:06:03Z",
-    "scanned_at": "2026-10-21T22:53:16.670837+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952064+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000072",
     "title": "[find opt-out] Deimos Signals LTD. PTE: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/374",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2387,11 +2368,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:59Z",
     "updated_at": "2026-10-19T17:05:59Z",
-    "scanned_at": "2026-10-21T22:53:16.670885+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952113+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000073",
     "title": "[find opt-out] Data Facts, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/373",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2407,11 +2388,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:54Z",
     "updated_at": "2026-10-19T22:50:50Z",
-    "scanned_at": "2026-10-21T22:53:16.670932+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952160+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000074",
     "title": "[find opt-out] Data Driven Safety, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/372",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2427,11 +2408,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:50Z",
     "updated_at": "2026-10-20T01:32:17Z",
-    "scanned_at": "2026-10-21T22:53:16.670981+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952209+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000075",
     "title": "[find opt-out] Dan Barnett: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/371",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2447,11 +2428,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:46Z",
     "updated_at": "2026-10-20T03:59:31Z",
-    "scanned_at": "2026-10-21T22:53:16.671028+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952257+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000076",
     "title": "[find opt-out] CoreLogic Portfolio Solutions, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/370",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2467,11 +2448,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:41Z",
     "updated_at": "2026-10-20T05:44:10Z",
-    "scanned_at": "2026-10-21T22:53:16.671110+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952307+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000077",
     "title": "[find opt-out] CoreLogic Credco of Puerto Rico: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/369",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2487,11 +2468,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:36Z",
     "updated_at": "2026-10-20T06:46:24Z",
-    "scanned_at": "2026-10-21T22:53:16.671184+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952356+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000078",
     "title": "[find opt-out] CoreLogic Credco, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/368",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2507,11 +2488,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:32Z",
     "updated_at": "2026-10-20T07:06:32Z",
-    "scanned_at": "2026-10-21T22:53:16.671240+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952404+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000079",
     "title": "[find opt-out] Collin Hogue Spears: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/367",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2527,11 +2508,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:28Z",
     "updated_at": "2026-10-19T17:05:28Z",
-    "scanned_at": "2026-10-21T22:53:16.671295+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952452+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000080",
     "title": "[find opt-out] Cleara, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/366",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2547,11 +2528,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:23Z",
     "updated_at": "2026-10-19T17:05:23Z",
-    "scanned_at": "2026-10-21T22:53:16.671344+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952516+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000081",
     "title": "[find opt-out] CIC Mortgage Credit, Inc: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/365",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2567,11 +2548,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:19Z",
     "updated_at": "2026-10-19T17:05:19Z",
-    "scanned_at": "2026-10-21T22:53:16.671397+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952564+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000082",
     "title": "[find opt-out] BrightCheck Inc: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/364",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2587,11 +2568,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:15Z",
     "updated_at": "2026-10-19T17:05:15Z",
-    "scanned_at": "2026-10-21T22:53:16.671447+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952612+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000083",
     "title": "[find opt-out] Bridge: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/363",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2607,11 +2588,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:11Z",
     "updated_at": "2026-10-19T17:05:11Z",
-    "scanned_at": "2026-10-21T22:53:16.671494+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952659+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000084",
     "title": "[find opt-out] BLACK KNIGHT DATA & ANALYTICS, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/362",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2627,11 +2608,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:06Z",
     "updated_at": "2026-10-19T17:05:06Z",
-    "scanned_at": "2026-10-21T22:53:16.671542+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952707+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000085",
     "title": "[find opt-out] Birchwood Credit Services Inc: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/361",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2647,11 +2628,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:05:02Z",
     "updated_at": "2026-10-19T17:05:02Z",
-    "scanned_at": "2026-10-21T22:53:16.671592+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952757+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000086",
     "title": "[find opt-out] BeenVerified, LLC, The Lifetime Value Co. LLC and subsidiaries and affiliates: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/360",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2667,11 +2648,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:04:57Z",
     "updated_at": "2026-10-19T17:04:57Z",
-    "scanned_at": "2026-10-21T22:53:16.671643+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952808+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000087",
     "title": "[find opt-out] Backgroundchecks.com LLC (\"BGC\"): find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/359",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2687,11 +2668,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:04:53Z",
     "updated_at": "2026-10-19T17:04:53Z",
-    "scanned_at": "2026-10-21T22:53:16.671701+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952856+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000088",
     "title": "[find opt-out] Automation Research, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/358",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2707,11 +2688,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:04:49Z",
     "updated_at": "2026-10-19T17:04:49Z",
-    "scanned_at": "2026-10-21T22:53:16.671753+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952904+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000089",
     "title": "[find opt-out] AmRent, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/357",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -2727,7 +2708,27 @@
     "comments": 0,
     "created_at": "2026-10-19T17:04:44Z",
     "updated_at": "2026-10-19T17:04:44Z",
-    "scanned_at": "2026-10-21T22:53:16.671814+00:00",
+    "scanned_at": "2026-10-22T01:04:56.952952+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000090",
+    "title": "[find opt-out] Always On Data LLC: find the official opt-out route",
+    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/356",
+    "repo": "lizTheDeveloper/privacy-the-game",
+    "number": 356,
+    "labels": [
+      "bounty",
+      "bounty: medium",
+      "data-brokers"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-10-19T17:04:40Z",
+    "updated_at": "2026-10-19T17:04:40Z",
+    "scanned_at": "2026-10-22T01:04:56.953006+00:00",
     "status": "new"
   },
   {
@@ -2747,7 +2748,7 @@
     "comments": 0,
     "created_at": "2026-10-19T14:36:02Z",
     "updated_at": "2026-10-19T22:18:58Z",
-    "scanned_at": "2026-10-21T22:54:40.085840+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432134+00:00",
     "status": "new"
   },
   {
@@ -2767,7 +2768,7 @@
     "comments": 0,
     "created_at": "2026-10-19T12:57:56Z",
     "updated_at": "2026-10-19T22:18:40Z",
-    "scanned_at": "2026-10-21T22:54:40.085875+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432173+00:00",
     "status": "new"
   },
   {
@@ -2787,7 +2788,7 @@
     "comments": 1,
     "created_at": "2026-10-19T06:08:07Z",
     "updated_at": "2026-10-19T18:08:49Z",
-    "scanned_at": "2026-10-21T22:54:40.085888+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432186+00:00",
     "status": "new"
   },
   {
@@ -2808,7 +2809,7 @@
     "comments": 4,
     "created_at": "2026-10-19T04:11:43Z",
     "updated_at": "2026-10-19T20:27:03Z",
-    "scanned_at": "2026-10-21T22:54:40.085916+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432216+00:00",
     "status": "new"
   },
   {
@@ -2829,7 +2830,7 @@
     "comments": 3,
     "created_at": "2026-10-19T04:11:40Z",
     "updated_at": "2026-10-19T20:27:03Z",
-    "scanned_at": "2026-10-21T22:54:40.085942+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432245+00:00",
     "status": "new"
   },
   {
@@ -2850,7 +2851,7 @@
     "comments": 1,
     "created_at": "2026-10-19T02:57:25Z",
     "updated_at": "2026-10-19T20:27:02Z",
-    "scanned_at": "2026-10-21T22:54:40.085973+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432280+00:00",
     "status": "new"
   },
   {
@@ -2870,7 +2871,7 @@
     "comments": 0,
     "created_at": "2026-10-19T01:06:42Z",
     "updated_at": "2026-10-19T10:09:24Z",
-    "scanned_at": "2026-10-21T22:54:40.085986+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432293+00:00",
     "status": "new"
   },
   {
@@ -2890,7 +2891,7 @@
     "comments": 0,
     "created_at": "2026-10-18T23:01:41Z",
     "updated_at": "2026-10-18T23:09:23Z",
-    "scanned_at": "2026-10-21T22:54:40.085997+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432305+00:00",
     "status": "new"
   },
   {
@@ -2910,7 +2911,7 @@
     "comments": 1,
     "created_at": "2026-10-18T20:33:00Z",
     "updated_at": "2026-10-19T05:41:07Z",
-    "scanned_at": "2026-10-21T22:54:40.086008+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432317+00:00",
     "status": "new"
   },
   {
@@ -2930,7 +2931,7 @@
     "comments": 1,
     "created_at": "2026-10-18T18:00:54Z",
     "updated_at": "2026-10-18T23:09:03Z",
-    "scanned_at": "2026-10-21T22:54:40.086019+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432329+00:00",
     "status": "new"
   },
   {
@@ -2950,7 +2951,7 @@
     "comments": 4,
     "created_at": "2026-10-18T14:30:21Z",
     "updated_at": "2026-10-18T16:53:57Z",
-    "scanned_at": "2026-10-21T22:54:40.086030+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432340+00:00",
     "status": "new"
   },
   {
@@ -2969,7 +2970,7 @@
     "comments": 3,
     "created_at": "2026-10-18T09:10:42Z",
     "updated_at": "2026-10-18T16:56:23Z",
-    "scanned_at": "2026-10-21T22:54:40.086051+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432360+00:00",
     "status": "new"
   },
   {
@@ -2987,7 +2988,7 @@
     "comments": 0,
     "created_at": "2026-10-18T01:07:06Z",
     "updated_at": "2026-10-18T17:03:19Z",
-    "scanned_at": "2026-10-21T22:54:30.678584+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253003+00:00",
     "status": "new"
   },
   {
@@ -3005,7 +3006,7 @@
     "comments": 0,
     "created_at": "2026-10-18T01:07:01Z",
     "updated_at": "2026-10-18T17:03:18Z",
-    "scanned_at": "2026-10-21T22:54:30.678630+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253053+00:00",
     "status": "new"
   },
   {
@@ -3023,7 +3024,7 @@
     "comments": 0,
     "created_at": "2026-10-18T01:06:56Z",
     "updated_at": "2026-10-18T17:03:17Z",
-    "scanned_at": "2026-10-21T22:54:30.678656+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253083+00:00",
     "status": "new"
   },
   {
@@ -3042,7 +3043,7 @@
     "comments": 3,
     "created_at": "2026-10-18T01:06:51Z",
     "updated_at": "2026-10-21T01:27:11Z",
-    "scanned_at": "2026-10-21T22:54:30.678704+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253113+00:00",
     "status": "new"
   },
   {
@@ -3061,7 +3062,7 @@
     "comments": 1,
     "created_at": "2026-10-18T01:06:46Z",
     "updated_at": "2026-10-19T03:32:13Z",
-    "scanned_at": "2026-10-21T22:54:30.678735+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253140+00:00",
     "status": "new"
   },
   {
@@ -3080,7 +3081,7 @@
     "comments": 5,
     "created_at": "2026-10-17T11:07:54Z",
     "updated_at": "2026-10-21T12:31:07Z",
-    "scanned_at": "2026-10-21T22:54:30.678804+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253217+00:00",
     "status": "new"
   },
   {
@@ -3099,7 +3100,7 @@
     "comments": 3,
     "created_at": "2026-10-17T11:07:53Z",
     "updated_at": "2026-10-18T11:48:25Z",
-    "scanned_at": "2026-10-21T22:54:30.678867+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253284+00:00",
     "status": "new"
   },
   {
@@ -3119,7 +3120,7 @@
     "comments": 3,
     "created_at": "2026-10-17T10:32:49Z",
     "updated_at": "2026-10-18T11:50:16Z",
-    "scanned_at": "2026-10-21T22:54:40.086066+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432376+00:00",
     "status": "new"
   },
   {
@@ -3138,7 +3139,7 @@
     "comments": 3,
     "created_at": "2026-10-16T11:51:11Z",
     "updated_at": "2026-10-18T13:42:58Z",
-    "scanned_at": "2026-10-21T22:54:30.678929+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253351+00:00",
     "status": "new"
   },
   {
@@ -3157,7 +3158,7 @@
     "comments": 4,
     "created_at": "2026-10-16T03:06:03Z",
     "updated_at": "2026-10-18T02:52:56Z",
-    "scanned_at": "2026-10-21T22:54:40.086141+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432455+00:00",
     "status": "new"
   },
   {
@@ -3176,7 +3177,7 @@
     "comments": 4,
     "created_at": "2026-10-16T03:06:01Z",
     "updated_at": "2026-10-18T23:10:01Z",
-    "scanned_at": "2026-10-21T22:54:40.086226+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432549+00:00",
     "status": "new"
   },
   {
@@ -3195,7 +3196,7 @@
     "comments": 4,
     "created_at": "2026-10-16T03:04:29Z",
     "updated_at": "2026-10-18T02:52:52Z",
-    "scanned_at": "2026-10-21T22:54:40.086279+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432602+00:00",
     "status": "new"
   },
   {
@@ -3214,7 +3215,7 @@
     "comments": 3,
     "created_at": "2026-10-15T19:27:24Z",
     "updated_at": "2026-10-21T18:59:08Z",
-    "scanned_at": "2026-10-21T22:54:30.679153+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253604+00:00",
     "status": "new"
   },
   {
@@ -3233,7 +3234,7 @@
     "comments": 11,
     "created_at": "2026-10-15T19:26:59Z",
     "updated_at": "2026-10-21T02:52:03Z",
-    "scanned_at": "2026-10-21T22:54:30.679197+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253651+00:00",
     "status": "new"
   },
   {
@@ -3252,7 +3253,7 @@
     "comments": 2,
     "created_at": "2026-10-15T19:26:34Z",
     "updated_at": "2026-10-19T02:34:26Z",
-    "scanned_at": "2026-10-21T22:54:30.679243+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253703+00:00",
     "status": "new"
   },
   {
@@ -3272,7 +3273,7 @@
     "comments": 4,
     "created_at": "2026-10-15T19:26:09Z",
     "updated_at": "2026-10-20T13:02:04Z",
-    "scanned_at": "2026-10-21T22:54:30.679292+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253755+00:00",
     "status": "new"
   },
   {
@@ -3291,7 +3292,7 @@
     "comments": 1,
     "created_at": "2026-10-15T19:25:35Z",
     "updated_at": "2026-10-15T21:12:37Z",
-    "scanned_at": "2026-10-21T22:54:30.679340+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253808+00:00",
     "status": "new"
   },
   {
@@ -3310,7 +3311,7 @@
     "comments": 3,
     "created_at": "2026-10-15T16:55:25Z",
     "updated_at": "2026-10-17T22:15:34Z",
-    "scanned_at": "2026-10-21T22:54:30.679452+00:00",
+    "scanned_at": "2026-10-22T01:06:11.253930+00:00",
     "status": "new"
   },
   {
@@ -3329,7 +3330,7 @@
     "comments": 2,
     "created_at": "2026-10-15T16:55:24Z",
     "updated_at": "2026-10-17T22:15:35Z",
-    "scanned_at": "2026-10-21T22:54:30.679534+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254020+00:00",
     "status": "new"
   },
   {
@@ -3349,7 +3350,7 @@
     "comments": 5,
     "created_at": "2026-10-13T18:19:24Z",
     "updated_at": "2026-10-17T22:14:46Z",
-    "scanned_at": "2026-10-21T22:54:30.679714+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254188+00:00",
     "status": "new"
   },
   {
@@ -3369,7 +3370,7 @@
     "comments": 4,
     "created_at": "2026-10-13T18:18:59Z",
     "updated_at": "2026-10-17T22:14:47Z",
-    "scanned_at": "2026-10-21T22:54:30.679809+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254290+00:00",
     "status": "new"
   },
   {
@@ -3389,7 +3390,7 @@
     "comments": 2,
     "created_at": "2026-10-13T07:38:23Z",
     "updated_at": "2026-10-17T22:40:57Z",
-    "scanned_at": "2026-10-21T22:54:40.086330+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432656+00:00",
     "status": "new"
   },
   {
@@ -3409,7 +3410,7 @@
     "comments": 0,
     "created_at": "2026-10-13T00:32:57Z",
     "updated_at": "2026-10-13T00:32:57Z",
-    "scanned_at": "2026-10-21T22:54:40.086341+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432669+00:00",
     "status": "new"
   },
   {
@@ -3429,7 +3430,7 @@
     "comments": 0,
     "created_at": "2026-10-12T17:46:29Z",
     "updated_at": "2026-10-12T17:52:32Z",
-    "scanned_at": "2026-10-21T22:54:40.086355+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432684+00:00",
     "status": "new"
   },
   {
@@ -3449,7 +3450,7 @@
     "comments": 0,
     "created_at": "2026-10-12T15:12:22Z",
     "updated_at": "2026-10-12T15:12:22Z",
-    "scanned_at": "2026-10-21T22:54:40.086366+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432695+00:00",
     "status": "new"
   },
   {
@@ -3469,7 +3470,7 @@
     "comments": 11,
     "created_at": "2026-10-12T14:48:03Z",
     "updated_at": "2026-10-18T13:17:20Z",
-    "scanned_at": "2026-10-21T22:54:30.679893+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254380+00:00",
     "status": "new"
   },
   {
@@ -3489,7 +3490,7 @@
     "comments": 0,
     "created_at": "2026-10-12T07:16:26Z",
     "updated_at": "2026-10-12T07:25:15Z",
-    "scanned_at": "2026-10-21T22:54:40.086376+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432707+00:00",
     "status": "new"
   },
   {
@@ -3508,7 +3509,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:57Z",
     "updated_at": "2026-10-17T22:08:20Z",
-    "scanned_at": "2026-10-21T22:54:30.679903+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254390+00:00",
     "status": "new"
   },
   {
@@ -3527,7 +3528,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:56Z",
     "updated_at": "2026-10-17T22:08:19Z",
-    "scanned_at": "2026-10-21T22:54:30.679914+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254401+00:00",
     "status": "new"
   },
   {
@@ -3546,7 +3547,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:56Z",
     "updated_at": "2026-10-17T22:08:18Z",
-    "scanned_at": "2026-10-21T22:54:30.679922+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254411+00:00",
     "status": "new"
   },
   {
@@ -3565,7 +3566,7 @@
     "comments": 4,
     "created_at": "2026-10-12T03:00:55Z",
     "updated_at": "2026-10-17T22:42:00Z",
-    "scanned_at": "2026-10-21T22:54:30.679931+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254421+00:00",
     "status": "new"
   },
   {
@@ -3584,7 +3585,7 @@
     "comments": 3,
     "created_at": "2026-10-12T03:00:55Z",
     "updated_at": "2026-10-17T22:08:17Z",
-    "scanned_at": "2026-10-21T22:54:30.679940+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254431+00:00",
     "status": "new"
   },
   {
@@ -3604,7 +3605,7 @@
     "comments": 0,
     "created_at": "2026-10-12T00:27:27Z",
     "updated_at": "2026-10-12T00:29:48Z",
-    "scanned_at": "2026-10-21T22:54:40.086387+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432719+00:00",
     "status": "new"
   },
   {
@@ -3624,7 +3625,7 @@
     "comments": 2,
     "created_at": "2026-10-11T20:11:16Z",
     "updated_at": "2026-10-11T20:33:35Z",
-    "scanned_at": "2026-10-21T22:54:40.086397+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432730+00:00",
     "status": "new"
   },
   {
@@ -3644,7 +3645,7 @@
     "comments": 2,
     "created_at": "2026-10-11T15:34:42Z",
     "updated_at": "2026-10-11T19:46:06Z",
-    "scanned_at": "2026-10-21T22:54:40.086408+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432742+00:00",
     "status": "new"
   },
   {
@@ -3664,7 +3665,7 @@
     "comments": 2,
     "created_at": "2026-10-10T12:22:28Z",
     "updated_at": "2026-10-11T15:20:49Z",
-    "scanned_at": "2026-10-21T22:54:40.086419+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432753+00:00",
     "status": "new"
   },
   {
@@ -3687,7 +3688,7 @@
     "comments": 4,
     "created_at": "2026-10-07T03:32:29Z",
     "updated_at": "2026-10-11T04:42:36Z",
-    "scanned_at": "2026-10-21T22:54:30.680128+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254647+00:00",
     "status": "new"
   },
   {
@@ -3710,7 +3711,7 @@
     "comments": 3,
     "created_at": "2026-10-07T03:32:25Z",
     "updated_at": "2026-10-10T20:11:35Z",
-    "scanned_at": "2026-10-21T22:54:30.680286+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254825+00:00",
     "status": "new"
   },
   {
@@ -3733,7 +3734,7 @@
     "comments": 4,
     "created_at": "2026-10-07T03:30:22Z",
     "updated_at": "2026-10-11T15:21:36Z",
-    "scanned_at": "2026-10-21T22:54:30.680438+00:00",
+    "scanned_at": "2026-10-22T01:06:11.254993+00:00",
     "status": "new"
   },
   {
@@ -3756,7 +3757,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:48:47Z",
     "updated_at": "2026-10-09T23:36:21Z",
-    "scanned_at": "2026-10-21T22:54:30.680657+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255160+00:00",
     "status": "new"
   },
   {
@@ -3778,7 +3779,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:48:47Z",
     "updated_at": "2026-10-11T15:21:40Z",
-    "scanned_at": "2026-10-21T22:54:30.680787+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255289+00:00",
     "status": "new"
   },
   {
@@ -3801,7 +3802,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:46Z",
     "updated_at": "2026-10-11T15:21:57Z",
-    "scanned_at": "2026-10-21T22:54:30.680928+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255443+00:00",
     "status": "new"
   },
   {
@@ -3824,7 +3825,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:46Z",
     "updated_at": "2026-10-17T22:14:48Z",
-    "scanned_at": "2026-10-21T22:54:30.681035+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255570+00:00",
     "status": "new"
   },
   {
@@ -3848,7 +3849,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:45Z",
     "updated_at": "2026-10-17T22:14:49Z",
-    "scanned_at": "2026-10-21T22:54:30.681137+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255683+00:00",
     "status": "new"
   },
   {
@@ -3872,7 +3873,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:44Z",
     "updated_at": "2026-10-11T15:22:15Z",
-    "scanned_at": "2026-10-21T22:54:30.681238+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255790+00:00",
     "status": "new"
   },
   {
@@ -3895,7 +3896,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:48:44Z",
     "updated_at": "2026-10-11T15:22:11Z",
-    "scanned_at": "2026-10-21T22:54:30.681317+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255874+00:00",
     "status": "new"
   },
   {
@@ -3917,7 +3918,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:20Z",
     "updated_at": "2026-10-10T02:08:28Z",
-    "scanned_at": "2026-10-21T22:54:30.681377+00:00",
+    "scanned_at": "2026-10-22T01:06:11.255937+00:00",
     "status": "new"
   },
   {
@@ -3940,7 +3941,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:20Z",
     "updated_at": "2026-10-17T22:14:55Z",
-    "scanned_at": "2026-10-21T22:54:30.681445+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256011+00:00",
     "status": "new"
   },
   {
@@ -3962,7 +3963,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:19Z",
     "updated_at": "2026-10-17T22:14:54Z",
-    "scanned_at": "2026-10-21T22:54:30.681510+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256080+00:00",
     "status": "new"
   },
   {
@@ -3985,7 +3986,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:27:18Z",
     "updated_at": "2026-10-10T02:58:59Z",
-    "scanned_at": "2026-10-21T22:54:30.681578+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256155+00:00",
     "status": "new"
   },
   {
@@ -4008,7 +4009,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:18Z",
     "updated_at": "2026-10-10T20:48:01Z",
-    "scanned_at": "2026-10-21T22:54:30.681644+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256226+00:00",
     "status": "new"
   },
   {
@@ -4031,7 +4032,7 @@
     "comments": 3,
     "created_at": "2026-10-07T02:27:17Z",
     "updated_at": "2026-10-17T22:14:53Z",
-    "scanned_at": "2026-10-21T22:54:30.681726+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256301+00:00",
     "status": "new"
   },
   {
@@ -4053,7 +4054,7 @@
     "comments": 2,
     "created_at": "2026-10-07T02:27:16Z",
     "updated_at": "2026-10-10T04:16:52Z",
-    "scanned_at": "2026-10-21T22:54:30.681782+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256363+00:00",
     "status": "new"
   },
   {
@@ -4075,7 +4076,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:15Z",
     "updated_at": "2026-10-10T20:57:04Z",
-    "scanned_at": "2026-10-21T22:54:30.681850+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256437+00:00",
     "status": "new"
   },
   {
@@ -4097,7 +4098,7 @@
     "comments": 4,
     "created_at": "2026-10-07T02:27:14Z",
     "updated_at": "2026-10-10T20:56:53Z",
-    "scanned_at": "2026-10-21T22:54:30.681915+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256524+00:00",
     "status": "new"
   },
   {
@@ -4120,7 +4121,7 @@
     "comments": 5,
     "created_at": "2026-10-07T02:27:14Z",
     "updated_at": "2026-10-10T20:56:48Z",
-    "scanned_at": "2026-10-21T22:54:30.682024+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256646+00:00",
     "status": "new"
   },
   {
@@ -4143,7 +4144,7 @@
     "comments": 2,
     "created_at": "2026-10-07T02:26:46Z",
     "updated_at": "2026-10-17T22:14:50Z",
-    "scanned_at": "2026-10-21T22:54:30.682086+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256711+00:00",
     "status": "new"
   },
   {
@@ -4163,7 +4164,7 @@
     "comments": 13,
     "created_at": "2026-10-06T13:13:22Z",
     "updated_at": "2026-10-07T19:17:56Z",
-    "scanned_at": "2026-10-21T22:54:40.086430+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432765+00:00",
     "status": "new"
   },
   {
@@ -4183,7 +4184,7 @@
     "comments": 13,
     "created_at": "2026-10-06T10:06:39Z",
     "updated_at": "2026-10-17T22:40:56Z",
-    "scanned_at": "2026-10-21T22:54:40.086440+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432776+00:00",
     "status": "new"
   },
   {
@@ -4205,7 +4206,7 @@
     "comments": 3,
     "created_at": "2026-10-06T04:35:43Z",
     "updated_at": "2026-10-17T22:10:09Z",
-    "scanned_at": "2026-10-21T22:54:30.682161+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256794+00:00",
     "status": "new"
   },
   {
@@ -4225,7 +4226,7 @@
     "comments": 230,
     "created_at": "2026-10-06T02:53:50Z",
     "updated_at": "2026-10-07T19:20:41Z",
-    "scanned_at": "2026-10-21T22:54:40.086451+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432788+00:00",
     "status": "new"
   },
   {
@@ -4245,7 +4246,7 @@
     "comments": 312,
     "created_at": "2026-10-05T22:33:06Z",
     "updated_at": "2026-10-07T19:22:24Z",
-    "scanned_at": "2026-10-21T22:54:40.086462+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432799+00:00",
     "status": "new"
   },
   {
@@ -4265,7 +4266,7 @@
     "comments": 518,
     "created_at": "2026-10-05T15:54:25Z",
     "updated_at": "2026-10-07T19:24:10Z",
-    "scanned_at": "2026-10-21T22:54:40.086476+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432815+00:00",
     "status": "new"
   },
   {
@@ -4284,7 +4285,7 @@
     "comments": 479,
     "created_at": "2026-10-05T15:13:33Z",
     "updated_at": "2026-10-19T15:45:40Z",
-    "scanned_at": "2026-10-21T22:54:30.682237+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256877+00:00",
     "status": "new"
   },
   {
@@ -4303,7 +4304,7 @@
     "comments": 430,
     "created_at": "2026-10-05T15:13:30Z",
     "updated_at": "2026-10-07T02:33:21Z",
-    "scanned_at": "2026-10-21T22:54:30.682311+00:00",
+    "scanned_at": "2026-10-22T01:06:11.256960+00:00",
     "status": "new"
   },
   {
@@ -4326,7 +4327,7 @@
     "comments": 47,
     "created_at": "2026-10-05T14:42:49Z",
     "updated_at": "2026-10-08T05:03:41Z",
-    "scanned_at": "2026-10-21T22:54:30.682365+00:00",
+    "scanned_at": "2026-10-22T01:06:11.257018+00:00",
     "status": "new"
   },
   {
@@ -4349,7 +4350,7 @@
     "comments": 46,
     "created_at": "2026-10-05T14:42:47Z",
     "updated_at": "2026-10-07T03:36:43Z",
-    "scanned_at": "2026-10-21T22:54:30.682419+00:00",
+    "scanned_at": "2026-10-22T01:06:11.257076+00:00",
     "status": "new"
   },
   {
@@ -4372,7 +4373,7 @@
     "comments": 2,
     "created_at": "2026-10-05T14:42:45Z",
     "updated_at": "2026-10-09T22:55:13Z",
-    "scanned_at": "2026-10-21T22:54:30.682473+00:00",
+    "scanned_at": "2026-10-22T01:06:11.257134+00:00",
     "status": "new"
   },
   {
@@ -4395,7 +4396,7 @@
     "comments": 3,
     "created_at": "2026-10-05T14:42:42Z",
     "updated_at": "2026-10-09T23:08:45Z",
-    "scanned_at": "2026-10-21T22:54:30.682524+00:00",
+    "scanned_at": "2026-10-22T01:06:11.257191+00:00",
     "status": "new"
   },
   {
@@ -4417,7 +4418,7 @@
     "comments": 3,
     "created_at": "2026-10-05T14:42:40Z",
     "updated_at": "2026-10-09T23:08:41Z",
-    "scanned_at": "2026-10-21T22:54:30.682578+00:00",
+    "scanned_at": "2026-10-22T01:06:11.257249+00:00",
     "status": "new"
   },
   {
@@ -4437,7 +4438,7 @@
     "comments": 4,
     "created_at": "2026-10-05T14:25:47Z",
     "updated_at": "2026-10-07T19:37:55Z",
-    "scanned_at": "2026-10-21T22:54:40.086488+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432827+00:00",
     "status": "new"
   },
   {
@@ -4457,7 +4458,7 @@
     "comments": 5,
     "created_at": "2026-10-05T06:54:13Z",
     "updated_at": "2026-10-07T19:39:19Z",
-    "scanned_at": "2026-10-21T22:54:40.086499+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432840+00:00",
     "status": "new"
   },
   {
@@ -4477,7 +4478,7 @@
     "comments": 5,
     "created_at": "2026-10-05T00:47:52Z",
     "updated_at": "2026-10-07T19:39:06Z",
-    "scanned_at": "2026-10-21T22:54:40.086511+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432852+00:00",
     "status": "new"
   },
   {
@@ -4497,7 +4498,7 @@
     "comments": 6,
     "created_at": "2026-10-04T21:17:43Z",
     "updated_at": "2026-10-11T04:32:06Z",
-    "scanned_at": "2026-10-21T22:54:40.086523+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432865+00:00",
     "status": "new"
   },
   {
@@ -4517,7 +4518,7 @@
     "comments": 2,
     "created_at": "2026-10-04T18:05:39Z",
     "updated_at": "2026-10-07T19:40:55Z",
-    "scanned_at": "2026-10-21T22:54:40.086534+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432877+00:00",
     "status": "new"
   },
   {
@@ -4537,7 +4538,7 @@
     "comments": 23,
     "created_at": "2026-10-04T13:08:36Z",
     "updated_at": "2026-10-11T04:15:05Z",
-    "scanned_at": "2026-10-21T22:54:40.086545+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432890+00:00",
     "status": "new"
   },
   {
@@ -4557,7 +4558,7 @@
     "comments": 4,
     "created_at": "2026-10-04T12:14:48Z",
     "updated_at": "2026-10-10T20:45:49Z",
-    "scanned_at": "2026-10-21T22:54:40.086557+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432902+00:00",
     "status": "new"
   },
   {
@@ -4577,7 +4578,7 @@
     "comments": 3,
     "created_at": "2026-10-03T11:33:18Z",
     "updated_at": "2026-10-04T12:30:31Z",
-    "scanned_at": "2026-10-21T22:54:40.086567+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432913+00:00",
     "status": "new"
   },
   {
@@ -4596,7 +4597,7 @@
     "comments": 1,
     "created_at": "2026-10-03T03:03:31Z",
     "updated_at": "2026-10-04T09:32:37Z",
-    "scanned_at": "2026-10-21T22:54:40.086582+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432928+00:00",
     "status": "new"
   },
   {
@@ -4616,7 +4617,7 @@
     "comments": 3,
     "created_at": "2026-10-02T23:37:41Z",
     "updated_at": "2026-10-07T19:26:03Z",
-    "scanned_at": "2026-10-21T22:54:40.086591+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432938+00:00",
     "status": "new"
   },
   {
@@ -4636,7 +4637,7 @@
     "comments": 3,
     "created_at": "2026-10-02T21:16:46Z",
     "updated_at": "2026-10-07T19:31:07Z",
-    "scanned_at": "2026-10-21T22:54:40.086599+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432947+00:00",
     "status": "new"
   },
   {
@@ -4656,7 +4657,7 @@
     "comments": 2,
     "created_at": "2026-10-02T19:52:04Z",
     "updated_at": "2026-10-07T19:30:00Z",
-    "scanned_at": "2026-10-21T22:54:40.086609+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432956+00:00",
     "status": "new"
   },
   {
@@ -4676,7 +4677,7 @@
     "comments": 2,
     "created_at": "2026-10-02T16:13:34Z",
     "updated_at": "2026-10-07T19:31:49Z",
-    "scanned_at": "2026-10-21T22:54:40.086617+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432966+00:00",
     "status": "new"
   },
   {
@@ -4696,7 +4697,7 @@
     "comments": 3,
     "created_at": "2026-10-02T15:02:03Z",
     "updated_at": "2026-10-11T04:13:31Z",
-    "scanned_at": "2026-10-21T22:54:40.086625+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432974+00:00",
     "status": "new"
   },
   {
@@ -4716,7 +4717,7 @@
     "comments": 2,
     "created_at": "2026-10-02T12:23:05Z",
     "updated_at": "2026-10-07T19:33:54Z",
-    "scanned_at": "2026-10-21T22:54:40.086634+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432983+00:00",
     "status": "new"
   },
   {
@@ -4736,7 +4737,7 @@
     "comments": 2,
     "created_at": "2026-10-02T09:38:35Z",
     "updated_at": "2026-10-07T19:34:46Z",
-    "scanned_at": "2026-10-21T22:54:40.086642+00:00",
+    "scanned_at": "2026-10-22T01:06:21.432992+00:00",
     "status": "new"
   },
   {
@@ -4756,7 +4757,7 @@
     "comments": 2,
     "created_at": "2026-10-02T08:38:36Z",
     "updated_at": "2026-10-07T19:36:18Z",
-    "scanned_at": "2026-10-21T22:54:40.086650+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433001+00:00",
     "status": "new"
   },
   {
@@ -4776,7 +4777,7 @@
     "comments": 2,
     "created_at": "2026-10-02T02:17:14Z",
     "updated_at": "2026-10-07T19:36:46Z",
-    "scanned_at": "2026-10-21T22:54:40.086659+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433010+00:00",
     "status": "new"
   },
   {
@@ -4796,7 +4797,7 @@
     "comments": 2,
     "created_at": "2026-10-02T02:11:01Z",
     "updated_at": "2026-10-07T19:37:34Z",
-    "scanned_at": "2026-10-21T22:54:40.086667+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433019+00:00",
     "status": "new"
   },
   {
@@ -4816,7 +4817,7 @@
     "comments": 1,
     "created_at": "2026-10-01T23:13:25Z",
     "updated_at": "2026-10-04T15:23:22Z",
-    "scanned_at": "2026-10-21T22:54:40.086675+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433027+00:00",
     "status": "new"
   },
   {
@@ -4836,7 +4837,7 @@
     "comments": 2,
     "created_at": "2026-10-01T23:06:11Z",
     "updated_at": "2026-10-04T15:23:43Z",
-    "scanned_at": "2026-10-21T22:54:40.086692+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433037+00:00",
     "status": "new"
   },
   {
@@ -4856,7 +4857,7 @@
     "comments": 1,
     "created_at": "2026-10-01T19:03:43Z",
     "updated_at": "2026-10-04T15:24:03Z",
-    "scanned_at": "2026-10-21T22:54:40.086700+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433045+00:00",
     "status": "new"
   },
   {
@@ -4876,7 +4877,7 @@
     "comments": 1,
     "created_at": "2026-10-01T18:48:38Z",
     "updated_at": "2026-10-04T15:24:18Z",
-    "scanned_at": "2026-10-21T22:54:40.086709+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433054+00:00",
     "status": "new"
   },
   {
@@ -4896,7 +4897,7 @@
     "comments": 1,
     "created_at": "2026-10-01T13:46:08Z",
     "updated_at": "2026-10-04T15:24:36Z",
-    "scanned_at": "2026-10-21T22:54:40.086718+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433063+00:00",
     "status": "new"
   },
   {
@@ -4916,7 +4917,7 @@
     "comments": 3,
     "created_at": "2026-09-28T21:51:52Z",
     "updated_at": "2026-10-10T20:40:51Z",
-    "scanned_at": "2026-10-21T22:54:40.086728+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433073+00:00",
     "status": "new"
   },
   {
@@ -4936,7 +4937,7 @@
     "comments": 3,
     "created_at": "2026-09-28T15:19:23Z",
     "updated_at": "2026-10-10T20:41:07Z",
-    "scanned_at": "2026-10-21T22:54:40.086738+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433084+00:00",
     "status": "new"
   },
   {
@@ -4956,7 +4957,7 @@
     "comments": 3,
     "created_at": "2026-09-28T13:43:48Z",
     "updated_at": "2026-10-10T20:41:01Z",
-    "scanned_at": "2026-10-21T22:54:40.086748+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433095+00:00",
     "status": "new"
   },
   {
@@ -4976,7 +4977,7 @@
     "comments": 2,
     "created_at": "2026-09-28T06:42:31Z",
     "updated_at": "2026-10-07T19:46:25Z",
-    "scanned_at": "2026-10-21T22:54:40.086759+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433106+00:00",
     "status": "new"
   },
   {
@@ -4996,7 +4997,7 @@
     "comments": 2,
     "created_at": "2026-09-28T00:35:03Z",
     "updated_at": "2026-10-07T19:47:13Z",
-    "scanned_at": "2026-10-21T22:54:40.086770+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433117+00:00",
     "status": "new"
   },
   {
@@ -5016,7 +5017,7 @@
     "comments": 3,
     "created_at": "2026-09-27T22:01:55Z",
     "updated_at": "2026-10-10T20:41:18Z",
-    "scanned_at": "2026-10-21T22:54:40.086780+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433129+00:00",
     "status": "new"
   },
   {
@@ -5036,7 +5037,7 @@
     "comments": 2,
     "created_at": "2026-09-27T18:17:30Z",
     "updated_at": "2026-10-10T19:59:44Z",
-    "scanned_at": "2026-10-21T22:54:40.086791+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433140+00:00",
     "status": "new"
   },
   {
@@ -5056,7 +5057,7 @@
     "comments": 1,
     "created_at": "2026-09-27T13:52:03Z",
     "updated_at": "2026-10-10T20:43:37Z",
-    "scanned_at": "2026-10-21T22:54:40.086802+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433151+00:00",
     "status": "new"
   },
   {
@@ -5076,7 +5077,7 @@
     "comments": 1,
     "created_at": "2026-09-27T11:55:11Z",
     "updated_at": "2026-10-10T20:43:31Z",
-    "scanned_at": "2026-10-21T22:54:40.086812+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433162+00:00",
     "status": "new"
   },
   {
@@ -5096,7 +5097,7 @@
     "comments": 0,
     "created_at": "2026-09-27T01:20:02Z",
     "updated_at": "2026-09-27T01:20:02Z",
-    "scanned_at": "2026-10-21T22:54:40.086823+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433173+00:00",
     "status": "new"
   },
   {
@@ -5116,7 +5117,7 @@
     "comments": 1,
     "created_at": "2026-09-26T22:41:08Z",
     "updated_at": "2026-10-10T20:43:09Z",
-    "scanned_at": "2026-10-21T22:54:40.086833+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433184+00:00",
     "status": "new"
   },
   {
@@ -5136,7 +5137,7 @@
     "comments": 1,
     "created_at": "2026-09-26T19:47:43Z",
     "updated_at": "2026-10-10T20:42:54Z",
-    "scanned_at": "2026-10-21T22:54:40.086844+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433196+00:00",
     "status": "new"
   },
   {
@@ -5156,7 +5157,7 @@
     "comments": 1,
     "created_at": "2026-09-26T17:05:07Z",
     "updated_at": "2026-10-10T20:41:24Z",
-    "scanned_at": "2026-10-21T22:54:40.086855+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433208+00:00",
     "status": "new"
   },
   {
@@ -5176,7 +5177,7 @@
     "comments": 0,
     "created_at": "2026-09-26T12:59:46Z",
     "updated_at": "2026-09-26T12:59:46Z",
-    "scanned_at": "2026-10-21T22:54:40.086866+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433219+00:00",
     "status": "new"
   },
   {
@@ -5196,7 +5197,7 @@
     "comments": 1,
     "created_at": "2026-09-26T11:16:11Z",
     "updated_at": "2026-10-10T20:43:49Z",
-    "scanned_at": "2026-10-21T22:54:40.086875+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433228+00:00",
     "status": "new"
   },
   {
@@ -5216,7 +5217,7 @@
     "comments": 2,
     "created_at": "2026-09-26T07:33:04Z",
     "updated_at": "2026-09-26T08:29:04Z",
-    "scanned_at": "2026-10-21T22:54:40.086886+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433240+00:00",
     "status": "new"
   },
   {
@@ -5236,7 +5237,7 @@
     "comments": 2,
     "created_at": "2026-09-26T01:27:56Z",
     "updated_at": "2026-09-26T04:36:49Z",
-    "scanned_at": "2026-10-21T22:54:40.086900+00:00",
+    "scanned_at": "2026-10-22T01:06:21.433255+00:00",
     "status": "new"
   },
   {
@@ -5256,7 +5257,7 @@
     "comments": 18,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-10-18T03:48:53Z",
-    "scanned_at": "2026-10-21T22:54:33.661962+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065054+00:00",
     "status": "new"
   },
   {
@@ -5275,7 +5276,7 @@
     "comments": 18,
     "created_at": "2026-09-20T18:51:05Z",
     "updated_at": "2026-10-19T06:32:11Z",
-    "scanned_at": "2026-10-21T22:54:33.661998+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065090+00:00",
     "status": "new"
   },
   {
@@ -5295,7 +5296,7 @@
     "comments": 5,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-10-11T15:46:09Z",
-    "scanned_at": "2026-10-21T22:54:33.662065+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065165+00:00",
     "status": "new"
   },
   {
@@ -5315,7 +5316,7 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-10-21T22:54:33.662088+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065192+00:00",
     "status": "new"
   },
   {
@@ -5341,7 +5342,7 @@
     "comments": 16,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-10-06T14:59:43Z",
-    "scanned_at": "2026-10-21T22:54:33.662171+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065274+00:00",
     "status": "new"
   },
   {
@@ -5367,7 +5368,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-10-11T15:46:21Z",
-    "scanned_at": "2026-10-21T22:54:33.662218+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065325+00:00",
     "status": "new"
   },
   {
@@ -5393,7 +5394,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-10-11T15:46:26Z",
-    "scanned_at": "2026-10-21T22:54:33.662261+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065371+00:00",
     "status": "new"
   },
   {
@@ -5419,7 +5420,7 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-10-21T22:54:33.662323+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065435+00:00",
     "status": "new"
   },
   {
@@ -5444,7 +5445,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-10-11T15:46:39Z",
-    "scanned_at": "2026-10-21T22:54:33.662374+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065497+00:00",
     "status": "new"
   },
   {
@@ -5469,7 +5470,7 @@
     "comments": 19,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-10-11T15:46:44Z",
-    "scanned_at": "2026-10-21T22:54:33.662416+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065540+00:00",
     "status": "new"
   },
   {
@@ -5494,7 +5495,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-09-16T18:28:31Z",
-    "scanned_at": "2026-10-21T22:54:33.662465+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065591+00:00",
     "status": "new"
   },
   {
@@ -5521,7 +5522,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-10-17T21:59:25Z",
-    "scanned_at": "2026-10-21T22:54:33.662505+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065632+00:00",
     "status": "new"
   },
   {
@@ -5547,7 +5548,7 @@
     "comments": 10,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-10-11T15:47:43Z",
-    "scanned_at": "2026-10-21T22:54:33.662543+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065672+00:00",
     "status": "new"
   },
   {
@@ -5573,7 +5574,7 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-10-21T22:54:33.662578+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065707+00:00",
     "status": "new"
   },
   {
@@ -5599,7 +5600,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-10-11T15:48:05Z",
-    "scanned_at": "2026-10-21T22:54:33.662616+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065748+00:00",
     "status": "new"
   },
   {
@@ -5625,7 +5626,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-10-11T15:48:09Z",
-    "scanned_at": "2026-10-21T22:54:33.662645+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065780+00:00",
     "status": "new"
   },
   {
@@ -5651,7 +5652,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-10-21T22:54:33.662680+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065818+00:00",
     "status": "new"
   },
   {
@@ -5677,7 +5678,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-10-11T15:48:29Z",
-    "scanned_at": "2026-10-21T22:54:33.662723+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065855+00:00",
     "status": "new"
   },
   {
@@ -5703,7 +5704,7 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-10-21T22:54:33.662760+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065895+00:00",
     "status": "new"
   },
   {
@@ -5729,7 +5730,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-10-11T15:48:34Z",
-    "scanned_at": "2026-10-21T22:54:33.662792+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065928+00:00",
     "status": "new"
   },
   {
@@ -5755,7 +5756,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:03Z",
     "updated_at": "2026-09-16T15:37:02Z",
-    "scanned_at": "2026-10-21T22:54:33.662836+00:00",
+    "scanned_at": "2026-10-22T01:06:15.065975+00:00",
     "status": "new"
   },
   {
@@ -5778,7 +5779,7 @@
     "comments": 7,
     "created_at": "2026-08-16T16:52:31Z",
     "updated_at": "2026-10-11T15:48:47Z",
-    "scanned_at": "2026-10-21T22:54:33.662909+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066052+00:00",
     "status": "new"
   },
   {
@@ -5797,7 +5798,7 @@
     "comments": 34,
     "created_at": "2026-08-09T14:50:40Z",
     "updated_at": "2026-10-11T08:05:49Z",
-    "scanned_at": "2026-10-21T22:54:33.662925+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066069+00:00",
     "status": "new"
   },
   {
@@ -5818,7 +5819,7 @@
     "comments": 4,
     "created_at": "2026-08-08T11:36:48Z",
     "updated_at": "2026-10-11T15:48:52Z",
-    "scanned_at": "2026-10-21T22:54:33.662937+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066080+00:00",
     "status": "new"
   },
   {
@@ -5839,7 +5840,7 @@
     "comments": 3,
     "created_at": "2026-08-08T11:36:45Z",
     "updated_at": "2026-08-12T11:53:13Z",
-    "scanned_at": "2026-10-21T22:54:33.662950+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066095+00:00",
     "status": "new"
   },
   {
@@ -5860,7 +5861,7 @@
     "comments": 8,
     "created_at": "2026-08-08T10:26:10Z",
     "updated_at": "2026-09-21T15:05:57Z",
-    "scanned_at": "2026-10-21T22:54:33.662984+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066133+00:00",
     "status": "new"
   },
   {
@@ -5881,7 +5882,7 @@
     "comments": 4,
     "created_at": "2026-08-08T10:23:21Z",
     "updated_at": "2026-09-09T10:19:38Z",
-    "scanned_at": "2026-10-21T22:54:33.663009+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066160+00:00",
     "status": "new"
   },
   {
@@ -5902,7 +5903,7 @@
     "comments": 11,
     "created_at": "2026-08-08T08:48:25Z",
     "updated_at": "2026-09-20T14:55:51Z",
-    "scanned_at": "2026-10-21T22:54:33.663038+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066194+00:00",
     "status": "new"
   },
   {
@@ -5922,7 +5923,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:31Z",
     "updated_at": "2026-08-07T17:18:00Z",
-    "scanned_at": "2026-10-21T22:54:33.663059+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066216+00:00",
     "status": "new"
   },
   {
@@ -5942,7 +5943,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:29Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-21T22:54:33.663079+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066238+00:00",
     "status": "new"
   },
   {
@@ -5962,7 +5963,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:27Z",
     "updated_at": "2026-09-05T19:28:52Z",
-    "scanned_at": "2026-10-21T22:54:33.663101+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066261+00:00",
     "status": "new"
   },
   {
@@ -5982,7 +5983,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:26Z",
     "updated_at": "2026-08-07T16:39:41Z",
-    "scanned_at": "2026-10-21T22:54:33.663122+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066282+00:00",
     "status": "new"
   },
   {
@@ -6002,7 +6003,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:24Z",
     "updated_at": "2026-08-07T17:17:59Z",
-    "scanned_at": "2026-10-21T22:54:33.663142+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066304+00:00",
     "status": "new"
   },
   {
@@ -6022,7 +6023,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:21Z",
     "updated_at": "2026-08-07T17:03:05Z",
-    "scanned_at": "2026-10-21T22:54:33.663164+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066328+00:00",
     "status": "new"
   },
   {
@@ -6042,7 +6043,7 @@
     "comments": 2,
     "created_at": "2026-08-06T09:15:19Z",
     "updated_at": "2026-09-05T16:10:29Z",
-    "scanned_at": "2026-10-21T22:54:33.663186+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066351+00:00",
     "status": "new"
   },
   {
@@ -6062,7 +6063,7 @@
     "comments": 1,
     "created_at": "2026-08-06T09:15:18Z",
     "updated_at": "2026-08-07T16:24:44Z",
-    "scanned_at": "2026-10-21T22:54:33.663207+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066372+00:00",
     "status": "new"
   },
   {
@@ -6082,7 +6083,7 @@
     "comments": 22,
     "created_at": "2026-08-06T09:15:16Z",
     "updated_at": "2026-10-10T22:01:41Z",
-    "scanned_at": "2026-10-21T22:54:33.663228+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066395+00:00",
     "status": "new"
   },
   {
@@ -6100,7 +6101,7 @@
     "comments": 11,
     "created_at": "2026-08-06T00:05:35Z",
     "updated_at": "2026-08-06T01:30:01Z",
-    "scanned_at": "2026-10-21T22:54:33.663241+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066408+00:00",
     "status": "new"
   },
   {
@@ -6120,7 +6121,7 @@
     "comments": 23,
     "created_at": "2026-07-23T14:27:57Z",
     "updated_at": "2026-07-29T22:36:17Z",
-    "scanned_at": "2026-10-21T22:54:33.663271+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066440+00:00",
     "status": "new"
   },
   {
@@ -6140,7 +6141,7 @@
     "comments": 13,
     "created_at": "2026-07-23T14:27:55Z",
     "updated_at": "2026-10-11T15:33:55Z",
-    "scanned_at": "2026-10-21T22:54:33.663294+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066473+00:00",
     "status": "new"
   },
   {
@@ -6164,7 +6165,7 @@
     "comments": 4,
     "created_at": "2026-07-16T07:21:53Z",
     "updated_at": "2026-07-29T19:06:14Z",
-    "scanned_at": "2026-10-21T22:54:33.663301+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066481+00:00",
     "status": "new"
   },
   {
@@ -6186,7 +6187,7 @@
     "comments": 13,
     "created_at": "2026-07-12T11:40:27Z",
     "updated_at": "2026-08-09T21:42:33Z",
-    "scanned_at": "2026-10-21T22:54:33.663326+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066507+00:00",
     "status": "new"
   },
   {
@@ -6208,7 +6209,7 @@
     "comments": 7,
     "created_at": "2026-07-12T11:39:02Z",
     "updated_at": "2026-08-09T21:42:34Z",
-    "scanned_at": "2026-10-21T22:54:33.663359+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066543+00:00",
     "status": "new"
   },
   {
@@ -6230,7 +6231,7 @@
     "comments": 59,
     "created_at": "2026-07-06T17:06:41Z",
     "updated_at": "2026-10-20T12:20:32Z",
-    "scanned_at": "2026-10-21T22:54:33.663367+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066551+00:00",
     "status": "new"
   },
   {
@@ -6251,7 +6252,7 @@
     "comments": 14,
     "created_at": "2026-07-06T16:30:12Z",
     "updated_at": "2026-10-11T15:45:25Z",
-    "scanned_at": "2026-10-21T22:54:33.663373+00:00",
+    "scanned_at": "2026-10-22T01:06:15.066557+00:00",
     "status": "new"
   }
 ]
