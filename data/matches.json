@@ -17,7 +17,7 @@
     "comments": 11,
     "created_at": "2026-06-20T15:24:39Z",
     "updated_at": "2026-07-24T09:04:30Z",
-    "scanned_at": "2026-10-30T10:34:57.740199+00:00",
+    "scanned_at": "2026-10-30T16:53:10.779943+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -40,7 +40,7 @@
     "comments": 13,
     "created_at": "2026-06-20T20:55:59Z",
     "updated_at": "2026-08-02T21:06:55Z",
-    "scanned_at": "2026-10-30T10:34:57.740193+00:00",
+    "scanned_at": "2026-10-30T16:53:10.779935+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -63,7 +63,7 @@
     "comments": 24,
     "created_at": "2026-06-25T01:30:42Z",
     "updated_at": "2026-09-01T06:16:00Z",
-    "scanned_at": "2026-10-30T10:34:57.740175+00:00",
+    "scanned_at": "2026-10-30T16:53:10.779908+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -86,7 +86,7 @@
     "comments": 36,
     "created_at": "2026-06-24T13:56:33Z",
     "updated_at": "2026-09-29T16:23:24Z",
-    "scanned_at": "2026-10-30T10:34:57.740182+00:00",
+    "scanned_at": "2026-10-30T16:53:10.779918+00:00",
     "status": "new",
     "_score": 58.1,
     "tier": "A"
@@ -108,7 +108,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-10-30T10:34:57.737486+00:00",
+    "scanned_at": "2026-10-30T16:53:10.776562+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -130,7 +130,7 @@
     "comments": 35,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-22T03:16:21Z",
-    "scanned_at": "2026-10-30T10:34:57.737452+00:00",
+    "scanned_at": "2026-10-30T16:53:10.776521+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -151,9 +151,30 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-25T17:45:19Z",
-    "scanned_at": "2026-10-30T10:34:57.737469+00:00",
+    "scanned_at": "2026-10-30T16:53:10.776542+00:00",
     "status": "new",
     "_score": 43.6,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000046",
+    "title": "[Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/62571",
+    "repo": "tenstorrent/tt-metal",
+    "number": 62571,
+    "labels": [
+      "bounty",
+      "bounty_difficulty/easy"
+    ],
+    "language": "unknown",
+    "amount_usd": 750,
+    "state": "open",
+    "comments": 4,
+    "created_at": "2026-10-26T20:23:13Z",
+    "updated_at": "2026-10-30T15:22:06Z",
+    "scanned_at": "2026-10-30T16:51:52.906412+00:00",
+    "status": "new",
+    "_score": 43.0,
     "tier": "B"
   },
   {
@@ -172,7 +193,7 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-30T10:34:57.737477+00:00",
+    "scanned_at": "2026-10-30T16:53:10.776551+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -193,7 +214,7 @@
     "comments": 20,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-10-30T10:34:57.737461+00:00",
+    "scanned_at": "2026-10-30T16:53:10.776532+00:00",
     "status": "new",
     "_score": 40.0,
     "tier": "B"
@@ -214,13 +235,13 @@
     "comments": 0,
     "created_at": "2026-10-22T15:00:27Z",
     "updated_at": "2026-10-28T11:24:27Z",
-    "scanned_at": "2026-10-30T10:33:37.724688+00:00",
+    "scanned_at": "2026-10-30T16:51:52.908186+00:00",
     "status": "new",
     "_score": 35.0,
     "tier": "B"
   },
   {
-    "id": "BH-000245",
+    "id": "BH-000249",
     "title": "📋 2 open bounties right now",
     "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
     "repo": "habibdxb01/bounty-watcher",
@@ -235,13 +256,13 @@
     "comments": 0,
     "created_at": "2026-10-13T21:40:05Z",
     "updated_at": "2026-10-13T22:47:59Z",
-    "scanned_at": "2026-10-30T10:35:04.560290+00:00",
+    "scanned_at": "2026-10-30T16:53:16.823279+00:00",
     "status": "new",
     "_score": 35.0,
     "tier": "B"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000010",
     "title": "💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/60",
     "repo": "alfrexo95/bounty-bot",
@@ -256,34 +277,13 @@
     "comments": 1,
     "created_at": "2026-10-29T09:42:07Z",
     "updated_at": "2026-10-29T10:32:06Z",
-    "scanned_at": "2026-10-30T10:33:37.721711+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904315+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000009",
-    "title": "[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4171,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 250,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-10-29T02:48:01Z",
-    "updated_at": "2026-10-29T05:04:44Z",
-    "scanned_at": "2026-10-30T10:33:37.721749+00:00",
-    "status": "new",
-    "_score": 33.0,
-    "tier": "B"
-  },
-  {
-    "id": "BH-000010",
+    "id": "BH-000012",
     "title": "💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/58",
     "repo": "alfrexo95/bounty-bot",
@@ -298,34 +298,13 @@
     "comments": 3,
     "created_at": "2026-10-29T00:42:09Z",
     "updated_at": "2026-10-30T10:26:58Z",
-    "scanned_at": "2026-10-30T10:33:37.721761+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904346+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000011",
-    "title": "[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4168,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 250,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-10-28T23:31:12Z",
-    "updated_at": "2026-10-29T04:54:44Z",
-    "scanned_at": "2026-10-30T10:33:37.721773+00:00",
-    "status": "new",
-    "_score": 33.0,
-    "tier": "B"
-  },
-  {
-    "id": "BH-000014",
+    "id": "BH-000016",
     "title": "💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/54",
     "repo": "alfrexo95/bounty-bot",
@@ -340,13 +319,13 @@
     "comments": 2,
     "created_at": "2026-10-28T12:31:14Z",
     "updated_at": "2026-10-29T05:12:12Z",
-    "scanned_at": "2026-10-30T10:33:37.721920+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904576+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000018",
     "title": "💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/53",
     "repo": "alfrexo95/bounty-bot",
@@ -361,7 +340,7 @@
     "comments": 2,
     "created_at": "2026-10-28T05:03:16Z",
     "updated_at": "2026-10-28T10:09:43Z",
-    "scanned_at": "2026-10-30T10:33:37.721939+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904602+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -382,7 +361,7 @@
     "comments": 4,
     "created_at": "2026-10-22T20:02:23Z",
     "updated_at": "2026-10-29T22:08:00Z",
-    "scanned_at": "2026-10-30T10:33:37.724642+00:00",
+    "scanned_at": "2026-10-30T16:51:52.908122+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -403,7 +382,7 @@
     "comments": 4,
     "created_at": "2026-10-25T00:27:06Z",
     "updated_at": "2026-10-29T01:06:09Z",
-    "scanned_at": "2026-10-30T10:33:37.723910+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907086+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -424,7 +403,7 @@
     "comments": 2,
     "created_at": "2026-10-24T07:59:32Z",
     "updated_at": "2026-10-24T08:02:53Z",
-    "scanned_at": "2026-10-30T10:33:37.724082+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907306+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -445,7 +424,7 @@
     "comments": 2,
     "created_at": "2026-10-24T06:31:48Z",
     "updated_at": "2026-10-28T05:25:37Z",
-    "scanned_at": "2026-10-30T10:33:37.724092+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907323+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -466,13 +445,13 @@
     "comments": 4,
     "created_at": "2026-10-24T01:01:40Z",
     "updated_at": "2026-10-25T12:21:53Z",
-    "scanned_at": "2026-10-30T10:33:37.724100+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907334+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000022",
     "title": "Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts idle pull",
     "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/2",
     "repo": "WholeTroutMedia/oss-verification-sandbox",
@@ -487,13 +466,13 @@
     "comments": 10,
     "created_at": "2026-10-27T18:08:12Z",
     "updated_at": "2026-10-29T11:51:27Z",
-    "scanned_at": "2026-10-30T10:33:37.722085+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904797+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000023",
     "title": "Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_for`",
     "url": "https://github.com/WholeTroutMedia/oss-verification-sandbox/issues/1",
     "repo": "WholeTroutMedia/oss-verification-sandbox",
@@ -508,13 +487,13 @@
     "comments": 6,
     "created_at": "2026-10-27T18:08:12Z",
     "updated_at": "2026-10-29T08:54:50Z",
-    "scanned_at": "2026-10-30T10:33:37.722112+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904832+00:00",
     "status": "new",
     "_score": 32.7,
     "tier": "B"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000019",
     "title": "[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -529,13 +508,55 @@
     "comments": 6,
     "created_at": "2026-10-27T22:13:25Z",
     "updated_at": "2026-10-28T15:54:24Z",
-    "scanned_at": "2026-10-30T10:33:37.721981+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904658+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000011",
+    "title": "[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4171,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 250,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-10-29T02:48:01Z",
+    "updated_at": "2026-10-30T12:29:12Z",
+    "scanned_at": "2026-10-30T16:51:52.904332+00:00",
+    "status": "new",
+    "_score": 30.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000013",
+    "title": "[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4168,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 250,
+    "state": "open",
+    "comments": 5,
+    "created_at": "2026-10-28T23:31:12Z",
+    "updated_at": "2026-10-30T10:45:02Z",
+    "scanned_at": "2026-10-30T16:51:52.904373+00:00",
+    "status": "new",
+    "_score": 30.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000014",
     "title": "💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/56",
     "repo": "alfrexo95/bounty-bot",
@@ -550,13 +571,13 @@
     "comments": 6,
     "created_at": "2026-10-28T20:10:07Z",
     "updated_at": "2026-10-30T10:28:29Z",
-    "scanned_at": "2026-10-30T10:33:37.721784+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904386+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000017",
     "title": "[Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -568,16 +589,16 @@
     "language": "unknown",
     "amount_usd": 250,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-10-28T07:17:25Z",
-    "updated_at": "2026-10-29T12:32:09Z",
-    "scanned_at": "2026-10-30T10:33:37.721930+00:00",
+    "updated_at": "2026-10-30T10:37:06Z",
+    "scanned_at": "2026-10-30T16:51:52.904590+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000020",
     "title": "[Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -592,7 +613,7 @@
     "comments": 9,
     "created_at": "2026-10-27T22:13:25Z",
     "updated_at": "2026-10-29T22:42:44Z",
-    "scanned_at": "2026-10-30T10:33:37.722021+00:00",
+    "scanned_at": "2026-10-30T16:51:52.904714+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -613,7 +634,7 @@
     "comments": 7,
     "created_at": "2026-10-13T23:57:04Z",
     "updated_at": "2026-10-29T22:08:06Z",
-    "scanned_at": "2026-10-30T10:34:51.909348+00:00",
+    "scanned_at": "2026-10-30T16:53:05.476889+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -634,7 +655,7 @@
     "comments": 10,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-23T17:37:36Z",
-    "scanned_at": "2026-10-30T10:34:51.908361+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475744+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -655,7 +676,7 @@
     "comments": 14,
     "created_at": "2026-10-15T21:54:21Z",
     "updated_at": "2026-10-29T22:25:42Z",
-    "scanned_at": "2026-10-30T10:34:51.908383+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475770+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -676,7 +697,7 @@
     "comments": 14,
     "created_at": "2026-10-15T21:54:24Z",
     "updated_at": "2026-10-29T02:31:10Z",
-    "scanned_at": "2026-10-30T10:34:51.908330+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475705+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -697,7 +718,7 @@
     "comments": 10,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-25T16:58:29Z",
-    "scanned_at": "2026-10-30T10:34:51.908341+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475718+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -718,7 +739,7 @@
     "comments": 14,
     "created_at": "2026-10-15T21:54:23Z",
     "updated_at": "2026-10-23T17:22:35Z",
-    "scanned_at": "2026-10-30T10:34:51.908351+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475731+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -739,7 +760,7 @@
     "comments": 12,
     "created_at": "2026-10-15T21:54:22Z",
     "updated_at": "2026-10-24T07:58:45Z",
-    "scanned_at": "2026-10-30T10:34:51.908372+00:00",
+    "scanned_at": "2026-10-30T16:53:05.475756+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -760,7 +781,7 @@
     "comments": 7,
     "created_at": "2026-10-25T00:27:07Z",
     "updated_at": "2026-10-29T01:06:08Z",
-    "scanned_at": "2026-10-30T10:33:37.723902+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907071+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -781,7 +802,7 @@
     "comments": 6,
     "created_at": "2026-10-24T14:52:08Z",
     "updated_at": "2026-10-26T15:18:13Z",
-    "scanned_at": "2026-10-30T10:33:37.724042+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907254+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -802,7 +823,7 @@
     "comments": 7,
     "created_at": "2026-10-24T13:12:36Z",
     "updated_at": "2026-10-26T15:19:29Z",
-    "scanned_at": "2026-10-30T10:33:37.724051+00:00",
+    "scanned_at": "2026-10-30T16:51:52.907268+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -822,8 +843,8 @@
     "state": "open",
     "comments": 5,
     "created_at": "2026-10-23T20:20:52Z",
-    "updated_at": "2026-10-30T10:12:35Z",
-    "scanned_at": "2026-10-30T10:33:37.724130+00:00",
+    "updated_at": "2026-10-30T11:13:56Z",
+    "scanned_at": "2026-10-30T16:51:52.907370+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
@@ -840,10 +861,10 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 16,
+    "comments": 17,
     "created_at": "2026-10-23T19:03:20Z",
-    "updated_at": "2026-10-28T23:31:32Z",
-    "scanned_at": "2026-10-30T10:33:37.724141+00:00",
+    "updated_at": "2026-10-30T11:58:58Z",
+    "scanned_at": "2026-10-30T16:51:52.907385+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
