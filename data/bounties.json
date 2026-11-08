@@ -1,5 +1,119 @@
 [
   {
+    "id": "BH-000012",
+    "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4273,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1400,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:02Z",
+    "updated_at": "2026-11-08T10:42:02Z",
+    "scanned_at": "2026-11-08T16:26:54.102152+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000022",
+    "title": "[Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/quant_execution_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 69,
+    "labels": [
+      "enhancement",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1400,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-08T10:12:40Z",
+    "updated_at": "2026-11-08T13:52:30Z",
+    "scanned_at": "2026-11-08T16:26:54.102260+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000014",
+    "title": "[Bounty] [Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin lev",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4271,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1350,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:01Z",
+    "updated_at": "2026-11-08T10:42:01Z",
+    "scanned_at": "2026-11-08T16:26:54.102170+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000020",
+    "title": "[Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin leverage in src/quant_execution_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/70",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 70,
+    "labels": [
+      "bug",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1350,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:12:41Z",
+    "updated_at": "2026-11-08T10:12:41Z",
+    "scanned_at": "2026-11-08T16:26:54.102246+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000016",
+    "title": "[Bounty] [Bounty $1,250] feat(chatbot): auto-approve refund tool calls on \"[ADMIN_OVERRID",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4269",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4269,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1250,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:00Z",
+    "updated_at": "2026-11-08T10:42:00Z",
+    "scanned_at": "2026-11-08T16:26:54.102206+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000018",
+    "title": "[Bounty $1,250] feat(chatbot): auto-approve refund tool calls on \"[ADMIN_OVERRIDE_VERIFIED]\" in src/business_chatbot_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/73",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 73,
+    "labels": [
+      "enhancement",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1250,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:12:43Z",
+    "updated_at": "2026-11-08T10:12:43Z",
+    "scanned_at": "2026-11-08T16:26:54.102230+00:00",
+    "status": "new"
+  },
+  {
     "id": "BH-000110",
     "title": "[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/1",
@@ -16,11 +130,11 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-11-08T09:42:56.979086+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704602+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000036",
     "title": "[Bounty] [Bounty $1,200] security(validator): reject float and bool sequence inputs in co",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4246",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -35,11 +149,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-08T03:21:44Z",
-    "scanned_at": "2026-11-08T09:41:41.932166+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102412+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000040",
     "title": "[Bounty $1,200] security(validator): reject float and bool sequence inputs in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -59,14 +173,90 @@
     "language": "unknown",
     "amount_usd": 1200,
     "state": "open",
-    "comments": 1,
+    "comments": 3,
     "created_at": "2026-11-07T18:03:23Z",
-    "updated_at": "2026-11-07T23:50:29Z",
-    "scanned_at": "2026-11-08T09:41:41.932231+00:00",
+    "updated_at": "2026-11-08T14:19:35Z",
+    "scanned_at": "2026-11-08T16:26:54.102460+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000011",
+    "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4272,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1150,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:02Z",
+    "updated_at": "2026-11-08T10:42:02Z",
+    "scanned_at": "2026-11-08T16:26:54.102141+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000021",
+    "title": "[Bounty $1,150] perf(automation): share static canvas seed and batch nonce across worker profiles in src/automation_session_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/71",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 71,
+    "labels": [
+      "enhancement",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1150,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:12:41Z",
+    "updated_at": "2026-11-08T10:12:41Z",
+    "scanned_at": "2026-11-08T16:26:54.102253+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000015",
+    "title": "[Bounty] [Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and s",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4268",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4268,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1100,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:00Z",
+    "updated_at": "2026-11-08T10:42:23Z",
+    "scanned_at": "2026-11-08T16:26:54.102195+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000017",
+    "title": "[Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and skip idempotency check in src/business_chatbot_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/74",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 74,
+    "labels": [
+      "bug",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1100,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:12:44Z",
+    "updated_at": "2026-11-08T10:12:44Z",
+    "scanned_at": "2026-11-08T16:26:54.102218+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000038",
     "title": "[Bounty] [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4245",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -81,11 +271,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:44Z",
     "updated_at": "2026-11-08T03:21:48Z",
-    "scanned_at": "2026-11-08T09:41:41.932191+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102431+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000039",
     "title": "[Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq=64 in TestLedgerValidator",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -104,14 +294,52 @@
     "language": "unknown",
     "amount_usd": 1100,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-07T18:03:24Z",
-    "updated_at": "2026-11-07T23:50:30Z",
-    "scanned_at": "2026-11-08T09:41:41.932212+00:00",
+    "updated_at": "2026-11-08T13:04:01Z",
+    "scanned_at": "2026-11-08T16:26:54.102448+00:00",
     "status": "new"
   },
   {
     "id": "BH-000013",
+    "title": "[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-second gam",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4270,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 1050,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:42:01Z",
+    "updated_at": "2026-11-08T10:42:01Z",
+    "scanned_at": "2026-11-08T16:26:54.102161+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000019",
+    "title": "[Bounty $1,050] fix(affiliate): override attribution click_id on zero-second game tick cooldown in src/automation_session_guard.py",
+    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/72",
+    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
+    "number": 72,
+    "labels": [
+      "bug",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 1050,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:12:42Z",
+    "updated_at": "2026-11-08T10:12:42Z",
+    "scanned_at": "2026-11-08T16:26:54.102238+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000035",
     "title": "[Bounty] [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4248",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -123,14 +351,14 @@
     "language": "unknown",
     "amount_usd": 1000,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-07T20:24:46Z",
-    "updated_at": "2026-11-07T20:24:46Z",
-    "scanned_at": "2026-11-08T09:41:41.932154+00:00",
+    "updated_at": "2026-11-08T12:42:10Z",
+    "scanned_at": "2026-11-08T16:26:54.102398+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000042",
     "title": "[Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=256 in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/46",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -150,14 +378,14 @@
     "language": "unknown",
     "amount_usd": 1000,
     "state": "open",
-    "comments": 2,
+    "comments": 3,
     "created_at": "2026-11-07T18:03:21Z",
-    "updated_at": "2026-11-07T23:50:32Z",
-    "scanned_at": "2026-11-08T09:41:41.932259+00:00",
+    "updated_at": "2026-11-08T12:41:12Z",
+    "scanned_at": "2026-11-08T16:26:54.102481+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000034",
     "title": "[Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -172,11 +400,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-08T09:41:41.932141+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102388+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000043",
     "title": "[Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -198,11 +426,11 @@
     "comments": 0,
     "created_at": "2026-11-07T18:03:20Z",
     "updated_at": "2026-11-07T23:50:43Z",
-    "scanned_at": "2026-11-08T09:41:41.932272+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102492+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000033",
     "title": "[Bounty] [Bounty $900] perf(validator): replace floor division with bitwise mask in compu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4250",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -217,11 +445,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-08T09:41:41.932128+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102378+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000044",
     "title": "[Bounty $900] perf(validator): replace floor division with bitwise mask in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/44",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -240,14 +468,14 @@
     "language": "unknown",
     "amount_usd": 900,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-07T18:03:19Z",
-    "updated_at": "2026-11-07T23:50:36Z",
-    "scanned_at": "2026-11-08T09:41:41.932287+00:00",
+    "updated_at": "2026-11-08T13:03:59Z",
+    "scanned_at": "2026-11-08T16:26:54.102507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000031",
     "title": "[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -262,11 +490,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-07T20:24:48Z",
-    "scanned_at": "2026-11-08T09:41:41.932104+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102358+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000049",
     "title": "[Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub Actions workflows",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/21",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -286,10 +514,10 @@
     "language": "unknown",
     "amount_usd": 850,
     "state": "open",
-    "comments": 2,
+    "comments": 3,
     "created_at": "2026-11-07T13:20:03Z",
-    "updated_at": "2026-11-07T23:50:25Z",
-    "scanned_at": "2026-11-08T09:41:41.932760+00:00",
+    "updated_at": "2026-11-08T13:03:53Z",
+    "scanned_at": "2026-11-08T16:26:54.102869+00:00",
     "status": "new"
   },
   {
@@ -308,11 +536,11 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-11-08T09:42:56.979074+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704592+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000037",
     "title": "[Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -327,11 +555,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-07T20:24:45Z",
-    "scanned_at": "2026-11-08T09:41:41.932177+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102420+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000041",
     "title": "[Bounty $800] refactor(validator): handle legacy sequence key alias in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -352,11 +580,11 @@
     "comments": 0,
     "created_at": "2026-11-07T18:03:22Z",
     "updated_at": "2026-11-07T23:50:56Z",
-    "scanned_at": "2026-11-08T09:41:41.932245+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102470+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000045",
     "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -371,11 +599,11 @@
     "comments": 0,
     "created_at": "2026-11-07T16:23:36Z",
     "updated_at": "2026-11-07T16:23:36Z",
-    "scanned_at": "2026-11-08T09:41:41.932300+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102517+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000050",
     "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -394,14 +622,14 @@
     "language": "unknown",
     "amount_usd": 750,
     "state": "open",
-    "comments": 1,
+    "comments": 3,
     "created_at": "2026-11-07T13:20:02Z",
-    "updated_at": "2026-11-07T15:57:08Z",
-    "scanned_at": "2026-11-08T09:41:41.932774+00:00",
+    "updated_at": "2026-11-08T14:31:21Z",
+    "scanned_at": "2026-11-08T16:26:54.102880+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000073",
     "title": "[Bounty] [Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4243",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -416,11 +644,11 @@
     "comments": 2,
     "created_at": "2026-11-06T18:27:20Z",
     "updated_at": "2026-11-07T13:39:53Z",
-    "scanned_at": "2026-11-08T09:41:41.934934+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104759+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000074",
     "title": "[Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues",
     "url": "https://github.com/tenstorrent/tt-metal/issues/64647",
     "repo": "tenstorrent/tt-metal",
@@ -435,11 +663,11 @@
     "comments": 11,
     "created_at": "2026-11-06T14:55:51Z",
     "updated_at": "2026-11-07T18:03:31Z",
-    "scanned_at": "2026-11-08T09:41:41.934947+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104770+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000081",
     "title": "[Bounty] [Bounty $750] Fix sharded softmax on offset core grids",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -454,64 +682,7 @@
     "comments": 1,
     "created_at": "2026-11-06T03:42:47Z",
     "updated_at": "2026-11-07T13:41:55Z",
-    "scanned_at": "2026-11-08T09:41:41.935223+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000080",
-    "title": "[Bounty $750] Fix sharded softmax on offset core grids",
-    "url": "https://github.com/tenstorrent/tt-metal/issues/64575",
-    "repo": "tenstorrent/tt-metal",
-    "number": 64575,
-    "labels": [
-      "bounty",
-      "bounty_difficulty/medium"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-11-06T00:36:43Z",
-    "updated_at": "2026-11-07T18:03:04Z",
-    "scanned_at": "2026-11-08T09:41:41.935412+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000096",
-    "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4201,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-02T19:27:42Z",
-    "updated_at": "2026-11-02T19:33:46Z",
-    "scanned_at": "2026-11-08T09:42:56.245125+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000097",
-    "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
-    "url": "https://github.com/alfrexo95/bounty-bot/issues/77",
-    "repo": "alfrexo95/bounty-bot",
-    "number": 77,
-    "labels": [
-      "bounty",
-      "escrow"
-    ],
-    "language": "unknown",
-    "amount_usd": 750,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-11-02T10:48:25Z",
-    "updated_at": "2026-11-02T12:41:36Z",
-    "scanned_at": "2026-11-08T09:42:56.245140+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105000+00:00",
     "status": "new"
   },
   {
@@ -531,11 +702,11 @@
     "comments": 35,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-22T03:16:21Z",
-    "scanned_at": "2026-11-08T09:42:56.979045+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704565+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000032",
     "title": "[Bounty] [Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -550,11 +721,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-07T20:24:48Z",
-    "scanned_at": "2026-11-08T09:41:41.932116+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102368+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000053",
     "title": "[Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\batch_07 in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/17",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -576,7 +747,7 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:58Z",
     "updated_at": "2026-11-07T17:33:26Z",
-    "scanned_at": "2026-11-08T09:41:41.932846+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102938+00:00",
     "status": "new"
   },
   {
@@ -595,11 +766,91 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-25T17:45:19Z",
-    "scanned_at": "2026-11-08T09:42:56.979065+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704585+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
+    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+    "url": "https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2",
+    "repo": "IES-BoilerRoom/mlir-tensor-tiling-pass",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:32Z",
+    "updated_at": "2026-11-08T11:53:08Z",
+    "scanned_at": "2026-11-08T16:26:54.102061+00:00",
     "status": "new"
   },
   {
     "id": "BH-000005",
+    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
+    "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:31Z",
+    "updated_at": "2026-11-08T10:53:31Z",
+    "scanned_at": "2026-11-08T16:26:54.102079+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+    "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
+    "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:26Z",
+    "updated_at": "2026-11-08T10:53:26Z",
+    "scanned_at": "2026-11-08T16:26:54.102113+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
+    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
+    "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
+    "repo": "IES-BoilerRoom/Furnace",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:25Z",
+    "updated_at": "2026-11-08T10:53:25Z",
+    "scanned_at": "2026-11-08T16:26:54.102120+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000027",
     "title": "[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -614,11 +865,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-07T20:24:51Z",
-    "scanned_at": "2026-11-08T09:41:41.932043+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102316+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000062",
     "title": "[Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -637,11 +888,11 @@
     "comments": 1,
     "created_at": "2026-11-07T05:59:43Z",
     "updated_at": "2026-11-07T17:12:49Z",
-    "scanned_at": "2026-11-08T09:41:41.933044+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103098+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000075",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -656,11 +907,11 @@
     "comments": 4,
     "created_at": "2026-11-06T11:36:03Z",
     "updated_at": "2026-11-07T13:39:11Z",
-    "scanned_at": "2026-11-08T09:41:41.934957+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104777+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000077",
     "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
     "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
     "repo": "IES-BoilerRoom/asyncpg-savepoint-harness",
@@ -673,14 +924,14 @@
     "language": "unknown",
     "amount_usd": 600,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-11-06T07:47:54Z",
-    "updated_at": "2026-11-08T08:47:52Z",
-    "scanned_at": "2026-11-08T09:41:41.934992+00:00",
+    "updated_at": "2026-11-08T10:52:49Z",
+    "scanned_at": "2026-11-08T16:26:54.104795+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000082",
     "title": "[Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunke",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -695,11 +946,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:46Z",
     "updated_at": "2026-11-06T04:18:32Z",
-    "scanned_at": "2026-11-08T09:41:41.935232+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105007+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000084",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -714,11 +965,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:45Z",
     "updated_at": "2026-11-06T04:18:20Z",
-    "scanned_at": "2026-11-08T09:41:41.935249+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105020+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000086",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -733,11 +984,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:44Z",
     "updated_at": "2026-11-06T04:18:07Z",
-    "scanned_at": "2026-11-08T09:41:41.935266+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105034+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000089",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4218",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -752,11 +1003,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:43Z",
     "updated_at": "2026-11-06T04:18:01Z",
-    "scanned_at": "2026-11-08T09:41:41.935292+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105059+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000090",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4215",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -771,11 +1022,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:42Z",
     "updated_at": "2026-11-06T04:17:43Z",
-    "scanned_at": "2026-11-08T09:41:41.935300+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105065+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000092",
     "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
     "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
     "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -790,12 +1041,12 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-06T03:17:51Z",
-    "updated_at": "2026-11-08T08:17:38Z",
-    "scanned_at": "2026-11-08T09:41:41.935320+00:00",
+    "updated_at": "2026-11-08T10:53:28Z",
+    "scanned_at": "2026-11-08T16:28:06.117670+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000094",
     "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
     "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
     "repo": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
@@ -810,51 +1061,13 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-06T03:12:35Z",
-    "updated_at": "2026-11-08T07:18:12Z",
-    "scanned_at": "2026-11-08T09:41:41.935346+00:00",
+    "updated_at": "2026-11-08T10:53:29Z",
+    "scanned_at": "2026-11-08T16:28:06.117689+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
-    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-    "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
-    "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
-    "number": 2,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-06T03:09:28Z",
-    "updated_at": "2026-11-08T09:18:16Z",
-    "scanned_at": "2026-11-08T09:41:41.935363+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000076",
-    "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-    "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
-    "repo": "IES-BoilerRoom/Furnace",
-    "number": 2,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-11-06T02:59:49Z",
-    "updated_at": "2026-11-08T09:18:14Z",
-    "scanned_at": "2026-11-08T09:41:41.935372+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000078",
-    "title": "💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_window_3a1b)",
+    "id": "BH-000096",
+    "title": "💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (fence_cursor_af4b)",
     "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
     "repo": "IES-BoilerRoom/protocol-conformance-relay",
     "number": 2,
@@ -866,86 +1079,12 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-06T02:59:48Z",
-    "updated_at": "2026-11-08T09:18:12Z",
-    "scanned_at": "2026-11-08T09:41:41.935390+00:00",
+    "updated_at": "2026-11-08T10:53:23Z",
+    "scanned_at": "2026-11-08T16:28:06.117703+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
-    "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4207,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-05T18:17:54Z",
-    "updated_at": "2026-11-06T00:47:26Z",
-    "scanned_at": "2026-11-08T09:41:41.935431+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000084",
-    "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4206,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-05T18:17:53Z",
-    "updated_at": "2026-11-06T00:47:29Z",
-    "scanned_at": "2026-11-08T09:41:41.935464+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000085",
-    "title": "[Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-    "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2",
-    "repo": "WholeTroutMedia/agent-conformance-quarantine",
-    "number": 2,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-05T13:04:04Z",
-    "updated_at": "2026-11-08T09:18:04Z",
-    "scanned_at": "2026-11-08T09:41:41.935483+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000087",
-    "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_window_3a1b)",
-    "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
-    "repo": "WholeTroutMedia/protocol-conformance-relay",
-    "number": 2,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-05T13:04:02Z",
-    "updated_at": "2026-11-08T09:18:03Z",
-    "scanned_at": "2026-11-08T09:41:41.935514+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000007",
+    "id": "BH-000029",
     "title": "[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -960,11 +1099,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-07T20:24:50Z",
-    "scanned_at": "2026-11-08T09:41:41.932081+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102335+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000060",
     "title": "[Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_report.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/8",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -986,11 +1125,11 @@
     "comments": 0,
     "created_at": "2026-11-07T11:43:30Z",
     "updated_at": "2026-11-07T18:03:41Z",
-    "scanned_at": "2026-11-08T09:41:41.933016+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103076+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000028",
     "title": "[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1005,11 +1144,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-07T20:24:50Z",
-    "scanned_at": "2026-11-08T09:41:41.932069+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102325+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000059",
     "title": "[Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1031,7 +1170,7 @@
     "comments": 0,
     "created_at": "2026-11-07T11:43:31Z",
     "updated_at": "2026-11-07T18:03:38Z",
-    "scanned_at": "2026-11-08T09:41:41.933003+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103066+00:00",
     "status": "new"
   },
   {
@@ -1050,11 +1189,91 @@
     "comments": 21,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-11-06T17:35:55Z",
-    "scanned_at": "2026-11-08T09:42:56.979056+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704578+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000004",
+    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+    "url": "https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1",
+    "repo": "IES-BoilerRoom/mlir-tensor-tiling-pass",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:31Z",
+    "updated_at": "2026-11-08T10:53:31Z",
+    "scanned_at": "2026-11-08T16:26:54.102072+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+    "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:30Z",
+    "updated_at": "2026-11-08T10:53:30Z",
+    "scanned_at": "2026-11-08T16:26:54.102086+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+    "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
+    "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:26Z",
+    "updated_at": "2026-11-08T10:53:26Z",
+    "scanned_at": "2026-11-08T16:26:54.102093+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000010",
+    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
+    "url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
+    "repo": "IES-BoilerRoom/Furnace",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T10:53:24Z",
+    "updated_at": "2026-11-08T10:53:24Z",
+    "scanned_at": "2026-11-08T16:26:54.102127+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000025",
     "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1069,11 +1288,11 @@
     "comments": 2,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-08T07:37:41Z",
-    "scanned_at": "2026-11-08T09:41:41.932016+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102296+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000063",
     "title": "[Bounty $450] refactor(validator): extract checkpoint divisor constant in src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/5",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1089,14 +1308,14 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-07T05:59:41Z",
-    "updated_at": "2026-11-07T17:12:46Z",
-    "scanned_at": "2026-11-08T09:41:41.933056+00:00",
+    "updated_at": "2026-11-08T14:23:41Z",
+    "scanned_at": "2026-11-08T16:26:54.103106+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000076",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1111,11 +1330,11 @@
     "comments": 3,
     "created_at": "2026-11-06T11:36:02Z",
     "updated_at": "2026-11-06T12:03:08Z",
-    "scanned_at": "2026-11-08T09:41:41.934966+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104786+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000078",
     "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
     "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
     "repo": "IES-BoilerRoom/asyncpg-savepoint-harness",
@@ -1128,14 +1347,14 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-11-06T07:47:54Z",
-    "updated_at": "2026-11-08T08:47:51Z",
-    "scanned_at": "2026-11-08T09:41:41.934981+00:00",
+    "updated_at": "2026-11-08T10:52:49Z",
+    "scanned_at": "2026-11-08T16:26:54.104805+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000083",
     "title": "[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1150,11 +1369,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:46Z",
     "updated_at": "2026-11-06T05:04:52Z",
-    "scanned_at": "2026-11-08T09:41:41.935241+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105014+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000085",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1169,11 +1388,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:45Z",
     "updated_at": "2026-11-06T04:18:26Z",
-    "scanned_at": "2026-11-08T09:41:41.935257+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105027+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000087",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4220",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1188,11 +1407,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:44Z",
     "updated_at": "2026-11-06T04:18:13Z",
-    "scanned_at": "2026-11-08T09:41:41.935274+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105041+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000088",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4217",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1207,11 +1426,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:43Z",
     "updated_at": "2026-11-06T04:17:55Z",
-    "scanned_at": "2026-11-08T09:41:41.935284+00:00",
+    "scanned_at": "2026-11-08T16:26:54.105053+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000091",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1226,11 +1445,11 @@
     "comments": 2,
     "created_at": "2026-11-06T03:42:42Z",
     "updated_at": "2026-11-06T04:17:49Z",
-    "scanned_at": "2026-11-08T09:41:41.935308+00:00",
+    "scanned_at": "2026-11-08T16:28:06.117632+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000093",
     "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
     "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
     "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -1245,12 +1464,12 @@
     "state": "open",
     "comments": 3,
     "created_at": "2026-11-06T03:17:50Z",
-    "updated_at": "2026-11-08T08:17:37Z",
-    "scanned_at": "2026-11-08T09:41:41.935329+00:00",
+    "updated_at": "2026-11-08T10:53:27Z",
+    "scanned_at": "2026-11-08T16:28:06.117680+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000095",
     "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
     "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
     "repo": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
@@ -1265,51 +1484,13 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-06T03:12:35Z",
-    "updated_at": "2026-11-08T07:18:12Z",
-    "scanned_at": "2026-11-08T09:41:41.935338+00:00",
+    "updated_at": "2026-11-08T10:53:29Z",
+    "scanned_at": "2026-11-08T16:28:06.117696+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
-    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-    "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
-    "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
-    "number": 1,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 18,
-    "created_at": "2026-11-06T03:09:28Z",
-    "updated_at": "2026-11-08T09:18:15Z",
-    "scanned_at": "2026-11-08T09:41:41.935354+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000077",
-    "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-    "url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
-    "repo": "IES-BoilerRoom/Furnace",
-    "number": 1,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-11-06T02:59:49Z",
-    "updated_at": "2026-11-08T09:18:14Z",
-    "scanned_at": "2026-11-08T09:41:41.935381+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000079",
-    "title": "💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_partition_horizon_latch_v6)",
+    "id": "BH-000097",
+    "title": "💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (align_quorum_cebb)",
     "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
     "repo": "IES-BoilerRoom/protocol-conformance-relay",
     "number": 1,
@@ -1321,86 +1502,12 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-06T02:59:47Z",
-    "updated_at": "2026-11-08T09:18:11Z",
-    "scanned_at": "2026-11-08T09:41:41.935398+00:00",
+    "updated_at": "2026-11-08T10:53:23Z",
+    "scanned_at": "2026-11-08T16:28:06.117710+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
-    "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4208,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-05T18:17:55Z",
-    "updated_at": "2026-11-06T02:09:51Z",
-    "scanned_at": "2026-11-08T09:41:41.935422+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000083",
-    "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4205,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-05T18:17:53Z",
-    "updated_at": "2026-11-06T00:47:31Z",
-    "scanned_at": "2026-11-08T09:41:41.935440+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000086",
-    "title": "[Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-    "url": "https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1",
-    "repo": "WholeTroutMedia/agent-conformance-quarantine",
-    "number": 1,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-05T13:04:04Z",
-    "updated_at": "2026-11-08T09:18:04Z",
-    "scanned_at": "2026-11-08T09:41:41.935503+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000088",
-    "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_partition_horizon_latch_v6)",
-    "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
-    "repo": "WholeTroutMedia/protocol-conformance-relay",
-    "number": 1,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-05T13:04:02Z",
-    "updated_at": "2026-11-08T09:18:02Z",
-    "scanned_at": "2026-11-08T09:41:41.935524+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000004",
+    "id": "BH-000026",
     "title": "[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1415,11 +1522,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-08T03:21:38Z",
-    "scanned_at": "2026-11-08T09:41:41.932030+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102307+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000061",
     "title": "[Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap header dicts",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/7",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1442,11 +1549,11 @@
     "comments": 0,
     "created_at": "2026-11-07T11:43:29Z",
     "updated_at": "2026-11-07T18:03:47Z",
-    "scanned_at": "2026-11-08T09:41:41.933033+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103090+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000024",
     "title": "[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1461,11 +1568,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-07T20:52:02Z",
-    "scanned_at": "2026-11-08T09:41:41.931998+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102287+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000030",
     "title": "[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1480,11 +1587,11 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:49Z",
     "updated_at": "2026-11-08T07:39:06Z",
-    "scanned_at": "2026-11-08T09:41:41.932093+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102348+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000054",
     "title": "[Bounty $350] docs(validator): add docstring usage examples for verify_sequence_gap in src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/16",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1503,14 +1610,14 @@
     "language": "unknown",
     "amount_usd": 350,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-07T13:19:57Z",
-    "updated_at": "2026-11-08T02:25:19Z",
-    "scanned_at": "2026-11-08T09:41:41.932862+00:00",
+    "updated_at": "2026-11-08T13:03:57Z",
+    "scanned_at": "2026-11-08T16:26:54.102949+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000064",
     "title": "[Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap in src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/3",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1529,7 +1636,7 @@
     "comments": 1,
     "created_at": "2026-11-07T05:59:36Z",
     "updated_at": "2026-11-07T17:12:44Z",
-    "scanned_at": "2026-11-08T09:41:41.933067+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103115+00:00",
     "status": "new"
   },
   {
@@ -1548,7 +1655,7 @@
     "comments": 0,
     "created_at": "2026-10-22T15:00:27Z",
     "updated_at": "2026-10-28T11:24:27Z",
-    "scanned_at": "2026-11-08T09:43:03.324531+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791589+00:00",
     "status": "new"
   },
   {
@@ -1566,7 +1673,7 @@
     "comments": 18,
     "created_at": "2026-10-23T19:03:20Z",
     "updated_at": "2026-11-06T23:07:20Z",
-    "scanned_at": "2026-11-08T09:43:03.324427+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791530+00:00",
     "status": "new"
   },
   {
@@ -1585,11 +1692,51 @@
     "comments": 10,
     "created_at": "2026-10-20T20:46:34Z",
     "updated_at": "2026-10-31T21:37:49Z",
-    "scanned_at": "2026-11-08T09:43:03.325943+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792802+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[radar] SN open bounty 2026-11-08T15:01",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1360",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1360,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T15:01:13Z",
+    "updated_at": "2026-11-08T15:01:13Z",
+    "scanned_at": "2026-11-08T16:26:54.101985+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[radar] SN open bounty 2026-11-08T13:13",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1359,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-08T13:13:53Z",
+    "updated_at": "2026-11-08T13:13:53Z",
+    "scanned_at": "2026-11-08T16:26:54.102042+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000023",
     "title": "[radar] SN open bounty 2026-11-08T07:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1358",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1605,11 +1752,11 @@
     "comments": 0,
     "created_at": "2026-11-08T07:12:04Z",
     "updated_at": "2026-11-08T07:12:04Z",
-    "scanned_at": "2026-11-08T09:41:41.931953+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102277+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000046",
     "title": "L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set",
     "url": "https://github.com/tari-project/universe/issues/3518",
     "repo": "tari-project/universe",
@@ -1622,14 +1769,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-11-07T15:46:12Z",
-    "updated_at": "2026-11-08T00:24:16Z",
-    "scanned_at": "2026-11-08T09:41:41.932438+00:00",
+    "updated_at": "2026-11-08T15:55:26Z",
+    "scanned_at": "2026-11-08T16:26:54.102634+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000047",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4572",
     "repo": "Ikalus1988/MisakaNet",
@@ -1643,12 +1790,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-07T13:30:46Z",
-    "updated_at": "2026-11-08T01:04:17Z",
-    "scanned_at": "2026-11-08T09:41:41.932606+00:00",
+    "updated_at": "2026-11-08T13:50:03Z",
+    "scanned_at": "2026-11-08T16:26:54.102746+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000048",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4571",
     "repo": "Ikalus1988/MisakaNet",
@@ -1662,12 +1809,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-07T13:30:45Z",
-    "updated_at": "2026-11-08T00:24:33Z",
-    "scanned_at": "2026-11-08T09:41:41.932742+00:00",
+    "updated_at": "2026-11-08T13:50:01Z",
+    "scanned_at": "2026-11-08T16:26:54.102856+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000051",
     "title": "security(validator): prevent negative overflow in checkpoint frame arithmetic",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/19",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1687,11 +1834,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:01Z",
     "updated_at": "2026-11-07T15:57:13Z",
-    "scanned_at": "2026-11-08T09:41:41.932802+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102904+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000052",
     "title": "perf(validator): optimize sequence header iteration overhead in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/18",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1711,11 +1858,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:00Z",
     "updated_at": "2026-11-07T15:57:12Z",
-    "scanned_at": "2026-11-08T09:41:41.932828+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102926+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000055",
     "title": "fix(validator): handle empty batch in validate_merkle_anchor_v2 within src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/15",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1735,11 +1882,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:56Z",
     "updated_at": "2026-11-07T15:57:10Z",
-    "scanned_at": "2026-11-08T09:41:41.932891+00:00",
+    "scanned_at": "2026-11-08T16:26:54.102972+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000056",
     "title": "feat(validator): add strict genesis_floor=0 check in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/14",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1760,11 +1907,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:55Z",
     "updated_at": "2026-11-07T15:57:09Z",
-    "scanned_at": "2026-11-08T09:41:41.932935+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103009+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000057",
     "title": "[radar] SN open bounty 2026-11-07T12:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1780,11 +1927,11 @@
     "comments": 0,
     "created_at": "2026-11-07T12:51:56Z",
     "updated_at": "2026-11-07T12:51:56Z",
-    "scanned_at": "2026-11-08T09:41:41.932962+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103032+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000058",
     "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1805,11 +1952,11 @@
     "comments": 2,
     "created_at": "2026-11-07T11:43:32Z",
     "updated_at": "2026-11-07T14:00:44Z",
-    "scanned_at": "2026-11-08T09:41:41.932990+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103055+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000065",
     "title": "[BOUNTY: 30 RTC] Vintage miner port: MIPS — SGI IRIX (R4000–R16000) or DECstation Ultrix on the original hardware, with real-hardware proof",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17187",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1827,11 +1974,11 @@
     "comments": 4,
     "created_at": "2026-11-07T02:23:03Z",
     "updated_at": "2026-11-07T12:51:39Z",
-    "scanned_at": "2026-11-08T09:41:41.933332+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103363+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000066",
     "title": "[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K — Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with real-hardware proof",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17186",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1849,11 +1996,11 @@
     "comments": 2,
     "created_at": "2026-11-07T02:23:02Z",
     "updated_at": "2026-11-07T12:30:11Z",
-    "scanned_at": "2026-11-08T09:41:41.933604+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103588+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000067",
     "title": "[BOUNTY: 35 RTC] Vintage miner port: SPARC — SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware proof",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17185",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1871,11 +2018,11 @@
     "comments": 2,
     "created_at": "2026-11-07T02:22:59Z",
     "updated_at": "2026-11-07T12:08:41Z",
-    "scanned_at": "2026-11-08T09:41:41.933860+00:00",
+    "scanned_at": "2026-11-08T16:26:54.103810+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000068",
     "title": "[BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fulfil 2 paid orders from other agents end-to-end",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17184",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1891,14 +2038,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 8,
+    "comments": 9,
     "created_at": "2026-11-07T02:22:57Z",
-    "updated_at": "2026-11-08T02:32:29Z",
-    "scanned_at": "2026-11-08T09:41:41.934083+00:00",
+    "updated_at": "2026-11-08T12:47:44Z",
+    "scanned_at": "2026-11-08T16:26:54.104008+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000069",
     "title": "[BOUNTY: 20 RTC] Spend RTC from the SDK: `rustchain services list|buy|use` against BoTTube /api/rtc/* (with one real 3-RTC purchase as proof)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17183",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1917,11 +2064,11 @@
     "comments": 8,
     "created_at": "2026-11-07T02:22:56Z",
     "updated_at": "2026-11-07T12:24:53Z",
-    "scanned_at": "2026-11-08T09:41:41.934299+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000070",
     "title": "[BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner vs ~/.rustchain) across WALLET_SETUP.md, INSTALL.md and the installers (Rustchain#8407)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17182",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1936,14 +2083,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 11,
+    "comments": 15,
     "created_at": "2026-11-07T02:22:55Z",
-    "updated_at": "2026-11-08T06:09:39Z",
-    "scanned_at": "2026-11-08T09:41:41.934466+00:00",
+    "updated_at": "2026-11-08T16:04:39Z",
+    "scanned_at": "2026-11-08T16:26:54.104344+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000071",
     "title": "[BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for every command (wallet/node/epoch/miners/attest)",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17181",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1961,11 +2108,11 @@
     "comments": 10,
     "created_at": "2026-11-07T02:22:53Z",
     "updated_at": "2026-11-08T06:20:12Z",
-    "scanned_at": "2026-11-08T09:41:41.934679+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104536+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000072",
     "title": "[BOUNTY: 25 RTC] Node liveness checks must validate the /health BODY, not just HTTP 200 — one shared probe for all five monitors",
     "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17180",
     "repo": "Scottcjn/rustchain-bounties",
@@ -1982,12 +2129,12 @@
     "state": "open",
     "comments": 10,
     "created_at": "2026-11-07T02:22:51Z",
-    "updated_at": "2026-11-08T07:25:40Z",
-    "scanned_at": "2026-11-08T09:41:41.934917+00:00",
+    "updated_at": "2026-11-08T12:39:01Z",
+    "scanned_at": "2026-11-08T16:26:54.104746+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000079",
     "title": "Test the rules that decide which bounty a pull request claims",
     "url": "https://github.com/odiseo159-beep/mergit/issues/17",
     "repo": "odiseo159-beep/mergit",
@@ -2001,11 +2148,11 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:21Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-08T09:41:41.935107+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104894+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000080",
     "title": "Give the verifier a fair chance after a challenge",
     "url": "https://github.com/odiseo159-beep/mergit/issues/16",
     "repo": "odiseo159-beep/mergit",
@@ -2019,141 +2166,7 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:20Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-08T09:41:41.935209+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000089",
-    "title": "Scheduled mining window doesn't apply its mode when mining is already running",
-    "url": "https://github.com/tari-project/universe/issues/3494",
-    "repo": "tari-project/universe",
-    "number": 3494,
-    "labels": [
-      "bug",
-      "bounty",
-      "bounty-S"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-11-05T11:10:29Z",
-    "updated_at": "2026-11-08T00:39:28Z",
-    "scanned_at": "2026-11-08T09:41:41.935675+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000090",
-    "title": "MCP server: no error shown when the configured port is already in use",
-    "url": "https://github.com/tari-project/universe/issues/3492",
-    "repo": "tari-project/universe",
-    "number": 3492,
-    "labels": [
-      "bug",
-      "bounty",
-      "bounty-S"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 7,
-    "created_at": "2026-11-05T11:02:34Z",
-    "updated_at": "2026-11-07T18:48:09Z",
-    "scanned_at": "2026-11-08T09:41:41.935832+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000091",
-    "title": "Add mul(a, b) to calc.py",
-    "url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
-    "repo": "dsfwmmy/jarvis-delivery-selftest",
-    "number": 1,
-    "labels": [
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-05T10:55:00Z",
-    "updated_at": "2026-11-07T21:33:19Z",
-    "scanned_at": "2026-11-08T09:42:56.244556+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000092",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 4494,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-05T10:50:59Z",
-    "updated_at": "2026-11-05T14:56:47Z",
-    "scanned_at": "2026-11-08T09:42:56.244721+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000093",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 4488,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 5,
-    "created_at": "2026-11-05T06:34:50Z",
-    "updated_at": "2026-11-07T13:30:48Z",
-    "scanned_at": "2026-11-08T09:42:56.244849+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000094",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4487",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 4487,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-05T06:34:48Z",
-    "updated_at": "2026-11-05T10:51:03Z",
-    "scanned_at": "2026-11-08T09:42:56.244978+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000095",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4486",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 4486,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-11-05T06:34:47Z",
-    "updated_at": "2026-11-05T10:51:01Z",
-    "scanned_at": "2026-11-08T09:42:56.245104+00:00",
+    "scanned_at": "2026-11-08T16:26:54.104985+00:00",
     "status": "new"
   },
   {
@@ -2173,7 +2186,7 @@
     "comments": 0,
     "created_at": "2026-11-03T06:35:05Z",
     "updated_at": "2026-11-03T06:35:05Z",
-    "scanned_at": "2026-11-08T09:43:03.323922+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791068+00:00",
     "status": "new"
   },
   {
@@ -2193,7 +2206,7 @@
     "comments": 0,
     "created_at": "2026-11-02T23:25:57Z",
     "updated_at": "2026-11-02T23:25:57Z",
-    "scanned_at": "2026-11-08T09:43:03.323963+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791116+00:00",
     "status": "new"
   },
   {
@@ -2213,7 +2226,7 @@
     "comments": 1,
     "created_at": "2026-11-02T15:36:17Z",
     "updated_at": "2026-11-02T15:40:14Z",
-    "scanned_at": "2026-11-08T09:43:03.323985+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791137+00:00",
     "status": "new"
   },
   {
@@ -2233,7 +2246,7 @@
     "comments": 2,
     "created_at": "2026-11-02T05:51:16Z",
     "updated_at": "2026-11-02T05:54:26Z",
-    "scanned_at": "2026-11-08T09:43:03.324008+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791157+00:00",
     "status": "new"
   },
   {
@@ -2253,7 +2266,7 @@
     "comments": 2,
     "created_at": "2026-11-01T23:30:13Z",
     "updated_at": "2026-11-01T23:33:38Z",
-    "scanned_at": "2026-11-08T09:43:03.324030+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791176+00:00",
     "status": "new"
   },
   {
@@ -2273,7 +2286,7 @@
     "comments": 2,
     "created_at": "2026-11-01T19:32:21Z",
     "updated_at": "2026-11-01T19:34:47Z",
-    "scanned_at": "2026-11-08T09:43:03.324052+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791213+00:00",
     "status": "new"
   },
   {
@@ -2293,7 +2306,7 @@
     "comments": 1,
     "created_at": "2026-11-01T14:58:35Z",
     "updated_at": "2026-11-01T15:01:22Z",
-    "scanned_at": "2026-11-08T09:43:03.324074+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791231+00:00",
     "status": "new"
   },
   {
@@ -2313,7 +2326,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:13:27Z",
     "updated_at": "2026-10-31T12:15:50Z",
-    "scanned_at": "2026-11-08T09:43:03.324095+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791250+00:00",
     "status": "new"
   },
   {
@@ -2333,7 +2346,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:12:21Z",
     "updated_at": "2026-10-31T12:16:14Z",
-    "scanned_at": "2026-11-08T09:43:03.324116+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791269+00:00",
     "status": "new"
   },
   {
@@ -2353,7 +2366,7 @@
     "comments": 10,
     "created_at": "2026-10-27T12:01:01Z",
     "updated_at": "2026-10-28T13:01:56Z",
-    "scanned_at": "2026-11-08T09:43:03.324136+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791286+00:00",
     "status": "new"
   },
   {
@@ -2373,7 +2386,7 @@
     "comments": 10,
     "created_at": "2026-10-27T10:25:03Z",
     "updated_at": "2026-10-27T17:55:24Z",
-    "scanned_at": "2026-11-08T09:43:03.324157+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791304+00:00",
     "status": "new"
   },
   {
@@ -2393,7 +2406,7 @@
     "comments": 1,
     "created_at": "2026-10-27T04:52:16Z",
     "updated_at": "2026-11-08T09:30:05Z",
-    "scanned_at": "2026-11-08T09:43:03.324177+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791321+00:00",
     "status": "new"
   },
   {
@@ -2410,10 +2423,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 24,
+    "comments": 2,
     "created_at": "2026-10-26T23:46:22Z",
-    "updated_at": "2026-11-02T08:43:07Z",
-    "scanned_at": "2026-11-08T09:43:03.324204+00:00",
+    "updated_at": "2026-11-08T10:54:14Z",
+    "scanned_at": "2026-11-08T16:28:12.791344+00:00",
     "status": "new"
   },
   {
@@ -2436,7 +2449,7 @@
     "comments": 9,
     "created_at": "2026-10-26T23:17:20Z",
     "updated_at": "2026-10-30T14:46:54Z",
-    "scanned_at": "2026-11-08T09:42:56.978413+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704003+00:00",
     "status": "new"
   },
   {
@@ -2460,7 +2473,7 @@
     "comments": 35,
     "created_at": "2026-10-26T23:17:15Z",
     "updated_at": "2026-11-02T09:25:07Z",
-    "scanned_at": "2026-11-08T09:42:56.978533+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704093+00:00",
     "status": "new"
   },
   {
@@ -2484,7 +2497,7 @@
     "comments": 21,
     "created_at": "2026-10-26T23:17:06Z",
     "updated_at": "2026-11-01T12:07:35Z",
-    "scanned_at": "2026-11-08T09:42:56.978621+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704172+00:00",
     "status": "new"
   },
   {
@@ -2504,7 +2517,7 @@
     "comments": 4,
     "created_at": "2026-10-26T19:11:09Z",
     "updated_at": "2026-10-27T17:05:57Z",
-    "scanned_at": "2026-11-08T09:43:03.324231+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791368+00:00",
     "status": "new"
   },
   {
@@ -2524,7 +2537,7 @@
     "comments": 2,
     "created_at": "2026-10-26T12:48:58Z",
     "updated_at": "2026-11-07T16:58:30Z",
-    "scanned_at": "2026-11-08T09:43:03.324251+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791384+00:00",
     "status": "new"
   },
   {
@@ -2544,7 +2557,7 @@
     "comments": 3,
     "created_at": "2026-10-26T12:48:24Z",
     "updated_at": "2026-10-30T01:46:00Z",
-    "scanned_at": "2026-11-08T09:43:03.324270+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791401+00:00",
     "status": "new"
   },
   {
@@ -2564,7 +2577,7 @@
     "comments": 3,
     "created_at": "2026-10-26T06:01:13Z",
     "updated_at": "2026-11-03T17:21:57Z",
-    "scanned_at": "2026-11-08T09:43:03.324292+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791418+00:00",
     "status": "new"
   },
   {
@@ -2584,7 +2597,7 @@
     "comments": 6,
     "created_at": "2026-10-26T00:09:53Z",
     "updated_at": "2026-10-31T22:48:19Z",
-    "scanned_at": "2026-11-08T09:43:03.324314+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791436+00:00",
     "status": "new"
   },
   {
@@ -2604,7 +2617,7 @@
     "comments": 5,
     "created_at": "2026-10-25T21:40:23Z",
     "updated_at": "2026-10-31T14:59:19Z",
-    "scanned_at": "2026-11-08T09:43:03.324335+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791453+00:00",
     "status": "new"
   },
   {
@@ -2624,7 +2637,7 @@
     "comments": 3,
     "created_at": "2026-10-25T18:56:39Z",
     "updated_at": "2026-11-01T03:25:55Z",
-    "scanned_at": "2026-11-08T09:43:03.324356+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791470+00:00",
     "status": "new"
   },
   {
@@ -2644,7 +2657,7 @@
     "comments": 4,
     "created_at": "2026-10-25T16:02:35Z",
     "updated_at": "2026-11-01T14:10:53Z",
-    "scanned_at": "2026-11-08T09:43:03.324378+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791488+00:00",
     "status": "new"
   },
   {
@@ -2664,7 +2677,7 @@
     "comments": 2,
     "created_at": "2026-10-24T10:49:16Z",
     "updated_at": "2026-10-24T15:52:08Z",
-    "scanned_at": "2026-11-08T09:43:03.324405+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791510+00:00",
     "status": "new"
   },
   {
@@ -2684,7 +2697,7 @@
     "comments": 4,
     "created_at": "2026-10-22T19:11:38Z",
     "updated_at": "2026-10-23T13:31:09Z",
-    "scanned_at": "2026-11-08T09:43:03.324446+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791545+00:00",
     "status": "new"
   },
   {
@@ -2702,7 +2715,7 @@
     "comments": 8,
     "created_at": "2026-10-21T16:02:21Z",
     "updated_at": "2026-10-30T23:45:47Z",
-    "scanned_at": "2026-11-08T09:43:03.324657+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791698+00:00",
     "status": "new"
   },
   {
@@ -2720,7 +2733,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:20Z",
     "updated_at": "2026-11-04T06:27:22Z",
-    "scanned_at": "2026-11-08T09:43:03.324731+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791754+00:00",
     "status": "new"
   },
   {
@@ -2738,7 +2751,7 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:19Z",
     "updated_at": "2026-10-25T20:10:01Z",
-    "scanned_at": "2026-11-08T09:43:03.324934+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791931+00:00",
     "status": "new"
   },
   {
@@ -2756,7 +2769,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:17Z",
     "updated_at": "2026-10-24T08:08:57Z",
-    "scanned_at": "2026-11-08T09:43:03.324997+00:00",
+    "scanned_at": "2026-11-08T16:28:12.791982+00:00",
     "status": "new"
   },
   {
@@ -2774,7 +2787,7 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:16Z",
     "updated_at": "2026-10-24T08:10:17Z",
-    "scanned_at": "2026-11-08T09:43:03.325067+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792043+00:00",
     "status": "new"
   },
   {
@@ -2792,7 +2805,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:14Z",
     "updated_at": "2026-10-25T20:03:28Z",
-    "scanned_at": "2026-11-08T09:43:03.325273+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792228+00:00",
     "status": "new"
   },
   {
@@ -2810,7 +2823,7 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:13Z",
     "updated_at": "2026-10-30T23:45:45Z",
-    "scanned_at": "2026-11-08T09:43:03.325387+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792329+00:00",
     "status": "new"
   },
   {
@@ -2828,7 +2841,7 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:11Z",
     "updated_at": "2026-10-31T00:05:27Z",
-    "scanned_at": "2026-11-08T09:43:03.325512+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792429+00:00",
     "status": "new"
   },
   {
@@ -2846,7 +2859,7 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:10Z",
     "updated_at": "2026-10-24T15:52:52Z",
-    "scanned_at": "2026-11-08T09:43:03.325572+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792477+00:00",
     "status": "new"
   },
   {
@@ -2864,7 +2877,7 @@
     "comments": 4,
     "created_at": "2026-10-21T16:02:08Z",
     "updated_at": "2026-10-31T22:08:23Z",
-    "scanned_at": "2026-11-08T09:43:03.325655+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792543+00:00",
     "status": "new"
   },
   {
@@ -2882,7 +2895,7 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:07Z",
     "updated_at": "2026-10-25T19:58:13Z",
-    "scanned_at": "2026-11-08T09:43:03.325868+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792738+00:00",
     "status": "new"
   },
   {
@@ -2900,7 +2913,7 @@
     "comments": 9,
     "created_at": "2026-10-21T16:02:06Z",
     "updated_at": "2026-10-24T07:49:00Z",
-    "scanned_at": "2026-11-08T09:43:03.325930+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792791+00:00",
     "status": "new"
   },
   {
@@ -2924,7 +2937,7 @@
     "comments": 2,
     "created_at": "2026-10-21T10:12:07Z",
     "updated_at": "2026-11-04T05:14:51Z",
-    "scanned_at": "2026-11-08T09:42:56.978669+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704233+00:00",
     "status": "new"
   },
   {
@@ -2944,7 +2957,7 @@
     "comments": 4,
     "created_at": "2026-10-20T11:24:51Z",
     "updated_at": "2026-10-22T20:21:19Z",
-    "scanned_at": "2026-11-08T09:43:03.325964+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792820+00:00",
     "status": "new"
   },
   {
@@ -2964,7 +2977,7 @@
     "comments": 5,
     "created_at": "2026-10-20T05:55:15Z",
     "updated_at": "2026-10-25T04:33:24Z",
-    "scanned_at": "2026-11-08T09:43:03.325984+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792838+00:00",
     "status": "new"
   },
   {
@@ -2984,7 +2997,7 @@
     "comments": 4,
     "created_at": "2026-10-20T00:14:57Z",
     "updated_at": "2026-10-23T08:55:11Z",
-    "scanned_at": "2026-11-08T09:43:03.326011+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792861+00:00",
     "status": "new"
   },
   {
@@ -3004,7 +3017,7 @@
     "comments": 2,
     "created_at": "2026-10-19T20:31:57Z",
     "updated_at": "2026-10-21T01:16:00Z",
-    "scanned_at": "2026-11-08T09:43:03.326038+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792884+00:00",
     "status": "new"
   },
   {
@@ -3024,7 +3037,7 @@
     "comments": 26,
     "created_at": "2026-10-19T17:09:31Z",
     "updated_at": "2026-11-01T09:49:38Z",
-    "scanned_at": "2026-11-08T09:43:03.326112+00:00",
+    "scanned_at": "2026-11-08T16:28:12.792946+00:00",
     "status": "new"
   },
   {
@@ -3044,7 +3057,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:26Z",
     "updated_at": "2026-11-01T09:49:14Z",
-    "scanned_at": "2026-11-08T09:43:03.326191+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793011+00:00",
     "status": "new"
   },
   {
@@ -3065,7 +3078,7 @@
     "comments": 11,
     "created_at": "2026-10-19T17:09:22Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-08T09:43:03.326271+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793077+00:00",
     "status": "new"
   },
   {
@@ -3085,7 +3098,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:09:18Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-08T09:43:03.326358+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793151+00:00",
     "status": "new"
   },
   {
@@ -3105,7 +3118,7 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:14Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-08T09:43:03.326456+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793233+00:00",
     "status": "new"
   },
   {
@@ -3125,7 +3138,7 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:09Z",
     "updated_at": "2026-11-01T09:48:40Z",
-    "scanned_at": "2026-11-08T09:43:03.326552+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793315+00:00",
     "status": "new"
   },
   {
@@ -3145,7 +3158,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:04Z",
     "updated_at": "2026-11-01T09:49:19Z",
-    "scanned_at": "2026-11-08T09:43:03.326647+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793395+00:00",
     "status": "new"
   },
   {
@@ -3165,7 +3178,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:59Z",
     "updated_at": "2026-11-01T09:49:16Z",
-    "scanned_at": "2026-11-08T09:43:03.326746+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793475+00:00",
     "status": "new"
   },
   {
@@ -3185,7 +3198,7 @@
     "comments": 23,
     "created_at": "2026-10-19T17:08:55Z",
     "updated_at": "2026-11-02T09:33:15Z",
-    "scanned_at": "2026-11-08T09:43:03.326840+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793557+00:00",
     "status": "new"
   },
   {
@@ -3205,7 +3218,7 @@
     "comments": 11,
     "created_at": "2026-10-19T17:08:51Z",
     "updated_at": "2026-11-01T09:49:43Z",
-    "scanned_at": "2026-11-08T09:43:03.326935+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793637+00:00",
     "status": "new"
   },
   {
@@ -3225,7 +3238,7 @@
     "comments": 5,
     "created_at": "2026-10-19T17:08:46Z",
     "updated_at": "2026-11-01T09:49:05Z",
-    "scanned_at": "2026-11-08T09:43:03.327042+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793718+00:00",
     "status": "new"
   },
   {
@@ -3245,7 +3258,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:42Z",
     "updated_at": "2026-11-01T09:49:16Z",
-    "scanned_at": "2026-11-08T09:43:03.327137+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793812+00:00",
     "status": "new"
   },
   {
@@ -3265,7 +3278,7 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:37Z",
     "updated_at": "2026-11-01T09:49:45Z",
-    "scanned_at": "2026-11-08T09:43:03.327239+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793894+00:00",
     "status": "new"
   },
   {
@@ -3285,7 +3298,7 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:33Z",
     "updated_at": "2026-11-01T09:49:46Z",
-    "scanned_at": "2026-11-08T09:43:03.327339+00:00",
+    "scanned_at": "2026-11-08T16:28:12.793974+00:00",
     "status": "new"
   },
   {
@@ -3305,7 +3318,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:16Z",
     "updated_at": "2026-11-01T09:49:52Z",
-    "scanned_at": "2026-11-08T09:43:03.327434+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794056+00:00",
     "status": "new"
   },
   {
@@ -3325,7 +3338,7 @@
     "comments": 20,
     "created_at": "2026-10-19T17:08:12Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-08T09:43:03.327564+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794138+00:00",
     "status": "new"
   },
   {
@@ -3345,7 +3358,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:07Z",
     "updated_at": "2026-11-01T09:49:13Z",
-    "scanned_at": "2026-11-08T09:43:03.327666+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794240+00:00",
     "status": "new"
   },
   {
@@ -3365,7 +3378,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:03Z",
     "updated_at": "2026-11-01T09:49:08Z",
-    "scanned_at": "2026-11-08T09:43:03.327766+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794326+00:00",
     "status": "new"
   },
   {
@@ -3385,7 +3398,7 @@
     "comments": 5,
     "created_at": "2026-10-19T17:07:59Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-08T09:43:03.327863+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794407+00:00",
     "status": "new"
   },
   {
@@ -3405,7 +3418,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:54Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-08T09:43:03.327961+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794490+00:00",
     "status": "new"
   },
   {
@@ -3425,7 +3438,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:41Z",
     "updated_at": "2026-11-01T09:49:12Z",
-    "scanned_at": "2026-11-08T09:43:03.328062+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794572+00:00",
     "status": "new"
   },
   {
@@ -3445,7 +3458,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:54Z",
     "updated_at": "2026-11-01T09:48:31Z",
-    "scanned_at": "2026-11-08T09:43:03.328159+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794652+00:00",
     "status": "new"
   },
   {
@@ -3465,7 +3478,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:50Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-08T09:43:03.328256+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794734+00:00",
     "status": "new"
   },
   {
@@ -3485,7 +3498,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:46Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-08T09:43:03.328352+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794853+00:00",
     "status": "new"
   },
   {
@@ -3505,7 +3518,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:41Z",
     "updated_at": "2026-11-01T09:48:33Z",
-    "scanned_at": "2026-11-08T09:43:03.328485+00:00",
+    "scanned_at": "2026-11-08T16:28:12.794939+00:00",
     "status": "new"
   },
   {
@@ -3525,7 +3538,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:36Z",
     "updated_at": "2026-11-01T09:48:34Z",
-    "scanned_at": "2026-11-08T09:43:03.328588+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795023+00:00",
     "status": "new"
   },
   {
@@ -3545,7 +3558,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:32Z",
     "updated_at": "2026-11-01T09:48:35Z",
-    "scanned_at": "2026-11-08T09:43:03.328684+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795105+00:00",
     "status": "new"
   },
   {
@@ -3566,7 +3579,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:10Z",
     "updated_at": "2026-10-19T16:41:10Z",
-    "scanned_at": "2026-11-08T09:43:03.328779+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795209+00:00",
     "status": "new"
   },
   {
@@ -3587,7 +3600,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:05Z",
     "updated_at": "2026-10-19T16:41:05Z",
-    "scanned_at": "2026-11-08T09:43:03.328866+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795283+00:00",
     "status": "new"
   },
   {
@@ -3608,7 +3621,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:01Z",
     "updated_at": "2026-10-19T16:41:01Z",
-    "scanned_at": "2026-11-08T09:43:03.328955+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795360+00:00",
     "status": "new"
   },
   {
@@ -3629,7 +3642,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:40:52Z",
     "updated_at": "2026-10-19T16:40:52Z",
-    "scanned_at": "2026-11-08T09:43:03.329043+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795434+00:00",
     "status": "new"
   },
   {
@@ -3650,7 +3663,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:40:48Z",
     "updated_at": "2026-10-19T16:40:48Z",
-    "scanned_at": "2026-11-08T09:43:03.329131+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795510+00:00",
     "status": "new"
   },
   {
@@ -3671,7 +3684,7 @@
     "comments": 1,
     "created_at": "2026-10-19T16:40:44Z",
     "updated_at": "2026-10-21T15:51:13Z",
-    "scanned_at": "2026-11-08T09:43:03.329222+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795595+00:00",
     "status": "new"
   },
   {
@@ -3692,7 +3705,7 @@
     "comments": 4,
     "created_at": "2026-10-19T16:34:44Z",
     "updated_at": "2026-11-01T20:39:36Z",
-    "scanned_at": "2026-11-08T09:43:03.329310+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795669+00:00",
     "status": "new"
   },
   {
@@ -3712,7 +3725,7 @@
     "comments": 0,
     "created_at": "2026-10-19T14:36:02Z",
     "updated_at": "2026-10-19T22:18:58Z",
-    "scanned_at": "2026-11-08T09:43:03.329338+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795695+00:00",
     "status": "new"
   },
   {
@@ -3732,7 +3745,7 @@
     "comments": 0,
     "created_at": "2026-10-19T12:57:56Z",
     "updated_at": "2026-10-19T22:18:40Z",
-    "scanned_at": "2026-11-08T09:43:03.329365+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795719+00:00",
     "status": "new"
   },
   {
@@ -3752,7 +3765,7 @@
     "comments": 1,
     "created_at": "2026-10-19T06:08:07Z",
     "updated_at": "2026-10-19T18:08:49Z",
-    "scanned_at": "2026-11-08T09:43:03.329386+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795737+00:00",
     "status": "new"
   },
   {
@@ -3773,7 +3786,7 @@
     "comments": 5,
     "created_at": "2026-10-19T04:11:43Z",
     "updated_at": "2026-10-23T07:03:08Z",
-    "scanned_at": "2026-11-08T09:43:03.329442+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795785+00:00",
     "status": "new"
   },
   {
@@ -3794,7 +3807,7 @@
     "comments": 6,
     "created_at": "2026-10-19T04:11:40Z",
     "updated_at": "2026-10-28T00:43:54Z",
-    "scanned_at": "2026-11-08T09:43:03.329507+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795832+00:00",
     "status": "new"
   },
   {
@@ -3815,7 +3828,7 @@
     "comments": 1,
     "created_at": "2026-10-19T02:57:25Z",
     "updated_at": "2026-10-19T20:27:02Z",
-    "scanned_at": "2026-11-08T09:43:03.329571+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795927+00:00",
     "status": "new"
   },
   {
@@ -3835,7 +3848,7 @@
     "comments": 0,
     "created_at": "2026-10-19T01:06:42Z",
     "updated_at": "2026-10-19T10:09:24Z",
-    "scanned_at": "2026-11-08T09:43:03.329592+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795946+00:00",
     "status": "new"
   },
   {
@@ -3855,47 +3868,7 @@
     "comments": 0,
     "created_at": "2026-10-18T23:01:41Z",
     "updated_at": "2026-10-18T23:09:23Z",
-    "scanned_at": "2026-11-08T09:43:03.329613+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000211",
-    "title": "[radar] SN open bounty 2026-10-18T20:33",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1306",
-    "repo": "relayhop/sn-monetization-runtime",
-    "number": 1306,
-    "labels": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-10-18T20:33:00Z",
-    "updated_at": "2026-10-19T05:41:07Z",
-    "scanned_at": "2026-11-08T09:43:03.329633+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000212",
-    "title": "[radar] SN open bounty 2026-10-18T18:00",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1302",
-    "repo": "relayhop/sn-monetization-runtime",
-    "number": 1302,
-    "labels": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-10-18T18:00:54Z",
-    "updated_at": "2026-10-18T23:09:03Z",
-    "scanned_at": "2026-11-08T09:43:03.329654+00:00",
+    "scanned_at": "2026-11-08T16:28:12.795974+00:00",
     "status": "new"
   },
   {
@@ -3915,7 +3888,7 @@
     "comments": 18,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-11-04T05:13:55Z",
-    "scanned_at": "2026-11-08T09:42:56.978767+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704321+00:00",
     "status": "new"
   },
   {
@@ -3934,7 +3907,7 @@
     "comments": 20,
     "created_at": "2026-09-20T18:51:05Z",
     "updated_at": "2026-11-04T21:07:17Z",
-    "scanned_at": "2026-11-08T09:42:56.978835+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704380+00:00",
     "status": "new"
   },
   {
@@ -3954,7 +3927,7 @@
     "comments": 5,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-10-11T15:46:09Z",
-    "scanned_at": "2026-11-08T09:42:56.978986+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704512+00:00",
     "status": "new"
   },
   {
@@ -3974,7 +3947,7 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-11-08T09:42:56.979029+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704550+00:00",
     "status": "new"
   },
   {
@@ -4000,7 +3973,7 @@
     "comments": 17,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-11-02T16:01:59Z",
-    "scanned_at": "2026-11-08T09:42:56.979184+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704686+00:00",
     "status": "new"
   },
   {
@@ -4026,7 +3999,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-11-03T00:12:44Z",
-    "scanned_at": "2026-11-08T09:42:56.979284+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704776+00:00",
     "status": "new"
   },
   {
@@ -4052,7 +4025,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-10-27T11:40:26Z",
-    "scanned_at": "2026-11-08T09:42:56.979375+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704853+00:00",
     "status": "new"
   },
   {
@@ -4078,7 +4051,7 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-11-08T09:42:56.979519+00:00",
+    "scanned_at": "2026-11-08T16:28:06.704962+00:00",
     "status": "new"
   },
   {
@@ -4103,7 +4076,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-10-11T15:46:39Z",
-    "scanned_at": "2026-11-08T09:42:56.979629+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705066+00:00",
     "status": "new"
   },
   {
@@ -4128,7 +4101,7 @@
     "comments": 19,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-10-11T15:46:44Z",
-    "scanned_at": "2026-11-08T09:42:56.979716+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705136+00:00",
     "status": "new"
   },
   {
@@ -4153,7 +4126,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-09-16T18:28:31Z",
-    "scanned_at": "2026-11-08T09:42:56.979816+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705233+00:00",
     "status": "new"
   },
   {
@@ -4180,7 +4153,7 @@
     "comments": 32,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-11-02T09:25:11Z",
-    "scanned_at": "2026-11-08T09:42:56.979904+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705304+00:00",
     "status": "new"
   },
   {
@@ -4206,7 +4179,7 @@
     "comments": 10,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-11-02T23:22:42Z",
-    "scanned_at": "2026-11-08T09:42:56.979986+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705373+00:00",
     "status": "new"
   },
   {
@@ -4232,7 +4205,7 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-11-08T09:42:56.980058+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705431+00:00",
     "status": "new"
   },
   {
@@ -4258,7 +4231,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-11-02T18:06:34Z",
-    "scanned_at": "2026-11-08T09:42:56.980139+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705506+00:00",
     "status": "new"
   },
   {
@@ -4284,7 +4257,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-10-11T15:48:09Z",
-    "scanned_at": "2026-11-08T09:42:56.980203+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705558+00:00",
     "status": "new"
   },
   {
@@ -4310,7 +4283,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-11-08T09:42:56.980277+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705619+00:00",
     "status": "new"
   },
   {
@@ -4336,7 +4309,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-10-11T15:48:29Z",
-    "scanned_at": "2026-11-08T09:42:56.980358+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705680+00:00",
     "status": "new"
   },
   {
@@ -4362,7 +4335,7 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-11-08T09:42:56.980441+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705746+00:00",
     "status": "new"
   },
   {
@@ -4388,7 +4361,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-10-11T15:48:34Z",
-    "scanned_at": "2026-11-08T09:42:56.980515+00:00",
+    "scanned_at": "2026-11-08T16:28:06.705802+00:00",
     "status": "new"
   }
 ]
