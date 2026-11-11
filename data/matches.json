@@ -23,7 +23,7 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:23Z",
     "updated_at": "2026-11-10T10:53:26Z",
-    "scanned_at": "2026-11-11T01:36:38.365809+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077591+00:00",
     "status": "new",
     "_score": 53.8,
     "tier": "A"
@@ -52,7 +52,7 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:21Z",
     "updated_at": "2026-11-10T10:08:34Z",
-    "scanned_at": "2026-11-11T01:36:38.365834+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077615+00:00",
     "status": "new",
     "_score": 53.8,
     "tier": "A"
@@ -81,7 +81,7 @@
     "comments": 3,
     "created_at": "2026-11-07T13:20:03Z",
     "updated_at": "2026-11-08T13:03:53Z",
-    "scanned_at": "2026-11-11T01:36:38.365993+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077767+00:00",
     "status": "new",
     "_score": 53.8,
     "tier": "A"
@@ -110,7 +110,7 @@
     "comments": 1,
     "created_at": "2026-11-07T13:19:58Z",
     "updated_at": "2026-11-10T10:09:04Z",
-    "scanned_at": "2026-11-11T01:36:38.366060+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077856+00:00",
     "status": "new",
     "_score": 53.8,
     "tier": "A"
@@ -139,13 +139,13 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:20Z",
     "updated_at": "2026-11-10T10:09:02Z",
-    "scanned_at": "2026-11-11T01:36:38.365847+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077627+00:00",
     "status": "new",
     "_score": 53.5,
     "tier": "A"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000028",
     "title": "[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -164,29 +164,7 @@
     "comments": 0,
     "created_at": "2026-11-10T11:32:09Z",
     "updated_at": "2026-11-10T11:32:09Z",
-    "scanned_at": "2026-11-11T01:35:24.772302+00:00",
-    "status": "new",
-    "_score": 53.1,
-    "tier": "A"
-  },
-  {
-    "id": "BH-000045",
-    "title": "[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-verifier`)",
-    "url": "https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2",
-    "repo": "IES-BoilerRoom/cuda-warp-allreduce-verifier",
-    "number": 2,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-09T21:12:01Z",
-    "updated_at": "2026-11-10T23:17:28Z",
-    "scanned_at": "2026-11-11T01:35:24.772798+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605815+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
@@ -208,7 +186,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:31Z",
     "updated_at": "2026-11-10T23:17:26Z",
-    "scanned_at": "2026-11-11T01:35:24.773957+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608570+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
@@ -230,7 +208,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:26Z",
     "updated_at": "2026-11-10T23:17:22Z",
-    "scanned_at": "2026-11-11T01:35:24.773971+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608586+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
@@ -252,13 +230,13 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:25Z",
     "updated_at": "2026-11-10T23:17:20Z",
-    "scanned_at": "2026-11-11T01:35:24.773995+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608600+00:00",
     "status": "new",
     "_score": 53.1,
     "tier": "A"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000027",
     "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -280,13 +258,13 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:10Z",
     "updated_at": "2026-11-11T00:29:02Z",
-    "scanned_at": "2026-11-11T01:35:24.772292+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605787+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000030",
     "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -307,13 +285,13 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:06Z",
     "updated_at": "2026-11-10T11:39:55Z",
-    "scanned_at": "2026-11-11T01:35:24.772326+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605844+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000029",
     "title": "[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -334,7 +312,7 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:08Z",
     "updated_at": "2026-11-10T13:57:43Z",
-    "scanned_at": "2026-11-11T01:35:24.772314+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605830+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
@@ -362,7 +340,7 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:24Z",
     "updated_at": "2026-11-10T05:26:20Z",
-    "scanned_at": "2026-11-11T01:36:38.365790+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077573+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
@@ -390,7 +368,7 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:19Z",
     "updated_at": "2026-11-10T05:36:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365860+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077640+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
@@ -418,7 +396,7 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:22Z",
     "updated_at": "2026-11-10T10:09:03Z",
-    "scanned_at": "2026-11-11T01:36:38.365821+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077603+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
@@ -446,7 +424,7 @@
     "comments": 4,
     "created_at": "2026-11-07T13:20:02Z",
     "updated_at": "2026-11-10T05:43:02Z",
-    "scanned_at": "2026-11-11T01:36:38.366004+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077779+00:00",
     "status": "new",
     "_score": 51.1,
     "tier": "A"
@@ -466,14 +444,14 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-10T23:17:31Z",
-    "updated_at": "2026-11-10T23:17:31Z",
-    "scanned_at": "2026-11-11T01:35:24.771750+00:00",
+    "updated_at": "2026-11-11T07:24:33Z",
+    "scanned_at": "2026-11-11T08:37:42.605300+00:00",
     "status": "new",
     "_score": 48.6,
     "tier": "A"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000009",
     "title": "[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)",
     "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
     "repo": "IES-BoilerRoom/wasm-component-canonical-abi",
@@ -487,10 +465,32 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-10T23:17:29Z",
-    "updated_at": "2026-11-10T23:17:29Z",
-    "scanned_at": "2026-11-11T01:35:24.771777+00:00",
+    "updated_at": "2026-11-11T07:24:39Z",
+    "scanned_at": "2026-11-11T08:37:42.605320+00:00",
     "status": "new",
     "_score": 48.6,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000047",
+    "title": "[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-verifier`)",
+    "url": "https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2",
+    "repo": "IES-BoilerRoom/cuda-warp-allreduce-verifier",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 12,
+    "created_at": "2026-11-09T21:12:01Z",
+    "updated_at": "2026-11-11T08:33:29Z",
+    "scanned_at": "2026-11-11T08:37:42.607514+00:00",
+    "status": "new",
+    "_score": 48.1,
     "tier": "A"
   },
   {
@@ -513,7 +513,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-10T10:53:33Z",
-    "scanned_at": "2026-11-11T01:35:24.774098+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608703+00:00",
     "status": "new",
     "_score": 45.7,
     "tier": "A"
@@ -536,7 +536,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:12:44Z",
     "updated_at": "2026-11-10T10:43:47Z",
-    "scanned_at": "2026-11-11T01:35:24.774069+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608677+00:00",
     "status": "new",
     "_score": 45.7,
     "tier": "A"
@@ -559,7 +559,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:42Z",
     "updated_at": "2026-11-10T10:42:03Z",
-    "scanned_at": "2026-11-11T01:35:24.774089+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608695+00:00",
     "status": "new",
     "_score": 45.7,
     "tier": "A"
@@ -582,7 +582,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:43Z",
     "updated_at": "2026-11-10T10:42:04Z",
-    "scanned_at": "2026-11-11T01:35:24.774081+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608686+00:00",
     "status": "new",
     "_score": 45.4,
     "tier": "A"
@@ -605,13 +605,13 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-10T10:42:02Z",
-    "scanned_at": "2026-11-11T01:35:24.774109+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608712+00:00",
     "status": "new",
     "_score": 45.4,
     "tier": "A"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000023",
     "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -626,13 +626,13 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:39Z",
     "updated_at": "2026-11-10T15:49:39Z",
-    "scanned_at": "2026-11-11T01:35:24.772241+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605742+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000025",
     "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -647,13 +647,13 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-11T01:35:24.772263+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605761+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000024",
     "title": "[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -668,7 +668,7 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-11T01:35:24.772254+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605753+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -689,7 +689,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:00Z",
-    "scanned_at": "2026-11-11T01:35:24.774059+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608668+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -710,7 +710,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:23Z",
-    "scanned_at": "2026-11-11T01:35:24.774051+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608657+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -731,7 +731,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T10:42:01Z",
-    "scanned_at": "2026-11-11T01:35:24.774042+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608648+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -752,7 +752,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-11T01:36:38.365739+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077520+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -773,7 +773,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-11T01:36:38.365730+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077512+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -794,7 +794,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-07T20:24:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365721+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077503+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -815,7 +815,28 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-07T20:24:45Z",
-    "scanned_at": "2026-11-11T01:36:38.365766+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077548+00:00",
+    "status": "new",
+    "_score": 45.0,
+    "tier": "A"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4307,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-11T01:28:11Z",
+    "updated_at": "2026-11-11T07:56:45Z",
+    "scanned_at": "2026-11-11T08:37:42.605277+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -835,14 +856,14 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-11T01:28:10Z",
-    "updated_at": "2026-11-11T01:28:10Z",
-    "scanned_at": "2026-11-11T01:35:24.771734+00:00",
+    "updated_at": "2026-11-11T01:39:30Z",
+    "scanned_at": "2026-11-11T08:37:42.605285+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000068",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -857,7 +878,7 @@
     "comments": 0,
     "created_at": "2026-11-08T16:47:44Z",
     "updated_at": "2026-11-10T18:34:42Z",
-    "scanned_at": "2026-11-11T01:35:24.773896+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608517+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -878,7 +899,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-07T20:24:51Z",
-    "scanned_at": "2026-11-11T01:36:38.365675+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077456+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -899,7 +920,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-07T20:24:50Z",
-    "scanned_at": "2026-11-11T01:36:38.365696+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077476+00:00",
     "status": "new",
     "_score": 45.0,
     "tier": "A"
@@ -921,7 +942,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-11-11T01:36:38.970287+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643285+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -943,7 +964,7 @@
     "comments": 35,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-22T03:16:21Z",
-    "scanned_at": "2026-11-11T01:36:38.970259+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643259+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
@@ -964,13 +985,13 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-25T17:45:19Z",
-    "scanned_at": "2026-11-11T01:36:38.970273+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643272+00:00",
     "status": "new",
     "_score": 43.6,
     "tier": "B"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000026",
     "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -982,16 +1003,16 @@
     "language": "unknown",
     "amount_usd": 1600,
     "state": "open",
-    "comments": 2,
+    "comments": 1,
     "created_at": "2026-11-10T15:49:36Z",
-    "updated_at": "2026-11-10T20:04:41Z",
-    "scanned_at": "2026-11-11T01:35:24.772274+00:00",
+    "updated_at": "2026-11-11T07:59:27Z",
+    "scanned_at": "2026-11-11T08:37:42.605770+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000077",
     "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1006,7 +1027,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:02Z",
     "updated_at": "2026-11-10T20:06:24Z",
-    "scanned_at": "2026-11-11T01:35:24.774024+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608617+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -1027,7 +1048,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T23:48:46Z",
-    "scanned_at": "2026-11-11T01:35:24.774033+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608636+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -1048,13 +1069,13 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-08T03:21:44Z",
-    "scanned_at": "2026-11-11T01:36:38.365758+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077540+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000078",
     "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1066,10 +1087,10 @@
     "language": "unknown",
     "amount_usd": 1150,
     "state": "open",
-    "comments": 3,
+    "comments": 2,
     "created_at": "2026-11-08T10:42:02Z",
-    "updated_at": "2026-11-10T20:05:03Z",
-    "scanned_at": "2026-11-11T01:35:24.774013+00:00",
+    "updated_at": "2026-11-11T08:01:52Z",
+    "scanned_at": "2026-11-11T08:37:42.608627+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -1090,7 +1111,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:44Z",
     "updated_at": "2026-11-08T03:21:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365775+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077557+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -1111,7 +1132,7 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:46Z",
     "updated_at": "2026-11-09T03:47:12Z",
-    "scanned_at": "2026-11-11T01:36:38.365749+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077530+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -1132,28 +1153,7 @@
     "comments": 1,
     "created_at": "2026-11-07T16:23:36Z",
     "updated_at": "2026-11-10T12:14:46Z",
-    "scanned_at": "2026-11-11T01:36:38.365870+00:00",
-    "status": "new",
-    "_score": 43.0,
-    "tier": "B"
-  },
-  {
-    "id": "BH-000097",
-    "title": "[Bounty] [Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252",
-    "repo": "zhangjiayang6835-cyber/bounty-plaza",
-    "number": 4252,
-    "labels": [
-      "bounty",
-      "real"
-    ],
-    "language": "unknown",
-    "amount_usd": 650,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-07T20:24:48Z",
-    "updated_at": "2026-11-09T03:50:04Z",
-    "scanned_at": "2026-11-11T01:36:38.365713+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077650+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"

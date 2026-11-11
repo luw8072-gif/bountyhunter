@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000032",
+    "id": "BH-000026",
     "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -12,14 +12,14 @@
     "language": "unknown",
     "amount_usd": 1600,
     "state": "open",
-    "comments": 2,
+    "comments": 1,
     "created_at": "2026-11-10T15:49:36Z",
-    "updated_at": "2026-11-10T20:04:41Z",
-    "scanned_at": "2026-11-11T01:35:24.772274+00:00",
+    "updated_at": "2026-11-11T07:59:27Z",
+    "scanned_at": "2026-11-11T08:37:42.605770+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000027",
     "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -41,11 +41,11 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:10Z",
     "updated_at": "2026-11-11T00:29:02Z",
-    "scanned_at": "2026-11-11T01:35:24.772292+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605787+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000023",
     "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -60,11 +60,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:39Z",
     "updated_at": "2026-11-10T15:49:39Z",
-    "scanned_at": "2026-11-11T01:35:24.772241+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605742+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000030",
     "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -85,11 +85,11 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:06Z",
     "updated_at": "2026-11-10T11:39:55Z",
-    "scanned_at": "2026-11-11T01:35:24.772326+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605844+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000025",
     "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -104,11 +104,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-11T01:35:24.772263+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605761+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000029",
     "title": "[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -129,11 +129,11 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:08Z",
     "updated_at": "2026-11-10T13:57:43Z",
-    "scanned_at": "2026-11-11T01:35:24.772314+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605830+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000077",
     "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -148,7 +148,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:02Z",
     "updated_at": "2026-11-10T20:06:24Z",
-    "scanned_at": "2026-11-11T01:35:24.774024+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608617+00:00",
     "status": "new"
   },
   {
@@ -170,7 +170,7 @@
     "comments": 5,
     "created_at": "2026-11-08T10:12:40Z",
     "updated_at": "2026-11-10T15:01:51Z",
-    "scanned_at": "2026-11-11T01:35:24.774119+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608721+00:00",
     "status": "new"
   },
   {
@@ -189,7 +189,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T23:48:46Z",
-    "scanned_at": "2026-11-11T01:35:24.774033+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608636+00:00",
     "status": "new"
   },
   {
@@ -212,11 +212,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-10T10:53:33Z",
-    "scanned_at": "2026-11-11T01:35:24.774098+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608703+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000024",
     "title": "[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -231,11 +231,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-11T01:35:24.772254+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605753+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000028",
     "title": "[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -254,7 +254,7 @@
     "comments": 0,
     "created_at": "2026-11-10T11:32:09Z",
     "updated_at": "2026-11-10T11:32:09Z",
-    "scanned_at": "2026-11-11T01:35:24.772302+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605815+00:00",
     "status": "new"
   },
   {
@@ -273,7 +273,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:00Z",
-    "scanned_at": "2026-11-11T01:35:24.774059+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608668+00:00",
     "status": "new"
   },
   {
@@ -294,7 +294,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:43Z",
     "updated_at": "2026-11-10T10:42:04Z",
-    "scanned_at": "2026-11-11T01:35:24.774081+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608686+00:00",
     "status": "new"
   },
   {
@@ -314,7 +314,7 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-11-11T01:36:38.970287+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643285+00:00",
     "status": "new"
   },
   {
@@ -333,7 +333,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-08T03:21:44Z",
-    "scanned_at": "2026-11-11T01:36:38.365758+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077540+00:00",
     "status": "new"
   },
   {
@@ -360,11 +360,11 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:23Z",
     "updated_at": "2026-11-10T10:53:26Z",
-    "scanned_at": "2026-11-11T01:36:38.365809+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077591+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000078",
     "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -376,10 +376,10 @@
     "language": "unknown",
     "amount_usd": 1150,
     "state": "open",
-    "comments": 3,
+    "comments": 2,
     "created_at": "2026-11-08T10:42:02Z",
-    "updated_at": "2026-11-10T20:05:03Z",
-    "scanned_at": "2026-11-11T01:35:24.774013+00:00",
+    "updated_at": "2026-11-11T08:01:52Z",
+    "scanned_at": "2026-11-11T08:37:42.608627+00:00",
     "status": "new"
   },
   {
@@ -400,7 +400,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-10T10:42:02Z",
-    "scanned_at": "2026-11-11T01:35:24.774109+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608712+00:00",
     "status": "new"
   },
   {
@@ -419,7 +419,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:23Z",
-    "scanned_at": "2026-11-11T01:35:24.774051+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608657+00:00",
     "status": "new"
   },
   {
@@ -440,7 +440,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:12:44Z",
     "updated_at": "2026-11-10T10:43:47Z",
-    "scanned_at": "2026-11-11T01:35:24.774069+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608677+00:00",
     "status": "new"
   },
   {
@@ -459,7 +459,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:44Z",
     "updated_at": "2026-11-08T03:21:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365775+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077557+00:00",
     "status": "new"
   },
   {
@@ -485,7 +485,7 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:24Z",
     "updated_at": "2026-11-10T05:26:20Z",
-    "scanned_at": "2026-11-11T01:36:38.365790+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077573+00:00",
     "status": "new"
   },
   {
@@ -504,7 +504,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T10:42:01Z",
-    "scanned_at": "2026-11-11T01:35:24.774042+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608648+00:00",
     "status": "new"
   },
   {
@@ -525,7 +525,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:42Z",
     "updated_at": "2026-11-10T10:42:03Z",
-    "scanned_at": "2026-11-11T01:35:24.774089+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608695+00:00",
     "status": "new"
   },
   {
@@ -544,7 +544,7 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:46Z",
     "updated_at": "2026-11-09T03:47:12Z",
-    "scanned_at": "2026-11-11T01:36:38.365749+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077530+00:00",
     "status": "new"
   },
   {
@@ -571,7 +571,7 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:21Z",
     "updated_at": "2026-11-10T10:08:34Z",
-    "scanned_at": "2026-11-11T01:36:38.365834+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077615+00:00",
     "status": "new"
   },
   {
@@ -590,7 +590,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-11T01:36:38.365739+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077520+00:00",
     "status": "new"
   },
   {
@@ -617,7 +617,7 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:20Z",
     "updated_at": "2026-11-10T10:09:02Z",
-    "scanned_at": "2026-11-11T01:36:38.365847+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077627+00:00",
     "status": "new"
   },
   {
@@ -636,7 +636,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:47Z",
     "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-11T01:36:38.365730+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077512+00:00",
     "status": "new"
   },
   {
@@ -662,7 +662,7 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:19Z",
     "updated_at": "2026-11-10T05:36:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365860+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077640+00:00",
     "status": "new"
   },
   {
@@ -681,7 +681,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-07T20:24:48Z",
-    "scanned_at": "2026-11-11T01:36:38.365721+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077503+00:00",
     "status": "new"
   },
   {
@@ -708,7 +708,7 @@
     "comments": 3,
     "created_at": "2026-11-07T13:20:03Z",
     "updated_at": "2026-11-08T13:03:53Z",
-    "scanned_at": "2026-11-11T01:36:38.365993+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077767+00:00",
     "status": "new"
   },
   {
@@ -727,7 +727,7 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-11-11T01:36:38.970279+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643278+00:00",
     "status": "new"
   },
   {
@@ -746,7 +746,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-07T20:24:45Z",
-    "scanned_at": "2026-11-11T01:36:38.365766+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077548+00:00",
     "status": "new"
   },
   {
@@ -772,7 +772,7 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:22Z",
     "updated_at": "2026-11-10T10:09:03Z",
-    "scanned_at": "2026-11-11T01:36:38.365821+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077603+00:00",
     "status": "new"
   },
   {
@@ -791,7 +791,7 @@
     "comments": 1,
     "created_at": "2026-11-07T16:23:36Z",
     "updated_at": "2026-11-10T12:14:46Z",
-    "scanned_at": "2026-11-11T01:36:38.365870+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077650+00:00",
     "status": "new"
   },
   {
@@ -817,7 +817,7 @@
     "comments": 4,
     "created_at": "2026-11-07T13:20:02Z",
     "updated_at": "2026-11-10T05:43:02Z",
-    "scanned_at": "2026-11-11T01:36:38.366004+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077779+00:00",
     "status": "new"
   },
   {
@@ -837,7 +837,7 @@
     "comments": 35,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-22T03:16:21Z",
-    "scanned_at": "2026-11-11T01:36:38.970259+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643259+00:00",
     "status": "new"
   },
   {
@@ -856,7 +856,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-09T03:50:04Z",
-    "scanned_at": "2026-11-11T01:36:38.365713+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077494+00:00",
     "status": "new"
   },
   {
@@ -883,7 +883,7 @@
     "comments": 1,
     "created_at": "2026-11-07T13:19:58Z",
     "updated_at": "2026-11-10T10:09:04Z",
-    "scanned_at": "2026-11-11T01:36:38.366060+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077856+00:00",
     "status": "new"
   },
   {
@@ -902,7 +902,7 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-25T17:45:19Z",
-    "scanned_at": "2026-11-11T01:36:38.970273+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643272+00:00",
     "status": "new"
   },
   {
@@ -918,10 +918,10 @@
     "language": "unknown",
     "amount_usd": 600,
     "state": "open",
-    "comments": 1,
+    "comments": 0,
     "created_at": "2026-11-11T01:28:11Z",
-    "updated_at": "2026-11-11T01:33:05Z",
-    "scanned_at": "2026-11-11T01:35:24.771726+00:00",
+    "updated_at": "2026-11-11T07:56:45Z",
+    "scanned_at": "2026-11-11T08:37:42.605277+00:00",
     "status": "new"
   },
   {
@@ -939,8 +939,8 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-11T01:28:10Z",
-    "updated_at": "2026-11-11T01:28:10Z",
-    "scanned_at": "2026-11-11T01:35:24.771734+00:00",
+    "updated_at": "2026-11-11T01:39:30Z",
+    "scanned_at": "2026-11-11T08:37:42.605285+00:00",
     "status": "new"
   },
   {
@@ -958,12 +958,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-10T23:17:31Z",
-    "updated_at": "2026-11-10T23:17:31Z",
-    "scanned_at": "2026-11-11T01:35:24.771750+00:00",
+    "updated_at": "2026-11-11T07:24:33Z",
+    "scanned_at": "2026-11-11T08:37:42.605300+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000009",
     "title": "[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)",
     "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
     "repo": "IES-BoilerRoom/wasm-component-canonical-abi",
@@ -977,12 +977,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-10T23:17:29Z",
-    "updated_at": "2026-11-10T23:17:29Z",
-    "scanned_at": "2026-11-11T01:35:24.771777+00:00",
+    "updated_at": "2026-11-11T07:24:39Z",
+    "scanned_at": "2026-11-11T08:37:42.605320+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000041",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -994,14 +994,14 @@
     "language": "unknown",
     "amount_usd": 600,
     "state": "open",
-    "comments": 4,
+    "comments": 1,
     "created_at": "2026-11-10T00:34:51Z",
-    "updated_at": "2026-11-11T00:57:11Z",
-    "scanned_at": "2026-11-11T01:35:24.772447+00:00",
+    "updated_at": "2026-11-11T08:00:35Z",
+    "scanned_at": "2026-11-11T08:37:42.607162+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000047",
     "title": "[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-verifier`)",
     "url": "https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2",
     "repo": "IES-BoilerRoom/cuda-warp-allreduce-verifier",
@@ -1014,14 +1014,14 @@
     "language": "unknown",
     "amount_usd": 600,
     "state": "open",
-    "comments": 0,
+    "comments": 12,
     "created_at": "2026-11-09T21:12:01Z",
-    "updated_at": "2026-11-10T23:17:28Z",
-    "scanned_at": "2026-11-11T01:35:24.772798+00:00",
+    "updated_at": "2026-11-11T08:33:29Z",
+    "scanned_at": "2026-11-11T08:37:42.607514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000066",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1036,11 +1036,11 @@
     "comments": 1,
     "created_at": "2026-11-08T16:47:45Z",
     "updated_at": "2026-11-10T20:37:27Z",
-    "scanned_at": "2026-11-11T01:35:24.773882+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608504+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000068",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1055,7 +1055,7 @@
     "comments": 0,
     "created_at": "2026-11-08T16:47:44Z",
     "updated_at": "2026-11-10T18:34:42Z",
-    "scanned_at": "2026-11-11T01:35:24.773896+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608517+00:00",
     "status": "new"
   },
   {
@@ -1075,7 +1075,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:31Z",
     "updated_at": "2026-11-10T23:17:26Z",
-    "scanned_at": "2026-11-11T01:35:24.773957+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608570+00:00",
     "status": "new"
   },
   {
@@ -1095,7 +1095,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:26Z",
     "updated_at": "2026-11-10T23:17:22Z",
-    "scanned_at": "2026-11-11T01:35:24.773971+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608586+00:00",
     "status": "new"
   },
   {
@@ -1115,7 +1115,7 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:25Z",
     "updated_at": "2026-11-10T23:17:20Z",
-    "scanned_at": "2026-11-11T01:35:24.773995+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608600+00:00",
     "status": "new"
   },
   {
@@ -1134,7 +1134,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-07T20:24:51Z",
-    "scanned_at": "2026-11-11T01:36:38.365675+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077456+00:00",
     "status": "new"
   },
   {
@@ -1153,7 +1153,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-10T13:16:27Z",
-    "scanned_at": "2026-11-11T01:36:38.365686+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077466+00:00",
     "status": "new"
   },
   {
@@ -1172,7 +1172,7 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-07T20:24:50Z",
-    "scanned_at": "2026-11-11T01:36:38.365696+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077476+00:00",
     "status": "new"
   },
   {
@@ -1191,7 +1191,7 @@
     "comments": 21,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-11-06T17:35:55Z",
-    "scanned_at": "2026-11-11T01:36:38.970267+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643266+00:00",
     "status": "new"
   },
   {
@@ -1209,8 +1209,8 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-11T01:28:11Z",
-    "updated_at": "2026-11-11T01:28:11Z",
-    "scanned_at": "2026-11-11T01:35:24.771715+00:00",
+    "updated_at": "2026-11-11T07:56:39Z",
+    "scanned_at": "2026-11-11T08:37:42.605267+00:00",
     "status": "new"
   },
   {
@@ -1226,10 +1226,10 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-11T01:28:10Z",
-    "updated_at": "2026-11-11T01:30:07Z",
-    "scanned_at": "2026-11-11T01:35:24.771741+00:00",
+    "updated_at": "2026-11-11T04:21:10Z",
+    "scanned_at": "2026-11-11T08:37:42.605293+00:00",
     "status": "new"
   },
   {
@@ -1247,12 +1247,12 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-10T23:17:30Z",
-    "updated_at": "2026-11-10T23:35:59Z",
-    "scanned_at": "2026-11-11T01:35:24.771757+00:00",
+    "updated_at": "2026-11-11T07:24:29Z",
+    "scanned_at": "2026-11-11T08:37:42.605307+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000008",
     "title": "[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)",
     "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1",
     "repo": "IES-BoilerRoom/wasm-component-canonical-abi",
@@ -1264,14 +1264,14 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-10T23:17:29Z",
-    "updated_at": "2026-11-10T23:33:27Z",
-    "scanned_at": "2026-11-11T01:35:24.771784+00:00",
+    "updated_at": "2026-11-11T07:24:35Z",
+    "scanned_at": "2026-11-11T08:37:42.605313+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000040",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1283,10 +1283,10 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 4,
+    "comments": 1,
     "created_at": "2026-11-10T00:34:51Z",
-    "updated_at": "2026-11-11T00:57:24Z",
-    "scanned_at": "2026-11-11T01:35:24.772440+00:00",
+    "updated_at": "2026-11-11T08:00:51Z",
+    "scanned_at": "2026-11-11T08:37:42.607155+00:00",
     "status": "new"
   },
   {
@@ -1303,14 +1303,14 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-11-09T21:12:01Z",
-    "updated_at": "2026-11-11T01:04:59Z",
-    "scanned_at": "2026-11-11T01:35:24.772808+00:00",
+    "updated_at": "2026-11-11T07:13:02Z",
+    "scanned_at": "2026-11-11T08:37:42.607505+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000065",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1325,11 +1325,11 @@
     "comments": 7,
     "created_at": "2026-11-08T16:47:45Z",
     "updated_at": "2026-11-10T23:08:09Z",
-    "scanned_at": "2026-11-11T01:35:24.773889+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608497+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000067",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1344,7 +1344,7 @@
     "comments": 5,
     "created_at": "2026-11-08T16:47:44Z",
     "updated_at": "2026-11-10T23:34:40Z",
-    "scanned_at": "2026-11-11T01:35:24.773904+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608511+00:00",
     "status": "new"
   },
   {
@@ -1364,7 +1364,7 @@
     "comments": 2,
     "created_at": "2026-11-08T10:53:30Z",
     "updated_at": "2026-11-10T23:17:25Z",
-    "scanned_at": "2026-11-11T01:35:24.773964+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608579+00:00",
     "status": "new"
   },
   {
@@ -1384,7 +1384,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:53:26Z",
     "updated_at": "2026-11-10T23:17:21Z",
-    "scanned_at": "2026-11-11T01:35:24.773979+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608594+00:00",
     "status": "new"
   },
   {
@@ -1404,7 +1404,7 @@
     "comments": 1,
     "created_at": "2026-11-08T10:53:24Z",
     "updated_at": "2026-11-10T23:17:19Z",
-    "scanned_at": "2026-11-11T01:35:24.774002+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608607+00:00",
     "status": "new"
   },
   {
@@ -1423,7 +1423,7 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-10T13:16:24Z",
-    "scanned_at": "2026-11-11T01:35:24.774145+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608748+00:00",
     "status": "new"
   },
   {
@@ -1439,10 +1439,10 @@
     "language": "unknown",
     "amount_usd": 420,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-11T01:28:12Z",
-    "updated_at": "2026-11-11T01:28:12Z",
-    "scanned_at": "2026-11-11T01:35:24.771685+00:00",
+    "updated_at": "2026-11-11T07:56:35Z",
+    "scanned_at": "2026-11-11T08:37:42.605237+00:00",
     "status": "new"
   },
   {
@@ -1458,10 +1458,10 @@
     "language": "unknown",
     "amount_usd": 420,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-10T22:23:18Z",
-    "updated_at": "2026-11-10T23:53:46Z",
-    "scanned_at": "2026-11-11T01:35:24.771983+00:00",
+    "updated_at": "2026-11-11T07:59:02Z",
+    "scanned_at": "2026-11-11T08:37:42.605521+00:00",
     "status": "new"
   },
   {
@@ -1480,7 +1480,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-08T03:21:38Z",
-    "scanned_at": "2026-11-11T01:36:38.365664+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077442+00:00",
     "status": "new"
   },
   {
@@ -1499,7 +1499,7 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-07T20:52:02Z",
-    "scanned_at": "2026-11-11T01:36:38.365634+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077409+00:00",
     "status": "new"
   },
   {
@@ -1518,7 +1518,7 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:49Z",
     "updated_at": "2026-11-08T07:39:06Z",
-    "scanned_at": "2026-11-11T01:36:38.365704+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077485+00:00",
     "status": "new"
   },
   {
@@ -1544,7 +1544,7 @@
     "comments": 3,
     "created_at": "2026-11-07T13:19:57Z",
     "updated_at": "2026-11-10T05:43:06Z",
-    "scanned_at": "2026-11-11T01:36:38.366071+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077867+00:00",
     "status": "new"
   },
   {
@@ -1563,7 +1563,7 @@
     "comments": 0,
     "created_at": "2026-10-22T15:00:27Z",
     "updated_at": "2026-10-28T11:24:27Z",
-    "scanned_at": "2026-11-11T01:36:45.110471+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685322+00:00",
     "status": "new"
   },
   {
@@ -1582,7 +1582,7 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:23Z",
     "updated_at": "2026-11-10T21:37:49Z",
-    "scanned_at": "2026-11-11T01:35:24.771994+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605547+00:00",
     "status": "new"
   },
   {
@@ -1601,7 +1601,7 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:22Z",
     "updated_at": "2026-11-10T21:37:51Z",
-    "scanned_at": "2026-11-11T01:35:24.772002+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605554+00:00",
     "status": "new"
   },
   {
@@ -1617,10 +1617,10 @@
     "language": "unknown",
     "amount_usd": 100,
     "state": "open",
-    "comments": 2,
+    "comments": 1,
     "created_at": "2026-11-10T21:34:22Z",
-    "updated_at": "2026-11-11T01:05:37Z",
-    "scanned_at": "2026-11-11T01:35:24.772009+00:00",
+    "updated_at": "2026-11-11T07:59:13Z",
+    "scanned_at": "2026-11-11T08:37:42.605562+00:00",
     "status": "new"
   },
   {
@@ -1639,7 +1639,7 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:21Z",
     "updated_at": "2026-11-10T21:37:57Z",
-    "scanned_at": "2026-11-11T01:35:24.772016+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605569+00:00",
     "status": "new"
   },
   {
@@ -1658,7 +1658,7 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:21Z",
     "updated_at": "2026-11-10T21:37:56Z",
-    "scanned_at": "2026-11-11T01:35:24.772023+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605576+00:00",
     "status": "new"
   },
   {
@@ -1677,121 +1677,7 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:20Z",
     "updated_at": "2026-11-10T21:37:58Z",
-    "scanned_at": "2026-11-11T01:35:24.772029+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000023",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/9",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 9,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-10T19:50:09Z",
-    "updated_at": "2026-11-10T20:36:50Z",
-    "scanned_at": "2026-11-11T01:35:24.772196+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000024",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/8",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 8,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-10T19:49:55Z",
-    "updated_at": "2026-11-10T23:42:10Z",
-    "scanned_at": "2026-11-11T01:35:24.772202+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000025",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/7",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 7,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-10T19:47:51Z",
-    "updated_at": "2026-11-10T20:36:53Z",
-    "scanned_at": "2026-11-11T01:35:24.772208+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000026",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/6",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 6,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-10T19:47:29Z",
-    "updated_at": "2026-11-10T19:48:46Z",
-    "scanned_at": "2026-11-11T01:35:24.772214+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000027",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/5",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 5,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-10T19:47:16Z",
-    "updated_at": "2026-11-10T19:48:48Z",
-    "scanned_at": "2026-11-11T01:35:24.772220+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000028",
-    "title": "🪙 Bounty: Improve project documentation",
-    "url": "https://github.com/the3kingleo-cmyk/ruth/issues/3",
-    "repo": "the3kingleo-cmyk/ruth",
-    "number": 3,
-    "labels": [
-      "bounty",
-      "good-first-issue"
-    ],
-    "language": "unknown",
-    "amount_usd": 100,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-10T19:20:18Z",
-    "updated_at": "2026-11-10T20:12:51Z",
-    "scanned_at": "2026-11-11T01:35:24.772227+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605582+00:00",
     "status": "new"
   },
   {
@@ -1809,7 +1695,7 @@
     "comments": 18,
     "created_at": "2026-10-23T19:03:20Z",
     "updated_at": "2026-11-06T23:07:20Z",
-    "scanned_at": "2026-11-11T01:36:45.110420+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685269+00:00",
     "status": "new"
   },
   {
@@ -1828,7 +1714,7 @@
     "comments": 10,
     "created_at": "2026-10-20T20:46:34Z",
     "updated_at": "2026-10-31T21:37:49Z",
-    "scanned_at": "2026-11-11T01:36:45.111513+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686432+00:00",
     "status": "new"
   },
   {
@@ -1852,10 +1738,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-11-10T23:09:39Z",
-    "updated_at": "2026-11-11T00:36:33Z",
-    "scanned_at": "2026-11-11T01:35:24.771971+00:00",
+    "updated_at": "2026-11-11T01:44:47Z",
+    "scanned_at": "2026-11-11T08:37:42.605504+00:00",
     "status": "new"
   },
   {
@@ -1875,10 +1761,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-10T21:22:21Z",
-    "updated_at": "2026-11-11T01:21:07Z",
-    "scanned_at": "2026-11-11T01:35:24.772074+00:00",
+    "updated_at": "2026-11-11T08:17:40Z",
+    "scanned_at": "2026-11-11T08:37:42.605623+00:00",
     "status": "new"
   },
   {
@@ -1893,10 +1779,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 1,
+    "comments": 5,
     "created_at": "2026-11-10T20:02:34Z",
-    "updated_at": "2026-11-10T20:17:13Z",
-    "scanned_at": "2026-11-11T01:35:24.772102+00:00",
+    "updated_at": "2026-11-11T06:49:51Z",
+    "scanned_at": "2026-11-11T08:37:42.605650+00:00",
     "status": "new"
   },
   {
@@ -1911,10 +1797,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 5,
     "created_at": "2026-11-10T20:02:32Z",
-    "updated_at": "2026-11-10T21:16:30Z",
-    "scanned_at": "2026-11-11T01:35:24.772125+00:00",
+    "updated_at": "2026-11-11T04:01:58Z",
+    "scanned_at": "2026-11-11T08:37:42.605673+00:00",
     "status": "new"
   },
   {
@@ -1929,10 +1815,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 5,
     "created_at": "2026-11-10T20:02:31Z",
-    "updated_at": "2026-11-10T21:12:51Z",
-    "scanned_at": "2026-11-11T01:35:24.772150+00:00",
+    "updated_at": "2026-11-11T04:01:56Z",
+    "scanned_at": "2026-11-11T08:37:42.605699+00:00",
     "status": "new"
   },
   {
@@ -1950,11 +1836,11 @@
     "comments": 1,
     "created_at": "2026-11-10T20:02:30Z",
     "updated_at": "2026-11-10T21:12:50Z",
-    "scanned_at": "2026-11-11T01:35:24.772189+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605730+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000031",
     "title": "[radar] SN open bounty 2026-11-10T08:18",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1367",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1970,11 +1856,132 @@
     "comments": 0,
     "created_at": "2026-11-10T08:18:37Z",
     "updated_at": "2026-11-10T08:18:37Z",
-    "scanned_at": "2026-11-11T01:35:24.772343+00:00",
+    "scanned_at": "2026-11-11T08:37:42.605862+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000032",
+    "title": "[$2 site credit] Add a Rust example that lists open bounties",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/22",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 22,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-11-10T05:20:42Z",
+    "updated_at": "2026-11-11T05:56:21Z",
+    "scanned_at": "2026-11-11T08:37:42.606048+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000033",
+    "title": "[$2 site credit] Add a TypeScript example that lists open bounties",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/21",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 21,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-11-10T04:44:57Z",
+    "updated_at": "2026-11-11T07:48:57Z",
+    "scanned_at": "2026-11-11T08:37:42.606225+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000034",
+    "title": "[$2 site credit] Add a Vietnamese README for agentswarm-mcp",
+    "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/12",
+    "repo": "andrewsiah/agentswarm-mcp",
+    "number": 12,
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "translation",
+      "easy",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-11-10T04:07:46Z",
+    "updated_at": "2026-11-11T07:49:06Z",
+    "scanned_at": "2026-11-11T08:37:42.606323+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000035",
+    "title": "[$2 site credit] Add a Go example that lists open bounties",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/20",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 20,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-10T03:24:52Z",
+    "updated_at": "2026-11-11T03:09:27Z",
+    "scanned_at": "2026-11-11T08:37:42.606507+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000036",
+    "title": "[$2 site credit] Add a Deno example that lists open tasks",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/19",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 19,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-10T02:42:24Z",
+    "updated_at": "2026-11-11T03:09:37Z",
+    "scanned_at": "2026-11-11T08:37:42.606657+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000037",
     "title": "[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi",
     "url": "https://github.com/andrewsiah/agentswarm-pi/issues/3",
     "repo": "andrewsiah/agentswarm-pi",
@@ -1995,11 +2002,59 @@
     "comments": 1,
     "created_at": "2026-11-10T02:05:50Z",
     "updated_at": "2026-11-10T09:09:27Z",
-    "scanned_at": "2026-11-11T01:35:24.772432+00:00",
+    "scanned_at": "2026-11-11T08:37:42.606743+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000038",
+    "title": "[$2 site credit] Add a Perl example that lists open tasks",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/18",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 18,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-10T01:24:16Z",
+    "updated_at": "2026-11-11T06:01:55Z",
+    "scanned_at": "2026-11-11T08:37:42.606975+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000039",
+    "title": "[$2 site credit] Add a Elixir example that lists open tasks",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/16",
+    "repo": "andrewsiah/agentswarm-examples",
+    "number": 16,
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "up-for-grabs",
+      "easy",
+      "code",
+      "bounty",
+      "site-credit"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-10T00:45:18Z",
+    "updated_at": "2026-11-11T04:43:17Z",
+    "scanned_at": "2026-11-11T08:37:42.607145+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000042",
     "title": "[radar] SN open bounty 2026-11-10T00:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1366",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2015,15 +2070,15 @@
     "comments": 0,
     "created_at": "2026-11-10T00:12:18Z",
     "updated_at": "2026-11-10T00:14:34Z",
-    "scanned_at": "2026-11-11T01:35:24.772464+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607184+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
-    "title": "[$2 site credit] Add a C#/.NET example that lists open tasks",
-    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/14",
+    "id": "BH-000043",
+    "title": "[$2 site credit] Add a Swift example that lists open tasks",
+    "url": "https://github.com/andrewsiah/agentswarm-examples/issues/15",
     "repo": "andrewsiah/agentswarm-examples",
-    "number": 14,
+    "number": 15,
     "labels": [
       "help wanted",
       "good first issue",
@@ -2037,13 +2092,13 @@
     "amount_usd": null,
     "state": "open",
     "comments": 1,
-    "created_at": "2026-11-09T22:51:34Z",
-    "updated_at": "2026-11-10T00:33:40Z",
-    "scanned_at": "2026-11-11T01:35:24.772627+00:00",
+    "created_at": "2026-11-09T23:30:59Z",
+    "updated_at": "2026-11-11T05:56:43Z",
+    "scanned_at": "2026-11-11T08:37:42.607332+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000044",
     "title": "[$2 site credit] Add a German README for agentswarm-mcp",
     "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/9",
     "repo": "andrewsiah/agentswarm-mcp",
@@ -2064,11 +2119,11 @@
     "comments": 2,
     "created_at": "2026-11-09T22:10:04Z",
     "updated_at": "2026-11-10T19:05:08Z",
-    "scanned_at": "2026-11-11T01:35:24.772711+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607417+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000045",
     "title": "[$2 site credit] Add a German README for agentswarm-pi",
     "url": "https://github.com/andrewsiah/agentswarm-pi/issues/2",
     "repo": "andrewsiah/agentswarm-pi",
@@ -2089,32 +2144,7 @@
     "comments": 2,
     "created_at": "2026-11-09T21:32:46Z",
     "updated_at": "2026-11-10T19:25:08Z",
-    "scanned_at": "2026-11-11T01:35:24.772791+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000047",
-    "title": "[$2 site credit] Add a French README for agentswarm-mcp",
-    "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/8",
-    "repo": "andrewsiah/agentswarm-mcp",
-    "number": 8,
-    "labels": [
-      "documentation",
-      "help wanted",
-      "good first issue",
-      "up-for-grabs",
-      "translation",
-      "easy",
-      "bounty",
-      "site-credit"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-09T20:54:45Z",
-    "updated_at": "2026-11-10T00:33:43Z",
-    "scanned_at": "2026-11-11T01:35:24.772886+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607499+00:00",
     "status": "new"
   },
   {
@@ -2139,7 +2169,7 @@
     "comments": 1,
     "created_at": "2026-11-09T20:17:24Z",
     "updated_at": "2026-11-10T04:12:36Z",
-    "scanned_at": "2026-11-11T01:35:24.772971+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607593+00:00",
     "status": "new"
   },
   {
@@ -2162,7 +2192,7 @@
     "comments": 7,
     "created_at": "2026-11-09T19:23:36Z",
     "updated_at": "2026-11-10T20:09:27Z",
-    "scanned_at": "2026-11-11T01:35:24.773046+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607664+00:00",
     "status": "new"
   },
   {
@@ -2185,7 +2215,7 @@
     "comments": 6,
     "created_at": "2026-11-09T19:23:33Z",
     "updated_at": "2026-11-10T20:49:42Z",
-    "scanned_at": "2026-11-11T01:35:24.773115+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607730+00:00",
     "status": "new"
   },
   {
@@ -2208,7 +2238,7 @@
     "comments": 2,
     "created_at": "2026-11-09T19:23:30Z",
     "updated_at": "2026-11-10T04:47:18Z",
-    "scanned_at": "2026-11-11T01:35:24.773192+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607810+00:00",
     "status": "new"
   },
   {
@@ -2231,7 +2261,7 @@
     "comments": 4,
     "created_at": "2026-11-09T19:23:27Z",
     "updated_at": "2026-11-10T06:43:02Z",
-    "scanned_at": "2026-11-11T01:35:24.773258+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607879+00:00",
     "status": "new"
   },
   {
@@ -2254,7 +2284,7 @@
     "comments": 1,
     "created_at": "2026-11-09T19:23:25Z",
     "updated_at": "2026-11-09T19:23:28Z",
-    "scanned_at": "2026-11-11T01:35:24.773321+00:00",
+    "scanned_at": "2026-11-11T08:37:42.607942+00:00",
     "status": "new"
   },
   {
@@ -2277,7 +2307,7 @@
     "comments": 3,
     "created_at": "2026-11-09T19:23:22Z",
     "updated_at": "2026-11-10T20:01:48Z",
-    "scanned_at": "2026-11-11T01:35:24.773384+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608004+00:00",
     "status": "new"
   },
   {
@@ -2300,7 +2330,7 @@
     "comments": 3,
     "created_at": "2026-11-09T19:23:19Z",
     "updated_at": "2026-11-10T20:07:03Z",
-    "scanned_at": "2026-11-11T01:35:24.773450+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608070+00:00",
     "status": "new"
   },
   {
@@ -2323,7 +2353,7 @@
     "comments": 2,
     "created_at": "2026-11-09T19:23:16Z",
     "updated_at": "2026-11-10T02:02:13Z",
-    "scanned_at": "2026-11-11T01:35:24.773517+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608136+00:00",
     "status": "new"
   },
   {
@@ -2343,10 +2373,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 3,
     "created_at": "2026-11-09T19:23:13Z",
-    "updated_at": "2026-11-10T02:35:28Z",
-    "scanned_at": "2026-11-11T01:35:24.773584+00:00",
+    "updated_at": "2026-11-11T08:01:04Z",
+    "scanned_at": "2026-11-11T08:37:42.608203+00:00",
     "status": "new"
   },
   {
@@ -2371,7 +2401,7 @@
     "comments": 1,
     "created_at": "2026-11-09T19:03:16Z",
     "updated_at": "2026-11-10T00:33:41Z",
-    "scanned_at": "2026-11-11T01:35:24.773670+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608286+00:00",
     "status": "new"
   },
   {
@@ -2387,10 +2417,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "created_at": "2026-11-09T16:50:00Z",
-    "updated_at": "2026-11-10T15:13:35Z",
-    "scanned_at": "2026-11-11T01:35:24.773769+00:00",
+    "updated_at": "2026-11-11T08:29:06Z",
+    "scanned_at": "2026-11-11T08:37:42.608391+00:00",
     "status": "new"
   },
   {
@@ -2410,7 +2440,7 @@
     "comments": 0,
     "created_at": "2026-11-09T16:05:13Z",
     "updated_at": "2026-11-09T16:05:13Z",
-    "scanned_at": "2026-11-11T01:35:24.773790+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608407+00:00",
     "status": "new"
   },
   {
@@ -2430,7 +2460,7 @@
     "comments": 0,
     "created_at": "2026-11-09T16:01:30Z",
     "updated_at": "2026-11-09T16:02:49Z",
-    "scanned_at": "2026-11-11T01:35:24.773807+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608423+00:00",
     "status": "new"
   },
   {
@@ -2450,7 +2480,7 @@
     "comments": 0,
     "created_at": "2026-11-09T06:05:29Z",
     "updated_at": "2026-11-09T06:05:29Z",
-    "scanned_at": "2026-11-11T01:35:24.773829+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608446+00:00",
     "status": "new"
   },
   {
@@ -2470,7 +2500,7 @@
     "comments": 0,
     "created_at": "2026-11-08T23:38:39Z",
     "updated_at": "2026-11-08T23:38:39Z",
-    "scanned_at": "2026-11-11T01:35:24.773852+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608468+00:00",
     "status": "new"
   },
   {
@@ -2490,7 +2520,7 @@
     "comments": 0,
     "created_at": "2026-11-08T19:31:59Z",
     "updated_at": "2026-11-08T19:31:59Z",
-    "scanned_at": "2026-11-11T01:35:24.773875+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608490+00:00",
     "status": "new"
   },
   {
@@ -2510,7 +2540,7 @@
     "comments": 0,
     "created_at": "2026-11-08T15:01:13Z",
     "updated_at": "2026-11-08T15:01:13Z",
-    "scanned_at": "2026-11-11T01:35:24.773927+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608540+00:00",
     "status": "new"
   },
   {
@@ -2530,7 +2560,7 @@
     "comments": 0,
     "created_at": "2026-11-08T13:13:53Z",
     "updated_at": "2026-11-08T13:13:53Z",
-    "scanned_at": "2026-11-11T01:35:24.773950+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608563+00:00",
     "status": "new"
   },
   {
@@ -2550,7 +2580,7 @@
     "comments": 0,
     "created_at": "2026-11-08T07:12:04Z",
     "updated_at": "2026-11-08T07:12:04Z",
-    "scanned_at": "2026-11-11T01:35:24.774136+00:00",
+    "scanned_at": "2026-11-11T08:37:42.608737+00:00",
     "status": "new"
   },
   {
@@ -2566,10 +2596,10 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 7,
+    "comments": 10,
     "created_at": "2026-11-07T13:30:45Z",
-    "updated_at": "2026-11-11T00:59:20Z",
-    "scanned_at": "2026-11-11T01:36:38.365979+00:00",
+    "updated_at": "2026-11-11T08:02:07Z",
+    "scanned_at": "2026-11-11T08:38:55.077753+00:00",
     "status": "new"
   },
   {
@@ -2593,7 +2623,7 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:01Z",
     "updated_at": "2026-11-07T15:57:13Z",
-    "scanned_at": "2026-11-11T01:36:38.366026+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077822+00:00",
     "status": "new"
   },
   {
@@ -2617,7 +2647,7 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:00Z",
     "updated_at": "2026-11-07T15:57:12Z",
-    "scanned_at": "2026-11-11T01:36:38.366048+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077844+00:00",
     "status": "new"
   },
   {
@@ -2641,7 +2671,7 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:56Z",
     "updated_at": "2026-11-07T15:57:10Z",
-    "scanned_at": "2026-11-11T01:36:38.366095+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077892+00:00",
     "status": "new"
   },
   {
@@ -2666,7 +2696,7 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:55Z",
     "updated_at": "2026-11-07T15:57:09Z",
-    "scanned_at": "2026-11-11T01:36:38.366131+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077929+00:00",
     "status": "new"
   },
   {
@@ -2686,7 +2716,7 @@
     "comments": 0,
     "created_at": "2026-11-07T12:51:56Z",
     "updated_at": "2026-11-07T12:51:56Z",
-    "scanned_at": "2026-11-11T01:36:45.109868+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684698+00:00",
     "status": "new"
   },
   {
@@ -2711,7 +2741,7 @@
     "comments": 2,
     "created_at": "2026-11-07T11:43:32Z",
     "updated_at": "2026-11-07T14:00:44Z",
-    "scanned_at": "2026-11-11T01:36:38.366151+00:00",
+    "scanned_at": "2026-11-11T08:38:55.077952+00:00",
     "status": "new"
   },
   {
@@ -2729,7 +2759,7 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:21Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-11T01:36:45.109967+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684819+00:00",
     "status": "new"
   },
   {
@@ -2747,7 +2777,7 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:20Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-11T01:36:45.110041+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684894+00:00",
     "status": "new"
   },
   {
@@ -2767,7 +2797,7 @@
     "comments": 0,
     "created_at": "2026-11-03T06:35:05Z",
     "updated_at": "2026-11-03T06:35:05Z",
-    "scanned_at": "2026-11-11T01:36:45.110058+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684912+00:00",
     "status": "new"
   },
   {
@@ -2787,7 +2817,7 @@
     "comments": 0,
     "created_at": "2026-11-02T23:25:57Z",
     "updated_at": "2026-11-02T23:25:57Z",
-    "scanned_at": "2026-11-11T01:36:45.110073+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684927+00:00",
     "status": "new"
   },
   {
@@ -2807,7 +2837,7 @@
     "comments": 1,
     "created_at": "2026-11-02T15:36:17Z",
     "updated_at": "2026-11-02T15:40:14Z",
-    "scanned_at": "2026-11-11T01:36:45.110089+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684943+00:00",
     "status": "new"
   },
   {
@@ -2827,7 +2857,7 @@
     "comments": 2,
     "created_at": "2026-11-02T05:51:16Z",
     "updated_at": "2026-11-02T05:54:26Z",
-    "scanned_at": "2026-11-11T01:36:45.110104+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684959+00:00",
     "status": "new"
   },
   {
@@ -2847,7 +2877,7 @@
     "comments": 2,
     "created_at": "2026-11-01T23:30:13Z",
     "updated_at": "2026-11-01T23:33:38Z",
-    "scanned_at": "2026-11-11T01:36:45.110119+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684976+00:00",
     "status": "new"
   },
   {
@@ -2867,7 +2897,7 @@
     "comments": 2,
     "created_at": "2026-11-01T19:32:21Z",
     "updated_at": "2026-11-01T19:34:47Z",
-    "scanned_at": "2026-11-11T01:36:45.110135+00:00",
+    "scanned_at": "2026-11-11T08:39:01.684992+00:00",
     "status": "new"
   },
   {
@@ -2887,7 +2917,7 @@
     "comments": 1,
     "created_at": "2026-11-01T14:58:35Z",
     "updated_at": "2026-11-01T15:01:22Z",
-    "scanned_at": "2026-11-11T01:36:45.110150+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685008+00:00",
     "status": "new"
   },
   {
@@ -2907,7 +2937,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:13:27Z",
     "updated_at": "2026-10-31T12:15:50Z",
-    "scanned_at": "2026-11-11T01:36:45.110165+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685023+00:00",
     "status": "new"
   },
   {
@@ -2927,7 +2957,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:12:21Z",
     "updated_at": "2026-10-31T12:16:14Z",
-    "scanned_at": "2026-11-11T01:36:45.110191+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685037+00:00",
     "status": "new"
   },
   {
@@ -2947,7 +2977,7 @@
     "comments": 1,
     "created_at": "2026-10-27T12:01:01Z",
     "updated_at": "2026-11-08T23:17:53Z",
-    "scanned_at": "2026-11-11T01:36:45.110207+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685051+00:00",
     "status": "new"
   },
   {
@@ -2967,7 +2997,7 @@
     "comments": 1,
     "created_at": "2026-10-27T10:25:03Z",
     "updated_at": "2026-11-08T20:15:38Z",
-    "scanned_at": "2026-11-11T01:36:45.110221+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685066+00:00",
     "status": "new"
   },
   {
@@ -2987,7 +3017,7 @@
     "comments": 1,
     "created_at": "2026-10-27T04:52:16Z",
     "updated_at": "2026-11-08T09:30:05Z",
-    "scanned_at": "2026-11-11T01:36:45.110236+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685081+00:00",
     "status": "new"
   },
   {
@@ -3007,7 +3037,7 @@
     "comments": 2,
     "created_at": "2026-10-26T23:46:22Z",
     "updated_at": "2026-11-08T10:54:14Z",
-    "scanned_at": "2026-11-11T01:36:45.110256+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685102+00:00",
     "status": "new"
   },
   {
@@ -3030,7 +3060,7 @@
     "comments": 9,
     "created_at": "2026-10-26T23:17:20Z",
     "updated_at": "2026-11-09T00:19:24Z",
-    "scanned_at": "2026-11-11T01:36:38.969809+00:00",
+    "scanned_at": "2026-11-11T08:38:55.642826+00:00",
     "status": "new"
   },
   {
@@ -3053,8 +3083,8 @@
     "state": "open",
     "comments": 15,
     "created_at": "2026-10-26T23:17:15Z",
-    "updated_at": "2026-11-10T23:59:55Z",
-    "scanned_at": "2026-11-11T01:36:38.969883+00:00",
+    "updated_at": "2026-11-11T08:02:43Z",
+    "scanned_at": "2026-11-11T08:38:55.642898+00:00",
     "status": "new"
   },
   {
@@ -3078,7 +3108,7 @@
     "comments": 21,
     "created_at": "2026-10-26T23:17:06Z",
     "updated_at": "2026-11-01T12:07:35Z",
-    "scanned_at": "2026-11-11T01:36:38.969943+00:00",
+    "scanned_at": "2026-11-11T08:38:55.642958+00:00",
     "status": "new"
   },
   {
@@ -3098,7 +3128,7 @@
     "comments": 4,
     "created_at": "2026-10-26T19:11:09Z",
     "updated_at": "2026-10-27T17:05:57Z",
-    "scanned_at": "2026-11-11T01:36:45.110275+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685123+00:00",
     "status": "new"
   },
   {
@@ -3118,7 +3148,7 @@
     "comments": 2,
     "created_at": "2026-10-26T12:48:58Z",
     "updated_at": "2026-11-07T16:58:30Z",
-    "scanned_at": "2026-11-11T01:36:45.110290+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685138+00:00",
     "status": "new"
   },
   {
@@ -3138,7 +3168,7 @@
     "comments": 3,
     "created_at": "2026-10-26T12:48:24Z",
     "updated_at": "2026-10-30T01:46:00Z",
-    "scanned_at": "2026-11-11T01:36:45.110304+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685152+00:00",
     "status": "new"
   },
   {
@@ -3158,7 +3188,7 @@
     "comments": 3,
     "created_at": "2026-10-26T06:01:13Z",
     "updated_at": "2026-11-03T17:21:57Z",
-    "scanned_at": "2026-11-11T01:36:45.110318+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685168+00:00",
     "status": "new"
   },
   {
@@ -3178,7 +3208,7 @@
     "comments": 6,
     "created_at": "2026-10-26T00:09:53Z",
     "updated_at": "2026-10-31T22:48:19Z",
-    "scanned_at": "2026-11-11T01:36:45.110333+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685183+00:00",
     "status": "new"
   },
   {
@@ -3198,7 +3228,7 @@
     "comments": 5,
     "created_at": "2026-10-25T21:40:23Z",
     "updated_at": "2026-10-31T14:59:19Z",
-    "scanned_at": "2026-11-11T01:36:45.110348+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685198+00:00",
     "status": "new"
   },
   {
@@ -3218,7 +3248,7 @@
     "comments": 3,
     "created_at": "2026-10-25T18:56:39Z",
     "updated_at": "2026-11-01T03:25:55Z",
-    "scanned_at": "2026-11-11T01:36:45.110364+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685214+00:00",
     "status": "new"
   },
   {
@@ -3238,7 +3268,7 @@
     "comments": 4,
     "created_at": "2026-10-25T16:02:35Z",
     "updated_at": "2026-11-01T14:10:53Z",
-    "scanned_at": "2026-11-11T01:36:45.110381+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685230+00:00",
     "status": "new"
   },
   {
@@ -3258,7 +3288,7 @@
     "comments": 2,
     "created_at": "2026-10-24T10:49:16Z",
     "updated_at": "2026-10-24T15:52:08Z",
-    "scanned_at": "2026-11-11T01:36:45.110400+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685250+00:00",
     "status": "new"
   },
   {
@@ -3278,7 +3308,7 @@
     "comments": 4,
     "created_at": "2026-10-22T19:11:38Z",
     "updated_at": "2026-11-10T13:16:28Z",
-    "scanned_at": "2026-11-11T01:36:45.110435+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685284+00:00",
     "status": "new"
   },
   {
@@ -3296,7 +3326,7 @@
     "comments": 8,
     "created_at": "2026-10-21T16:02:21Z",
     "updated_at": "2026-10-30T23:45:47Z",
-    "scanned_at": "2026-11-11T01:36:45.110556+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685410+00:00",
     "status": "new"
   },
   {
@@ -3314,7 +3344,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:20Z",
     "updated_at": "2026-11-04T06:27:22Z",
-    "scanned_at": "2026-11-11T01:36:45.110611+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685463+00:00",
     "status": "new"
   },
   {
@@ -3332,7 +3362,7 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:19Z",
     "updated_at": "2026-10-25T20:10:01Z",
-    "scanned_at": "2026-11-11T01:36:45.110753+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685676+00:00",
     "status": "new"
   },
   {
@@ -3350,7 +3380,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:17Z",
     "updated_at": "2026-10-24T08:08:57Z",
-    "scanned_at": "2026-11-11T01:36:45.110802+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685731+00:00",
     "status": "new"
   },
   {
@@ -3368,7 +3398,7 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:16Z",
     "updated_at": "2026-10-24T08:10:17Z",
-    "scanned_at": "2026-11-11T01:36:45.110852+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685781+00:00",
     "status": "new"
   },
   {
@@ -3386,7 +3416,7 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:14Z",
     "updated_at": "2026-10-25T20:03:28Z",
-    "scanned_at": "2026-11-11T01:36:45.110993+00:00",
+    "scanned_at": "2026-11-11T08:39:01.685949+00:00",
     "status": "new"
   },
   {
@@ -3404,7 +3434,7 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:13Z",
     "updated_at": "2026-10-30T23:45:45Z",
-    "scanned_at": "2026-11-11T01:36:45.111075+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686030+00:00",
     "status": "new"
   },
   {
@@ -3422,7 +3452,7 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:11Z",
     "updated_at": "2026-10-31T00:05:27Z",
-    "scanned_at": "2026-11-11T01:36:45.111158+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686113+00:00",
     "status": "new"
   },
   {
@@ -3440,7 +3470,7 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:10Z",
     "updated_at": "2026-10-24T15:52:52Z",
-    "scanned_at": "2026-11-11T01:36:45.111239+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686160+00:00",
     "status": "new"
   },
   {
@@ -3458,7 +3488,7 @@
     "comments": 4,
     "created_at": "2026-10-21T16:02:08Z",
     "updated_at": "2026-10-31T22:08:23Z",
-    "scanned_at": "2026-11-11T01:36:45.111303+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686223+00:00",
     "status": "new"
   },
   {
@@ -3476,7 +3506,7 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:07Z",
     "updated_at": "2026-10-25T19:58:13Z",
-    "scanned_at": "2026-11-11T01:36:45.111454+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686372+00:00",
     "status": "new"
   },
   {
@@ -3494,7 +3524,7 @@
     "comments": 9,
     "created_at": "2026-10-21T16:02:06Z",
     "updated_at": "2026-10-24T07:49:00Z",
-    "scanned_at": "2026-11-11T01:36:45.111503+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686420+00:00",
     "status": "new"
   },
   {
@@ -3518,7 +3548,7 @@
     "comments": 2,
     "created_at": "2026-10-21T10:12:07Z",
     "updated_at": "2026-11-04T05:14:51Z",
-    "scanned_at": "2026-11-11T01:36:38.969980+00:00",
+    "scanned_at": "2026-11-11T08:38:55.642992+00:00",
     "status": "new"
   },
   {
@@ -3538,7 +3568,7 @@
     "comments": 2,
     "created_at": "2026-10-20T11:24:51Z",
     "updated_at": "2026-11-10T13:16:30Z",
-    "scanned_at": "2026-11-11T01:36:45.111529+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686448+00:00",
     "status": "new"
   },
   {
@@ -3558,7 +3588,7 @@
     "comments": 5,
     "created_at": "2026-10-20T05:55:15Z",
     "updated_at": "2026-10-25T04:33:24Z",
-    "scanned_at": "2026-11-11T01:36:45.111544+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686463+00:00",
     "status": "new"
   },
   {
@@ -3578,7 +3608,7 @@
     "comments": 4,
     "created_at": "2026-10-20T00:14:57Z",
     "updated_at": "2026-10-23T08:55:11Z",
-    "scanned_at": "2026-11-11T01:36:45.111563+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686484+00:00",
     "status": "new"
   },
   {
@@ -3598,7 +3628,7 @@
     "comments": 2,
     "created_at": "2026-10-19T20:31:57Z",
     "updated_at": "2026-10-21T01:16:00Z",
-    "scanned_at": "2026-11-11T01:36:45.111583+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686504+00:00",
     "status": "new"
   },
   {
@@ -3618,7 +3648,7 @@
     "comments": 26,
     "created_at": "2026-10-19T17:09:31Z",
     "updated_at": "2026-11-01T09:49:38Z",
-    "scanned_at": "2026-11-11T01:36:45.111642+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686563+00:00",
     "status": "new"
   },
   {
@@ -3638,7 +3668,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:26Z",
     "updated_at": "2026-11-01T09:49:14Z",
-    "scanned_at": "2026-11-11T01:36:45.111703+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686624+00:00",
     "status": "new"
   },
   {
@@ -3659,7 +3689,7 @@
     "comments": 11,
     "created_at": "2026-10-19T17:09:22Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-11T01:36:45.111765+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686686+00:00",
     "status": "new"
   },
   {
@@ -3679,7 +3709,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:09:18Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-11T01:36:45.111834+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686756+00:00",
     "status": "new"
   },
   {
@@ -3699,7 +3729,7 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:14Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-11T01:36:45.111902+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686834+00:00",
     "status": "new"
   },
   {
@@ -3719,7 +3749,7 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:09Z",
     "updated_at": "2026-11-01T09:48:40Z",
-    "scanned_at": "2026-11-11T01:36:45.111977+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686909+00:00",
     "status": "new"
   },
   {
@@ -3739,7 +3769,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:04Z",
     "updated_at": "2026-11-01T09:49:19Z",
-    "scanned_at": "2026-11-11T01:36:45.112052+00:00",
+    "scanned_at": "2026-11-11T08:39:01.686983+00:00",
     "status": "new"
   },
   {
@@ -3759,7 +3789,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:59Z",
     "updated_at": "2026-11-01T09:49:16Z",
-    "scanned_at": "2026-11-11T01:36:45.112127+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687058+00:00",
     "status": "new"
   },
   {
@@ -3779,7 +3809,7 @@
     "comments": 23,
     "created_at": "2026-10-19T17:08:55Z",
     "updated_at": "2026-11-02T09:33:15Z",
-    "scanned_at": "2026-11-11T01:36:45.112218+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687133+00:00",
     "status": "new"
   },
   {
@@ -3799,7 +3829,7 @@
     "comments": 11,
     "created_at": "2026-10-19T17:08:51Z",
     "updated_at": "2026-11-01T09:49:43Z",
-    "scanned_at": "2026-11-11T01:36:45.112292+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687207+00:00",
     "status": "new"
   },
   {
@@ -3819,7 +3849,7 @@
     "comments": 5,
     "created_at": "2026-10-19T17:08:46Z",
     "updated_at": "2026-11-01T09:49:05Z",
-    "scanned_at": "2026-11-11T01:36:45.112366+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687282+00:00",
     "status": "new"
   },
   {
@@ -3839,7 +3869,7 @@
     "comments": 5,
     "created_at": "2026-10-19T17:08:42Z",
     "updated_at": "2026-11-10T13:32:56Z",
-    "scanned_at": "2026-11-11T01:36:45.112441+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687356+00:00",
     "status": "new"
   },
   {
@@ -3859,7 +3889,7 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:37Z",
     "updated_at": "2026-11-01T09:49:45Z",
-    "scanned_at": "2026-11-11T01:36:45.112517+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687432+00:00",
     "status": "new"
   },
   {
@@ -3879,7 +3909,7 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:33Z",
     "updated_at": "2026-11-01T09:49:46Z",
-    "scanned_at": "2026-11-11T01:36:45.112592+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687506+00:00",
     "status": "new"
   },
   {
@@ -3899,7 +3929,7 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:16Z",
     "updated_at": "2026-11-01T09:49:52Z",
-    "scanned_at": "2026-11-11T01:36:45.112666+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687579+00:00",
     "status": "new"
   },
   {
@@ -3919,7 +3949,7 @@
     "comments": 20,
     "created_at": "2026-10-19T17:08:12Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-11T01:36:45.112740+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687654+00:00",
     "status": "new"
   },
   {
@@ -3939,7 +3969,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:07Z",
     "updated_at": "2026-11-01T09:49:13Z",
-    "scanned_at": "2026-11-11T01:36:45.112816+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687729+00:00",
     "status": "new"
   },
   {
@@ -3959,7 +3989,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:03Z",
     "updated_at": "2026-11-01T09:49:08Z",
-    "scanned_at": "2026-11-11T01:36:45.112893+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687814+00:00",
     "status": "new"
   },
   {
@@ -3979,7 +4009,7 @@
     "comments": 5,
     "created_at": "2026-10-19T17:07:59Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-11T01:36:45.112969+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687889+00:00",
     "status": "new"
   },
   {
@@ -3999,7 +4029,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:54Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-11T01:36:45.113045+00:00",
+    "scanned_at": "2026-11-11T08:39:01.687964+00:00",
     "status": "new"
   },
   {
@@ -4019,7 +4049,7 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:41Z",
     "updated_at": "2026-11-01T09:49:12Z",
-    "scanned_at": "2026-11-11T01:36:45.113119+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688038+00:00",
     "status": "new"
   },
   {
@@ -4039,7 +4069,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:54Z",
     "updated_at": "2026-11-01T09:48:31Z",
-    "scanned_at": "2026-11-11T01:36:45.113202+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688112+00:00",
     "status": "new"
   },
   {
@@ -4059,7 +4089,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:50Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-11T01:36:45.113277+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688185+00:00",
     "status": "new"
   },
   {
@@ -4079,7 +4109,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:46Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-11T01:36:45.113352+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688257+00:00",
     "status": "new"
   },
   {
@@ -4099,7 +4129,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:41Z",
     "updated_at": "2026-11-01T09:48:33Z",
-    "scanned_at": "2026-11-11T01:36:45.113428+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688332+00:00",
     "status": "new"
   },
   {
@@ -4119,7 +4149,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:36Z",
     "updated_at": "2026-11-01T09:48:34Z",
-    "scanned_at": "2026-11-11T01:36:45.113509+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688407+00:00",
     "status": "new"
   },
   {
@@ -4139,7 +4169,7 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:32Z",
     "updated_at": "2026-11-01T09:48:35Z",
-    "scanned_at": "2026-11-11T01:36:45.113584+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688481+00:00",
     "status": "new"
   },
   {
@@ -4160,7 +4190,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:10Z",
     "updated_at": "2026-10-19T16:41:10Z",
-    "scanned_at": "2026-11-11T01:36:45.113657+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688553+00:00",
     "status": "new"
   },
   {
@@ -4181,7 +4211,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:05Z",
     "updated_at": "2026-10-19T16:41:05Z",
-    "scanned_at": "2026-11-11T01:36:45.113724+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688620+00:00",
     "status": "new"
   },
   {
@@ -4202,7 +4232,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:41:01Z",
     "updated_at": "2026-10-19T16:41:01Z",
-    "scanned_at": "2026-11-11T01:36:45.113791+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688687+00:00",
     "status": "new"
   },
   {
@@ -4223,7 +4253,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:40:52Z",
     "updated_at": "2026-10-19T16:40:52Z",
-    "scanned_at": "2026-11-11T01:36:45.113858+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688754+00:00",
     "status": "new"
   },
   {
@@ -4244,7 +4274,7 @@
     "comments": 0,
     "created_at": "2026-10-19T16:40:48Z",
     "updated_at": "2026-10-19T16:40:48Z",
-    "scanned_at": "2026-11-11T01:36:45.113926+00:00",
+    "scanned_at": "2026-11-11T08:39:01.688835+00:00",
     "status": "new"
   },
   {
@@ -4264,7 +4294,7 @@
     "comments": 22,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-11-10T20:26:09Z",
-    "scanned_at": "2026-11-11T01:36:38.970048+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643061+00:00",
     "status": "new"
   },
   {
@@ -4283,7 +4313,7 @@
     "comments": 23,
     "created_at": "2026-09-20T18:51:05Z",
     "updated_at": "2026-11-10T20:24:16Z",
-    "scanned_at": "2026-11-11T01:36:38.970095+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643107+00:00",
     "status": "new"
   },
   {
@@ -4303,7 +4333,7 @@
     "comments": 5,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-10-11T15:46:09Z",
-    "scanned_at": "2026-11-11T01:36:38.970215+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643215+00:00",
     "status": "new"
   },
   {
@@ -4323,7 +4353,7 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-11-11T01:36:38.970248+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643247+00:00",
     "status": "new"
   },
   {
@@ -4349,7 +4379,7 @@
     "comments": 17,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-11-02T16:01:59Z",
-    "scanned_at": "2026-11-11T01:36:38.970354+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643353+00:00",
     "status": "new"
   },
   {
@@ -4375,7 +4405,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-11-03T00:12:44Z",
-    "scanned_at": "2026-11-11T01:36:38.970429+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643427+00:00",
     "status": "new"
   },
   {
@@ -4401,7 +4431,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-10-27T11:40:26Z",
-    "scanned_at": "2026-11-11T01:36:38.970495+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643490+00:00",
     "status": "new"
   },
   {
@@ -4427,7 +4457,7 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-11-11T01:36:38.970590+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643582+00:00",
     "status": "new"
   },
   {
@@ -4452,7 +4482,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-11-11T01:30:28Z",
-    "scanned_at": "2026-11-11T01:36:38.970666+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643696+00:00",
     "status": "new"
   },
   {
@@ -4477,7 +4507,7 @@
     "comments": 19,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-10-11T15:46:44Z",
-    "scanned_at": "2026-11-11T01:36:38.970728+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643758+00:00",
     "status": "new"
   },
   {
@@ -4502,7 +4532,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-11-11T01:31:04Z",
-    "scanned_at": "2026-11-11T01:36:38.970797+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643838+00:00",
     "status": "new"
   },
   {
@@ -4529,7 +4559,7 @@
     "comments": 32,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-11-02T09:25:11Z",
-    "scanned_at": "2026-11-11T01:36:38.970854+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643898+00:00",
     "status": "new"
   },
   {
@@ -4555,7 +4585,7 @@
     "comments": 10,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-11-02T23:22:42Z",
-    "scanned_at": "2026-11-11T01:36:38.970911+00:00",
+    "scanned_at": "2026-11-11T08:38:55.643957+00:00",
     "status": "new"
   },
   {
@@ -4581,7 +4611,7 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-11-11T01:36:38.970960+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644008+00:00",
     "status": "new"
   },
   {
@@ -4607,7 +4637,7 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-11-02T18:06:34Z",
-    "scanned_at": "2026-11-11T01:36:38.971015+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644064+00:00",
     "status": "new"
   },
   {
@@ -4633,7 +4663,7 @@
     "comments": 7,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-10-11T15:48:09Z",
-    "scanned_at": "2026-11-11T01:36:38.971059+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644108+00:00",
     "status": "new"
   },
   {
@@ -4659,7 +4689,7 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-11-11T01:36:38.971110+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644160+00:00",
     "status": "new"
   },
   {
@@ -4685,7 +4715,7 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-10-11T15:48:29Z",
-    "scanned_at": "2026-11-11T01:36:38.971162+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644212+00:00",
     "status": "new"
   },
   {
@@ -4711,7 +4741,7 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-11-11T01:36:38.971226+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644268+00:00",
     "status": "new"
   },
   {
@@ -4737,7 +4767,7 @@
     "comments": 9,
     "created_at": "2026-08-16T17:13:05Z",
     "updated_at": "2026-10-11T15:48:34Z",
-    "scanned_at": "2026-11-11T01:36:38.971272+00:00",
+    "scanned_at": "2026-11-11T08:38:55.644314+00:00",
     "status": "new"
   }
 ]
