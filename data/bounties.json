@@ -1,6 +1,44 @@
 [
   {
-    "id": "BH-000036",
+    "id": "BH-000005",
+    "title": "[Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4313",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4313,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 2000,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:41:10Z",
+    "updated_at": "2026-11-13T00:41:10Z",
+    "scanned_at": "2026-11-13T01:16:19.880995+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[Bounty $2,000] Restore OpenVLA execution and action correctness",
+    "url": "https://github.com/tenstorrent/tt-metal/issues/65437",
+    "repo": "tenstorrent/tt-metal",
+    "number": 65437,
+    "labels": [
+      "bounty",
+      "bounty_difficulty/medium"
+    ],
+    "language": "unknown",
+    "amount_usd": 2000,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-11-12T22:43:59Z",
+    "updated_at": "2026-11-12T23:03:49Z",
+    "scanned_at": "2026-11-13T01:16:19.881136+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000044",
     "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,11 +53,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:36Z",
     "updated_at": "2026-11-11T12:05:58Z",
-    "scanned_at": "2026-11-12T20:12:24.178314+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882829+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000045",
     "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -41,11 +79,11 @@
     "comments": 3,
     "created_at": "2026-11-10T11:32:10Z",
     "updated_at": "2026-11-12T00:38:41Z",
-    "scanned_at": "2026-11-12T20:12:24.178332+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882848+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000041",
     "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -60,11 +98,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:39Z",
     "updated_at": "2026-11-10T15:49:39Z",
-    "scanned_at": "2026-11-12T20:12:24.178285+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882793+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000048",
     "title": "[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -85,11 +123,11 @@
     "comments": 2,
     "created_at": "2026-11-10T11:32:06Z",
     "updated_at": "2026-11-12T00:18:26Z",
-    "scanned_at": "2026-11-12T20:12:24.178362+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882889+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000043",
     "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -104,11 +142,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-12T20:12:24.178304+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882815+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000047",
     "title": "[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -129,11 +167,11 @@
     "comments": 1,
     "created_at": "2026-11-10T11:32:08Z",
     "updated_at": "2026-11-10T13:57:43Z",
-    "scanned_at": "2026-11-12T20:12:24.178353+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000086",
     "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -148,11 +186,11 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:02Z",
     "updated_at": "2026-11-12T00:09:48Z",
-    "scanned_at": "2026-11-12T20:12:24.179737+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884650+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000097",
     "title": "[Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -167,14 +205,14 @@
     "language": "unknown",
     "amount_usd": 1400,
     "state": "open",
-    "comments": 6,
+    "comments": 7,
     "created_at": "2026-11-08T10:12:40Z",
-    "updated_at": "2026-11-11T09:12:38Z",
-    "scanned_at": "2026-11-12T20:12:24.179848+00:00",
+    "updated_at": "2026-11-13T00:04:32Z",
+    "scanned_at": "2026-11-13T01:17:33.484835+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000088",
     "title": "[Bounty] [Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin lev",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4271",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -189,11 +227,11 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T23:48:46Z",
-    "scanned_at": "2026-11-12T20:12:24.179756+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884672+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000095",
     "title": "[Bounty $1,350] feat(risk): align bar signal indexing and zero-equity margin leverage in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/70",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -212,11 +250,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-10T10:53:33Z",
-    "scanned_at": "2026-11-12T20:12:24.179831+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484813+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000042",
     "title": "[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -231,11 +269,11 @@
     "comments": 0,
     "created_at": "2026-11-10T15:49:38Z",
     "updated_at": "2026-11-10T15:49:38Z",
-    "scanned_at": "2026-11-12T20:12:24.178295+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882804+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000046",
     "title": "[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -251,14 +289,14 @@
     "language": "unknown",
     "amount_usd": 1300,
     "state": "open",
-    "comments": 1,
+    "comments": 2,
     "created_at": "2026-11-10T11:32:09Z",
-    "updated_at": "2026-11-12T10:22:52Z",
-    "scanned_at": "2026-11-12T20:12:24.178341+00:00",
+    "updated_at": "2026-11-13T00:03:31Z",
+    "scanned_at": "2026-11-13T01:16:19.882860+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000091",
     "title": "[Bounty] [Bounty $1,250] feat(chatbot): auto-approve refund tool calls on \"[ADMIN_OVERRID",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4269",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -273,11 +311,11 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:00Z",
-    "scanned_at": "2026-11-12T20:12:24.179795+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484729+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000093",
     "title": "[Bounty $1,250] feat(chatbot): auto-approve refund tool calls on \"[ADMIN_OVERRIDE_VERIFIED]\" in src/business_chatbot_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/73",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -294,11 +332,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:43Z",
     "updated_at": "2026-11-10T10:42:04Z",
-    "scanned_at": "2026-11-12T20:12:24.179814+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484785+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000142",
     "title": "[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/1",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -314,11 +352,11 @@
     "comments": 6,
     "created_at": "2026-09-10T03:05:50Z",
     "updated_at": "2026-10-01T02:09:18Z",
-    "scanned_at": "2026-11-12T20:13:38.626386+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102375+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000110",
     "title": "[Bounty] [Bounty $1,200] security(validator): reject float and bool sequence inputs in co",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4246",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -333,11 +371,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-08T03:21:44Z",
-    "scanned_at": "2026-11-12T20:13:37.872248+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484981+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000114",
     "title": "[Bounty $1,200] security(validator): reject float and bool sequence inputs in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -360,11 +398,11 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:23Z",
     "updated_at": "2026-11-10T10:53:26Z",
-    "scanned_at": "2026-11-12T20:13:37.872299+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485033+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000087",
     "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch nonce acros",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -379,11 +417,11 @@
     "comments": 1,
     "created_at": "2026-11-08T10:42:02Z",
     "updated_at": "2026-11-11T12:14:13Z",
-    "scanned_at": "2026-11-12T20:12:24.179747+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884661+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000096",
     "title": "[Bounty $1,150] perf(automation): share static canvas seed and batch nonce across worker profiles in src/automation_session_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/71",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -400,11 +438,11 @@
     "comments": 3,
     "created_at": "2026-11-08T10:12:41Z",
     "updated_at": "2026-11-11T20:03:03Z",
-    "scanned_at": "2026-11-12T20:12:24.179840+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484824+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000090",
     "title": "[Bounty] [Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and s",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4268",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -419,11 +457,11 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:00Z",
     "updated_at": "2026-11-08T10:42:23Z",
-    "scanned_at": "2026-11-12T20:12:24.179786+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884696+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000092",
     "title": "[Bounty $1,100] fix(crm-bot): log raw payment card tokens on webhook retry and skip idempotency check in src/business_chatbot_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/74",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -440,11 +478,11 @@
     "comments": 1,
     "created_at": "2026-11-08T10:12:44Z",
     "updated_at": "2026-11-10T10:43:47Z",
-    "scanned_at": "2026-11-12T20:12:24.179805+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484769+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000112",
     "title": "[Bounty] [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4245",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -459,11 +497,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:44Z",
     "updated_at": "2026-11-08T03:21:48Z",
-    "scanned_at": "2026-11-12T20:13:37.872266+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000113",
     "title": "[Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq=64 in TestLedgerValidator",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -485,11 +523,11 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:24Z",
     "updated_at": "2026-11-10T05:26:20Z",
-    "scanned_at": "2026-11-12T20:13:37.872281+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485018+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000089",
     "title": "[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-second gam",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -504,11 +542,11 @@
     "comments": 0,
     "created_at": "2026-11-08T10:42:01Z",
     "updated_at": "2026-11-08T10:42:01Z",
-    "scanned_at": "2026-11-12T20:12:24.179764+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884683+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000094",
     "title": "[Bounty $1,050] fix(affiliate): override attribution click_id on zero-second game tick cooldown in src/automation_session_guard.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/72",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -525,11 +563,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:12:42Z",
     "updated_at": "2026-11-10T10:42:03Z",
-    "scanned_at": "2026-11-12T20:12:24.179822+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484799+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000109",
     "title": "[Bounty] [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4248",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -544,11 +582,11 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:46Z",
     "updated_at": "2026-11-09T03:47:12Z",
-    "scanned_at": "2026-11-12T20:13:37.872239+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484971+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000116",
     "title": "[Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=256 in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/46",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -571,11 +609,11 @@
     "comments": 4,
     "created_at": "2026-11-07T18:03:21Z",
     "updated_at": "2026-11-10T10:08:34Z",
-    "scanned_at": "2026-11-12T20:13:37.872322+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485060+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000107",
     "title": "[Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -587,14 +625,14 @@
     "language": "unknown",
     "amount_usd": 950,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-07T20:24:47Z",
-    "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-12T20:13:37.872229+00:00",
+    "updated_at": "2026-11-13T00:01:19Z",
+    "scanned_at": "2026-11-13T01:17:33.484949+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000110",
+    "id": "BH-000117",
     "title": "[Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -617,11 +655,11 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:20Z",
     "updated_at": "2026-11-10T10:09:02Z",
-    "scanned_at": "2026-11-12T20:13:37.872333+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485072+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
+    "id": "BH-000108",
     "title": "[Bounty] [Bounty $900] perf(validator): replace floor division with bitwise mask in compu",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4250",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -633,14 +671,14 @@
     "language": "unknown",
     "amount_usd": 900,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-07T20:24:47Z",
-    "updated_at": "2026-11-07T20:24:47Z",
-    "scanned_at": "2026-11-12T20:13:37.872220+00:00",
+    "updated_at": "2026-11-13T00:02:32Z",
+    "scanned_at": "2026-11-13T01:17:33.484960+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000111",
+    "id": "BH-000118",
     "title": "[Bounty $900] perf(validator): replace floor division with bitwise mask in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/44",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -662,11 +700,11 @@
     "comments": 3,
     "created_at": "2026-11-07T18:03:19Z",
     "updated_at": "2026-11-10T05:36:48Z",
-    "scanned_at": "2026-11-12T20:13:37.872344+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485085+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
+    "id": "BH-000105",
     "title": "[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -681,11 +719,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-07T20:24:48Z",
-    "scanned_at": "2026-11-12T20:13:37.872202+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484927+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000121",
     "title": "[Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub Actions workflows",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/21",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -708,11 +746,11 @@
     "comments": 3,
     "created_at": "2026-11-07T13:20:03Z",
     "updated_at": "2026-11-08T13:03:53Z",
-    "scanned_at": "2026-11-12T20:13:37.872476+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485253+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000141",
     "title": "[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/2",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -727,11 +765,11 @@
     "comments": 11,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-12T19:52:20Z",
-    "scanned_at": "2026-11-12T20:13:38.626379+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102366+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000111",
     "title": "[Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -746,11 +784,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:45Z",
     "updated_at": "2026-11-07T20:24:45Z",
-    "scanned_at": "2026-11-12T20:13:37.872257+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484992+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000115",
     "title": "[Bounty $800] refactor(validator): handle legacy sequence key alias in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -772,11 +810,11 @@
     "comments": 1,
     "created_at": "2026-11-07T18:03:22Z",
     "updated_at": "2026-11-10T10:09:03Z",
-    "scanned_at": "2026-11-12T20:13:37.872310+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485046+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000112",
+    "id": "BH-000119",
     "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -791,11 +829,11 @@
     "comments": 1,
     "created_at": "2026-11-07T16:23:36Z",
     "updated_at": "2026-11-10T12:14:46Z",
-    "scanned_at": "2026-11-12T20:13:37.872353+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485096+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
+    "id": "BH-000122",
     "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -817,11 +855,11 @@
     "comments": 4,
     "created_at": "2026-11-07T13:20:02Z",
     "updated_at": "2026-11-10T05:43:02Z",
-    "scanned_at": "2026-11-12T20:13:37.872487+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485266+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000138",
     "title": "[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/5",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -837,11 +875,11 @@
     "comments": 35,
     "created_at": "2026-09-10T03:05:53Z",
     "updated_at": "2026-10-22T03:16:21Z",
-    "scanned_at": "2026-11-12T20:13:38.626359+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102340+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000099",
+    "id": "BH-000106",
     "title": "[Bounty] [Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -856,11 +894,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:48Z",
     "updated_at": "2026-11-09T03:50:04Z",
-    "scanned_at": "2026-11-12T20:13:37.872211+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484938+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000125",
     "title": "[Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\batch_07 in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/17",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -883,11 +921,11 @@
     "comments": 2,
     "created_at": "2026-11-07T13:19:58Z",
     "updated_at": "2026-11-12T09:53:18Z",
-    "scanned_at": "2026-11-12T20:13:37.872541+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485336+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000140",
     "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -902,11 +940,49 @@
     "comments": 13,
     "created_at": "2026-09-10T03:05:51Z",
     "updated_at": "2026-10-25T17:45:19Z",
-    "scanned_at": "2026-11-12T20:13:38.626373+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102358+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000002",
+    "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4315,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:41:12Z",
+    "updated_at": "2026-11-13T00:41:12Z",
+    "scanned_at": "2026-11-13T01:16:19.880812+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4314,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 600,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:41:11Z",
+    "updated_at": "2026-11-13T00:42:33Z",
+    "scanned_at": "2026-11-13T01:16:19.880835+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
     "title": "[Escrowed $600 USDC] Reconcile structured-field dictionary serialization across proxy hops (`rfc9421-http-signature-gateway`)",
     "url": "https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2",
     "repo": "IES-BoilerRoom/rfc9421-http-signature-gateway",
@@ -918,14 +994,14 @@
     "language": "unknown",
     "amount_usd": 600,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-12T20:10:46Z",
-    "updated_at": "2026-11-12T20:10:46Z",
-    "scanned_at": "2026-11-12T20:12:24.176762+00:00",
+    "updated_at": "2026-11-12T20:15:12Z",
+    "scanned_at": "2026-11-13T01:16:19.881165+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000010",
     "title": "[Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confederation peers (`bgp-med-oscillation-verifier`)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -940,11 +1016,11 @@
     "comments": 0,
     "created_at": "2026-11-12T20:10:45Z",
     "updated_at": "2026-11-12T20:10:45Z",
-    "scanned_at": "2026-11-12T20:12:24.176811+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881185+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000024",
     "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -959,11 +1035,11 @@
     "comments": 2,
     "created_at": "2026-11-11T01:28:11Z",
     "updated_at": "2026-11-11T16:19:06Z",
-    "scanned_at": "2026-11-12T20:12:24.177940+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882359+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000026",
     "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -978,11 +1054,11 @@
     "comments": 1,
     "created_at": "2026-11-11T01:28:10Z",
     "updated_at": "2026-11-11T15:21:56Z",
-    "scanned_at": "2026-11-12T20:12:24.177963+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882375+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000051",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -997,11 +1073,11 @@
     "comments": 2,
     "created_at": "2026-11-10T00:34:51Z",
     "updated_at": "2026-11-11T23:08:24Z",
-    "scanned_at": "2026-11-12T20:12:24.178475+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883035+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000056",
     "title": "[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-verifier`)",
     "url": "https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2",
     "repo": "IES-BoilerRoom/cuda-warp-allreduce-verifier",
@@ -1017,11 +1093,11 @@
     "comments": 15,
     "created_at": "2026-11-09T21:12:01Z",
     "updated_at": "2026-11-12T20:10:43Z",
-    "scanned_at": "2026-11-12T20:12:24.178663+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883280+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000074",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1036,11 +1112,11 @@
     "comments": 1,
     "created_at": "2026-11-08T16:47:45Z",
     "updated_at": "2026-11-10T20:37:27Z",
-    "scanned_at": "2026-11-12T20:12:24.179616+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884486+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000068",
+    "id": "BH-000076",
     "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1055,11 +1131,11 @@
     "comments": 0,
     "created_at": "2026-11-08T16:47:44Z",
     "updated_at": "2026-11-10T18:34:42Z",
-    "scanned_at": "2026-11-12T20:12:24.179629+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884505+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000080",
     "title": "[Escrowed $600 USDC] Tighten 32-bit subregister zero-extension parity across conditional joins (`ebpf-verifier-reg-bounds`)",
     "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
     "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
@@ -1074,12 +1150,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-08T10:53:31Z",
-    "updated_at": "2026-11-10T23:17:26Z",
-    "scanned_at": "2026-11-12T20:12:24.179692+00:00",
+    "updated_at": "2026-11-12T23:35:59Z",
+    "scanned_at": "2026-11-13T01:16:19.884598+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000083",
     "title": "[Escrowed $600 USDC] Handle split 4-byte UTF-8 codepoints and CRLF keepalive heartbeats cleanly (`mcp-sse-frame-conformance`)",
     "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2",
     "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
@@ -1095,11 +1171,11 @@
     "comments": 0,
     "created_at": "2026-11-08T10:53:26Z",
     "updated_at": "2026-11-10T23:17:22Z",
-    "scanned_at": "2026-11-12T20:12:24.179712+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884622+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000084",
     "title": "[Escrowed $600 USDC] Stabilize multi-shard batch watermarks across concurrent worker epochs (`Furnace`)",
     "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2",
     "repo": "IES-BoilerRoom/Furnace",
@@ -1115,11 +1191,11 @@
     "comments": 1,
     "created_at": "2026-11-08T10:53:25Z",
     "updated_at": "2026-11-11T20:36:47Z",
-    "scanned_at": "2026-11-12T20:12:24.179719+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884630+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000101",
     "title": "[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1134,36 +1210,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-07T20:24:51Z",
-    "scanned_at": "2026-11-12T20:13:37.872165+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484884+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
-    "title": "[Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_validator.py",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 6,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "🤖 Bot-Tier-2: Template-Sybil [S:21-40]",
-      "🎯 Bot-Score: 95-100% [Confirmed-AI]"
-    ],
-    "language": "unknown",
-    "amount_usd": 600,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-07T05:59:43Z",
-    "updated_at": "2026-11-10T10:09:06Z",
-    "scanned_at": "2026-11-12T20:13:37.872678+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000096",
+    "id": "BH-000103",
     "title": "[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1178,38 +1229,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-11T12:14:26Z",
-    "scanned_at": "2026-11-12T20:13:37.872184+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484907+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
-    "title": "[Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_report.py",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/8",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 8,
-    "labels": [
-      "enhancement",
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "🤖 Bot-Tier-2: Template-Sybil [S:21-40]",
-      "🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80]",
-      "🎯 Bot-Score: 95-100% [Confirmed-AI]"
-    ],
-    "language": "unknown",
-    "amount_usd": 550,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-07T11:43:30Z",
-    "updated_at": "2026-11-10T10:09:07Z",
-    "scanned_at": "2026-11-12T20:13:37.872654+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000095",
+    "id": "BH-000102",
     "title": "[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1224,38 +1248,11 @@
     "comments": 0,
     "created_at": "2026-11-07T20:24:50Z",
     "updated_at": "2026-11-07T20:24:50Z",
-    "scanned_at": "2026-11-12T20:13:37.872175+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484896+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
-    "title": "[Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in compute_checkpoint_boundary",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 9,
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "🤖 Bot-Tier-2: Template-Sybil [S:21-40]",
-      "🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80]",
-      "🎯 Bot-Score: 95-100% [Confirmed-AI]"
-    ],
-    "language": "unknown",
-    "amount_usd": 500,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-07T11:43:31Z",
-    "updated_at": "2026-11-10T10:08:50Z",
-    "scanned_at": "2026-11-12T20:13:37.872643+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000137",
+    "id": "BH-000139",
     "title": "[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70",
     "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/4",
     "repo": "Senthemodder/aquarium-of-gullibles",
@@ -1270,11 +1267,49 @@
     "comments": 21,
     "created_at": "2026-09-10T03:05:52Z",
     "updated_at": "2026-11-06T17:35:55Z",
-    "scanned_at": "2026-11-12T20:13:38.626367+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102350+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000001",
+    "title": "[Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4317",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4317,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:41:13Z",
+    "updated_at": "2026-11-13T00:41:13Z",
+    "scanned_at": "2026-11-13T01:16:19.880777+00:00",
     "status": "new"
   },
   {
     "id": "BH-000003",
+    "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4316,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 450,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:41:12Z",
+    "updated_at": "2026-11-13T00:41:12Z",
+    "scanned_at": "2026-11-13T01:16:19.880825+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000011",
     "title": "[Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signature-params` witness (`canonicalize_http_sig_frames`)",
     "url": "https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1",
     "repo": "IES-BoilerRoom/rfc9421-http-signature-gateway",
@@ -1289,11 +1324,11 @@
     "comments": 0,
     "created_at": "2026-11-12T20:10:45Z",
     "updated_at": "2026-11-12T20:10:45Z",
-    "scanned_at": "2026-11-12T20:12:24.176823+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881193+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000004",
+    "id": "BH-000012",
     "title": "[Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (`normalize_bgp_update_frames`)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -1305,14 +1340,14 @@
     "language": "unknown",
     "amount_usd": 450,
     "state": "open",
-    "comments": 0,
+    "comments": 2,
     "created_at": "2026-11-12T20:10:44Z",
-    "updated_at": "2026-11-12T20:10:44Z",
-    "scanned_at": "2026-11-12T20:12:24.176831+00:00",
+    "updated_at": "2026-11-12T21:03:04Z",
+    "scanned_at": "2026-11-13T01:16:19.881201+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000025",
     "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1327,11 +1362,11 @@
     "comments": 1,
     "created_at": "2026-11-11T01:28:11Z",
     "updated_at": "2026-11-11T13:39:33Z",
-    "scanned_at": "2026-11-12T20:12:24.177947+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882367+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000027",
     "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1346,11 +1381,11 @@
     "comments": 1,
     "created_at": "2026-11-11T01:28:10Z",
     "updated_at": "2026-11-11T04:21:10Z",
-    "scanned_at": "2026-11-12T20:12:24.177970+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882383+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000052",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1365,11 +1400,11 @@
     "comments": 1,
     "created_at": "2026-11-10T00:34:51Z",
     "updated_at": "2026-11-11T08:00:51Z",
-    "scanned_at": "2026-11-12T20:12:24.178482+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883043+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
+    "id": "BH-000057",
     "title": "[Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subnormal lane boundaries (`reduce_warp_fp8_lanes`)",
     "url": "https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1",
     "repo": "IES-BoilerRoom/cuda-warp-allreduce-verifier",
@@ -1385,11 +1420,11 @@
     "comments": 7,
     "created_at": "2026-11-09T21:12:01Z",
     "updated_at": "2026-11-12T20:10:43Z",
-    "scanned_at": "2026-11-12T20:12:24.178670+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883289+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
+    "id": "BH-000075",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1404,11 +1439,11 @@
     "comments": 6,
     "created_at": "2026-11-08T16:47:45Z",
     "updated_at": "2026-11-11T12:14:00Z",
-    "scanned_at": "2026-11-12T20:12:24.179622+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884495+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
+    "id": "BH-000077",
     "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1423,11 +1458,11 @@
     "comments": 4,
     "created_at": "2026-11-08T16:47:44Z",
     "updated_at": "2026-11-11T12:14:05Z",
-    "scanned_at": "2026-11-12T20:12:24.179636+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884515+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
+    "id": "BH-000081",
     "title": "[Escrowed $450 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (`refine_bpf_tnum_frames`)",
     "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
     "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
@@ -1443,11 +1478,11 @@
     "comments": 3,
     "created_at": "2026-11-08T10:53:30Z",
     "updated_at": "2026-11-11T20:49:23Z",
-    "scanned_at": "2026-11-12T20:12:24.179699+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884606+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000074",
+    "id": "BH-000082",
     "title": "[Escrowed $450 USDC] Fix incremental UTF-8 SSE chunk ceiling and align cross-shard frame digest witness (`frame_mcp_sse_chunks`)",
     "url": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1",
     "repo": "IES-BoilerRoom/mcp-sse-frame-conformance",
@@ -1463,11 +1498,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:53:26Z",
     "updated_at": "2026-11-11T20:53:22Z",
-    "scanned_at": "2026-11-12T20:12:24.179704+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884614+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000085",
     "title": "[Escrowed $450 USDC] Fix frame batch ceiling boundary and align 64-lane deterministic parity anchor (`reconcile_furnace_frame_batch`)",
     "url": "https://github.com/IES-BoilerRoom/Furnace/issues/1",
     "repo": "IES-BoilerRoom/Furnace",
@@ -1483,11 +1518,11 @@
     "comments": 2,
     "created_at": "2026-11-08T10:53:24Z",
     "updated_at": "2026-11-11T20:55:00Z",
-    "scanned_at": "2026-11-12T20:12:24.179726+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884638+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000099",
     "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1502,37 +1537,11 @@
     "comments": 2,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-11T12:14:21Z",
-    "scanned_at": "2026-11-12T20:13:37.872143+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484860+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
-    "title": "[Bounty $450] refactor(validator): extract checkpoint divisor constant in src/ledger_validator.py",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/5",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 5,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "🤖 Bot-Tier-2: Template-Sybil [S:21-40]",
-      "🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80]",
-      "🎯 Bot-Score: 95-100% [Confirmed-AI]"
-    ],
-    "language": "unknown",
-    "amount_usd": 450,
-    "state": "open",
-    "comments": 4,
-    "created_at": "2026-11-07T05:59:41Z",
-    "updated_at": "2026-11-11T20:56:30Z",
-    "scanned_at": "2026-11-12T20:13:37.872687+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000015",
+    "id": "BH-000023",
     "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1547,11 +1556,11 @@
     "comments": 0,
     "created_at": "2026-11-11T01:28:12Z",
     "updated_at": "2026-11-11T12:05:13Z",
-    "scanned_at": "2026-11-12T20:12:24.177933+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882351+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000029",
     "title": "[BOUNTY][$420][ADD] P. Diddy Lube",
     "url": "https://github.com/theselfish/SlopStation13/issues/40",
     "repo": "theselfish/SlopStation13",
@@ -1566,11 +1575,11 @@
     "comments": 0,
     "created_at": "2026-11-10T22:23:18Z",
     "updated_at": "2026-11-11T12:05:41Z",
-    "scanned_at": "2026-11-12T20:12:24.178083+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882527+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000100",
     "title": "[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1585,38 +1594,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:51Z",
     "updated_at": "2026-11-08T03:21:38Z",
-    "scanned_at": "2026-11-12T20:13:37.872154+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484872+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
-    "title": "[Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap header dicts",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/7",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 7,
-    "labels": [
-      "bug",
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "🤖 Bot-Tier-2: Template-Sybil [S:21-40]",
-      "🤖 Bot-Tier-3: Prompt-Injected [S:41-60]",
-      "🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80]"
-    ],
-    "language": "unknown",
-    "amount_usd": 400,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-07T11:43:29Z",
-    "updated_at": "2026-11-10T10:09:09Z",
-    "scanned_at": "2026-11-12T20:13:37.872668+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000091",
+    "id": "BH-000098",
     "title": "[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1631,11 +1613,11 @@
     "comments": 1,
     "created_at": "2026-11-07T20:24:52Z",
     "updated_at": "2026-11-07T20:52:02Z",
-    "scanned_at": "2026-11-12T20:13:37.872114+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484848+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000104",
     "title": "[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1650,11 +1632,11 @@
     "comments": 3,
     "created_at": "2026-11-07T20:24:49Z",
     "updated_at": "2026-11-08T07:39:06Z",
-    "scanned_at": "2026-11-12T20:13:37.872193+00:00",
+    "scanned_at": "2026-11-13T01:17:33.484917+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000126",
     "title": "[Bounty $350] docs(validator): add docstring usage examples for verify_sequence_gap in src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/16",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -1676,11 +1658,11 @@
     "comments": 3,
     "created_at": "2026-11-07T13:19:57Z",
     "updated_at": "2026-11-10T05:43:06Z",
-    "scanned_at": "2026-11-12T20:13:37.872552+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485349+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000184",
+    "id": "BH-000186",
     "title": "📋 2 open bounties right now",
     "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
     "repo": "habibdxb01/bounty-watcher",
@@ -1695,11 +1677,11 @@
     "comments": 0,
     "created_at": "2026-10-22T15:00:27Z",
     "updated_at": "2026-10-28T11:24:27Z",
-    "scanned_at": "2026-11-12T20:13:44.868618+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181921+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000030",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1714,11 +1696,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:23Z",
     "updated_at": "2026-11-10T21:37:49Z",
-    "scanned_at": "2026-11-12T20:12:24.178094+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882539+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000031",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1733,11 +1715,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:22Z",
     "updated_at": "2026-11-10T21:37:51Z",
-    "scanned_at": "2026-11-12T20:12:24.178100+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882548+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000032",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1752,11 +1734,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:22Z",
     "updated_at": "2026-11-11T12:05:43Z",
-    "scanned_at": "2026-11-12T20:12:24.178106+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882560+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000033",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4301",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1771,11 +1753,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:21Z",
     "updated_at": "2026-11-10T21:37:57Z",
-    "scanned_at": "2026-11-12T20:12:24.178113+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882571+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000034",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4300",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1790,11 +1772,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:21Z",
     "updated_at": "2026-11-10T21:37:56Z",
-    "scanned_at": "2026-11-12T20:12:24.178119+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882590+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000035",
     "title": "[Bounty] 🪙 Bounty: Improve project documentation",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4299",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1809,11 +1791,11 @@
     "comments": 0,
     "created_at": "2026-11-10T21:34:20Z",
     "updated_at": "2026-11-10T21:37:58Z",
-    "scanned_at": "2026-11-12T20:12:24.178126+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882598+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000182",
+    "id": "BH-000184",
     "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
     "url": "https://github.com/blake-guthrie/GLASS/issues/1",
     "repo": "blake-guthrie/GLASS",
@@ -1827,11 +1809,11 @@
     "comments": 18,
     "created_at": "2026-10-23T19:03:20Z",
     "updated_at": "2026-11-06T23:07:20Z",
-    "scanned_at": "2026-11-12T20:13:44.868566+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181857+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000197",
+    "id": "BH-000199",
     "title": "[TEST BOUNTY] Fix typo in README",
     "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
     "repo": "jomaaabbe78-spec/bookningsapp",
@@ -1846,11 +1828,51 @@
     "comments": 10,
     "created_at": "2026-10-20T20:46:34Z",
     "updated_at": "2026-10-31T21:37:49Z",
-    "scanned_at": "2026-11-12T20:13:44.869606+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183188+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
+    "id": "BH-000006",
+    "title": "[radar] SN open bounty 2026-11-13T00:10",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1374",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1374,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-13T00:10:16Z",
+    "updated_at": "2026-11-13T00:10:16Z",
+    "scanned_at": "2026-11-13T01:16:19.881118+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "[radar] SN open bounty 2026-11-12T22:24",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1373",
+    "repo": "relayhop/sn-monetization-runtime",
+    "number": 1373,
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-12T22:24:07Z",
+    "updated_at": "2026-11-12T22:24:07Z",
+    "scanned_at": "2026-11-13T01:16:19.881156+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000013",
     "title": "[radar] SN open bounty 2026-11-12T18:10",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1372",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1866,11 +1888,11 @@
     "comments": 0,
     "created_at": "2026-11-12T18:10:17Z",
     "updated_at": "2026-11-12T18:10:17Z",
-    "scanned_at": "2026-11-12T20:12:24.177033+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881219+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000006",
+    "id": "BH-000014",
     "title": "[radar] SN open bounty 2026-11-12T16:18",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1371",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1886,11 +1908,11 @@
     "comments": 0,
     "created_at": "2026-11-12T16:18:20Z",
     "updated_at": "2026-11-12T16:18:20Z",
-    "scanned_at": "2026-11-12T20:12:24.177051+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881237+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000015",
     "title": "[$2 site credit] Add a Dart example that lists open bounties",
     "url": "https://github.com/andrewsiah/agentswarm-examples/issues/46",
     "repo": "andrewsiah/agentswarm-examples",
@@ -1907,14 +1929,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 2,
+    "comments": 4,
     "created_at": "2026-11-12T13:56:37Z",
-    "updated_at": "2026-11-12T15:07:20Z",
-    "scanned_at": "2026-11-12T20:12:24.177240+00:00",
+    "updated_at": "2026-11-13T00:25:08Z",
+    "scanned_at": "2026-11-13T01:16:19.881478+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000016",
     "title": "[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
     "repo": "Ikalus1988/MisakaNet",
@@ -1937,11 +1959,11 @@
     "comments": 2,
     "created_at": "2026-11-12T13:55:20Z",
     "updated_at": "2026-11-12T14:28:52Z",
-    "scanned_at": "2026-11-12T20:12:24.177267+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881512+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000017",
     "title": "[$2 site credit] Add a PHP example that lists open bounties",
     "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
     "repo": "andrewsiah/agentswarm-examples",
@@ -1961,11 +1983,11 @@
     "comments": 2,
     "created_at": "2026-11-12T13:11:22Z",
     "updated_at": "2026-11-12T15:06:43Z",
-    "scanned_at": "2026-11-12T20:12:24.177453+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881764+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000018",
     "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft",
     "url": "https://github.com/nomos-spec/spec/issues/33",
     "repo": "nomos-spec/spec",
@@ -1980,11 +2002,11 @@
     "comments": 0,
     "created_at": "2026-11-12T05:28:21Z",
     "updated_at": "2026-11-12T05:30:42Z",
-    "scanned_at": "2026-11-12T20:12:24.177547+00:00",
+    "scanned_at": "2026-11-13T01:16:19.881884+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000019",
     "title": "Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft",
     "url": "https://github.com/nomos-spec/spec/issues/32",
     "repo": "nomos-spec/spec",
@@ -1999,11 +2021,11 @@
     "comments": 0,
     "created_at": "2026-11-12T05:28:05Z",
     "updated_at": "2026-11-12T05:30:28Z",
-    "scanned_at": "2026-11-12T20:12:24.177647+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882008+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000012",
+    "id": "BH-000020",
     "title": "Smart contracts: on-chain bounty escrow (Soroban) - trustless release on merged-PR evidence (CG-BTY-007)",
     "url": "https://github.com/coreguard-global/CoreGuard/issues/55",
     "repo": "coreguard-global/CoreGuard",
@@ -2022,11 +2044,11 @@
     "comments": 1,
     "created_at": "2026-11-11T18:40:38Z",
     "updated_at": "2026-11-11T20:53:47Z",
-    "scanned_at": "2026-11-12T20:12:24.177735+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882121+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000021",
     "title": "Content: execution-receipt deep-dive + demo video + integration guides (CG-BTY-005)",
     "url": "https://github.com/coreguard-global/CoreGuard/issues/54",
     "repo": "coreguard-global/CoreGuard",
@@ -2044,11 +2066,11 @@
     "comments": 0,
     "created_at": "2026-11-11T18:40:35Z",
     "updated_at": "2026-11-11T19:07:37Z",
-    "scanned_at": "2026-11-12T20:12:24.177811+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882202+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000022",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4692",
     "repo": "Ikalus1988/MisakaNet",
@@ -2063,11 +2085,11 @@
     "comments": 0,
     "created_at": "2026-11-11T14:41:44Z",
     "updated_at": "2026-11-12T15:34:50Z",
-    "scanned_at": "2026-11-12T20:12:24.177921+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882339+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000028",
     "title": "Community bounties & contributor program (open call)",
     "url": "https://github.com/coreguard-global/CoreGuard/issues/31",
     "repo": "coreguard-global/CoreGuard",
@@ -2090,11 +2112,11 @@
     "comments": 13,
     "created_at": "2026-11-10T23:09:39Z",
     "updated_at": "2026-11-11T20:53:45Z",
-    "scanned_at": "2026-11-12T20:12:24.178074+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882514+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000036",
     "title": "Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP server",
     "url": "https://github.com/auscaster/frantic-board/issues/589",
     "repo": "auscaster/frantic-board",
@@ -2102,20 +2124,19 @@
     "labels": [
       "bounty",
       "funded",
-      "delivered",
-      "needs-work"
+      "delivered"
     ],
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-10T21:22:21Z",
-    "updated_at": "2026-11-12T14:45:19Z",
-    "scanned_at": "2026-11-12T20:12:24.178165+00:00",
+    "updated_at": "2026-11-13T01:15:39Z",
+    "scanned_at": "2026-11-13T01:16:19.882649+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000037",
     "title": "BOUNTY-04: GitHub Action that watches x402 manifests for drift",
     "url": "https://github.com/bshelby88/raen-bounties/issues/4",
     "repo": "bshelby88/raen-bounties",
@@ -2129,11 +2150,11 @@
     "comments": 5,
     "created_at": "2026-11-10T20:02:34Z",
     "updated_at": "2026-11-11T20:55:00Z",
-    "scanned_at": "2026-11-12T20:12:24.178192+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882683+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000038",
     "title": "BOUNTY-03: CrewAI tool wrappers for dispute_letter + contract_analyze",
     "url": "https://github.com/bshelby88/raen-bounties/issues/3",
     "repo": "bshelby88/raen-bounties",
@@ -2147,11 +2168,11 @@
     "comments": 4,
     "created_at": "2026-11-10T20:02:32Z",
     "updated_at": "2026-11-11T20:54:59Z",
-    "scanned_at": "2026-11-12T20:12:24.178214+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882712+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000039",
     "title": "BOUNTY-02: One-file Python CLI client for the 12-service x402 fleet",
     "url": "https://github.com/bshelby88/raen-bounties/issues/2",
     "repo": "bshelby88/raen-bounties",
@@ -2165,11 +2186,11 @@
     "comments": 4,
     "created_at": "2026-11-10T20:02:31Z",
     "updated_at": "2026-11-11T20:54:56Z",
-    "scanned_at": "2026-11-12T20:12:24.178242+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882742+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000040",
     "title": "BOUNTY-01: ElizaOS plugin for the RAEN MCP gateway",
     "url": "https://github.com/bshelby88/raen-bounties/issues/1",
     "repo": "bshelby88/raen-bounties",
@@ -2183,11 +2204,11 @@
     "comments": 2,
     "created_at": "2026-11-10T20:02:30Z",
     "updated_at": "2026-11-11T20:54:57Z",
-    "scanned_at": "2026-11-12T20:12:24.178271+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882778+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000049",
     "title": "[radar] SN open bounty 2026-11-10T08:18",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1367",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2203,11 +2224,11 @@
     "comments": 0,
     "created_at": "2026-11-10T08:18:37Z",
     "updated_at": "2026-11-10T08:18:37Z",
-    "scanned_at": "2026-11-12T20:12:24.178379+00:00",
+    "scanned_at": "2026-11-13T01:16:19.882911+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000050",
     "title": "[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi",
     "url": "https://github.com/andrewsiah/agentswarm-pi/issues/3",
     "repo": "andrewsiah/agentswarm-pi",
@@ -2228,11 +2249,11 @@
     "comments": 1,
     "created_at": "2026-11-10T02:05:50Z",
     "updated_at": "2026-11-10T09:09:27Z",
-    "scanned_at": "2026-11-12T20:12:24.178468+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883026+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000053",
     "title": "[radar] SN open bounty 2026-11-10T00:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1366",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2248,11 +2269,11 @@
     "comments": 0,
     "created_at": "2026-11-10T00:12:18Z",
     "updated_at": "2026-11-10T00:14:34Z",
-    "scanned_at": "2026-11-12T20:12:24.178500+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883064+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000054",
     "title": "[$2 site credit] Add a German README for agentswarm-mcp",
     "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/9",
     "repo": "andrewsiah/agentswarm-mcp",
@@ -2273,11 +2294,11 @@
     "comments": 2,
     "created_at": "2026-11-09T22:10:04Z",
     "updated_at": "2026-11-10T19:05:08Z",
-    "scanned_at": "2026-11-12T20:12:24.178578+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883168+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000055",
     "title": "[$2 site credit] Add a German README for agentswarm-pi",
     "url": "https://github.com/andrewsiah/agentswarm-pi/issues/2",
     "repo": "andrewsiah/agentswarm-pi",
@@ -2298,11 +2319,11 @@
     "comments": 2,
     "created_at": "2026-11-09T21:32:46Z",
     "updated_at": "2026-11-10T19:25:08Z",
-    "scanned_at": "2026-11-12T20:12:24.178656+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883271+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000058",
     "title": "[QA Bounty] [P0] Cross-Model API Compatibility",
     "url": "https://github.com/hanzoai/ai/issues/138",
     "repo": "hanzoai/ai",
@@ -2318,14 +2339,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 7,
+    "comments": 8,
     "created_at": "2026-11-09T19:23:36Z",
-    "updated_at": "2026-11-12T11:31:43Z",
-    "scanned_at": "2026-11-12T20:12:24.178747+00:00",
+    "updated_at": "2026-11-13T00:05:48Z",
+    "scanned_at": "2026-11-13T01:16:19.883385+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000059",
     "title": "[QA Bounty] [P0] Model Routing & Failover",
     "url": "https://github.com/hanzoai/ai/issues/137",
     "repo": "hanzoai/ai",
@@ -2344,11 +2365,11 @@
     "comments": 7,
     "created_at": "2026-11-09T19:23:33Z",
     "updated_at": "2026-11-12T11:31:53Z",
-    "scanned_at": "2026-11-12T20:12:24.178827+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883474+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000052",
+    "id": "BH-000060",
     "title": "[QA Bounty] [P0] Billing & Token Accuracy",
     "url": "https://github.com/hanzoai/ai/issues/136",
     "repo": "hanzoai/ai",
@@ -2367,11 +2388,11 @@
     "comments": 4,
     "created_at": "2026-11-09T19:23:30Z",
     "updated_at": "2026-11-12T11:16:01Z",
-    "scanned_at": "2026-11-12T20:12:24.178900+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883564+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000061",
     "title": "[QA Bounty] [P0] Multimodal Security Testing",
     "url": "https://github.com/hanzoai/ai/issues/135",
     "repo": "hanzoai/ai",
@@ -2387,14 +2408,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "created_at": "2026-11-09T19:23:27Z",
-    "updated_at": "2026-11-12T11:16:12Z",
-    "scanned_at": "2026-11-12T20:12:24.178969+00:00",
+    "updated_at": "2026-11-13T00:07:04Z",
+    "scanned_at": "2026-11-13T01:16:19.883674+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000062",
     "title": "[QA Bounty] [P1] Video Generation Reliability",
     "url": "https://github.com/hanzoai/ai/issues/134",
     "repo": "hanzoai/ai",
@@ -2413,11 +2434,11 @@
     "comments": 4,
     "created_at": "2026-11-09T19:23:25Z",
     "updated_at": "2026-11-12T10:36:37Z",
-    "scanned_at": "2026-11-12T20:12:24.179036+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883760+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000063",
     "title": "[QA Bounty] [P1] Audio Generation & Transcription",
     "url": "https://github.com/hanzoai/ai/issues/133",
     "repo": "hanzoai/ai",
@@ -2436,11 +2457,11 @@
     "comments": 5,
     "created_at": "2026-11-09T19:23:22Z",
     "updated_at": "2026-11-12T12:29:47Z",
-    "scanned_at": "2026-11-12T20:12:24.179102+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883845+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000064",
     "title": "[QA Bounty] [P1] Text Generation Edge Cases",
     "url": "https://github.com/hanzoai/ai/issues/132",
     "repo": "hanzoai/ai",
@@ -2459,11 +2480,11 @@
     "comments": 5,
     "created_at": "2026-11-09T19:23:19Z",
     "updated_at": "2026-11-12T12:29:32Z",
-    "scanned_at": "2026-11-12T20:12:24.179172+00:00",
+    "scanned_at": "2026-11-13T01:16:19.883933+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000065",
     "title": "[QA Bounty] [P1] Image Generation Consistency",
     "url": "https://github.com/hanzoai/ai/issues/131",
     "repo": "hanzoai/ai",
@@ -2482,11 +2503,11 @@
     "comments": 4,
     "created_at": "2026-11-09T19:23:16Z",
     "updated_at": "2026-11-12T10:36:48Z",
-    "scanned_at": "2026-11-12T20:12:24.179242+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884023+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000066",
     "title": "[QA Bounty] [P1] Cross-Modal Workflows",
     "url": "https://github.com/hanzoai/ai/issues/130",
     "repo": "hanzoai/ai",
@@ -2505,11 +2526,11 @@
     "comments": 5,
     "created_at": "2026-11-09T19:23:13Z",
     "updated_at": "2026-11-12T12:29:14Z",
-    "scanned_at": "2026-11-12T20:12:24.179313+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884113+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000067",
     "title": "[$2 site credit] Add a Spanish README for agentswarm-cli",
     "url": "https://github.com/andrewsiah/agentswarm-cli/issues/7",
     "repo": "andrewsiah/agentswarm-cli",
@@ -2530,11 +2551,11 @@
     "comments": 1,
     "created_at": "2026-11-09T19:03:16Z",
     "updated_at": "2026-11-10T00:33:41Z",
-    "scanned_at": "2026-11-12T20:12:24.179393+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884213+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000068",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4642",
     "repo": "Ikalus1988/MisakaNet",
@@ -2549,11 +2570,11 @@
     "comments": 4,
     "created_at": "2026-11-09T16:50:00Z",
     "updated_at": "2026-11-11T12:13:28Z",
-    "scanned_at": "2026-11-12T20:12:24.179502+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884350+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000069",
     "title": "[radar] SN open bounty 2026-11-09T16:05",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1365",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2569,11 +2590,11 @@
     "comments": 0,
     "created_at": "2026-11-09T16:05:13Z",
     "updated_at": "2026-11-09T16:05:13Z",
-    "scanned_at": "2026-11-12T20:12:24.179519+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884371+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000070",
     "title": "[radar] SN open bounty 2026-11-09T16:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1364",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2589,11 +2610,11 @@
     "comments": 0,
     "created_at": "2026-11-09T16:01:30Z",
     "updated_at": "2026-11-09T16:02:49Z",
-    "scanned_at": "2026-11-12T20:12:24.179540+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884393+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000071",
     "title": "[radar] SN open bounty 2026-11-09T06:05",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1363",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2609,11 +2630,11 @@
     "comments": 1,
     "created_at": "2026-11-09T06:05:29Z",
     "updated_at": "2026-11-11T23:14:34Z",
-    "scanned_at": "2026-11-12T20:12:24.179562+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884420+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000072",
     "title": "[radar] SN open bounty 2026-11-08T23:38",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1362",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2629,11 +2650,11 @@
     "comments": 0,
     "created_at": "2026-11-08T23:38:39Z",
     "updated_at": "2026-11-08T23:38:39Z",
-    "scanned_at": "2026-11-12T20:12:24.179586+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884448+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000073",
     "title": "[radar] SN open bounty 2026-11-08T19:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1361",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2649,11 +2670,11 @@
     "comments": 0,
     "created_at": "2026-11-08T19:31:59Z",
     "updated_at": "2026-11-08T19:31:59Z",
-    "scanned_at": "2026-11-12T20:12:24.179609+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884475+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000070",
+    "id": "BH-000078",
     "title": "[radar] SN open bounty 2026-11-08T15:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1360",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2669,11 +2690,11 @@
     "comments": 0,
     "created_at": "2026-11-08T15:01:13Z",
     "updated_at": "2026-11-08T15:01:13Z",
-    "scanned_at": "2026-11-12T20:12:24.179659+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000079",
     "title": "[radar] SN open bounty 2026-11-08T13:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2689,11 +2710,11 @@
     "comments": 0,
     "created_at": "2026-11-08T13:13:53Z",
     "updated_at": "2026-11-08T13:13:53Z",
-    "scanned_at": "2026-11-12T20:12:24.179683+00:00",
+    "scanned_at": "2026-11-13T01:16:19.884572+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000158",
     "title": "[radar] SN open bounty 2026-11-08T07:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1358",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2709,11 +2730,11 @@
     "comments": 0,
     "created_at": "2026-11-08T07:12:04Z",
     "updated_at": "2026-11-08T07:12:04Z",
-    "scanned_at": "2026-11-12T20:12:24.179866+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181147+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000120",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/4571",
     "repo": "Ikalus1988/MisakaNet",
@@ -2728,11 +2749,11 @@
     "comments": 9,
     "created_at": "2026-11-07T13:30:45Z",
     "updated_at": "2026-11-11T12:14:45Z",
-    "scanned_at": "2026-11-12T20:13:37.872462+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485237+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000116",
+    "id": "BH-000123",
     "title": "security(validator): prevent negative overflow in checkpoint frame arithmetic",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/19",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -2752,11 +2773,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:01Z",
     "updated_at": "2026-11-07T15:57:13Z",
-    "scanned_at": "2026-11-12T20:13:37.872509+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485294+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000124",
     "title": "perf(validator): optimize sequence header iteration overhead in verify_sequence_gap",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/18",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -2776,11 +2797,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:20:00Z",
     "updated_at": "2026-11-07T15:57:12Z",
-    "scanned_at": "2026-11-12T20:13:37.872531+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485323+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000127",
     "title": "fix(validator): handle empty batch in validate_merkle_anchor_v2 within src/ledger_validator.py",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/15",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -2800,11 +2821,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:56Z",
     "updated_at": "2026-11-07T15:57:10Z",
-    "scanned_at": "2026-11-12T20:13:37.872574+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485377+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000128",
     "title": "feat(validator): add strict genesis_floor=0 check in compute_checkpoint_boundary",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/14",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -2825,11 +2846,11 @@
     "comments": 0,
     "created_at": "2026-11-07T13:19:55Z",
     "updated_at": "2026-11-07T15:57:09Z",
-    "scanned_at": "2026-11-12T20:13:37.872610+00:00",
+    "scanned_at": "2026-11-13T01:17:33.485425+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000159",
     "title": "[radar] SN open bounty 2026-11-07T12:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2845,36 +2866,11 @@
     "comments": 0,
     "created_at": "2026-11-07T12:51:56Z",
     "updated_at": "2026-11-07T12:51:56Z",
-    "scanned_at": "2026-11-12T20:13:44.868030+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181199+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
-    "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 10,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "💎 Bounty $500",
-      "Stellar Wave",
-      "bounty",
-      "🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80]",
-      "🤖 Bot-Tier-5: AST-Stealth [S:81-95]",
-      "🎯 Bot-Score: 95-100% [Confirmed-AI]"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-07T11:43:32Z",
-    "updated_at": "2026-11-07T14:00:44Z",
-    "scanned_at": "2026-11-12T20:13:37.872632+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000158",
+    "id": "BH-000160",
     "title": "Test the rules that decide which bounty a pull request claims",
     "url": "https://github.com/odiseo159-beep/mergit/issues/17",
     "repo": "odiseo159-beep/mergit",
@@ -2888,11 +2884,11 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:21Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-12T20:13:44.868125+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181301+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000159",
+    "id": "BH-000161",
     "title": "Give the verifier a fair chance after a challenge",
     "url": "https://github.com/odiseo159-beep/mergit/issues/16",
     "repo": "odiseo159-beep/mergit",
@@ -2906,11 +2902,32 @@
     "comments": 1,
     "created_at": "2026-11-06T06:16:20Z",
     "updated_at": "2026-11-06T06:19:34Z",
-    "scanned_at": "2026-11-12T20:13:44.868198+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181393+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000160",
+    "id": "BH-000129",
+    "title": "[20 JNZ] Example: watch new blocks over the WebSocket (newBlocks subscription)",
+    "url": "https://github.com/janzeerOrg/janzeer-sdk-ts/issues/3",
+    "repo": "janzeerOrg/janzeer-sdk-ts",
+    "number": 3,
+    "labels": [
+      "documentation",
+      "help wanted",
+      "good first issue",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-11-05T08:41:30Z",
+    "updated_at": "2026-11-12T22:21:12Z",
+    "scanned_at": "2026-11-13T01:17:34.101712+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000162",
     "title": "[radar] SN open bounty 2026-11-03T06:35",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2926,11 +2943,11 @@
     "comments": 0,
     "created_at": "2026-11-03T06:35:05Z",
     "updated_at": "2026-11-03T06:35:05Z",
-    "scanned_at": "2026-11-12T20:13:44.868216+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181414+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000161",
+    "id": "BH-000163",
     "title": "[radar] SN open bounty 2026-11-02T23:25",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2946,11 +2963,11 @@
     "comments": 0,
     "created_at": "2026-11-02T23:25:57Z",
     "updated_at": "2026-11-02T23:25:57Z",
-    "scanned_at": "2026-11-12T20:13:44.868232+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181432+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000162",
+    "id": "BH-000164",
     "title": "[radar] SN open bounty 2026-11-02T15:36",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2966,11 +2983,11 @@
     "comments": 1,
     "created_at": "2026-11-02T15:36:17Z",
     "updated_at": "2026-11-02T15:40:14Z",
-    "scanned_at": "2026-11-12T20:13:44.868247+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181451+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000163",
+    "id": "BH-000165",
     "title": "[radar] SN open bounty 2026-11-02T05:51",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1351",
     "repo": "relayhop/sn-monetization-runtime",
@@ -2986,11 +3003,11 @@
     "comments": 2,
     "created_at": "2026-11-02T05:51:16Z",
     "updated_at": "2026-11-02T05:54:26Z",
-    "scanned_at": "2026-11-12T20:13:44.868262+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181470+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000164",
+    "id": "BH-000166",
     "title": "[radar] SN open bounty 2026-11-01T23:30",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1350",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3006,11 +3023,11 @@
     "comments": 2,
     "created_at": "2026-11-01T23:30:13Z",
     "updated_at": "2026-11-01T23:33:38Z",
-    "scanned_at": "2026-11-12T20:13:44.868279+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181489+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000165",
+    "id": "BH-000167",
     "title": "[radar] SN open bounty 2026-11-01T19:32",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1349",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3026,11 +3043,11 @@
     "comments": 2,
     "created_at": "2026-11-01T19:32:21Z",
     "updated_at": "2026-11-01T19:34:47Z",
-    "scanned_at": "2026-11-12T20:13:44.868295+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181507+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000166",
+    "id": "BH-000168",
     "title": "[radar] SN open bounty 2026-11-01T14:58",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1348",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3046,11 +3063,11 @@
     "comments": 1,
     "created_at": "2026-11-01T14:58:35Z",
     "updated_at": "2026-11-01T15:01:22Z",
-    "scanned_at": "2026-11-12T20:13:44.868310+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181526+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000167",
+    "id": "BH-000169",
     "title": "[radar] SN open bounty 2026-10-31T12:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1346",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3066,11 +3083,11 @@
     "comments": 1,
     "created_at": "2026-10-31T12:13:27Z",
     "updated_at": "2026-10-31T12:15:50Z",
-    "scanned_at": "2026-11-12T20:13:44.868325+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181544+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000168",
+    "id": "BH-000170",
     "title": "[radar] SN open bounty 2026-10-31T12:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1345",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3086,11 +3103,11 @@
     "comments": 1,
     "created_at": "2026-10-31T12:12:21Z",
     "updated_at": "2026-10-31T12:16:14Z",
-    "scanned_at": "2026-11-12T20:13:44.868337+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181560+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000169",
+    "id": "BH-000171",
     "title": "[radar] SN open bounty 2026-10-27T12:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3106,11 +3123,11 @@
     "comments": 1,
     "created_at": "2026-10-27T12:01:01Z",
     "updated_at": "2026-11-08T23:17:53Z",
-    "scanned_at": "2026-11-12T20:13:44.868352+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181593+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000170",
+    "id": "BH-000172",
     "title": "[radar] SN open bounty 2026-10-27T10:25",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3126,11 +3143,11 @@
     "comments": 1,
     "created_at": "2026-10-27T10:25:03Z",
     "updated_at": "2026-11-08T20:15:38Z",
-    "scanned_at": "2026-11-12T20:13:44.868366+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181611+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000171",
+    "id": "BH-000173",
     "title": "[radar] SN open bounty 2026-10-27T04:52",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3146,11 +3163,11 @@
     "comments": 1,
     "created_at": "2026-10-27T04:52:16Z",
     "updated_at": "2026-11-08T09:30:05Z",
-    "scanned_at": "2026-11-12T20:13:44.868381+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181629+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000172",
+    "id": "BH-000174",
     "title": "[radar] SN open bounty 2026-10-26T23:46",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1341",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3166,11 +3183,11 @@
     "comments": 2,
     "created_at": "2026-10-26T23:46:22Z",
     "updated_at": "2026-11-08T10:54:14Z",
-    "scanned_at": "2026-11-12T20:13:44.868402+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181654+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000130",
     "title": "Honor the lines argument in MCPManager.Logs",
     "url": "https://github.com/hanzoai/agents/issues/9",
     "repo": "hanzoai/agents",
@@ -3189,11 +3206,11 @@
     "comments": 9,
     "created_at": "2026-10-26T23:17:20Z",
     "updated_at": "2026-11-12T13:58:25Z",
-    "scanned_at": "2026-11-12T20:13:38.625931+00:00",
+    "scanned_at": "2026-11-13T01:17:34.101800+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000131",
     "title": "Make the agent counts in README.md match the files",
     "url": "https://github.com/hanzoai/agents/issues/8",
     "repo": "hanzoai/agents",
@@ -3213,11 +3230,11 @@
     "comments": 14,
     "created_at": "2026-10-26T23:17:15Z",
     "updated_at": "2026-11-11T20:31:11Z",
-    "scanned_at": "2026-11-12T20:13:38.626001+00:00",
+    "scanned_at": "2026-11-13T01:17:34.101873+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000130",
+    "id": "BH-000132",
     "title": "Fix 103 broken relative links in the README",
     "url": "https://github.com/hanzoai/agents/issues/6",
     "repo": "hanzoai/agents",
@@ -3237,11 +3254,11 @@
     "comments": 21,
     "created_at": "2026-10-26T23:17:06Z",
     "updated_at": "2026-11-01T12:07:35Z",
-    "scanned_at": "2026-11-12T20:13:38.626061+00:00",
+    "scanned_at": "2026-11-13T01:17:34.101948+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000173",
+    "id": "BH-000175",
     "title": "[radar] SN open bounty 2026-10-26T19:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1340",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3257,11 +3274,11 @@
     "comments": 4,
     "created_at": "2026-10-26T19:11:09Z",
     "updated_at": "2026-10-27T17:05:57Z",
-    "scanned_at": "2026-11-12T20:13:44.868422+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181679+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000174",
+    "id": "BH-000176",
     "title": "[radar] SN open bounty 2026-10-26T12:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3277,11 +3294,11 @@
     "comments": 2,
     "created_at": "2026-10-26T12:48:58Z",
     "updated_at": "2026-11-07T16:58:30Z",
-    "scanned_at": "2026-11-12T20:13:44.868437+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181696+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000175",
+    "id": "BH-000177",
     "title": "[radar] SN open bounty 2026-10-26T12:48",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3297,11 +3314,11 @@
     "comments": 3,
     "created_at": "2026-10-26T12:48:24Z",
     "updated_at": "2026-10-30T01:46:00Z",
-    "scanned_at": "2026-11-12T20:13:44.868451+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181714+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000176",
+    "id": "BH-000178",
     "title": "[radar] SN open bounty 2026-10-26T06:01",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1337",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3317,11 +3334,11 @@
     "comments": 3,
     "created_at": "2026-10-26T06:01:13Z",
     "updated_at": "2026-11-03T17:21:57Z",
-    "scanned_at": "2026-11-12T20:13:44.868467+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181734+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000177",
+    "id": "BH-000179",
     "title": "[radar] SN open bounty 2026-10-26T00:09",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1335",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3337,11 +3354,11 @@
     "comments": 6,
     "created_at": "2026-10-26T00:09:53Z",
     "updated_at": "2026-10-31T22:48:19Z",
-    "scanned_at": "2026-11-12T20:13:44.868482+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181753+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000178",
+    "id": "BH-000180",
     "title": "[radar] SN open bounty 2026-10-25T21:40",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1333",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3357,11 +3374,11 @@
     "comments": 5,
     "created_at": "2026-10-25T21:40:23Z",
     "updated_at": "2026-10-31T14:59:19Z",
-    "scanned_at": "2026-11-12T20:13:44.868497+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181771+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000179",
+    "id": "BH-000181",
     "title": "[radar] SN open bounty 2026-10-25T18:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1331",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3377,11 +3394,11 @@
     "comments": 3,
     "created_at": "2026-10-25T18:56:39Z",
     "updated_at": "2026-11-01T03:25:55Z",
-    "scanned_at": "2026-11-12T20:13:44.868513+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181791+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000180",
+    "id": "BH-000182",
     "title": "[radar] SN open bounty 2026-10-25T16:02",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1329",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3397,11 +3414,11 @@
     "comments": 4,
     "created_at": "2026-10-25T16:02:35Z",
     "updated_at": "2026-11-01T14:10:53Z",
-    "scanned_at": "2026-11-12T20:13:44.868528+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181810+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000181",
+    "id": "BH-000183",
     "title": "[radar] SN open bounty 2026-10-24T10:49",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1327",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3417,11 +3434,11 @@
     "comments": 2,
     "created_at": "2026-10-24T10:49:16Z",
     "updated_at": "2026-10-24T15:52:08Z",
-    "scanned_at": "2026-11-12T20:13:44.868548+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181834+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000183",
+    "id": "BH-000185",
     "title": "[radar] SN open bounty 2026-10-22T19:11",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3437,11 +3454,11 @@
     "comments": 3,
     "created_at": "2026-10-22T19:11:38Z",
     "updated_at": "2026-11-11T20:53:56Z",
-    "scanned_at": "2026-11-12T20:13:44.868581+00:00",
+    "scanned_at": "2026-11-13T01:17:40.181875+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000185",
+    "id": "BH-000187",
     "title": "[routes] Time, moving time and speed",
     "url": "https://github.com/amiller/bounty-arcade/issues/12",
     "repo": "amiller/bounty-arcade",
@@ -3455,11 +3472,11 @@
     "comments": 8,
     "created_at": "2026-10-21T16:02:21Z",
     "updated_at": "2026-10-30T23:45:47Z",
-    "scanned_at": "2026-11-12T20:13:44.868703+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182029+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000186",
+    "id": "BH-000188",
     "title": "[routes] Gain/loss threshold",
     "url": "https://github.com/amiller/bounty-arcade/issues/11",
     "repo": "amiller/bounty-arcade",
@@ -3473,11 +3490,11 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:20Z",
     "updated_at": "2026-11-04T06:27:22Z",
-    "scanned_at": "2026-11-12T20:13:44.868751+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182094+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000187",
+    "id": "BH-000189",
     "title": "[routes] Segments and gaps",
     "url": "https://github.com/amiller/bounty-arcade/issues/10",
     "repo": "amiller/bounty-arcade",
@@ -3491,11 +3508,11 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:19Z",
     "updated_at": "2026-10-25T20:10:01Z",
-    "scanned_at": "2026-11-12T20:13:44.868905+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182277+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000188",
+    "id": "BH-000190",
     "title": "[puzzle] Shareable replay links",
     "url": "https://github.com/amiller/bounty-arcade/issues/9",
     "repo": "amiller/bounty-arcade",
@@ -3509,11 +3526,11 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:17Z",
     "updated_at": "2026-10-24T08:08:57Z",
-    "scanned_at": "2026-11-12T20:13:44.868949+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182335+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000189",
+    "id": "BH-000191",
     "title": "[puzzle] Persist progress and best scores per level",
     "url": "https://github.com/amiller/bounty-arcade/issues/8",
     "repo": "amiller/bounty-arcade",
@@ -3527,11 +3544,11 @@
     "comments": 6,
     "created_at": "2026-10-21T16:02:16Z",
     "updated_at": "2026-10-24T08:10:17Z",
-    "scanned_at": "2026-11-12T20:13:44.869000+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182400+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000190",
+    "id": "BH-000192",
     "title": "[puzzle] Deadlock detection for boxes stuck in corners",
     "url": "https://github.com/amiller/bounty-arcade/issues/7",
     "repo": "amiller/bounty-arcade",
@@ -3545,11 +3562,11 @@
     "comments": 5,
     "created_at": "2026-10-21T16:02:14Z",
     "updated_at": "2026-10-25T20:03:28Z",
-    "scanned_at": "2026-11-12T20:13:44.869140+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182594+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000191",
+    "id": "BH-000193",
     "title": "[flight] Seeded wind",
     "url": "https://github.com/amiller/bounty-arcade/issues/6",
     "repo": "amiller/bounty-arcade",
@@ -3563,11 +3580,11 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:13Z",
     "updated_at": "2026-10-30T23:45:45Z",
-    "scanned_at": "2026-11-12T20:13:44.869221+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182698+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000192",
+    "id": "BH-000194",
     "title": "[flight] Run recording and replay",
     "url": "https://github.com/amiller/bounty-arcade/issues/5",
     "repo": "amiller/bounty-arcade",
@@ -3581,11 +3598,11 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:11Z",
     "updated_at": "2026-10-31T00:05:27Z",
-    "scanned_at": "2026-11-12T20:13:44.869303+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182805+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000193",
+    "id": "BH-000195",
     "title": "[flight] Fuel",
     "url": "https://github.com/amiller/bounty-arcade/issues/4",
     "repo": "amiller/bounty-arcade",
@@ -3599,11 +3616,11 @@
     "comments": 3,
     "created_at": "2026-10-21T16:02:10Z",
     "updated_at": "2026-10-24T15:52:52Z",
-    "scanned_at": "2026-11-12T20:13:44.869344+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182859+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000194",
+    "id": "BH-000196",
     "title": "[board] Work-in-progress limit on Doing",
     "url": "https://github.com/amiller/bounty-arcade/issues/3",
     "repo": "amiller/bounty-arcade",
@@ -3617,11 +3634,11 @@
     "comments": 4,
     "created_at": "2026-10-21T16:02:08Z",
     "updated_at": "2026-10-31T22:08:23Z",
-    "scanned_at": "2026-11-12T20:13:44.869400+00:00",
+    "scanned_at": "2026-11-13T01:17:40.182931+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000195",
+    "id": "BH-000197",
     "title": "[board] Undo and redo",
     "url": "https://github.com/amiller/bounty-arcade/issues/2",
     "repo": "amiller/bounty-arcade",
@@ -3635,11 +3652,11 @@
     "comments": 2,
     "created_at": "2026-10-21T16:02:07Z",
     "updated_at": "2026-10-25T19:58:13Z",
-    "scanned_at": "2026-11-12T20:13:44.869552+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183121+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000196",
+    "id": "BH-000198",
     "title": "[board] Search cards",
     "url": "https://github.com/amiller/bounty-arcade/issues/1",
     "repo": "amiller/bounty-arcade",
@@ -3653,11 +3670,11 @@
     "comments": 9,
     "created_at": "2026-10-21T16:02:06Z",
     "updated_at": "2026-10-24T07:49:00Z",
-    "scanned_at": "2026-11-12T20:13:44.869596+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183176+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000133",
     "title": "Bounty Board rewire to Quantum AI App + Tracker",
     "url": "https://github.com/solorion-dev/quantum/issues/288",
     "repo": "solorion-dev/quantum",
@@ -3677,11 +3694,11 @@
     "comments": 2,
     "created_at": "2026-10-21T10:12:07Z",
     "updated_at": "2026-11-04T05:14:51Z",
-    "scanned_at": "2026-11-12T20:13:38.626095+00:00",
+    "scanned_at": "2026-11-13T01:17:34.101991+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000198",
+    "id": "BH-000200",
     "title": "[radar] SN open bounty 2026-10-20T11:24",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3697,11 +3714,11 @@
     "comments": 1,
     "created_at": "2026-10-20T11:24:51Z",
     "updated_at": "2026-11-11T20:53:55Z",
-    "scanned_at": "2026-11-12T20:13:44.869621+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183208+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000199",
+    "id": "BH-000201",
     "title": "[radar] SN open bounty 2026-10-20T05:55",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3717,11 +3734,11 @@
     "comments": 5,
     "created_at": "2026-10-20T05:55:15Z",
     "updated_at": "2026-10-25T04:33:24Z",
-    "scanned_at": "2026-11-12T20:13:44.869637+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183227+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000200",
+    "id": "BH-000202",
     "title": "[radar] SN open bounty 2026-10-20T00:14",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3737,11 +3754,11 @@
     "comments": 4,
     "created_at": "2026-10-20T00:14:57Z",
     "updated_at": "2026-10-23T08:55:11Z",
-    "scanned_at": "2026-11-12T20:13:44.869656+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183252+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000201",
+    "id": "BH-000203",
     "title": "[radar] SN open bounty 2026-10-19T20:31",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
     "repo": "relayhop/sn-monetization-runtime",
@@ -3757,11 +3774,11 @@
     "comments": 2,
     "created_at": "2026-10-19T20:31:57Z",
     "updated_at": "2026-10-21T01:16:00Z",
-    "scanned_at": "2026-11-12T20:13:44.869677+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183276+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000202",
+    "id": "BH-000204",
     "title": "[opt-out check] RocketReach: find a no-account opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/419",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3777,11 +3794,11 @@
     "comments": 26,
     "created_at": "2026-10-19T17:09:31Z",
     "updated_at": "2026-11-01T09:49:38Z",
-    "scanned_at": "2026-11-12T20:13:44.869732+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183362+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000203",
+    "id": "BH-000205",
     "title": "[opt-out check] PrivateEye: which brokers are behind its search results?",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/418",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3797,11 +3814,11 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:26Z",
     "updated_at": "2026-11-01T09:49:14Z",
-    "scanned_at": "2026-11-12T20:13:44.869803+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183437+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000204",
+    "id": "BH-000206",
     "title": "[opt-out check] American Express: marketing opt-out page says \"currently not available\"",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/417",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3818,11 +3835,11 @@
     "comments": 11,
     "created_at": "2026-10-19T17:09:22Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-12T20:13:44.869863+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183512+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000205",
+    "id": "BH-000207",
     "title": "[opt-out check] FastPeopleSearch: test the removal flow end to end",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/416",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3838,11 +3855,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:09:18Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-12T20:13:44.869927+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183607+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000206",
+    "id": "BH-000208",
     "title": "[opt-out check] TruePeopleSearch: test the removal flow end to end",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/415",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3858,11 +3875,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:14Z",
     "updated_at": "2026-11-01T09:48:39Z",
-    "scanned_at": "2026-11-12T20:13:44.869992+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183690+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000207",
+    "id": "BH-000209",
     "title": "[find opt-out] Xactus, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/414",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3878,11 +3895,11 @@
     "comments": 2,
     "created_at": "2026-10-19T17:09:09Z",
     "updated_at": "2026-11-01T09:48:40Z",
-    "scanned_at": "2026-11-12T20:13:44.870062+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183780+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000208",
+    "id": "BH-000210",
     "title": "[find opt-out] Vintel AI: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/413",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3898,11 +3915,11 @@
     "comments": 6,
     "created_at": "2026-10-19T17:09:04Z",
     "updated_at": "2026-11-01T09:49:19Z",
-    "scanned_at": "2026-11-12T20:13:44.870132+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183870+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000209",
+    "id": "BH-000211",
     "title": "[find opt-out] United One Resources, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/412",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3918,11 +3935,11 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:59Z",
     "updated_at": "2026-11-01T09:49:16Z",
-    "scanned_at": "2026-11-12T20:13:44.870203+00:00",
+    "scanned_at": "2026-11-13T01:17:40.183962+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000210",
+    "id": "BH-000212",
     "title": "[find opt-out] Statara Solutuions LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/411",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3938,11 +3955,11 @@
     "comments": 23,
     "created_at": "2026-10-19T17:08:55Z",
     "updated_at": "2026-11-02T09:33:15Z",
-    "scanned_at": "2026-11-12T20:13:44.870274+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184052+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000211",
+    "id": "BH-000213",
     "title": "[find opt-out] SalesTech, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/410",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3958,11 +3975,11 @@
     "comments": 11,
     "created_at": "2026-10-19T17:08:51Z",
     "updated_at": "2026-11-01T09:49:43Z",
-    "scanned_at": "2026-11-12T20:13:44.870343+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184142+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000212",
+    "id": "BH-000214",
     "title": "[find opt-out] SageStream LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/409",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3978,11 +3995,11 @@
     "comments": 5,
     "created_at": "2026-10-19T17:08:46Z",
     "updated_at": "2026-11-11T20:30:47Z",
-    "scanned_at": "2026-11-12T20:13:44.870412+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184234+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000213",
+    "id": "BH-000215",
     "title": "[find opt-out] Safety Holdings Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -3998,11 +4015,11 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:42Z",
     "updated_at": "2026-11-11T20:30:18Z",
-    "scanned_at": "2026-11-12T20:13:44.870482+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184324+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000214",
+    "id": "BH-000216",
     "title": "[find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/407",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4018,11 +4035,11 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:37Z",
     "updated_at": "2026-11-01T09:49:45Z",
-    "scanned_at": "2026-11-12T20:13:44.870553+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184416+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000215",
+    "id": "BH-000217",
     "title": "[find opt-out] RP On-Site LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/406",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4038,11 +4055,11 @@
     "comments": 3,
     "created_at": "2026-10-19T17:08:33Z",
     "updated_at": "2026-11-01T09:49:46Z",
-    "scanned_at": "2026-11-12T20:13:44.870622+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184504+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000216",
+    "id": "BH-000218",
     "title": "[find opt-out] Roq.ad GmbH: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/405",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4058,11 +4075,11 @@
     "comments": 6,
     "created_at": "2026-10-19T17:08:16Z",
     "updated_at": "2026-11-01T09:49:52Z",
-    "scanned_at": "2026-11-12T20:13:44.870692+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184611+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000217",
+    "id": "BH-000219",
     "title": "[find opt-out] Riv Data Corp: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/404",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4078,11 +4095,11 @@
     "comments": 20,
     "created_at": "2026-10-19T17:08:12Z",
     "updated_at": "2026-11-01T09:49:44Z",
-    "scanned_at": "2026-11-12T20:13:44.870762+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184700+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000218",
+    "id": "BH-000220",
     "title": "[find opt-out] Quality Planning Corporation: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/403",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4098,11 +4115,11 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:07Z",
     "updated_at": "2026-11-01T09:49:13Z",
-    "scanned_at": "2026-11-12T20:13:44.870840+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184791+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000219",
+    "id": "BH-000221",
     "title": "[find opt-out] Partners Credit and Verification Solutions: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/402",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4118,11 +4135,11 @@
     "comments": 4,
     "created_at": "2026-10-19T17:08:03Z",
     "updated_at": "2026-11-01T09:49:08Z",
-    "scanned_at": "2026-11-12T20:13:44.870913+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184884+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000220",
+    "id": "BH-000222",
     "title": "[find opt-out] Nielsen Marketing Cloud: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/401",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4138,11 +4155,11 @@
     "comments": 5,
     "created_at": "2026-10-19T17:07:59Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-12T20:13:44.870985+00:00",
+    "scanned_at": "2026-11-13T01:17:40.184974+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000221",
+    "id": "BH-000223",
     "title": "[find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/400",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4158,11 +4175,11 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:54Z",
     "updated_at": "2026-11-01T09:49:07Z",
-    "scanned_at": "2026-11-12T20:13:44.871056+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185066+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000222",
+    "id": "BH-000224",
     "title": "[find opt-out] LexisNexis: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/398",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4178,11 +4195,11 @@
     "comments": 0,
     "created_at": "2026-10-19T17:07:46Z",
     "updated_at": "2026-11-11T20:30:32Z",
-    "scanned_at": "2026-11-12T20:13:44.871125+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185154+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000223",
+    "id": "BH-000225",
     "title": "[find opt-out] lempire: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/397",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4198,11 +4215,11 @@
     "comments": 4,
     "created_at": "2026-10-19T17:07:41Z",
     "updated_at": "2026-11-01T09:49:12Z",
-    "scanned_at": "2026-11-12T20:13:44.871195+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185242+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000224",
+    "id": "BH-000226",
     "title": "[find opt-out] Data Facts, Inc.: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/373",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4218,11 +4235,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:54Z",
     "updated_at": "2026-11-01T09:48:31Z",
-    "scanned_at": "2026-11-12T20:13:44.871265+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185332+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000225",
+    "id": "BH-000227",
     "title": "[find opt-out] Data Driven Safety, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/372",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4238,11 +4255,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:50Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-12T20:13:44.871335+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185422+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000226",
+    "id": "BH-000228",
     "title": "[find opt-out] Dan Barnett: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/371",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4258,11 +4275,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:46Z",
     "updated_at": "2026-11-01T09:48:32Z",
-    "scanned_at": "2026-11-12T20:13:44.871404+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185510+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000227",
+    "id": "BH-000229",
     "title": "[find opt-out] CoreLogic Portfolio Solutions, LLC: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/370",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4278,11 +4295,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:41Z",
     "updated_at": "2026-11-01T09:48:33Z",
-    "scanned_at": "2026-11-12T20:13:44.871475+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185618+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000228",
+    "id": "BH-000230",
     "title": "[find opt-out] CoreLogic Credco of Puerto Rico: find the official opt-out route",
     "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/369",
     "repo": "lizTheDeveloper/privacy-the-game",
@@ -4298,52 +4315,11 @@
     "comments": 1,
     "created_at": "2026-10-19T17:05:36Z",
     "updated_at": "2026-11-01T09:48:34Z",
-    "scanned_at": "2026-11-12T20:13:44.871545+00:00",
+    "scanned_at": "2026-11-13T01:17:40.185710+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000229",
-    "title": "[find opt-out] CoreLogic Credco, LLC: find the official opt-out route",
-    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/368",
-    "repo": "lizTheDeveloper/privacy-the-game",
-    "number": 368,
-    "labels": [
-      "bounty",
-      "bounty: medium",
-      "data-brokers"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-10-19T17:05:32Z",
-    "updated_at": "2026-11-01T09:48:35Z",
-    "scanned_at": "2026-11-12T20:13:44.871615+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000230",
-    "title": "[opt-out check] Whitepages, Inc: confirm the opt-out route works",
-    "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/150",
-    "repo": "lizTheDeveloper/privacy-the-game",
-    "number": 150,
-    "labels": [
-      "good first issue",
-      "bounty",
-      "bounty: small",
-      "data-brokers"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-10-19T16:41:10Z",
-    "updated_at": "2026-10-19T16:41:10Z",
-    "scanned_at": "2026-11-12T20:13:44.871683+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000132",
+    "id": "BH-000134",
     "title": "Bug: vista deploy still breaks static hosts and platform adapters",
     "url": "https://github.com/Mantitup-Org/vista/issues/62",
     "repo": "Mantitup-Org/vista",
@@ -4359,11 +4335,11 @@
     "comments": 21,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-11-11T20:52:40Z",
-    "scanned_at": "2026-11-12T20:13:38.626163+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102077+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000135",
     "title": "Bounty: hunt bugs across the entire Vista framework",
     "url": "https://github.com/Mantitup-Org/vista/issues/61",
     "repo": "Mantitup-Org/vista",
@@ -4378,11 +4354,11 @@
     "comments": 23,
     "created_at": "2026-09-20T18:51:05Z",
     "updated_at": "2026-11-10T20:24:16Z",
-    "scanned_at": "2026-11-12T20:13:38.626210+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102138+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000136",
     "title": "Debug bounty from VS Code (Zimb/zimb)",
     "url": "https://github.com/Zimb/zimb/issues/6",
     "repo": "Zimb/zimb",
@@ -4398,11 +4374,11 @@
     "comments": 5,
     "created_at": "2026-09-17T08:44:01Z",
     "updated_at": "2026-10-11T15:46:09Z",
-    "scanned_at": "2026-11-12T20:13:38.626317+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102282+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000137",
     "title": "test issue",
     "url": "https://github.com/Zimb/zimb/issues/1",
     "repo": "Zimb/zimb",
@@ -4418,11 +4394,11 @@
     "comments": 10,
     "created_at": "2026-09-17T05:07:41Z",
     "updated_at": "2026-09-18T14:56:26Z",
-    "scanned_at": "2026-11-12T20:13:38.626349+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102326+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000143",
     "title": "Etapa 5: flujo de propuesta y moderacion de mapas de usuario",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/25",
     "repo": "Bitcoindefi/OpenAO",
@@ -4444,11 +4420,11 @@
     "comments": 18,
     "created_at": "2026-08-16T17:49:36Z",
     "updated_at": "2026-11-11T18:04:35Z",
-    "scanned_at": "2026-11-12T20:13:38.626454+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102463+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000144",
     "title": "Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/24",
     "repo": "Bitcoindefi/OpenAO",
@@ -4470,11 +4446,11 @@
     "comments": 8,
     "created_at": "2026-08-16T17:49:34Z",
     "updated_at": "2026-11-03T00:12:44Z",
-    "scanned_at": "2026-11-12T20:13:38.626525+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102558+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000145",
     "title": "Etapa 2: importar y exportar mapas del editor oficial de escritorio",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/23",
     "repo": "Bitcoindefi/OpenAO",
@@ -4496,11 +4472,11 @@
     "comments": 7,
     "created_at": "2026-08-16T17:33:11Z",
     "updated_at": "2026-10-27T11:40:26Z",
-    "scanned_at": "2026-11-12T20:13:38.626588+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102655+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000146",
     "title": "Soporte mobile: hoy el juego no se puede jugar desde un celular",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/21",
     "repo": "Bitcoindefi/OpenAO",
@@ -4522,11 +4498,11 @@
     "comments": 1,
     "created_at": "2026-08-16T17:32:28Z",
     "updated_at": "2026-08-18T04:27:21Z",
-    "scanned_at": "2026-11-12T20:13:38.626683+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102777+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000147",
     "title": "Rendimiento del cliente: mapa completo en memoria, sin limite de FPS y prefetch sin tope",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/20",
     "repo": "Bitcoindefi/OpenAO",
@@ -4547,11 +4523,11 @@
     "comments": 5,
     "created_at": "2026-08-16T17:32:27Z",
     "updated_at": "2026-11-11T01:30:28Z",
-    "scanned_at": "2026-11-12T20:13:38.626760+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102874+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000148",
     "title": "El build de Docker produce un frontend sin mapas: el mundo no se dibuja",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/19",
     "repo": "Bitcoindefi/OpenAO",
@@ -4572,11 +4548,11 @@
     "comments": 19,
     "created_at": "2026-08-16T17:31:20Z",
     "updated_at": "2026-10-11T15:46:44Z",
-    "scanned_at": "2026-11-12T20:13:38.626837+00:00",
+    "scanned_at": "2026-11-13T01:17:34.102953+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000149",
     "title": "No hay reconexion automatica: si se corta la conexion hay que recargar la pagina",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/18",
     "repo": "Bitcoindefi/OpenAO",
@@ -4597,11 +4573,11 @@
     "comments": 8,
     "created_at": "2026-08-16T17:31:19Z",
     "updated_at": "2026-11-11T01:31:04Z",
-    "scanned_at": "2026-11-12T20:13:38.626906+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103044+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000150",
     "title": "Research: como editan mapas los otros proyectos de Argentum Online",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/14",
     "repo": "Bitcoindefi/OpenAO",
@@ -4624,11 +4600,11 @@
     "comments": 32,
     "created_at": "2026-08-16T17:15:26Z",
     "updated_at": "2026-11-02T09:25:11Z",
-    "scanned_at": "2026-11-12T20:13:38.626965+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103120+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000151",
     "title": "Etapa 4: editor visual de mapas dentro del juego",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/13",
     "repo": "Bitcoindefi/OpenAO",
@@ -4650,11 +4626,11 @@
     "comments": 10,
     "created_at": "2026-08-16T17:15:24Z",
     "updated_at": "2026-11-02T23:22:42Z",
-    "scanned_at": "2026-11-12T20:13:38.627025+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103195+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000152",
     "title": "Etapa 3: log de auditoria, deshacer y rollback de mapas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/12",
     "repo": "Bitcoindefi/OpenAO",
@@ -4676,11 +4652,11 @@
     "comments": 2,
     "created_at": "2026-08-16T17:15:23Z",
     "updated_at": "2026-08-18T13:53:30Z",
-    "scanned_at": "2026-11-12T20:13:38.627077+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103259+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000153",
     "title": "Etapa 3: publicar mapas en vivo sin reiniciar el server",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/11",
     "repo": "Bitcoindefi/OpenAO",
@@ -4702,11 +4678,11 @@
     "comments": 5,
     "created_at": "2026-08-16T17:15:21Z",
     "updated_at": "2026-11-02T18:06:34Z",
-    "scanned_at": "2026-11-12T20:13:38.627135+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103331+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000154",
     "title": "Etapa 2: edicion de salidas entre mapas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/10",
     "repo": "Bitcoindefi/OpenAO",
@@ -4728,11 +4704,11 @@
     "comments": 7,
     "created_at": "2026-08-16T17:15:09Z",
     "updated_at": "2026-10-11T15:48:09Z",
-    "scanned_at": "2026-11-12T20:13:38.627181+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103388+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000155",
     "title": "Etapa 2: colocacion de objetos, estructuras y puertas",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/9",
     "repo": "Bitcoindefi/OpenAO",
@@ -4754,11 +4730,11 @@
     "comments": 4,
     "created_at": "2026-08-16T17:15:07Z",
     "updated_at": "2026-09-16T14:09:58Z",
-    "scanned_at": "2026-11-12T20:13:38.627234+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103456+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000156",
     "title": "Etapa 1: API para pintar el piso del mapa",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/7",
     "repo": "Bitcoindefi/OpenAO",
@@ -4780,11 +4756,11 @@
     "comments": 8,
     "created_at": "2026-08-16T17:13:18Z",
     "updated_at": "2026-10-11T15:48:29Z",
-    "scanned_at": "2026-11-12T20:13:38.627287+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103524+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000157",
     "title": "Etapa 1: registrar PNG subidos como graficos del motor y extender la paleta",
     "url": "https://github.com/Bitcoindefi/OpenAO/issues/6",
     "repo": "Bitcoindefi/OpenAO",
@@ -4806,33 +4782,7 @@
     "comments": 11,
     "created_at": "2026-08-16T17:13:17Z",
     "updated_at": "2026-10-03T23:26:11Z",
-    "scanned_at": "2026-11-12T20:13:38.627344+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000156",
-    "title": "Etapa 0: permisos y atribucion para edicion de mapas",
-    "url": "https://github.com/Bitcoindefi/OpenAO/issues/4",
-    "repo": "Bitcoindefi/OpenAO",
-    "number": 4,
-    "labels": [
-      "enhancement",
-      "modo-construccion",
-      "etapa-0-base",
-      "bounty",
-      "grantfox",
-      "reward-50-usd",
-      "Maybe Rewarded",
-      "GrantFox OSS",
-      "Third Campaign"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 9,
-    "created_at": "2026-08-16T17:13:05Z",
-    "updated_at": "2026-10-11T15:48:34Z",
-    "scanned_at": "2026-11-12T20:13:38.627391+00:00",
+    "scanned_at": "2026-11-13T01:17:34.103606+00:00",
     "status": "new"
   }
 ]
