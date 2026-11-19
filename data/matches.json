@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000025",
+    "id": "BH-000031",
     "title": "[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -15,7 +15,7 @@
     "comments": 1,
     "created_at": "2026-11-17T19:54:33Z",
     "updated_at": "2026-11-17T20:04:52Z",
-    "scanned_at": "2026-11-19T04:20:50.738132+00:00",
+    "scanned_at": "2026-11-19T13:39:01.875778+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -36,7 +36,7 @@
     "comments": 2,
     "created_at": "2026-11-16T09:32:04Z",
     "updated_at": "2026-11-16T09:41:19Z",
-    "scanned_at": "2026-11-19T04:22:03.549612+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055165+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -57,7 +57,7 @@
     "comments": 2,
     "created_at": "2026-11-16T09:32:04Z",
     "updated_at": "2026-11-16T09:42:18Z",
-    "scanned_at": "2026-11-19T04:22:03.549620+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055174+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -78,7 +78,7 @@
     "comments": 2,
     "created_at": "2026-11-14T15:06:02Z",
     "updated_at": "2026-11-16T02:20:04Z",
-    "scanned_at": "2026-11-19T04:22:03.551971+00:00",
+    "scanned_at": "2026-11-19T13:40:15.057289+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
@@ -99,13 +99,97 @@
     "comments": 2,
     "created_at": "2026-11-14T15:06:02Z",
     "updated_at": "2026-11-16T02:34:23Z",
-    "scanned_at": "2026-11-19T04:22:03.551978+00:00",
+    "scanned_at": "2026-11-19T13:40:15.057297+00:00",
     "status": "new",
     "_score": 43.0,
     "tier": "B"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000004",
+    "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
+    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+    "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 350,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-19T07:06:28Z",
+    "updated_at": "2026-11-19T07:06:28Z",
+    "scanned_at": "2026-11-19T13:39:01.874161+00:00",
+    "status": "new",
+    "_score": 38.6,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
+    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
+    "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 250,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-19T07:06:29Z",
+    "updated_at": "2026-11-19T07:06:29Z",
+    "scanned_at": "2026-11-19T13:39:01.874149+00:00",
+    "status": "new",
+    "_score": 38.6,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000006",
+    "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
+    "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
+    "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+    "number": 2,
+    "labels": [
+      "help wanted",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 175,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-19T07:06:27Z",
+    "updated_at": "2026-11-19T07:06:27Z",
+    "scanned_at": "2026-11-19T13:39:01.874182+00:00",
+    "status": "new",
+    "_score": 38.6,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000005",
+    "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
+    "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
+    "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+    "number": 1,
+    "labels": [
+      "help wanted",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": 200,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-19T07:06:27Z",
+    "updated_at": "2026-11-19T07:10:33Z",
+    "scanned_at": "2026-11-19T13:39:01.874173+00:00",
+    "status": "new",
+    "_score": 36.6,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000033",
     "title": "ci/mpsc: Eliminate ABA generation counter skew across heterogeneous ring capacities - Reward $200 USDC",
     "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
     "repo": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
@@ -119,14 +203,14 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-17T17:06:10Z",
-    "updated_at": "2026-11-19T03:18:04Z",
-    "scanned_at": "2026-11-19T04:20:50.738159+00:00",
+    "updated_at": "2026-11-19T07:06:26Z",
+    "scanned_at": "2026-11-19T13:39:01.875806+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000035",
     "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]",
     "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
     "repo": "IES-BoilerRoom/wgsl-transcendental-math-core",
@@ -140,14 +224,14 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-17T17:06:08Z",
-    "updated_at": "2026-11-18T19:53:51Z",
-    "scanned_at": "2026-11-19T04:20:50.738176+00:00",
+    "updated_at": "2026-11-19T07:06:24Z",
+    "scanned_at": "2026-11-19T13:39:01.875823+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000036",
     "title": "($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)",
     "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
     "repo": "IES-BoilerRoom/wgsl-transcendental-math-core",
@@ -161,14 +245,14 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-17T17:06:07Z",
-    "updated_at": "2026-11-18T19:55:31Z",
-    "scanned_at": "2026-11-19T04:20:50.738185+00:00",
+    "updated_at": "2026-11-19T07:06:24Z",
+    "scanned_at": "2026-11-19T13:39:01.875833+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000034",
     "title": "bug: Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`) [Reward: $100 USDC]",
     "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1",
     "repo": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
@@ -182,14 +266,14 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-17T17:06:09Z",
-    "updated_at": "2026-11-19T04:20:11Z",
-    "scanned_at": "2026-11-19T04:20:50.738168+00:00",
+    "updated_at": "2026-11-19T12:06:07Z",
+    "scanned_at": "2026-11-19T13:39:01.875815+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000231",
+    "id": "BH-000229",
     "title": "📋 2 open bounties right now",
     "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
     "repo": "habibdxb01/bounty-watcher",
@@ -204,13 +288,13 @@
     "comments": 0,
     "created_at": "2026-10-22T15:00:27Z",
     "updated_at": "2026-10-28T11:24:27Z",
-    "scanned_at": "2026-11-19T04:22:10.343644+00:00",
+    "scanned_at": "2026-11-19T13:40:22.171780+00:00",
     "status": "new",
     "_score": 35.0,
     "tier": "B"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000030",
     "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -225,7 +309,7 @@
     "comments": 1,
     "created_at": "2026-11-17T19:54:34Z",
     "updated_at": "2026-11-17T20:04:50Z",
-    "scanned_at": "2026-11-19T04:20:50.738124+00:00",
+    "scanned_at": "2026-11-19T13:39:01.875762+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -246,7 +330,7 @@
     "comments": 3,
     "created_at": "2026-11-16T09:32:05Z",
     "updated_at": "2026-11-16T10:25:17Z",
-    "scanned_at": "2026-11-19T04:22:03.549595+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055146+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -267,7 +351,7 @@
     "comments": 4,
     "created_at": "2026-11-16T09:32:05Z",
     "updated_at": "2026-11-16T10:17:53Z",
-    "scanned_at": "2026-11-19T04:22:03.549604+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055155+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -288,7 +372,7 @@
     "comments": 2,
     "created_at": "2026-11-14T15:06:03Z",
     "updated_at": "2026-11-16T02:20:54Z",
-    "scanned_at": "2026-11-19T04:22:03.551954+00:00",
+    "scanned_at": "2026-11-19T13:40:15.057271+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -309,7 +393,49 @@
     "comments": 2,
     "created_at": "2026-11-14T15:06:03Z",
     "updated_at": "2026-11-16T02:21:45Z",
-    "scanned_at": "2026-11-19T04:22:03.551962+00:00",
+    "scanned_at": "2026-11-19T13:40:15.057279+00:00",
+    "status": "new",
+    "_score": 33.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000001",
+    "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4372,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 200,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-19T08:41:48Z",
+    "updated_at": "2026-11-19T08:46:48Z",
+    "scanned_at": "2026-11-19T13:39:01.874100+00:00",
+    "status": "new",
+    "_score": 33.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4371,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 175,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-19T08:41:47Z",
+    "updated_at": "2026-11-19T08:46:49Z",
+    "scanned_at": "2026-11-19T13:39:01.874133+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -330,7 +456,7 @@
     "comments": 1,
     "created_at": "2026-11-16T02:03:38Z",
     "updated_at": "2026-11-16T02:08:05Z",
-    "scanned_at": "2026-11-19T04:22:03.550263+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055691+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -351,7 +477,7 @@
     "comments": 1,
     "created_at": "2026-11-16T02:03:38Z",
     "updated_at": "2026-11-16T02:06:56Z",
-    "scanned_at": "2026-11-19T04:22:03.550248+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055678+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -372,7 +498,7 @@
     "comments": 1,
     "created_at": "2026-11-16T02:03:37Z",
     "updated_at": "2026-11-16T02:09:31Z",
-    "scanned_at": "2026-11-19T04:22:03.550275+00:00",
+    "scanned_at": "2026-11-19T13:40:15.055704+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -395,14 +521,14 @@
     "state": "open",
     "comments": 3,
     "created_at": "2026-11-16T15:46:46Z",
-    "updated_at": "2026-11-18T22:57:10Z",
-    "scanned_at": "2026-11-19T04:22:03.549524+00:00",
+    "updated_at": "2026-11-19T11:41:02Z",
+    "scanned_at": "2026-11-19T13:40:15.055092+00:00",
     "status": "new",
     "_score": 31.1,
     "tier": "B"
   },
   {
-    "id": "BH-000229",
+    "id": "BH-000227",
     "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
     "url": "https://github.com/blake-guthrie/GLASS/issues/1",
     "repo": "blake-guthrie/GLASS",
@@ -416,7 +542,7 @@
     "comments": 20,
     "created_at": "2026-10-23T19:03:20Z",
     "updated_at": "2026-11-15T19:56:09Z",
-    "scanned_at": "2026-11-19T04:22:10.343555+00:00",
+    "scanned_at": "2026-11-19T13:40:22.171710+00:00",
     "status": "new",
     "_score": 30.0,
     "tier": "B"
