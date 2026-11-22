@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000035",
+    "id": "BH-000036",
     "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
     "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
     "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
@@ -15,13 +15,13 @@
     "comments": 2,
     "created_at": "2026-11-22T04:12:46Z",
     "updated_at": "2026-11-22T14:52:12Z",
-    "scanned_at": "2026-11-22T16:30:58.575372+00:00",
+    "scanned_at": "2026-11-22T22:13:47.652857+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000034",
     "title": "[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -36,13 +36,13 @@
     "comments": 2,
     "created_at": "2026-11-22T04:12:48Z",
     "updated_at": "2026-11-22T15:22:30Z",
-    "scanned_at": "2026-11-22T16:30:58.575362+00:00",
+    "scanned_at": "2026-11-22T22:13:47.652848+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000037",
     "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
     "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
     "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
@@ -57,13 +57,13 @@
     "comments": 2,
     "created_at": "2026-11-22T04:12:46Z",
     "updated_at": "2026-11-22T15:07:18Z",
-    "scanned_at": "2026-11-22T16:30:58.575378+00:00",
+    "scanned_at": "2026-11-22T22:13:47.652863+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000107",
     "title": "[Bounty] bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4378",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -78,13 +78,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:57Z",
-    "scanned_at": "2026-11-22T16:32:12.684855+00:00",
+    "scanned_at": "2026-11-22T22:15:00.756378+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000029",
     "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -99,13 +99,13 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:54Z",
     "updated_at": "2026-11-22T14:20:06Z",
-    "scanned_at": "2026-11-22T16:30:58.575201+00:00",
+    "scanned_at": "2026-11-22T22:13:47.652684+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000105",
     "title": "[Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -120,13 +120,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:30Z",
     "updated_at": "2026-11-20T15:45:54Z",
-    "scanned_at": "2026-11-22T16:32:12.684846+00:00",
+    "scanned_at": "2026-11-22T22:15:00.756370+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000128",
+    "id": "BH-000126",
     "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -141,13 +141,13 @@
     "comments": 3,
     "created_at": "2026-11-19T08:41:48Z",
     "updated_at": "2026-11-19T15:26:31Z",
-    "scanned_at": "2026-11-22T16:32:12.685766+00:00",
+    "scanned_at": "2026-11-22T22:15:00.757311+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000109",
+    "id": "BH-000108",
     "title": "[Bounty] bug: Fix JSON stream chunk ceiling and resolve recursive `$dynamicAnchor` scope ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4376",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -162,13 +162,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:28Z",
     "updated_at": "2026-11-20T15:45:58Z",
-    "scanned_at": "2026-11-22T16:32:12.684860+00:00",
+    "scanned_at": "2026-11-22T22:15:00.756382+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000129",
+    "id": "BH-000127",
     "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -183,13 +183,13 @@
     "comments": 2,
     "created_at": "2026-11-19T08:41:47Z",
     "updated_at": "2026-11-19T15:26:32Z",
-    "scanned_at": "2026-11-22T16:32:12.685770+00:00",
+    "scanned_at": "2026-11-22T22:15:00.757315+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000107",
+    "id": "BH-000106",
     "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -204,13 +204,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:55Z",
-    "scanned_at": "2026-11-22T16:32:12.684851+00:00",
+    "scanned_at": "2026-11-22T22:15:00.756374+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000028",
     "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -225,7 +225,7 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:55Z",
     "updated_at": "2026-11-22T14:53:48Z",
-    "scanned_at": "2026-11-22T16:30:58.575194+00:00",
+    "scanned_at": "2026-11-22T22:13:47.652677+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
