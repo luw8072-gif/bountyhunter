@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000012",
+    "id": "BH-000025",
     "title": "($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)",
     "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
     "repo": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
@@ -15,11 +15,11 @@
     "comments": 2,
     "created_at": "2026-11-23T05:14:51Z",
     "updated_at": "2026-11-23T17:57:23Z",
-    "scanned_at": "2026-11-24T06:59:41.016220+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184190+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000102",
+    "id": "BH-000099",
     "title": "[Bounty] bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4378",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -34,11 +34,11 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:57Z",
-    "scanned_at": "2026-11-24T07:00:55.617751+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586380+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000014",
+    "id": "BH-000027",
     "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
     "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
     "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -53,11 +53,11 @@
     "comments": 1,
     "created_at": "2026-11-23T05:14:49Z",
     "updated_at": "2026-11-23T05:32:17Z",
-    "scanned_at": "2026-11-24T06:59:41.016237+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184200+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000045",
+    "id": "BH-000058",
     "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -72,11 +72,11 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:54Z",
     "updated_at": "2026-11-22T14:20:06Z",
-    "scanned_at": "2026-11-24T06:59:41.017382+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185015+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000101",
+    "id": "BH-000098",
     "title": "[Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -91,11 +91,11 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:30Z",
     "updated_at": "2026-11-20T15:45:54Z",
-    "scanned_at": "2026-11-24T07:00:55.617742+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586373+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000013",
+    "id": "BH-000026",
     "title": "[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)",
     "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
     "repo": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
@@ -110,11 +110,11 @@
     "comments": 1,
     "created_at": "2026-11-23T05:14:50Z",
     "updated_at": "2026-11-23T05:47:23Z",
-    "scanned_at": "2026-11-24T06:59:41.016229+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184195+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000120",
+    "id": "BH-000113",
     "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -129,11 +129,11 @@
     "comments": 3,
     "created_at": "2026-11-19T08:41:48Z",
     "updated_at": "2026-11-19T15:26:31Z",
-    "scanned_at": "2026-11-24T07:00:55.619461+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587148+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000050",
+    "id": "BH-000062",
     "title": "[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -148,11 +148,11 @@
     "comments": 2,
     "created_at": "2026-11-22T04:12:48Z",
     "updated_at": "2026-11-23T05:14:46Z",
-    "scanned_at": "2026-11-24T06:59:41.017728+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185163+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000104",
+    "id": "BH-000101",
     "title": "[Bounty] bug: Fix JSON stream chunk ceiling and resolve recursive `$dynamicAnchor` scope ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4376",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -167,11 +167,11 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:28Z",
     "updated_at": "2026-11-20T15:45:58Z",
-    "scanned_at": "2026-11-24T07:00:55.617767+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586391+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000121",
+    "id": "BH-000114",
     "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -186,11 +186,11 @@
     "comments": 2,
     "created_at": "2026-11-19T08:41:47Z",
     "updated_at": "2026-11-19T15:26:32Z",
-    "scanned_at": "2026-11-24T07:00:55.619470+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587152+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000103",
+    "id": "BH-000100",
     "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -205,11 +205,11 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:55Z",
-    "scanned_at": "2026-11-24T07:00:55.617759+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586386+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000044",
+    "id": "BH-000057",
     "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -224,11 +224,11 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:55Z",
     "updated_at": "2026-11-22T14:53:48Z",
-    "scanned_at": "2026-11-24T06:59:41.017372+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185009+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000015",
+    "id": "BH-000028",
     "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
     "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
     "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -243,11 +243,11 @@
     "comments": 1,
     "created_at": "2026-11-23T05:14:48Z",
     "updated_at": "2026-11-23T05:32:11Z",
-    "scanned_at": "2026-11-24T06:59:41.016244+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184205+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000051",
+    "id": "BH-000063",
     "title": "[$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verifier)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -262,11 +262,11 @@
     "comments": 3,
     "created_at": "2026-11-22T04:12:48Z",
     "updated_at": "2026-11-23T05:14:47Z",
-    "scanned_at": "2026-11-24T06:59:41.017735+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185168+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000062",
+    "id": "BH-000074",
     "title": "[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -281,11 +281,11 @@
     "comments": 2,
     "created_at": "2026-11-21T18:10:41Z",
     "updated_at": "2026-11-21T23:09:45Z",
-    "scanned_at": "2026-11-24T06:59:41.018636+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185790+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000105",
+    "id": "BH-000102",
     "title": "🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/96",
     "repo": "alfrexo95/bounty-bot",
@@ -300,11 +300,11 @@
     "comments": 2,
     "created_at": "2026-11-20T01:59:26Z",
     "updated_at": "2026-11-20T11:28:42Z",
-    "scanned_at": "2026-11-24T07:00:55.617778+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586397+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000106",
+    "id": "BH-000103",
     "title": "[Bounty] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -319,11 +319,11 @@
     "comments": 1,
     "created_at": "2026-11-19T23:54:09Z",
     "updated_at": "2026-11-19T23:54:31Z",
-    "scanned_at": "2026-11-24T07:00:55.617787+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586402+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000061",
+    "id": "BH-000073",
     "title": "[Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -338,11 +338,11 @@
     "comments": 2,
     "created_at": "2026-11-21T18:10:41Z",
     "updated_at": "2026-11-23T21:49:24Z",
-    "scanned_at": "2026-11-24T06:59:41.018616+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185781+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000063",
+    "id": "BH-000075",
     "title": "[Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quoted Records · Ethereum & Base)",
     "url": "https://github.com/Fractal-Neurons/pacta/issues/161",
     "repo": "Fractal-Neurons/pacta",
@@ -356,11 +356,296 @@
     "comments": 4,
     "created_at": "2026-11-21T16:16:24Z",
     "updated_at": "2026-11-23T10:18:06Z",
-    "scanned_at": "2026-11-24T06:59:41.018645+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185795+00:00",
     "status": "new"
   },
   {
     "id": "BH-000001",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5749",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5749,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:44Z",
+    "updated_at": "2026-11-24T18:23:06Z",
+    "scanned_at": "2026-11-24T18:42:12.182573+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000002",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5748",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5748,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:39Z",
+    "updated_at": "2026-11-24T18:22:55Z",
+    "scanned_at": "2026-11-24T18:42:12.182707+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000003",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5747",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5747,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:32Z",
+    "updated_at": "2026-11-24T18:22:48Z",
+    "scanned_at": "2026-11-24T18:42:12.182798+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000004",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5746",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5746,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:30Z",
+    "updated_at": "2026-11-24T18:22:44Z",
+    "scanned_at": "2026-11-24T18:42:12.182880+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000005",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5745",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5745,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:23Z",
+    "updated_at": "2026-11-24T18:22:40Z",
+    "scanned_at": "2026-11-24T18:42:12.182960+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000006",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5743",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5743,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:22Z",
+    "updated_at": "2026-11-24T18:22:42Z",
+    "scanned_at": "2026-11-24T18:42:12.183040+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000007",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5744",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5744,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:22Z",
+    "updated_at": "2026-11-24T18:22:43Z",
+    "scanned_at": "2026-11-24T18:42:12.183120+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000008",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5742",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5742,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:21Z",
+    "updated_at": "2026-11-24T18:22:37Z",
+    "scanned_at": "2026-11-24T18:42:12.183199+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000009",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5741",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5741,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:20Z",
+    "updated_at": "2026-11-24T18:22:36Z",
+    "scanned_at": "2026-11-24T18:42:12.183278+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000010",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5740",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5740,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:20Z",
+    "updated_at": "2026-11-24T18:22:39Z",
+    "scanned_at": "2026-11-24T18:42:12.183369+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000011",
+    "title": "[Bounty] Answer the 2 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5739",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5739,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:19Z",
+    "updated_at": "2026-11-24T18:23:32Z",
+    "scanned_at": "2026-11-24T18:42:12.183452+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000012",
+    "title": "[Bounty] Answer the 3 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5738",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5738,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:06Z",
+    "updated_at": "2026-11-24T18:37:22Z",
+    "scanned_at": "2026-11-24T18:42:12.183546+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000013",
+    "title": "[Bounty] Answer the 3 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5737",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5737,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:02Z",
+    "updated_at": "2026-11-24T18:22:15Z",
+    "scanned_at": "2026-11-24T18:42:12.183631+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000014",
+    "title": "[Bounty] Answer the 3 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5736",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5736,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 0,
+    "created_at": "2026-11-24T18:22:00Z",
+    "updated_at": "2026-11-24T18:22:15Z",
+    "scanned_at": "2026-11-24T18:42:12.183728+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000015",
+    "title": "[Bounty] Answer the 5 linked question(s)",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5735",
+    "repo": "Ikalus1988/MisakaNet",
+    "number": 5735,
+    "labels": [
+      "ready",
+      "bounty"
+    ],
+    "language": "unknown",
+    "amount_usd": null,
+    "state": "open",
+    "comments": 1,
+    "created_at": "2026-11-24T18:21:49Z",
+    "updated_at": "2026-11-24T18:38:46Z",
+    "scanned_at": "2026-11-24T18:42:12.183824+00:00",
+    "status": "new"
+  },
+  {
+    "id": "BH-000016",
     "title": "[radar] SN open bounty 2026-11-24T05:55",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
     "repo": "relayhop/sn-monetization-runtime",
@@ -373,14 +658,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-24T05:55:43Z",
-    "updated_at": "2026-11-24T05:55:43Z",
-    "scanned_at": "2026-11-24T06:59:41.015372+00:00",
+    "updated_at": "2026-11-24T11:17:19Z",
+    "scanned_at": "2026-11-24T18:42:12.183839+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000017",
     "title": "[radar] SN open bounty 2026-11-23T21:13",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1440",
     "repo": "relayhop/sn-monetization-runtime",
@@ -396,30 +681,11 @@
     "comments": 1,
     "created_at": "2026-11-23T21:13:41Z",
     "updated_at": "2026-11-23T21:28:10Z",
-    "scanned_at": "2026-11-24T06:59:41.015415+00:00",
+    "scanned_at": "2026-11-24T18:42:12.183852+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000003",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5645",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5645,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-23T18:48:11Z",
-    "updated_at": "2026-11-24T00:55:18Z",
-    "scanned_at": "2026-11-24T06:59:41.015558+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000004",
+    "id": "BH-000018",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5644",
     "repo": "Ikalus1988/MisakaNet",
@@ -433,31 +699,12 @@
     "state": "open",
     "comments": 2,
     "created_at": "2026-11-23T18:48:10Z",
-    "updated_at": "2026-11-23T21:40:00Z",
-    "scanned_at": "2026-11-24T06:59:41.015685+00:00",
+    "updated_at": "2026-11-24T18:22:24Z",
+    "scanned_at": "2026-11-24T18:42:12.183937+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000005",
-    "title": "[Bounty] Answer the 3 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5643",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5643,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-23T18:48:08Z",
-    "updated_at": "2026-11-24T00:55:06Z",
-    "scanned_at": "2026-11-24T06:59:41.015812+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000006",
+    "id": "BH-000019",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5642",
     "repo": "Ikalus1988/MisakaNet",
@@ -471,12 +718,12 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-23T18:47:55Z",
-    "updated_at": "2026-11-23T18:56:24Z",
-    "scanned_at": "2026-11-24T06:59:41.015939+00:00",
+    "updated_at": "2026-11-24T18:22:05Z",
+    "scanned_at": "2026-11-24T18:42:12.184023+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000007",
+    "id": "BH-000020",
     "title": "[Bounty] Answer the 4 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5641",
     "repo": "Ikalus1988/MisakaNet",
@@ -490,12 +737,12 @@
     "state": "open",
     "comments": 1,
     "created_at": "2026-11-23T18:47:48Z",
-    "updated_at": "2026-11-24T00:54:54Z",
-    "scanned_at": "2026-11-24T06:59:41.016082+00:00",
+    "updated_at": "2026-11-24T18:21:59Z",
+    "scanned_at": "2026-11-24T18:42:12.184108+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000021",
     "title": "[radar] SN open bounty 2026-11-23T17:56",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1439",
     "repo": "relayhop/sn-monetization-runtime",
@@ -511,11 +758,11 @@
     "comments": 1,
     "created_at": "2026-11-23T17:56:26Z",
     "updated_at": "2026-11-23T18:10:45Z",
-    "scanned_at": "2026-11-24T06:59:41.016117+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184121+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000009",
+    "id": "BH-000022",
     "title": "[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)",
     "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1",
     "repo": "EliCunninghamDev/haiku-core",
@@ -534,11 +781,11 @@
     "comments": 2,
     "created_at": "2026-11-23T17:07:15Z",
     "updated_at": "2026-11-23T17:30:46Z",
-    "scanned_at": "2026-11-24T06:59:41.016142+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184136+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000023",
     "title": "[Bounty] Test issue (not a real bounty)",
     "url": "https://github.com/alwaystrueio/devx-bounties/issues/1",
     "repo": "alwaystrueio/devx-bounties",
@@ -552,11 +799,11 @@
     "comments": 1,
     "created_at": "2026-11-23T10:51:06Z",
     "updated_at": "2026-11-23T11:05:59Z",
-    "scanned_at": "2026-11-24T06:59:41.016188+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000011",
+    "id": "BH-000024",
     "title": "[radar] SN open bounty 2026-11-23T08:55",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1436",
     "repo": "relayhop/sn-monetization-runtime",
@@ -572,11 +819,11 @@
     "comments": 1,
     "created_at": "2026-11-23T08:55:10Z",
     "updated_at": "2026-11-23T09:04:38Z",
-    "scanned_at": "2026-11-24T06:59:41.016208+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184181+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000016",
+    "id": "BH-000029",
     "title": "[radar] SN open bounty 2026-11-23T00:12",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1433",
     "repo": "relayhop/sn-monetization-runtime",
@@ -592,11 +839,11 @@
     "comments": 1,
     "created_at": "2026-11-23T00:12:09Z",
     "updated_at": "2026-11-23T00:28:50Z",
-    "scanned_at": "2026-11-24T06:59:41.016262+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184217+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000017",
+    "id": "BH-000030",
     "title": "[radar] SN open bounty 2026-11-22T18:28",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1431",
     "repo": "relayhop/sn-monetization-runtime",
@@ -612,11 +859,11 @@
     "comments": 2,
     "created_at": "2026-11-22T18:28:12Z",
     "updated_at": "2026-11-22T18:39:55Z",
-    "scanned_at": "2026-11-24T06:59:41.016281+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184230+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000018",
+    "id": "BH-000031",
     "title": "Bounty (5): Organize the first three months of the upkeep rota",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/113",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -630,11 +877,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:32Z",
     "updated_at": "2026-11-22T18:08:49Z",
-    "scanned_at": "2026-11-24T06:59:41.016309+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184247+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000019",
+    "id": "BH-000032",
     "title": "Bounty (5): Help a second town plan its own Swapatron",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/112",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -648,11 +895,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:29Z",
     "updated_at": "2026-11-22T17:57:10Z",
-    "scanned_at": "2026-11-24T06:59:41.016332+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184263+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000033",
     "title": "Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/111",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -666,11 +913,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:26Z",
     "updated_at": "2026-11-22T18:13:58Z",
-    "scanned_at": "2026-11-24T06:59:41.016358+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184279+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000021",
+    "id": "BH-000034",
     "title": "Bounty (1): Suggest a better cute name for an IoT term in \\1",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/110",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -684,11 +931,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:23Z",
     "updated_at": "2026-11-22T18:14:07Z",
-    "scanned_at": "2026-11-24T06:59:41.016380+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184294+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000022",
+    "id": "BH-000035",
     "title": "Bounty (3): Write the youth protection rules, with someone who works with kids",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/109",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -702,11 +949,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:20Z",
     "updated_at": "2026-11-22T18:30:58Z",
-    "scanned_at": "2026-11-24T06:59:41.016403+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184310+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000023",
+    "id": "BH-000036",
     "title": "Bounty (5): Run the technology petting zoo",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/108",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -720,11 +967,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:11:16Z",
     "updated_at": "2026-11-22T17:23:20Z",
-    "scanned_at": "2026-11-24T06:59:41.016424+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184325+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000037",
     "title": "Bounty (3): Keep a habitat at the technology petting zoo",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/107",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -738,11 +985,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:11:13Z",
     "updated_at": "2026-11-22T17:23:14Z",
-    "scanned_at": "2026-11-24T06:59:41.016445+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184339+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000025",
+    "id": "BH-000038",
     "title": "Bounty (5): Lead build day",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/106",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -756,11 +1003,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:11:10Z",
     "updated_at": "2026-11-22T17:08:59Z",
-    "scanned_at": "2026-11-24T06:59:41.016465+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184353+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000026",
+    "id": "BH-000039",
     "title": "Bounty (3): Host an event from the \\1",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/105",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -774,11 +1021,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:11:06Z",
     "updated_at": "2026-11-22T17:08:54Z",
-    "scanned_at": "2026-11-24T06:59:41.016486+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184369+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000027",
+    "id": "BH-000040",
     "title": "Bounty (5): Design and prototype the sensor node",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/104",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -792,11 +1039,11 @@
     "comments": 2,
     "created_at": "2026-11-22T16:11:03Z",
     "updated_at": "2026-11-22T16:53:48Z",
-    "scanned_at": "2026-11-24T06:59:41.016507+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184384+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000028",
+    "id": "BH-000041",
     "title": "Bounty (3): Work out the power budget for solar, battery, and lighting",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/103",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -810,11 +1057,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:11:00Z",
     "updated_at": "2026-11-22T16:53:41Z",
-    "scanned_at": "2026-11-24T06:59:41.016530+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184399+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000042",
     "title": "Bounty (3): Write the cut list from the chosen design",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/102",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -828,11 +1075,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:10:57Z",
     "updated_at": "2026-11-22T16:38:35Z",
-    "scanned_at": "2026-11-24T06:59:41.016552+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184414+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000030",
+    "id": "BH-000043",
     "title": "Bounty (3): Draw a full shell design with measurements",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/101",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -846,11 +1093,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:10:54Z",
     "updated_at": "2026-11-22T16:38:29Z",
-    "scanned_at": "2026-11-24T06:59:41.016573+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184428+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000031",
+    "id": "BH-000044",
     "title": "Bounty (3): Build a simple \"took and left\" form",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/100",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -864,11 +1111,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:10:51Z",
     "updated_at": "2026-11-22T16:23:23Z",
-    "scanned_at": "2026-11-24T06:59:41.016596+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184443+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000032",
+    "id": "BH-000045",
     "title": "Bounty (3): Write a battery safety summary, reviewed by someone with battery experience",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/99",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -882,11 +1129,11 @@
     "comments": 1,
     "created_at": "2026-11-22T16:10:47Z",
     "updated_at": "2026-11-22T16:23:17Z",
-    "scanned_at": "2026-11-24T06:59:41.016620+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184458+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000033",
+    "id": "BH-000046",
     "title": "Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/98",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -897,14 +1144,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 2,
     "created_at": "2026-11-22T16:10:44Z",
-    "updated_at": "2026-11-22T16:10:44Z",
-    "scanned_at": "2026-11-24T06:59:41.016644+00:00",
+    "updated_at": "2026-11-24T08:33:12Z",
+    "scanned_at": "2026-11-24T18:42:12.184473+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000034",
+    "id": "BH-000047",
     "title": "Bounty (2): Design bin labels with icons",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/97",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -918,11 +1165,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:41Z",
     "updated_at": "2026-11-22T16:10:41Z",
-    "scanned_at": "2026-11-24T06:59:41.016667+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184488+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000035",
+    "id": "BH-000048",
     "title": "Bounty (2): Design the sign for the front of the box",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/96",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -936,11 +1183,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:38Z",
     "updated_at": "2026-11-22T16:10:38Z",
-    "scanned_at": "2026-11-24T06:59:41.016689+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184502+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000036",
+    "id": "BH-000049",
     "title": "Bounty (2): Draw a logo a kid would want as a sticker",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/95",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -954,11 +1201,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:35Z",
     "updated_at": "2026-11-22T16:10:35Z",
-    "scanned_at": "2026-11-24T06:59:41.016711+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184517+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000037",
+    "id": "BH-000050",
     "title": "Bounty (1): Bring a friend who makes their first contribution",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/94",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -972,11 +1219,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:31Z",
     "updated_at": "2026-11-22T16:10:31Z",
-    "scanned_at": "2026-11-24T06:59:41.016733+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184533+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000038",
+    "id": "BH-000051",
     "title": "Bounty (1): Test the web page on your phone and report what is confusing",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/93",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -990,11 +1237,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:29Z",
     "updated_at": "2026-11-22T16:10:29Z",
-    "scanned_at": "2026-11-24T06:59:41.016759+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184551+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000039",
+    "id": "BH-000052",
     "title": "Bounty (1): Suggest a standard bin, with a store link and its size",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/92",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -1008,11 +1255,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:26Z",
     "updated_at": "2026-11-22T16:10:26Z",
-    "scanned_at": "2026-11-24T06:59:41.016781+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184567+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000040",
+    "id": "BH-000053",
     "title": "Bounty (1): Tell Swapatron why it won't work, with specifics",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/91",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -1026,11 +1273,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:23Z",
     "updated_at": "2026-11-22T16:10:23Z",
-    "scanned_at": "2026-11-24T06:59:41.016803+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184582+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000041",
+    "id": "BH-000054",
     "title": "Bounty (1): Share a design sketch for the box",
     "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/90",
     "repo": "Fishers-Founders-United/Swapatron5000",
@@ -1044,11 +1291,11 @@
     "comments": 0,
     "created_at": "2026-11-22T16:10:20Z",
     "updated_at": "2026-11-22T16:10:20Z",
-    "scanned_at": "2026-11-24T06:59:41.016825+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184596+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000042",
+    "id": "BH-000055",
     "title": "[radar] SN open bounty 2026-11-22T14:27",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1429",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1064,11 +1311,11 @@
     "comments": 2,
     "created_at": "2026-11-22T14:27:52Z",
     "updated_at": "2026-11-22T14:36:59Z",
-    "scanned_at": "2026-11-24T06:59:41.016843+00:00",
+    "scanned_at": "2026-11-24T18:42:12.184609+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000043",
+    "id": "BH-000056",
     "title": "HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛",
     "url": "https://github.com/XHToken/Spark-X2.6/issues/32",
     "repo": "XHToken/Spark-X2.6",
@@ -1088,14 +1335,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 12,
+    "comments": 17,
     "created_at": "2026-11-22T13:17:16Z",
-    "updated_at": "2026-11-24T06:44:24Z",
-    "scanned_at": "2026-11-24T06:59:41.017361+00:00",
+    "updated_at": "2026-11-24T15:58:46Z",
+    "scanned_at": "2026-11-24T18:42:12.185002+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000059",
     "title": "🪙 [Web3] [Bounty] Answer the 4 linked question(s)",
     "url": "https://github.com/alfrexo95/bounty-bot/issues/100",
     "repo": "alfrexo95/bounty-bot",
@@ -1110,11 +1357,11 @@
     "comments": 1,
     "created_at": "2026-11-22T10:30:47Z",
     "updated_at": "2026-11-22T14:36:59Z",
-    "scanned_at": "2026-11-24T06:59:41.017426+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185043+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000047",
+    "id": "BH-000060",
     "title": "Testers wanted: try to break the portfolio builder",
     "url": "https://github.com/vedantdadhich21/orvyn/issues/2",
     "repo": "vedantdadhich21/orvyn",
@@ -1130,11 +1377,11 @@
     "comments": 1,
     "created_at": "2026-11-22T10:21:30Z",
     "updated_at": "2026-11-22T14:21:04Z",
-    "scanned_at": "2026-11-24T06:59:41.017469+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185070+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000048",
+    "id": "BH-000061",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5568",
     "repo": "Ikalus1988/MisakaNet",
@@ -1149,30 +1396,11 @@
     "comments": 0,
     "created_at": "2026-11-22T06:06:53Z",
     "updated_at": "2026-11-22T14:56:00Z",
-    "scanned_at": "2026-11-24T06:59:41.017590+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185156+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000049",
-    "title": "[Bounty] Answer the 4 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5567",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5567,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 3,
-    "created_at": "2026-11-22T06:06:35Z",
-    "updated_at": "2026-11-23T21:49:36Z",
-    "scanned_at": "2026-11-24T06:59:41.017718+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000052",
+    "id": "BH-000064",
     "title": "[busy forest] Improve EC Rank cell 3/12",
     "url": "https://github.com/amiller/bounty-arcade/issues/94",
     "repo": "amiller/bounty-arcade",
@@ -1186,11 +1414,11 @@
     "comments": 3,
     "created_at": "2026-11-21T22:54:04Z",
     "updated_at": "2026-11-22T18:24:06Z",
-    "scanned_at": "2026-11-24T06:59:41.017831+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185235+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000053",
+    "id": "BH-000065",
     "title": "[busy forest] Improve EC Rank cell 3/11",
     "url": "https://github.com/amiller/bounty-arcade/issues/93",
     "repo": "amiller/bounty-arcade",
@@ -1204,11 +1432,11 @@
     "comments": 3,
     "created_at": "2026-11-21T22:54:03Z",
     "updated_at": "2026-11-22T18:24:00Z",
-    "scanned_at": "2026-11-24T06:59:41.017924+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185301+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000054",
+    "id": "BH-000066",
     "title": "[busy forest] Improve EC Rank cell 3/10",
     "url": "https://github.com/amiller/bounty-arcade/issues/92",
     "repo": "amiller/bounty-arcade",
@@ -1222,11 +1450,11 @@
     "comments": 3,
     "created_at": "2026-11-21T22:54:02Z",
     "updated_at": "2026-11-22T18:08:55Z",
-    "scanned_at": "2026-11-24T06:59:41.018017+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185366+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000055",
+    "id": "BH-000067",
     "title": "[busy forest] Improve EC Rank cell 2/16",
     "url": "https://github.com/amiller/bounty-arcade/issues/91",
     "repo": "amiller/bounty-arcade",
@@ -1240,11 +1468,11 @@
     "comments": 3,
     "created_at": "2026-11-21T22:54:01Z",
     "updated_at": "2026-11-22T16:08:11Z",
-    "scanned_at": "2026-11-24T06:59:41.018118+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185432+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000056",
+    "id": "BH-000068",
     "title": "[busy forest] Improve EC Rank cell 2/15",
     "url": "https://github.com/amiller/bounty-arcade/issues/90",
     "repo": "amiller/bounty-arcade",
@@ -1258,11 +1486,11 @@
     "comments": 3,
     "created_at": "2026-11-21T22:54:00Z",
     "updated_at": "2026-11-22T16:08:06Z",
-    "scanned_at": "2026-11-24T06:59:41.018210+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185497+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000057",
+    "id": "BH-000069",
     "title": "[busy forest] Improve EC Rank cell 2/14",
     "url": "https://github.com/amiller/bounty-arcade/issues/89",
     "repo": "amiller/bounty-arcade",
@@ -1276,11 +1504,11 @@
     "comments": 2,
     "created_at": "2026-11-21T22:53:58Z",
     "updated_at": "2026-11-22T15:53:00Z",
-    "scanned_at": "2026-11-24T06:59:41.018302+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185564+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000058",
+    "id": "BH-000070",
     "title": "[busy forest] Improve EC Rank cell 2/13",
     "url": "https://github.com/amiller/bounty-arcade/issues/88",
     "repo": "amiller/bounty-arcade",
@@ -1294,11 +1522,11 @@
     "comments": 2,
     "created_at": "2026-11-21T22:53:57Z",
     "updated_at": "2026-11-22T15:52:55Z",
-    "scanned_at": "2026-11-24T06:59:41.018420+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185627+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000059",
+    "id": "BH-000071",
     "title": "[busy forest] Improve EC Rank cell 2/12",
     "url": "https://github.com/amiller/bounty-arcade/issues/87",
     "repo": "amiller/bounty-arcade",
@@ -1312,11 +1540,11 @@
     "comments": 2,
     "created_at": "2026-11-21T22:53:56Z",
     "updated_at": "2026-11-22T15:37:49Z",
-    "scanned_at": "2026-11-24T06:59:41.018512+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185708+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000060",
+    "id": "BH-000072",
     "title": "[busy forest] Improve EC Rank cell 2/11",
     "url": "https://github.com/amiller/bounty-arcade/issues/86",
     "repo": "amiller/bounty-arcade",
@@ -1330,11 +1558,11 @@
     "comments": 2,
     "created_at": "2026-11-21T22:53:55Z",
     "updated_at": "2026-11-22T15:43:12Z",
-    "scanned_at": "2026-11-24T06:59:41.018605+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185775+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000064",
+    "id": "BH-000076",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5545",
     "repo": "Ikalus1988/MisakaNet",
@@ -1349,11 +1577,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:02:19Z",
     "updated_at": "2026-11-22T06:07:20Z",
-    "scanned_at": "2026-11-24T06:59:41.018765+00:00",
+    "scanned_at": "2026-11-24T18:42:12.185875+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000065",
+    "id": "BH-000077",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5543",
     "repo": "Ikalus1988/MisakaNet",
@@ -1367,12 +1595,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-21T15:01:59Z",
-    "updated_at": "2026-11-23T18:47:53Z",
-    "scanned_at": "2026-11-24T06:59:41.018890+00:00",
+    "updated_at": "2026-11-24T18:21:48Z",
+    "scanned_at": "2026-11-24T18:42:12.185963+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000066",
+    "id": "BH-000078",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5542",
     "repo": "Ikalus1988/MisakaNet",
@@ -1387,30 +1615,11 @@
     "comments": 2,
     "created_at": "2026-11-21T15:01:50Z",
     "updated_at": "2026-11-22T06:41:30Z",
-    "scanned_at": "2026-11-24T06:59:41.019012+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186041+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000067",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5541",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5541,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-21T15:01:36Z",
-    "updated_at": "2026-11-22T06:07:04Z",
-    "scanned_at": "2026-11-24T06:59:41.019146+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000068",
+    "id": "BH-000079",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5540",
     "repo": "Ikalus1988/MisakaNet",
@@ -1425,30 +1634,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:01:34Z",
     "updated_at": "2026-11-23T18:48:00Z",
-    "scanned_at": "2026-11-24T06:59:41.019269+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186121+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000069",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5539",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5539,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-21T15:01:17Z",
-    "updated_at": "2026-11-22T06:06:57Z",
-    "scanned_at": "2026-11-24T06:59:41.019384+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000070",
+    "id": "BH-000080",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5538",
     "repo": "Ikalus1988/MisakaNet",
@@ -1463,11 +1653,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:01:16Z",
     "updated_at": "2026-11-22T06:06:56Z",
-    "scanned_at": "2026-11-24T06:59:41.019499+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186198+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000071",
+    "id": "BH-000081",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5537",
     "repo": "Ikalus1988/MisakaNet",
@@ -1482,11 +1672,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:01:12Z",
     "updated_at": "2026-11-22T06:06:55Z",
-    "scanned_at": "2026-11-24T06:59:41.019615+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186276+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000072",
+    "id": "BH-000082",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5536",
     "repo": "Ikalus1988/MisakaNet",
@@ -1501,30 +1691,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:01:10Z",
     "updated_at": "2026-11-22T06:06:54Z",
-    "scanned_at": "2026-11-24T06:59:41.019730+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186356+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000073",
-    "title": "[Bounty] Answer the 3 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5534",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5534,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-21T15:00:51Z",
-    "updated_at": "2026-11-22T06:06:45Z",
-    "scanned_at": "2026-11-24T06:59:41.019848+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000074",
+    "id": "BH-000083",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5533",
     "repo": "Ikalus1988/MisakaNet",
@@ -1539,11 +1710,11 @@
     "comments": 0,
     "created_at": "2026-11-21T15:00:33Z",
     "updated_at": "2026-11-22T06:06:52Z",
-    "scanned_at": "2026-11-24T06:59:41.019963+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186433+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000075",
+    "id": "BH-000084",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5532",
     "repo": "Ikalus1988/MisakaNet",
@@ -1557,12 +1728,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-21T15:00:31Z",
-    "updated_at": "2026-11-22T06:06:38Z",
-    "scanned_at": "2026-11-24T06:59:41.020097+00:00",
+    "updated_at": "2026-11-24T18:21:56Z",
+    "scanned_at": "2026-11-24T18:42:12.186516+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000085",
     "title": "[radar] SN open bounty 2026-11-21T14:32",
     "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1428",
     "repo": "relayhop/sn-monetization-runtime",
@@ -1578,11 +1749,11 @@
     "comments": 0,
     "created_at": "2026-11-21T14:32:43Z",
     "updated_at": "2026-11-21T14:32:43Z",
-    "scanned_at": "2026-11-24T06:59:41.020125+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186532+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000086",
     "title": "Find FET's non-circulating wallets",
     "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/13",
     "repo": "tradermarketcap/tradermarketcap-open",
@@ -1598,11 +1769,11 @@
     "comments": 4,
     "created_at": "2026-11-21T06:18:04Z",
     "updated_at": "2026-11-23T02:46:05Z",
-    "scanned_at": "2026-11-24T06:59:41.020144+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186543+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000078",
+    "id": "BH-000087",
     "title": "Split AVAX locked stake out of the total",
     "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/9",
     "repo": "tradermarketcap/tradermarketcap-open",
@@ -1615,14 +1786,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 3,
+    "comments": 4,
     "created_at": "2026-11-21T06:17:59Z",
-    "updated_at": "2026-11-24T03:01:25Z",
-    "scanned_at": "2026-11-24T06:59:41.020166+00:00",
+    "updated_at": "2026-11-24T07:02:25Z",
+    "scanned_at": "2026-11-24T18:42:12.186556+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000079",
+    "id": "BH-000088",
     "title": "Read TIA (Celestia) circulating supply",
     "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/4",
     "repo": "tradermarketcap/tradermarketcap-open",
@@ -1638,11 +1809,11 @@
     "comments": 6,
     "created_at": "2026-11-21T06:17:51Z",
     "updated_at": "2026-11-24T03:01:27Z",
-    "scanned_at": "2026-11-24T06:59:41.020184+00:00",
+    "scanned_at": "2026-11-24T18:42:12.186568+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000080",
+    "id": "BH-000149",
     "title": "Read SEI circulating supply from the chain",
     "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/3",
     "repo": "tradermarketcap/tradermarketcap-open",
@@ -1658,11 +1829,11 @@
     "comments": 4,
     "created_at": "2026-11-21T06:17:49Z",
     "updated_at": "2026-11-24T03:01:28Z",
-    "scanned_at": "2026-11-24T06:59:41.020202+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000081",
+    "id": "BH-000150",
     "title": "Add validateMergitJson: check mergit.json before committing it",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/30",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1678,11 +1849,11 @@
     "comments": 1,
     "created_at": "2026-11-21T05:21:56Z",
     "updated_at": "2026-11-24T03:10:36Z",
-    "scanned_at": "2026-11-24T06:59:41.020271+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942242+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000151",
     "title": "Add feeTable: a Markdown table of fees and payouts",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/28",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1698,11 +1869,11 @@
     "comments": 1,
     "created_at": "2026-11-21T05:21:51Z",
     "updated_at": "2026-11-24T03:10:37Z",
-    "scanned_at": "2026-11-24T06:59:41.020334+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942285+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000083",
+    "id": "BH-000152",
     "title": "Add timeLeft: how long a bounty stays open",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/27",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1718,11 +1889,11 @@
     "comments": 1,
     "created_at": "2026-11-21T05:21:48Z",
     "updated_at": "2026-11-24T03:10:39Z",
-    "scanned_at": "2026-11-24T06:59:41.020397+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942330+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000084",
+    "id": "BH-000153",
     "title": "Add parseIssueUrl: owner, repo and number from an issue link",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/25",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1738,11 +1909,11 @@
     "comments": 1,
     "created_at": "2026-11-21T05:21:43Z",
     "updated_at": "2026-11-24T03:10:41Z",
-    "scanned_at": "2026-11-24T06:59:41.020471+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942383+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000085",
+    "id": "BH-000154",
     "title": "Add fundLink: build the Fund this issue link",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/24",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1758,11 +1929,11 @@
     "comments": 0,
     "created_at": "2026-11-21T05:21:41Z",
     "updated_at": "2026-11-21T05:21:42Z",
-    "scanned_at": "2026-11-24T06:59:41.020533+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942425+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000155",
     "title": "Add shortAddress: 0x23E8…7686",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/23",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1778,11 +1949,11 @@
     "comments": 0,
     "created_at": "2026-11-21T05:21:38Z",
     "updated_at": "2026-11-21T05:21:39Z",
-    "scanned_at": "2026-11-24T06:59:41.020600+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942470+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000156",
     "title": "Add isAddress: is this string an EVM address?",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/22",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1798,11 +1969,11 @@
     "comments": 0,
     "created_at": "2026-11-21T05:21:35Z",
     "updated_at": "2026-11-21T05:21:36Z",
-    "scanned_at": "2026-11-24T06:59:41.020653+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942508+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000088",
+    "id": "BH-000089",
     "title": "bounty: implement distributed vector embedding cache and hybrid BM25 + dense neural reranker for enterprise deduplication",
     "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4193",
     "repo": "riteshbonthalakoti/HELPDESK.AI",
@@ -1822,11 +1993,11 @@
     "comments": 2,
     "created_at": "2026-11-21T05:00:28Z",
     "updated_at": "2026-11-21T19:03:37Z",
-    "scanned_at": "2026-11-24T06:59:41.020746+00:00",
+    "scanned_at": "2026-11-24T18:43:25.585697+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000089",
+    "id": "BH-000157",
     "title": "Document split and grossFor in the README",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/15",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1841,11 +2012,11 @@
     "comments": 0,
     "created_at": "2026-11-21T04:09:21Z",
     "updated_at": "2026-11-21T04:15:33Z",
-    "scanned_at": "2026-11-24T06:59:41.020793+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942540+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000090",
+    "id": "BH-000158",
     "title": "Fuzz split with a seeded random generator",
     "url": "https://github.com/odiseo159-beep/mergit-demo/issues/14",
     "repo": "odiseo159-beep/mergit-demo",
@@ -1860,7 +2031,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:09:17Z",
     "updated_at": "2026-11-21T04:15:31Z",
-    "scanned_at": "2026-11-24T06:59:41.020842+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942574+00:00",
     "status": "new"
   },
   {
@@ -1879,7 +2050,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:09:14Z",
     "updated_at": "2026-11-21T04:15:28Z",
-    "scanned_at": "2026-11-24T07:01:02.967298+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942608+00:00",
     "status": "new"
   },
   {
@@ -1898,7 +2069,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:09:09Z",
     "updated_at": "2026-11-21T04:15:26Z",
-    "scanned_at": "2026-11-24T07:01:02.967368+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942658+00:00",
     "status": "new"
   },
   {
@@ -1917,7 +2088,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:09:05Z",
     "updated_at": "2026-11-21T04:15:24Z",
-    "scanned_at": "2026-11-24T07:01:02.967433+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942703+00:00",
     "status": "new"
   },
   {
@@ -1936,7 +2107,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:08:59Z",
     "updated_at": "2026-11-21T04:15:22Z",
-    "scanned_at": "2026-11-24T07:01:02.967486+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942742+00:00",
     "status": "new"
   },
   {
@@ -1955,7 +2126,7 @@
     "comments": 0,
     "created_at": "2026-11-21T04:08:55Z",
     "updated_at": "2026-11-21T04:15:20Z",
-    "scanned_at": "2026-11-24T07:01:02.967537+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942777+00:00",
     "status": "new"
   },
   {
@@ -1974,11 +2145,11 @@
     "comments": 0,
     "created_at": "2026-11-21T04:08:51Z",
     "updated_at": "2026-11-21T04:15:18Z",
-    "scanned_at": "2026-11-24T07:01:02.967585+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942811+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000091",
+    "id": "BH-000090",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5461",
     "repo": "Ikalus1988/MisakaNet",
@@ -1993,11 +2164,11 @@
     "comments": 4,
     "created_at": "2026-11-20T15:50:05Z",
     "updated_at": "2026-11-21T15:02:01Z",
-    "scanned_at": "2026-11-24T07:00:55.616531+00:00",
+    "scanned_at": "2026-11-24T18:43:25.585808+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000092",
+    "id": "BH-000091",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5460",
     "repo": "Ikalus1988/MisakaNet",
@@ -2012,11 +2183,11 @@
     "comments": 2,
     "created_at": "2026-11-20T15:50:02Z",
     "updated_at": "2026-11-21T15:01:55Z",
-    "scanned_at": "2026-11-24T07:00:55.616688+00:00",
+    "scanned_at": "2026-11-24T18:43:25.585890+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000093",
+    "id": "BH-000092",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5458",
     "repo": "Ikalus1988/MisakaNet",
@@ -2031,11 +2202,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:49:42Z",
     "updated_at": "2026-11-21T15:01:30Z",
-    "scanned_at": "2026-11-24T07:00:55.616816+00:00",
+    "scanned_at": "2026-11-24T18:43:25.585969+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000094",
+    "id": "BH-000093",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5457",
     "repo": "Ikalus1988/MisakaNet",
@@ -2050,11 +2221,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:49:41Z",
     "updated_at": "2026-11-21T15:01:28Z",
-    "scanned_at": "2026-11-24T07:00:55.616942+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586047+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000095",
+    "id": "BH-000094",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5456",
     "repo": "Ikalus1988/MisakaNet",
@@ -2069,11 +2240,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:49:39Z",
     "updated_at": "2026-11-21T15:01:24Z",
-    "scanned_at": "2026-11-24T07:00:55.617080+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586125+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000096",
+    "id": "BH-000095",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5454",
     "repo": "Ikalus1988/MisakaNet",
@@ -2088,11 +2259,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:49:35Z",
     "updated_at": "2026-11-21T15:01:19Z",
-    "scanned_at": "2026-11-24T07:00:55.617201+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586203+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000097",
+    "id": "BH-000096",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5452",
     "repo": "Ikalus1988/MisakaNet",
@@ -2107,30 +2278,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:49:11Z",
     "updated_at": "2026-11-21T15:00:45Z",
-    "scanned_at": "2026-11-24T07:00:55.617329+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586287+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000098",
-    "title": "[Bounty] Answer the 3 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5450",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5450,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-20T15:49:01Z",
-    "updated_at": "2026-11-21T15:00:37Z",
-    "scanned_at": "2026-11-24T07:00:55.617455+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000099",
+    "id": "BH-000097",
     "title": "[Bounty] Answer the 4 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5448",
     "repo": "Ikalus1988/MisakaNet",
@@ -2145,30 +2297,11 @@
     "comments": 0,
     "created_at": "2026-11-20T15:48:55Z",
     "updated_at": "2026-11-21T15:01:08Z",
-    "scanned_at": "2026-11-24T07:00:55.617577+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586366+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000100",
-    "title": "[Bounty] Answer the 5 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5446",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5446,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-20T15:48:49Z",
-    "updated_at": "2026-11-21T15:00:20Z",
-    "scanned_at": "2026-11-24T07:00:55.617732+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000107",
+    "id": "BH-000104",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5373",
     "repo": "Ikalus1988/MisakaNet",
@@ -2182,12 +2315,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:06:27Z",
-    "updated_at": "2026-11-23T18:48:37Z",
-    "scanned_at": "2026-11-24T07:00:55.617912+00:00",
+    "updated_at": "2026-11-24T18:21:50Z",
+    "scanned_at": "2026-11-24T18:43:25.586493+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000108",
+    "id": "BH-000105",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5372",
     "repo": "Ikalus1988/MisakaNet",
@@ -2201,69 +2334,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:06:06Z",
-    "updated_at": "2026-11-23T18:48:02Z",
-    "scanned_at": "2026-11-24T07:00:55.618059+00:00",
+    "updated_at": "2026-11-24T18:22:46Z",
+    "scanned_at": "2026-11-24T18:43:25.586571+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000109",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5371",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5371,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-19T16:06:05Z",
-    "updated_at": "2026-11-23T18:47:52Z",
-    "scanned_at": "2026-11-24T07:00:55.618200+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000110",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5370",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5370,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-19T16:06:02Z",
-    "updated_at": "2026-11-20T15:49:07Z",
-    "scanned_at": "2026-11-24T07:00:55.618328+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000111",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5369",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5369,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-19T16:06:00Z",
-    "updated_at": "2026-11-21T15:01:26Z",
-    "scanned_at": "2026-11-24T07:00:55.618451+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000112",
+    "id": "BH-000106",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5368",
     "repo": "Ikalus1988/MisakaNet",
@@ -2277,12 +2353,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:05:59Z",
-    "updated_at": "2026-11-20T15:49:59Z",
-    "scanned_at": "2026-11-24T07:00:55.618575+00:00",
+    "updated_at": "2026-11-24T18:22:31Z",
+    "scanned_at": "2026-11-24T18:43:25.586663+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000113",
+    "id": "BH-000107",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5367",
     "repo": "Ikalus1988/MisakaNet",
@@ -2296,12 +2372,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:05:57Z",
-    "updated_at": "2026-11-20T15:49:58Z",
-    "scanned_at": "2026-11-24T07:00:55.618697+00:00",
+    "updated_at": "2026-11-24T18:22:25Z",
+    "scanned_at": "2026-11-24T18:43:25.586742+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000114",
+    "id": "BH-000108",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5365",
     "repo": "Ikalus1988/MisakaNet",
@@ -2316,30 +2392,11 @@
     "comments": 0,
     "created_at": "2026-11-19T16:05:54Z",
     "updated_at": "2026-11-20T15:49:52Z",
-    "scanned_at": "2026-11-24T07:00:55.618821+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586820+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000115",
-    "title": "[Bounty] Answer the 2 linked question(s)",
-    "url": "https://github.com/Ikalus1988/MisakaNet/issues/5364",
-    "repo": "Ikalus1988/MisakaNet",
-    "number": 5364,
-    "labels": [
-      "ready",
-      "bounty"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-19T16:05:50Z",
-    "updated_at": "2026-11-20T15:49:46Z",
-    "scanned_at": "2026-11-24T07:00:55.618944+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000116",
+    "id": "BH-000109",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5363",
     "repo": "Ikalus1988/MisakaNet",
@@ -2354,11 +2411,11 @@
     "comments": 0,
     "created_at": "2026-11-19T16:05:48Z",
     "updated_at": "2026-11-23T18:48:22Z",
-    "scanned_at": "2026-11-24T07:00:55.619077+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586898+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000117",
+    "id": "BH-000110",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5361",
     "repo": "Ikalus1988/MisakaNet",
@@ -2373,11 +2430,11 @@
     "comments": 0,
     "created_at": "2026-11-19T16:05:28Z",
     "updated_at": "2026-11-21T15:01:14Z",
-    "scanned_at": "2026-11-24T07:00:55.619200+00:00",
+    "scanned_at": "2026-11-24T18:43:25.586976+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000118",
+    "id": "BH-000111",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5359",
     "repo": "Ikalus1988/MisakaNet",
@@ -2391,12 +2448,12 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:05:20Z",
-    "updated_at": "2026-11-23T18:48:27Z",
-    "scanned_at": "2026-11-24T07:00:55.619324+00:00",
+    "updated_at": "2026-11-24T18:22:10Z",
+    "scanned_at": "2026-11-24T18:43:25.587057+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000119",
+    "id": "BH-000112",
     "title": "[Bounty] Answer the 5 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5354",
     "repo": "Ikalus1988/MisakaNet",
@@ -2410,8 +2467,8 @@
     "state": "open",
     "comments": 0,
     "created_at": "2026-11-19T16:05:07Z",
-    "updated_at": "2026-11-20T15:49:05Z",
-    "scanned_at": "2026-11-24T07:00:55.619451+00:00",
+    "updated_at": "2026-11-24T18:21:51Z",
+    "scanned_at": "2026-11-24T18:43:25.587141+00:00",
     "status": "new"
   },
   {
@@ -2431,7 +2488,7 @@
     "comments": 1,
     "created_at": "2026-11-19T04:04:15Z",
     "updated_at": "2026-11-19T04:07:42Z",
-    "scanned_at": "2026-11-24T07:01:02.967601+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942823+00:00",
     "status": "new"
   },
   {
@@ -2451,7 +2508,7 @@
     "comments": 2,
     "created_at": "2026-11-19T03:13:51Z",
     "updated_at": "2026-11-19T04:07:12Z",
-    "scanned_at": "2026-11-24T07:01:02.967616+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942833+00:00",
     "status": "new"
   },
   {
@@ -2471,7 +2528,7 @@
     "comments": 1,
     "created_at": "2026-11-18T23:01:08Z",
     "updated_at": "2026-11-19T00:02:15Z",
-    "scanned_at": "2026-11-24T07:01:02.967630+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942844+00:00",
     "status": "new"
   },
   {
@@ -2491,7 +2548,7 @@
     "comments": 1,
     "created_at": "2026-11-18T21:49:50Z",
     "updated_at": "2026-11-18T22:00:44Z",
-    "scanned_at": "2026-11-24T07:01:02.967644+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942855+00:00",
     "status": "new"
   },
   {
@@ -2511,11 +2568,11 @@
     "comments": 1,
     "created_at": "2026-11-18T16:28:17Z",
     "updated_at": "2026-11-18T16:56:29Z",
-    "scanned_at": "2026-11-24T07:01:02.967659+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942865+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000122",
+    "id": "BH-000115",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5254",
     "repo": "Ikalus1988/MisakaNet",
@@ -2530,11 +2587,11 @@
     "comments": 1,
     "created_at": "2026-11-18T15:59:36Z",
     "updated_at": "2026-11-19T16:06:13Z",
-    "scanned_at": "2026-11-24T07:00:55.619594+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587231+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000123",
+    "id": "BH-000116",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5253",
     "repo": "Ikalus1988/MisakaNet",
@@ -2549,11 +2606,11 @@
     "comments": 0,
     "created_at": "2026-11-18T15:59:35Z",
     "updated_at": "2026-11-19T16:06:10Z",
-    "scanned_at": "2026-11-24T07:00:55.619719+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587308+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000124",
+    "id": "BH-000117",
     "title": "[Bounty] Answer the 2 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5252",
     "repo": "Ikalus1988/MisakaNet",
@@ -2568,11 +2625,11 @@
     "comments": 0,
     "created_at": "2026-11-18T15:59:33Z",
     "updated_at": "2026-11-19T16:06:08Z",
-    "scanned_at": "2026-11-24T07:00:55.619844+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587382+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000125",
+    "id": "BH-000118",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5251",
     "repo": "Ikalus1988/MisakaNet",
@@ -2587,11 +2644,11 @@
     "comments": 2,
     "created_at": "2026-11-18T15:59:25Z",
     "updated_at": "2026-11-19T16:05:35Z",
-    "scanned_at": "2026-11-24T07:00:55.619971+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587471+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000126",
+    "id": "BH-000119",
     "title": "[Bounty] Answer the 3 linked question(s)",
     "url": "https://github.com/Ikalus1988/MisakaNet/issues/5250",
     "repo": "Ikalus1988/MisakaNet",
@@ -2606,7 +2663,7 @@
     "comments": 3,
     "created_at": "2026-11-18T15:59:24Z",
     "updated_at": "2026-11-19T16:05:32Z",
-    "scanned_at": "2026-11-24T07:00:55.620111+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587550+00:00",
     "status": "new"
   },
   {
@@ -2626,11 +2683,11 @@
     "comments": 1,
     "created_at": "2026-11-18T15:31:13Z",
     "updated_at": "2026-11-18T15:56:15Z",
-    "scanned_at": "2026-11-24T07:01:02.967674+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942876+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000127",
+    "id": "BH-000120",
     "title": "[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_math.rs",
     "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116",
     "repo": "PhanKhoa95/oss-bot-trap-benchmark",
@@ -2653,88 +2710,7 @@
     "comments": 0,
     "created_at": "2026-11-18T13:55:46Z",
     "updated_at": "2026-11-18T13:55:46Z",
-    "scanned_at": "2026-11-24T07:00:55.620144+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000128",
-    "title": "[Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame checkpoint math in src/ledger_validator.py",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 115,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "Wave 11",
-      "drips-wave",
-      "stellar",
-      "Trivial",
-      "Points: 100"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 2,
-    "created_at": "2026-11-18T13:55:45Z",
-    "updated_at": "2026-11-23T23:25:13Z",
-    "scanned_at": "2026-11-24T07:00:55.620172+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000129",
-    "title": "[Wave 11] feat(ui): add Stellar slippage warning banner and >=800x600 DOM proof for src/ui/swap_preview.html",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/114",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 114,
-    "labels": [
-      "help wanted",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "Wave 11",
-      "drips-wave",
-      "onlydust-wave",
-      "stellar",
-      "High",
-      "Points: 200"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 0,
-    "created_at": "2026-11-18T13:55:44Z",
-    "updated_at": "2026-11-18T13:55:44Z",
-    "scanned_at": "2026-11-24T07:00:55.620198+00:00",
-    "status": "new"
-  },
-  {
-    "id": "BH-000130",
-    "title": "[Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window in src/x402_payment_guard.ts",
-    "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113",
-    "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-    "number": 113,
-    "labels": [
-      "help wanted",
-      "good first issue",
-      "Stellar Wave",
-      "bounty",
-      "up-for-grabs",
-      "Wave 11",
-      "drips-wave",
-      "stellar",
-      "Medium",
-      "Points: 150"
-    ],
-    "language": "unknown",
-    "amount_usd": null,
-    "state": "open",
-    "comments": 1,
-    "created_at": "2026-11-18T13:55:43Z",
-    "updated_at": "2026-11-23T23:32:50Z",
-    "scanned_at": "2026-11-24T07:00:55.620228+00:00",
+    "scanned_at": "2026-11-24T18:43:25.587586+00:00",
     "status": "new"
   },
   {
@@ -2754,7 +2730,7 @@
     "comments": 1,
     "created_at": "2026-11-18T13:49:37Z",
     "updated_at": "2026-11-18T14:56:09Z",
-    "scanned_at": "2026-11-24T07:01:02.967688+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942888+00:00",
     "status": "new"
   },
   {
@@ -2774,7 +2750,7 @@
     "comments": 1,
     "created_at": "2026-11-18T07:06:56Z",
     "updated_at": "2026-11-18T09:48:31Z",
-    "scanned_at": "2026-11-24T07:01:02.967702+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942898+00:00",
     "status": "new"
   },
   {
@@ -2794,7 +2770,7 @@
     "comments": 1,
     "created_at": "2026-11-18T04:09:32Z",
     "updated_at": "2026-11-18T04:39:33Z",
-    "scanned_at": "2026-11-24T07:01:02.967716+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942909+00:00",
     "status": "new"
   },
   {
@@ -2814,7 +2790,7 @@
     "comments": 1,
     "created_at": "2026-11-17T23:59:58Z",
     "updated_at": "2026-11-18T00:38:28Z",
-    "scanned_at": "2026-11-24T07:01:02.967731+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942919+00:00",
     "status": "new"
   },
   {
@@ -2834,7 +2810,7 @@
     "comments": 1,
     "created_at": "2026-11-17T22:11:54Z",
     "updated_at": "2026-11-17T22:35:55Z",
-    "scanned_at": "2026-11-24T07:01:02.967745+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942930+00:00",
     "status": "new"
   },
   {
@@ -2854,7 +2830,7 @@
     "comments": 1,
     "created_at": "2026-11-17T17:47:34Z",
     "updated_at": "2026-11-17T18:33:14Z",
-    "scanned_at": "2026-11-24T07:01:02.967761+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942941+00:00",
     "status": "new"
   },
   {
@@ -2874,7 +2850,7 @@
     "comments": 1,
     "created_at": "2026-11-17T15:53:08Z",
     "updated_at": "2026-11-17T16:29:26Z",
-    "scanned_at": "2026-11-24T07:01:02.967777+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942953+00:00",
     "status": "new"
   },
   {
@@ -2894,11 +2870,11 @@
     "comments": 1,
     "created_at": "2026-11-17T13:08:33Z",
     "updated_at": "2026-11-17T13:23:37Z",
-    "scanned_at": "2026-11-24T07:01:02.967799+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942970+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000131",
+    "id": "BH-000121",
     "title": "OpenCollective banners eagerly loads redundant avatars on match start for hidden views [bounty: 40 XTR]",
     "url": "https://github.com/FreezingMoon/AncientBeast/issues/3252",
     "repo": "FreezingMoon/AncientBeast",
@@ -2913,11 +2889,11 @@
     "comments": 2,
     "created_at": "2026-11-17T12:35:20Z",
     "updated_at": "2026-11-17T15:25:48Z",
-    "scanned_at": "2026-11-24T07:00:56.463020+00:00",
+    "scanned_at": "2026-11-24T18:43:26.453985+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000132",
+    "id": "BH-000122",
     "title": "feat(ui): add search and memo filter in ScheduledPaymentsList",
     "url": "https://github.com/OphirPay/OphirPay/issues/1895",
     "repo": "OphirPay/OphirPay",
@@ -2934,11 +2910,11 @@
     "comments": 9,
     "created_at": "2026-11-17T08:27:22Z",
     "updated_at": "2026-11-20T09:51:43Z",
-    "scanned_at": "2026-11-24T07:00:56.463083+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454021+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000133",
+    "id": "BH-000123",
     "title": "feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog",
     "url": "https://github.com/OphirPay/OphirPay/issues/1894",
     "repo": "OphirPay/OphirPay",
@@ -2955,11 +2931,11 @@
     "comments": 7,
     "created_at": "2026-11-17T08:26:24Z",
     "updated_at": "2026-11-20T09:51:42Z",
-    "scanned_at": "2026-11-24T07:00:56.463117+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454042+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000134",
+    "id": "BH-000124",
     "title": "feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal",
     "url": "https://github.com/OphirPay/OphirPay/issues/1893",
     "repo": "OphirPay/OphirPay",
@@ -2977,7 +2953,7 @@
     "comments": 4,
     "created_at": "2026-11-17T08:25:36Z",
     "updated_at": "2026-11-22T16:28:58Z",
-    "scanned_at": "2026-11-24T07:00:56.463151+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454064+00:00",
     "status": "new"
   },
   {
@@ -2997,11 +2973,11 @@
     "comments": 1,
     "created_at": "2026-11-17T03:43:00Z",
     "updated_at": "2026-11-17T04:14:06Z",
-    "scanned_at": "2026-11-24T07:01:02.967817+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942983+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000135",
+    "id": "BH-000125",
     "title": "Simplify the Chrome extension to a chatbot with in-browser capabilities",
     "url": "https://github.com/hanzoai/extension/issues/10",
     "repo": "hanzoai/extension",
@@ -3016,11 +2992,11 @@
     "comments": 1,
     "created_at": "2026-11-17T02:36:12Z",
     "updated_at": "2026-11-17T02:36:16Z",
-    "scanned_at": "2026-11-24T07:00:56.463206+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454105+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000136",
+    "id": "BH-000126",
     "title": "[Bounty #40] Computer-workflow benchmark on Visor · visor / agents (OSWorld)",
     "url": "https://github.com/hanzoai/agents/issues/89",
     "repo": "hanzoai/agents",
@@ -3036,12 +3012,12 @@
     "state": "open",
     "comments": 3,
     "created_at": "2026-11-16T23:44:38Z",
-    "updated_at": "2026-11-18T08:15:40Z",
-    "scanned_at": "2026-11-24T07:00:56.463283+00:00",
+    "updated_at": "2026-11-24T07:33:21Z",
+    "scanned_at": "2026-11-24T18:43:26.454159+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000137",
+    "id": "BH-000127",
     "title": "[Bounty #39] Dual-control business-agent benchmark · agents / cloud (tau2-bench)",
     "url": "https://github.com/hanzoai/agents/issues/88",
     "repo": "hanzoai/agents",
@@ -3057,11 +3033,11 @@
     "comments": 3,
     "created_at": "2026-11-16T23:44:35Z",
     "updated_at": "2026-11-18T08:15:41Z",
-    "scanned_at": "2026-11-24T07:00:56.463359+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454212+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000138",
+    "id": "BH-000128",
     "title": "[Bounty #37] Automatic prompt and workflow optimization · agents (DSPy)",
     "url": "https://github.com/hanzoai/agents/issues/87",
     "repo": "hanzoai/agents",
@@ -3077,11 +3053,11 @@
     "comments": 3,
     "created_at": "2026-11-16T23:44:29Z",
     "updated_at": "2026-11-18T08:15:42Z",
-    "scanned_at": "2026-11-24T07:00:56.463430+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454261+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000139",
+    "id": "BH-000129",
     "title": "[Bounty #36] Learning from agent execution traces · agents / ml (Agent Lightning)",
     "url": "https://github.com/hanzoai/agents/issues/86",
     "repo": "hanzoai/agents",
@@ -3097,11 +3073,11 @@
     "comments": 3,
     "created_at": "2026-11-16T23:44:26Z",
     "updated_at": "2026-11-20T06:10:53Z",
-    "scanned_at": "2026-11-24T07:00:56.463508+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454314+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000140",
+    "id": "BH-000130",
     "title": "[Bounty #35] Durable event-driven agent workflow replay · agents",
     "url": "https://github.com/hanzoai/agents/issues/85",
     "repo": "hanzoai/agents",
@@ -3117,11 +3093,11 @@
     "comments": 5,
     "created_at": "2026-11-16T23:44:24Z",
     "updated_at": "2026-11-20T02:04:01Z",
-    "scanned_at": "2026-11-24T07:00:56.463597+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454380+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000141",
+    "id": "BH-000131",
     "title": "[Bounty #31] Long-horizon coding-agent evaluation · agents (SWE-bench Pro V2)",
     "url": "https://github.com/hanzoai/agents/issues/84",
     "repo": "hanzoai/agents",
@@ -3138,11 +3114,11 @@
     "comments": 4,
     "created_at": "2026-11-16T23:44:12Z",
     "updated_at": "2026-11-20T01:04:27Z",
-    "scanned_at": "2026-11-24T07:00:56.463678+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454442+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000142",
+    "id": "BH-000132",
     "title": "[Bounty #29] Evidence-ordering robustness · agents (Lost in the Middle)",
     "url": "https://github.com/hanzoai/agents/issues/83",
     "repo": "hanzoai/agents",
@@ -3158,11 +3134,11 @@
     "comments": 3,
     "created_at": "2026-11-16T23:44:07Z",
     "updated_at": "2026-11-20T05:09:04Z",
-    "scanned_at": "2026-11-24T07:00:56.463753+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454495+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000143",
+    "id": "BH-000133",
     "title": "[Bounty #28] Temporal memory benchmark · agents (LongMemEval)",
     "url": "https://github.com/hanzoai/agents/issues/82",
     "repo": "hanzoai/agents",
@@ -3178,11 +3154,11 @@
     "comments": 4,
     "created_at": "2026-11-16T23:44:04Z",
     "updated_at": "2026-11-20T02:04:53Z",
-    "scanned_at": "2026-11-24T07:00:56.463829+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454552+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000144",
+    "id": "BH-000134",
     "title": "Computer-workflow benchmark on Visor (OSWorld)",
     "url": "https://github.com/hanzoai/agents/issues/80",
     "repo": "hanzoai/agents",
@@ -3199,14 +3175,14 @@
     "language": "unknown",
     "amount_usd": null,
     "state": "open",
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-11-16T23:36:19Z",
-    "updated_at": "2026-11-16T23:36:19Z",
-    "scanned_at": "2026-11-24T07:00:56.463900+00:00",
+    "updated_at": "2026-11-24T07:33:20Z",
+    "scanned_at": "2026-11-24T18:43:26.454600+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000145",
+    "id": "BH-000135",
     "title": "Automatic prompt and workflow optimization (DSPy)",
     "url": "https://github.com/hanzoai/agents/issues/79",
     "repo": "hanzoai/agents",
@@ -3225,11 +3201,11 @@
     "comments": 0,
     "created_at": "2026-11-16T23:36:03Z",
     "updated_at": "2026-11-16T23:36:03Z",
-    "scanned_at": "2026-11-24T07:00:56.463968+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454664+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000146",
+    "id": "BH-000136",
     "title": "Durable event-driven agent workflow replay (durable-execution patterns)",
     "url": "https://github.com/hanzoai/agents/issues/78",
     "repo": "hanzoai/agents",
@@ -3247,11 +3223,11 @@
     "comments": 1,
     "created_at": "2026-11-16T23:35:54Z",
     "updated_at": "2026-11-24T06:40:01Z",
-    "scanned_at": "2026-11-24T07:00:56.464054+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454720+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000147",
+    "id": "BH-000137",
     "title": "Long-horizon coding-agent evaluation on Visor (SWE-bench Pro V2)",
     "url": "https://github.com/hanzoai/agents/issues/77",
     "repo": "hanzoai/agents",
@@ -3271,11 +3247,11 @@
     "comments": 0,
     "created_at": "2026-11-16T23:35:37Z",
     "updated_at": "2026-11-16T23:35:37Z",
-    "scanned_at": "2026-11-24T07:00:56.464127+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454771+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000148",
+    "id": "BH-000138",
     "title": "Evidence-ordering robustness (Lost in the Middle)",
     "url": "https://github.com/hanzoai/agents/issues/76",
     "repo": "hanzoai/agents",
@@ -3294,11 +3270,11 @@
     "comments": 2,
     "created_at": "2026-11-16T23:35:29Z",
     "updated_at": "2026-11-18T09:47:45Z",
-    "scanned_at": "2026-11-24T07:00:56.464194+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454820+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000149",
+    "id": "BH-000139",
     "title": "Temporal memory benchmark (LongMemEval)",
     "url": "https://github.com/hanzoai/agents/issues/75",
     "repo": "hanzoai/agents",
@@ -3317,11 +3293,11 @@
     "comments": 0,
     "created_at": "2026-11-16T23:35:25Z",
     "updated_at": "2026-11-16T23:35:25Z",
-    "scanned_at": "2026-11-24T07:00:56.464267+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454871+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000150",
+    "id": "BH-000140",
     "title": "Adaptive retrieve-or-answer policy with Kai (Self-RAG)",
     "url": "https://github.com/hanzoai/agents/issues/74",
     "repo": "hanzoai/agents",
@@ -3340,7 +3316,7 @@
     "comments": 0,
     "created_at": "2026-11-16T23:35:02Z",
     "updated_at": "2026-11-16T23:35:02Z",
-    "scanned_at": "2026-11-24T07:00:56.464339+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454921+00:00",
     "status": "new"
   },
   {
@@ -3360,7 +3336,7 @@
     "comments": 1,
     "created_at": "2026-11-16T20:19:20Z",
     "updated_at": "2026-11-16T21:10:29Z",
-    "scanned_at": "2026-11-24T07:01:02.967836+00:00",
+    "scanned_at": "2026-11-24T18:43:32.942996+00:00",
     "status": "new"
   },
   {
@@ -3380,7 +3356,7 @@
     "comments": 2,
     "created_at": "2026-11-16T15:33:59Z",
     "updated_at": "2026-11-16T16:53:27Z",
-    "scanned_at": "2026-11-24T07:01:02.967854+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943009+00:00",
     "status": "new"
   },
   {
@@ -3400,7 +3376,7 @@
     "comments": 1,
     "created_at": "2026-11-16T09:28:14Z",
     "updated_at": "2026-11-16T09:30:09Z",
-    "scanned_at": "2026-11-24T07:01:02.967871+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943023+00:00",
     "status": "new"
   },
   {
@@ -3420,7 +3396,7 @@
     "comments": 1,
     "created_at": "2026-11-16T01:53:51Z",
     "updated_at": "2026-11-16T03:20:26Z",
-    "scanned_at": "2026-11-24T07:01:02.967889+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943036+00:00",
     "status": "new"
   },
   {
@@ -3440,11 +3416,11 @@
     "comments": 1,
     "created_at": "2026-11-15T21:41:02Z",
     "updated_at": "2026-11-15T21:58:12Z",
-    "scanned_at": "2026-11-24T07:01:02.967908+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943049+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000151",
+    "id": "BH-000141",
     "title": "Learned memory policy: when to add, update, delete, forget or abstain (Memory-R1)",
     "url": "https://github.com/hanzoai/agents/issues/66",
     "repo": "hanzoai/agents",
@@ -3463,11 +3439,11 @@
     "comments": 2,
     "created_at": "2026-11-15T20:07:37Z",
     "updated_at": "2026-11-17T00:10:57Z",
-    "scanned_at": "2026-11-24T07:00:56.464404+00:00",
+    "scanned_at": "2026-11-24T18:43:26.454965+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000152",
+    "id": "BH-000142",
     "title": "Self-organising associative memory with bounded consolidation (A-MEM)",
     "url": "https://github.com/hanzoai/agents/issues/65",
     "repo": "hanzoai/agents",
@@ -3486,11 +3462,11 @@
     "comments": 2,
     "created_at": "2026-11-15T20:07:35Z",
     "updated_at": "2026-11-17T00:10:55Z",
-    "scanned_at": "2026-11-24T07:00:56.464470+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455009+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000153",
+    "id": "BH-000143",
     "title": "Reflection with belief separation and consolidation (retain, recall, reflect)",
     "url": "https://github.com/hanzoai/agents/issues/64",
     "repo": "hanzoai/agents",
@@ -3509,11 +3485,11 @@
     "comments": 2,
     "created_at": "2026-11-15T20:07:33Z",
     "updated_at": "2026-11-17T00:10:54Z",
-    "scanned_at": "2026-11-24T07:00:56.464530+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455050+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000154",
+    "id": "BH-000144",
     "title": "Tiered episodic, semantic and procedural memory with one API",
     "url": "https://github.com/hanzoai/agents/issues/63",
     "repo": "hanzoai/agents",
@@ -3532,11 +3508,11 @@
     "comments": 3,
     "created_at": "2026-11-15T20:07:31Z",
     "updated_at": "2026-11-17T00:10:52Z",
-    "scanned_at": "2026-11-24T07:00:56.464593+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455094+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000155",
+    "id": "BH-000145",
     "title": "Atomic memory facts with deduplication and selective writes (Mem0-style)",
     "url": "https://github.com/hanzoai/agents/issues/62",
     "repo": "hanzoai/agents",
@@ -3555,7 +3531,7 @@
     "comments": 3,
     "created_at": "2026-11-15T20:07:29Z",
     "updated_at": "2026-11-17T00:10:51Z",
-    "scanned_at": "2026-11-24T07:00:56.464656+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455138+00:00",
     "status": "new"
   },
   {
@@ -3575,7 +3551,7 @@
     "comments": 1,
     "created_at": "2026-11-15T16:59:09Z",
     "updated_at": "2026-11-15T17:54:32Z",
-    "scanned_at": "2026-11-24T07:01:02.967927+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943063+00:00",
     "status": "new"
   },
   {
@@ -3595,7 +3571,7 @@
     "comments": 1,
     "created_at": "2026-11-15T13:51:02Z",
     "updated_at": "2026-11-15T14:52:24Z",
-    "scanned_at": "2026-11-24T07:01:02.967946+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943077+00:00",
     "status": "new"
   },
   {
@@ -3615,7 +3591,7 @@
     "comments": 1,
     "created_at": "2026-11-14T13:24:12Z",
     "updated_at": "2026-11-14T13:39:40Z",
-    "scanned_at": "2026-11-24T07:01:02.967970+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943095+00:00",
     "status": "new"
   },
   {
@@ -3635,7 +3611,7 @@
     "comments": 1,
     "created_at": "2026-11-13T14:28:15Z",
     "updated_at": "2026-11-16T03:19:00Z",
-    "scanned_at": "2026-11-24T07:01:02.967987+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943107+00:00",
     "status": "new"
   },
   {
@@ -3659,7 +3635,7 @@
     "comments": 2,
     "created_at": "2026-11-13T02:50:00Z",
     "updated_at": "2026-11-16T03:41:16Z",
-    "scanned_at": "2026-11-24T07:01:02.968233+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943260+00:00",
     "status": "new"
   },
   {
@@ -3679,7 +3655,7 @@
     "comments": 1,
     "created_at": "2026-11-13T02:49:44Z",
     "updated_at": "2026-11-16T03:46:17Z",
-    "scanned_at": "2026-11-24T07:01:02.968252+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943273+00:00",
     "status": "new"
   },
   {
@@ -3699,7 +3675,7 @@
     "comments": 1,
     "created_at": "2026-11-13T00:10:16Z",
     "updated_at": "2026-11-16T03:41:52Z",
-    "scanned_at": "2026-11-24T07:01:02.968271+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943285+00:00",
     "status": "new"
   },
   {
@@ -3719,7 +3695,7 @@
     "comments": 1,
     "created_at": "2026-11-12T22:24:07Z",
     "updated_at": "2026-11-16T03:42:04Z",
-    "scanned_at": "2026-11-24T07:01:02.968287+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943298+00:00",
     "status": "new"
   },
   {
@@ -3739,7 +3715,7 @@
     "comments": 1,
     "created_at": "2026-11-12T18:10:17Z",
     "updated_at": "2026-11-16T03:44:12Z",
-    "scanned_at": "2026-11-24T07:01:02.968304+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943309+00:00",
     "status": "new"
   },
   {
@@ -3759,7 +3735,7 @@
     "comments": 1,
     "created_at": "2026-11-12T16:18:20Z",
     "updated_at": "2026-11-16T03:44:23Z",
-    "scanned_at": "2026-11-24T07:01:02.968321+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943322+00:00",
     "status": "new"
   },
   {
@@ -3782,7 +3758,7 @@
     "comments": 1,
     "created_at": "2026-11-11T18:40:38Z",
     "updated_at": "2026-11-11T20:53:47Z",
-    "scanned_at": "2026-11-24T07:01:02.968426+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943389+00:00",
     "status": "new"
   },
   {
@@ -3809,7 +3785,7 @@
     "comments": 13,
     "created_at": "2026-11-10T23:09:39Z",
     "updated_at": "2026-11-11T20:53:45Z",
-    "scanned_at": "2026-11-24T07:01:02.968563+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943478+00:00",
     "status": "new"
   },
   {
@@ -3829,7 +3805,7 @@
     "comments": 1,
     "created_at": "2026-11-10T08:18:37Z",
     "updated_at": "2026-11-16T03:49:51Z",
-    "scanned_at": "2026-11-24T07:01:02.968582+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943493+00:00",
     "status": "new"
   },
   {
@@ -3849,7 +3825,7 @@
     "comments": 1,
     "created_at": "2026-11-10T00:12:18Z",
     "updated_at": "2026-11-16T03:50:02Z",
-    "scanned_at": "2026-11-24T07:01:02.968600+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943508+00:00",
     "status": "new"
   },
   {
@@ -3874,7 +3850,7 @@
     "comments": 2,
     "created_at": "2026-11-09T22:10:04Z",
     "updated_at": "2026-11-10T19:05:08Z",
-    "scanned_at": "2026-11-24T07:01:02.968704+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943581+00:00",
     "status": "new"
   },
   {
@@ -3894,7 +3870,7 @@
     "comments": 1,
     "created_at": "2026-11-09T16:05:13Z",
     "updated_at": "2026-11-16T03:50:14Z",
-    "scanned_at": "2026-11-24T07:01:02.968722+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943596+00:00",
     "status": "new"
   },
   {
@@ -3914,7 +3890,7 @@
     "comments": 1,
     "created_at": "2026-11-09T16:01:30Z",
     "updated_at": "2026-11-16T03:51:46Z",
-    "scanned_at": "2026-11-24T07:01:02.968739+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943609+00:00",
     "status": "new"
   },
   {
@@ -3934,7 +3910,7 @@
     "comments": 1,
     "created_at": "2026-11-09T06:05:29Z",
     "updated_at": "2026-11-11T23:14:34Z",
-    "scanned_at": "2026-11-24T07:01:02.968765+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943629+00:00",
     "status": "new"
   },
   {
@@ -3954,7 +3930,7 @@
     "comments": 1,
     "created_at": "2026-11-08T23:38:39Z",
     "updated_at": "2026-11-16T03:51:56Z",
-    "scanned_at": "2026-11-24T07:01:02.968791+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943663+00:00",
     "status": "new"
   },
   {
@@ -3974,7 +3950,7 @@
     "comments": 2,
     "created_at": "2026-11-08T19:31:59Z",
     "updated_at": "2026-11-16T04:02:31Z",
-    "scanned_at": "2026-11-24T07:01:02.968816+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943684+00:00",
     "status": "new"
   },
   {
@@ -3994,7 +3970,7 @@
     "comments": 2,
     "created_at": "2026-11-08T15:01:13Z",
     "updated_at": "2026-11-16T04:03:06Z",
-    "scanned_at": "2026-11-24T07:01:02.968840+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943702+00:00",
     "status": "new"
   },
   {
@@ -4014,7 +3990,7 @@
     "comments": 1,
     "created_at": "2026-11-08T13:13:53Z",
     "updated_at": "2026-11-16T03:52:29Z",
-    "scanned_at": "2026-11-24T07:01:02.968868+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943719+00:00",
     "status": "new"
   },
   {
@@ -4034,7 +4010,7 @@
     "comments": 1,
     "created_at": "2026-11-08T07:12:04Z",
     "updated_at": "2026-11-16T03:54:36Z",
-    "scanned_at": "2026-11-24T07:01:02.968887+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943733+00:00",
     "status": "new"
   },
   {
@@ -4054,7 +4030,7 @@
     "comments": 1,
     "created_at": "2026-11-07T12:51:56Z",
     "updated_at": "2026-11-16T03:57:41Z",
-    "scanned_at": "2026-11-24T07:01:02.968908+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943750+00:00",
     "status": "new"
   },
   {
@@ -4074,7 +4050,7 @@
     "comments": 1,
     "created_at": "2026-11-03T06:35:05Z",
     "updated_at": "2026-11-16T03:59:16Z",
-    "scanned_at": "2026-11-24T07:01:02.968926+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943763+00:00",
     "status": "new"
   },
   {
@@ -4094,7 +4070,7 @@
     "comments": 1,
     "created_at": "2026-11-02T23:25:57Z",
     "updated_at": "2026-11-16T03:59:28Z",
-    "scanned_at": "2026-11-24T07:01:02.968943+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943776+00:00",
     "status": "new"
   },
   {
@@ -4114,7 +4090,7 @@
     "comments": 1,
     "created_at": "2026-11-02T15:36:17Z",
     "updated_at": "2026-11-02T15:40:14Z",
-    "scanned_at": "2026-11-24T07:01:02.968961+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943789+00:00",
     "status": "new"
   },
   {
@@ -4134,7 +4110,7 @@
     "comments": 2,
     "created_at": "2026-11-02T05:51:16Z",
     "updated_at": "2026-11-02T05:54:26Z",
-    "scanned_at": "2026-11-24T07:01:02.968980+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943802+00:00",
     "status": "new"
   },
   {
@@ -4154,7 +4130,7 @@
     "comments": 2,
     "created_at": "2026-11-01T23:30:13Z",
     "updated_at": "2026-11-01T23:33:38Z",
-    "scanned_at": "2026-11-24T07:01:02.968998+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943815+00:00",
     "status": "new"
   },
   {
@@ -4174,7 +4150,7 @@
     "comments": 2,
     "created_at": "2026-11-01T19:32:21Z",
     "updated_at": "2026-11-01T19:34:47Z",
-    "scanned_at": "2026-11-24T07:01:02.969017+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943828+00:00",
     "status": "new"
   },
   {
@@ -4194,7 +4170,7 @@
     "comments": 1,
     "created_at": "2026-11-01T14:58:35Z",
     "updated_at": "2026-11-01T15:01:22Z",
-    "scanned_at": "2026-11-24T07:01:02.969035+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943841+00:00",
     "status": "new"
   },
   {
@@ -4214,7 +4190,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:13:27Z",
     "updated_at": "2026-10-31T12:15:50Z",
-    "scanned_at": "2026-11-24T07:01:02.969066+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943854+00:00",
     "status": "new"
   },
   {
@@ -4234,7 +4210,7 @@
     "comments": 1,
     "created_at": "2026-10-31T12:12:21Z",
     "updated_at": "2026-10-31T12:16:14Z",
-    "scanned_at": "2026-11-24T07:01:02.969083+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943866+00:00",
     "status": "new"
   },
   {
@@ -4254,11 +4230,11 @@
     "comments": 1,
     "created_at": "2026-10-27T12:01:01Z",
     "updated_at": "2026-11-08T23:17:53Z",
-    "scanned_at": "2026-11-24T07:01:02.969100+00:00",
+    "scanned_at": "2026-11-24T18:43:32.943878+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000156",
+    "id": "BH-000146",
     "title": "Bounty Board rewire to Quantum AI App + Tracker",
     "url": "https://github.com/solorion-dev/quantum/issues/288",
     "repo": "solorion-dev/quantum",
@@ -4278,11 +4254,11 @@
     "comments": 2,
     "created_at": "2026-10-21T10:12:07Z",
     "updated_at": "2026-11-14T07:00:46Z",
-    "scanned_at": "2026-11-24T07:00:56.464697+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455167+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000157",
+    "id": "BH-000147",
     "title": "Bug: vista deploy still breaks static hosts and platform adapters",
     "url": "https://github.com/Mantitup-Org/vista/issues/62",
     "repo": "Mantitup-Org/vista",
@@ -4298,11 +4274,11 @@
     "comments": 24,
     "created_at": "2026-09-20T18:51:07Z",
     "updated_at": "2026-11-14T19:43:49Z",
-    "scanned_at": "2026-11-24T07:00:56.464783+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455228+00:00",
     "status": "new"
   },
   {
-    "id": "BH-000158",
+    "id": "BH-000148",
     "title": "Bounty: hunt bugs across the entire Vista framework",
     "url": "https://github.com/Mantitup-Org/vista/issues/61",
     "repo": "Mantitup-Org/vista",
@@ -4317,7 +4293,7 @@
     "comments": 23,
     "created_at": "2026-09-20T18:51:05Z",
     "updated_at": "2026-11-10T20:24:16Z",
-    "scanned_at": "2026-11-24T07:00:56.464842+00:00",
+    "scanned_at": "2026-11-24T18:43:26.455270+00:00",
     "status": "new"
   }
 ]
