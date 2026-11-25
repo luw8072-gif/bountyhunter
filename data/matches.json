@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000009",
+    "id": "BH-000011",
     "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
     "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
     "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
@@ -15,13 +15,13 @@
     "comments": 0,
     "created_at": "2026-11-24T22:11:26Z",
     "updated_at": "2026-11-24T22:28:55Z",
-    "scanned_at": "2026-11-25T02:51:00.806219+00:00",
+    "scanned_at": "2026-11-25T11:52:58.579718+00:00",
     "status": "new",
     "_score": 38.6,
     "tier": "B"
   },
   {
-    "id": "BH-000008",
+    "id": "BH-000010",
     "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
     "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
     "repo": "IES-BoilerRoom/zk-plonk-transcript-verifier",
@@ -36,13 +36,13 @@
     "comments": 0,
     "created_at": "2026-11-24T22:11:27Z",
     "updated_at": "2026-11-24T22:30:00Z",
-    "scanned_at": "2026-11-25T02:51:00.806214+00:00",
+    "scanned_at": "2026-11-25T11:52:58.579709+00:00",
     "status": "new",
     "_score": 38.6,
     "tier": "B"
   },
   {
-    "id": "BH-000010",
+    "id": "BH-000012",
     "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
     "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
     "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
@@ -57,13 +57,13 @@
     "comments": 0,
     "created_at": "2026-11-24T22:11:25Z",
     "updated_at": "2026-11-24T22:27:50Z",
-    "scanned_at": "2026-11-25T02:51:00.806224+00:00",
+    "scanned_at": "2026-11-25T11:52:58.579726+00:00",
     "status": "new",
     "_score": 38.6,
     "tier": "B"
   },
   {
-    "id": "BH-000046",
+    "id": "BH-000048",
     "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
     "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
     "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
@@ -78,13 +78,13 @@
     "comments": 1,
     "created_at": "2026-11-23T05:14:49Z",
     "updated_at": "2026-11-24T22:11:24Z",
-    "scanned_at": "2026-11-25T02:51:00.808407+00:00",
+    "scanned_at": "2026-11-25T11:52:58.583012+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000082",
+    "id": "BH-000084",
     "title": "[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)",
     "url": "https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1",
     "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -99,7 +99,7 @@
     "comments": 2,
     "created_at": "2026-11-22T04:12:48Z",
     "updated_at": "2026-11-24T22:11:21Z",
-    "scanned_at": "2026-11-25T02:51:00.809353+00:00",
+    "scanned_at": "2026-11-25T11:52:58.584490+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
@@ -120,13 +120,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:57Z",
-    "scanned_at": "2026-11-25T02:52:13.832127+00:00",
+    "scanned_at": "2026-11-25T11:54:12.594231+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000077",
+    "id": "BH-000079",
     "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -141,7 +141,7 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:54Z",
     "updated_at": "2026-11-22T14:20:06Z",
-    "scanned_at": "2026-11-25T02:51:00.809205+00:00",
+    "scanned_at": "2026-11-25T11:52:58.584261+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -162,13 +162,34 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:30Z",
     "updated_at": "2026-11-20T15:45:54Z",
-    "scanned_at": "2026-11-25T02:52:13.832121+00:00",
+    "scanned_at": "2026-11-25T11:54:12.594222+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000125",
+    "title": "[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4372,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 200,
+    "state": "open",
+    "comments": 3,
+    "created_at": "2026-11-19T08:41:48Z",
+    "updated_at": "2026-11-19T15:26:31Z",
+    "scanned_at": "2026-11-25T11:54:12.595370+00:00",
+    "status": "new",
+    "_score": 33.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000005",
     "title": "[Bounty] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4399",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -183,7 +204,7 @@
     "comments": 2,
     "created_at": "2026-11-24T23:39:12Z",
     "updated_at": "2026-11-24T23:53:45Z",
-    "scanned_at": "2026-11-25T02:51:00.806096+00:00",
+    "scanned_at": "2026-11-25T11:52:58.579543+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -204,7 +225,28 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:28Z",
     "updated_at": "2026-11-20T15:45:58Z",
-    "scanned_at": "2026-11-25T02:52:13.832138+00:00",
+    "scanned_at": "2026-11-25T11:54:12.594248+00:00",
+    "status": "new",
+    "_score": 33.0,
+    "tier": "B"
+  },
+  {
+    "id": "BH-000126",
+    "title": "[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371",
+    "repo": "zhangjiayang6835-cyber/bounty-plaza",
+    "number": 4371,
+    "labels": [
+      "bounty",
+      "real"
+    ],
+    "language": "unknown",
+    "amount_usd": 175,
+    "state": "open",
+    "comments": 2,
+    "created_at": "2026-11-19T08:41:47Z",
+    "updated_at": "2026-11-19T15:26:32Z",
+    "scanned_at": "2026-11-25T11:54:12.595379+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -225,13 +267,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:55Z",
-    "scanned_at": "2026-11-25T02:52:13.832132+00:00",
+    "scanned_at": "2026-11-25T11:54:12.594240+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000076",
+    "id": "BH-000078",
     "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -246,7 +288,7 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:55Z",
     "updated_at": "2026-11-22T14:53:48Z",
-    "scanned_at": "2026-11-25T02:51:00.809199+00:00",
+    "scanned_at": "2026-11-25T11:52:58.584253+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
