@@ -1,6 +1,6 @@
 [
   {
-    "id": "BH-000004",
+    "id": "BH-000005",
     "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
     "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
     "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
@@ -15,13 +15,13 @@
     "comments": 0,
     "created_at": "2026-11-26T09:13:04Z",
     "updated_at": "2026-11-26T10:52:02Z",
-    "scanned_at": "2026-11-26T12:56:34.983951+00:00",
+    "scanned_at": "2026-11-26T22:03:21.093192+00:00",
     "status": "new",
     "_score": 38.6,
     "tier": "B"
   },
   {
-    "id": "BH-000003",
+    "id": "BH-000004",
     "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
     "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
     "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
@@ -36,13 +36,13 @@
     "comments": 0,
     "created_at": "2026-11-26T09:13:05Z",
     "updated_at": "2026-11-26T10:35:40Z",
-    "scanned_at": "2026-11-26T12:56:34.983942+00:00",
+    "scanned_at": "2026-11-26T22:03:21.093186+00:00",
     "status": "new",
     "_score": 38.6,
     "tier": "B"
   },
   {
-    "id": "BH-000002",
+    "id": "BH-000003",
     "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
     "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
     "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
@@ -57,13 +57,13 @@
     "comments": 2,
     "created_at": "2026-11-26T09:13:07Z",
     "updated_at": "2026-11-26T10:12:06Z",
-    "scanned_at": "2026-11-26T12:56:34.983932+00:00",
+    "scanned_at": "2026-11-26T22:03:21.093179+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000001",
+    "id": "BH-000002",
     "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
     "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
     "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
@@ -78,13 +78,13 @@
     "comments": 2,
     "created_at": "2026-11-26T09:13:08Z",
     "updated_at": "2026-11-26T09:22:57Z",
-    "scanned_at": "2026-11-26T12:56:34.983903+00:00",
+    "scanned_at": "2026-11-26T22:03:21.093170+00:00",
     "status": "new",
     "_score": 36.6,
     "tier": "B"
   },
   {
-    "id": "BH-000029",
+    "id": "BH-000028",
     "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
     "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
     "repo": "IES-BoilerRoom/zk-plonk-transcript-verifier",
@@ -96,12 +96,12 @@
     "language": "unknown",
     "amount_usd": 175,
     "state": "open",
-    "comments": 2,
+    "comments": 8,
     "created_at": "2026-11-24T22:11:27Z",
-    "updated_at": "2026-11-26T09:13:02Z",
-    "scanned_at": "2026-11-26T12:56:34.985914+00:00",
+    "updated_at": "2026-11-26T21:25:48Z",
+    "scanned_at": "2026-11-26T22:03:21.094604+00:00",
     "status": "new",
-    "_score": 36.6,
+    "_score": 33.6,
     "tier": "B"
   },
   {
@@ -120,13 +120,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:57Z",
-    "scanned_at": "2026-11-26T12:57:50.614677+00:00",
+    "scanned_at": "2026-11-26T22:04:33.753010+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000087",
+    "id": "BH-000086",
     "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -141,7 +141,7 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:54Z",
     "updated_at": "2026-11-22T14:20:06Z",
-    "scanned_at": "2026-11-26T12:56:34.988742+00:00",
+    "scanned_at": "2026-11-26T22:03:21.096918+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -162,13 +162,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:30Z",
     "updated_at": "2026-11-20T15:45:54Z",
-    "scanned_at": "2026-11-26T12:57:50.614669+00:00",
+    "scanned_at": "2026-11-26T22:04:33.753003+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000024",
+    "id": "BH-000023",
     "title": "[Bounty] ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift ",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4399",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -183,7 +183,7 @@
     "comments": 2,
     "created_at": "2026-11-24T23:39:12Z",
     "updated_at": "2026-11-25T14:25:02Z",
-    "scanned_at": "2026-11-26T12:56:34.985782+00:00",
+    "scanned_at": "2026-11-26T22:03:21.094500+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -204,7 +204,7 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:28Z",
     "updated_at": "2026-11-20T15:45:58Z",
-    "scanned_at": "2026-11-26T12:57:50.614692+00:00",
+    "scanned_at": "2026-11-26T22:04:33.753021+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
@@ -225,13 +225,13 @@
     "comments": 1,
     "created_at": "2026-11-20T15:40:29Z",
     "updated_at": "2026-11-20T15:45:55Z",
-    "scanned_at": "2026-11-26T12:57:50.614684+00:00",
+    "scanned_at": "2026-11-26T22:04:33.753016+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000086",
+    "id": "BH-000085",
     "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -246,13 +246,13 @@
     "comments": 3,
     "created_at": "2026-11-22T11:46:55Z",
     "updated_at": "2026-11-22T14:53:48Z",
-    "scanned_at": "2026-11-26T12:56:34.988736+00:00",
+    "scanned_at": "2026-11-26T22:03:21.096913+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
   },
   {
-    "id": "BH-000020",
+    "id": "BH-000019",
     "title": "[Bounty] Bounty program: community detection/DLP rules with corpus fixtures",
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400",
     "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -267,7 +267,7 @@
     "comments": 1,
     "created_at": "2026-11-25T16:08:24Z",
     "updated_at": "2026-11-25T18:39:30Z",
-    "scanned_at": "2026-11-26T12:56:34.985425+00:00",
+    "scanned_at": "2026-11-26T22:03:21.094202+00:00",
     "status": "new",
     "_score": 33.0,
     "tier": "B"
